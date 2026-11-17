@@ -1,36 +1,47 @@
-ZightScout Personal & Non-Commercial License
+# ZightScout Personal & Non-Commercial License
+
 Copyright (c) 2026 Márcio Amaro. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use,
-copy, modify, merge, and study the Software for PERSONAL, NON-COMMERCIAL, AND
-EDUCATIONAL PURPOSES ONLY, subject to the following conditions:
+This license governs the use, copying, modification, and distribution of the ZightScout software ("Software").
 
-1. NON-COMMERCIAL USE ONLY:
-   You may NOT sell, rent, lease, sublicense, monetize, or charge any fee
-   (directly or indirectly) for the Software, any portion thereof, or any
-   derivative works based upon the Software.
+## 1. PERMITTED USE
 
-2. APP STORE RESTRICTIONS:
-   You may NOT publish, distribute, or submit the Software or any modified or
-   derivative version of it to any commercial app store, distribution platform,
-   or marketplace (including, but not limited to, the Zepp App Store, Amazfit
-   App Store, Google Play Store, or Apple App Store), whether paid or free,
-   without prior explicit written permission from the original copyright holder.
+Permission is granted to use, copy, modify, merge, and study the Software exclusively for personal, non-commercial, and educational purposes.
 
-3. PRESERVATION OF NOTICES:
-   The above copyright notice, author attribution, and this permission notice
-   shall be included in all copies or substantial portions of the Software.
+The Software, its components, and derivative works may not be sold, rented, sublicensed, monetized, or commercially exploited, directly or indirectly, by any third party, without prior written authorization from the original copyright holder.
 
-4. DISCLAIMER OF WARRANTY & MEDICAL NOTICE:
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
-   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
-   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
-   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-   IN THE SOFTWARE.
+**Exception for the Original Author:** The original author and copyright holder, Márcio Amaro, is expressly permitted to receive voluntary donations and financial contributions to support the development, maintenance, and improvement of ZightScout, as described in Section 5 of this license.
 
-   THIS APPLICATION IS A CGM DATA MONITOR AND DISPLAY TOOL ONLY. IT DOES NOT
-   PROVIDE MEDICAL ADVICE, DIAGNOSIS, OR THERAPEUTIC RECOMMENDATIONS. DO NOT
-   RELY ON THIS APPLICATION FOR CRITICAL MEDICAL DECISIONS.
+## 2. DISTRIBUTION AND PUBLICATION RESTRICTIONS
+
+Publishing, distributing, or submitting the Software or derivative works to commercial software stores or platforms, including but not limited to Zepp App Store, Amazfit App Store, Google Play, and Apple App Store, is prohibited without explicit prior written authorization from the original copyright holder, even when such distribution is free of charge.
+
+## 3. COPYRIGHT AND ATTRIBUTION
+
+All copies or substantial portions of the Software must retain the original copyright notice, this license, and the appropriate attribution to the original author.
+
+Modifications and derivative works must clearly acknowledge the original project and its author.
+
+## 4. DISCLAIMER OF WARRANTY AND LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+**Medical Disclaimer:** ZightScout is intended solely as a tool for displaying glucose data obtained through Nightscout. It is not a medical device and does not provide medical advice, diagnosis, or treatment recommendations. It must not be used as the sole basis for medical decisions or critical treatment decisions. Users remain responsible for confirming glucose readings and following the guidance of their healthcare professionals.
+
+## 5. VOLUNTARY DONATIONS AND DEVELOPER SUPPORT
+
+The original author and copyright holder, Márcio Amaro, is expressly permitted to receive voluntary donations, financial contributions, and support through platforms such as Buy Me a Coffee, Patreon, or similar services, for the purpose of supporting the development, maintenance, and improvement of ZightScout.
+
+Such donations and contributions are entirely voluntary and shall not be considered payment for the Software, commercial exploitation, or monetization of the Software.
+
+Donations do not grant contributors or supporters any additional rights, privileges, features, or preferential access to the Software.
+
+ZightScout must remain free of charge for all users. No donation, contribution, subscription, or payment may be required to download, install, access, or use the Software or any of its features.
+
+This permission applies exclusively to the original author and copyright holder and does not grant third parties the right to monetize, sell, or commercially exploit the Software or derivative works.
+
+---
+
+**By using, copying, or modifying this Software, you acknowledge that you have read and agree to the terms of this license.**
