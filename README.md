@@ -1,312 +1,3 @@
-<a name="português"></a>
-
-<div align="center">
-
-<img src="screenshots/icon.png" width="120" alt="ZightScout Logo" />
-
-# 💉 ZightScout
-
-### Monitor de Glicemia CGM para smartwatches Amazfit & Zepp OS
-
-**Seus dados de glicose sempre no pulso — rápidos, inteligentes e acessíveis.**
-
-[![Versão](https://img.shields.io/badge/versão-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
-[![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
-[![Licença](https://img.shields.io/badge/licença-GPL--3.0-orange?style=for-the-badge)](LICENSE)
-[![Famílias](https://img.shields.io/badge/fam%C3%ADlias-8%20Amazfit-purple?style=for-the-badge)](#smartwatches-suportados-pt)
-[![Idiomas](https://img.shields.io/badge/idiomas-34-red?style=for-the-badge)](#idiomas-suportados-pt)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
-[![Contato](https://img.shields.io/badge/Contato-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
-
----
-
-🇧🇷 **Português** | [🇺🇸 English](#english) | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
-
----
-
-</div>
-
-## ❤️ Bem-vindo ao ZightScout!
-
-Viver com diabetes e precisar acompanhar a glicemia o dia inteiro é desafiador. O **ZightScout** nasceu exatamente para tornar isso mais simples: ele conecta seu relógio Amazfit diretamente ao seu servidor **Nightscout**, exibindo sua glicemia em tempo real, alertando quando ela sai dos limites e monitorando em segundo plano — mesmo com a tela apagada.
-
-Você não precisa tirar o celular do bolso. Basta olhar para o pulso. 💚
-
----
-
-## 📸 Telas no seu relógio
-
-### Tela Principal
-
-| mg/dL | mmol/L |
-|:---:|:---:|
-| ![Tela Principal mg/dL](screenshots/pt/01_main_mgdl.png) | ![Tela Principal mmol/L](screenshots/pt/01_main_mmol.png) |
-| Glicemia em mg/dL com seta de tendência | Glicemia em mmol/L com delta |
-
-### Configurações
-
-| Intervalos e Metas | Alertas e Vibração | Servidor e Token |
-|:---:|:---:|:---:|
-| ![Configurações - Intervalos](screenshots/pt/02_settings_ranges.png) | ![Configurações - Alertas](screenshots/pt/03_settings_alerts.png) | ![Configurações - Servidor](screenshots/pt/04_settings_server.png) |
-| Define seus limites de glicemia | Configura alertas e vibração | Conecta ao seu Nightscout |
-
----
-
-## ✨ O que torna o ZightScout especial?
-
-### 🩸 Leitura de glicose em tempo real
-Seu valor de glicemia atualizado direto no relógio, em **mg/dL** ou **mmol/L**, com seta de tendência (⇈ ↑ ↗ → ↘ ↓ ⇊ ⇕ -) e delta desde a última leitura. Nunca mais você deixará de saber para onde sua glicemia está indo.
-
-### 🔔 Alertas inteligentes com vibração
-Receba alertas no pulso quando a glicemia sair dos seus limites personalizados:
-- **⚠️ Alerta de aviso** — glicemia abaixo ou acima dos limites configurados
-- **🚨 Alerta crítico** — hipoglicemia severa ou hiperglicemia grave, com vibração intensa e repetição automática
-- **😴 Soneca de alerta** — pause os alertas por 15, 30 ou 60 minutos quando necessário
-
-### 🌙 Monitoramento em segundo plano
-O ZightScout continua funcionando mesmo com a tela apagada. Configure intervalos de coleta de **5, 10, 30 ou 60 minutos** e durma tranquilo — o relógio vai te acordar se precisar.
-
-### 📊 Histórico visual de glicemia
-Um gráfico das últimas **12 horas** de leituras diretamente na tela, com escala fixa de 40–250 mg/dL para fácil comparação visual.
-
-### 🔒 Segurança desde o início
-O token de autenticação do Nightscout **nunca é armazenado no relógio**. Ele fica protegido no seu telefone, dentro do aplicativo Zepp. A URL do servidor é validada em tempo real com HTTPS obrigatório.
-
-### 🌍 34 idiomas nativos
-O ZightScout fala a sua língua! Suporte nativo a **34 idiomas** incluindo Árabe, Hebraico (com layout RTL), Tailandês, Hindi, e muito mais.
-
-### 📱 8 famílias de smartwatches Amazfit
-Compatível com 8 famílias completas de smartwatches Amazfit com Zepp OS 3.0+ e todas as suas variantes.
-
----
-
-## 🚀 Instalação rápida (via QR Code)
-
-A forma mais rápida de instalar o ZightScout no seu relógio:
-
-```bash
-# 1. Instale o Zeus CLI (ferramenta oficial Zepp OS)
-npm install -g @zeppos/zeus-cli
-
-# 2. Faça login com sua conta Zepp
-zeus login
-
-# 3. Clone o repositório
-git clone https://github.com/marcioamaro/ZightScout.git
-cd ZightScout
-
-# 4. Instale as dependências
-npm install
-
-# 5. Gere o QR Code de instalação
-zeus preview
-```
-
-No aplicativo **Zepp** no celular:
-1. Abra o app Zepp → **Perfil → Configurações → Sobre**
-2. Toque no ícone Zepp **7 vezes** para ativar o Modo Desenvolvedor
-3. Vá em **Perfil → Seu dispositivo → Modo Desenvolvedor**
-4. Toque em **Escanear** e aponte a câmera para o QR Code no terminal
-5. ✅ Pronto! O ZightScout será instalado automaticamente no seu relógio
-
----
-
-## 🔧 Compilar e instalar manualmente (passo a passo)
-
-### Pré-requisitos
-
-| Ferramenta | Versão mínima | Para que serve |
-|---|---|---|
-| [Node.js](https://nodejs.org/) | 18+ | Executar scripts e ferramentas |
-| [Zeus CLI](https://docs.zepp.com/docs/watchface/guides/zeus-cli/) | Mais recente | Compilar e instalar no relógio |
-| Conta Zepp | — | Login para usar o Zeus CLI |
-| Aplicativo Zepp | Mais recente | Instalar no relógio via QR ou bridge |
-
-### Passo 1 — Clone o repositório
-
-```bash
-git clone https://github.com/marcioamaro/ZightScout.git
-cd ZightScout
-```
-
-### Passo 2 — Instale as dependências
-
-```bash
-npm install
-```
-
-### Passo 3 — Faça login no Zeus CLI
-
-```bash
-zeus login
-```
-> Use a mesma conta do aplicativo Zepp no seu celular.
-
-### Passo 4 — Compile o projeto
-
-```bash
-# Build de desenvolvimento
-zeus build
-
-# Build de produção (otimizado)
-zeus build --production
-```
-
-O arquivo compilado (`.zab`) será gerado na pasta `dist/`.
-
-### Passo 5 — Instale no relógio
-
-**Opção A: Via QR Code (mais fácil)**
-```bash
-zeus preview
-```
-Escaneie o QR Code com o aplicativo Zepp.
-
-**Opção B: Via bridge (recomendado para desenvolvedores)**
-```bash
-# Terminal — inicie o bridge
-zeus bridge
-
-# No prompt do bridge, envie:
-connect
-install -t "Amazfit Active 2 (Round)"
-```
-
-> Substitua `"Amazfit Active 2 (Round)"` pelo nome do seu dispositivo se for diferente.
-
----
-
-## ⚙️ Configuração inicial no relógio
-
-Após instalar, o ZightScout vai guiar você pela configuração:
-
-1. **Abra o app** no relógio — aparecerá um aviso de configuração inicial
-2. Vá para a aba **Servidor** e insira:
-   - **URL do Nightscout**: `https://seu-site.nightscout.io` (obrigatório usar HTTPS)
-   - **Token de acesso**: seu token Nightscout com permissão de leitura
-3. Toque em **Testar Conexão** — você verá `URL 200 OK | TOKEN OK` se estiver tudo certo
-4. Configure seus **limites de glicemia** na aba **Intervalos**
-5. Ajuste os **alertas e vibração** na aba **Alertas**
-6. Defina o **intervalo de monitoramento** em segundo plano (5, 10, 30 ou 60 min)
-7. ✅ Tudo configurado! O ZightScout começa a monitorar imediatamente
-
----
-
-## 📋 Funcionalidades completas
-
-### Tela principal
-- ✅ Glicemia atual em tamanho grande (mg/dL ou mmol/L)
-- ✅ Seta de tendência com 9 direções (⇈ ↑ ↗ → ↘ ↓ ⇊ ⇕ -)
-- ✅ Delta desde a última leitura (ex: +3, -8)
-- ✅ Tempo desde a última atualização (ex: "2 min atrás")
-- ✅ Indicador de status da conexão Bluetooth e HTTP
-- ✅ Botão de atualização manual
-- ✅ Versão do app exibida discretamente
-
-### Monitoramento em segundo plano
-- ✅ Coleta automática a cada 5, 10, 30 ou 60 minutos
-- ✅ Funciona com a tela apagada e relógio bloqueado
-- ✅ Autorização nativa da permissão de segundo plano pelo Zepp OS
-- ✅ Reinício automático do serviço após reboot do relógio
-- ✅ Log de diagnóstico para rastreamento de problemas
-
-### Sistema de alertas
-- ✅ Alerta de aviso (vibração leve) para limites configuráveis
-- ✅ Alerta crítico (vibração intensa, repetição até 3x) para hipoglicemia grave
-- ✅ Sons de notificação nativos do sistema
-- ✅ Deduplicação — não repete o mesmo alerta duas vezes para a mesma leitura
-- ✅ Soneca de 15, 30 ou 60 minutos
-- ✅ Cancelamento de soneca com um toque na tela principal
-- ✅ Fila persistente de alertas — nunca perde alertas críticos
-
-### Configurações
-- ✅ Limites configuráveis: veryLow, low, high, veryHigh
-- ✅ Suporte a mg/dL e mmol/L com conversão automática
-- ✅ Validação em tempo real da URL e do token Nightscout
-- ✅ Indicador visual do nível de permissão do token (somente leitura ✅ ou admin ❗)
-- ✅ Toasts animados de feedback nas ações (sincronizando, conectando, sucesso, erro)
-
----
-
-<a name="smartwatches-suportados-pt"></a>
-## 📱 Smartwatches suportados
-
-O ZightScout é compatível com **8 famílias de smartwatches Amazfit** e suas respectivas variantes:
-
-- **Amazfit Active** (e variantes)
-- **Amazfit Balance** (e variantes)
-- **Amazfit Cheetah** (e variantes)
-- **Amazfit Falcon** (e variantes)
-- **Amazfit GTR** (e variantes)
-- **Amazfit GTS** (e variantes)
-- **Amazfit T-Rex** (e variantes)
-- **Amazfit Bip** (e variantes)
-
-> Suporta as versões com Zepp OS 3.0+ e tela de alta resolução. Modelos com resolução reduzida (< 390×400 px) não são suportados para preservar a clareza e legibilidade dos dados.
-
----
-
-<a name="idiomas-suportados-pt"></a>
-## 🌍 Idiomas suportados
-
-O ZightScout é totalmente traduzido em **34 idiomas**:
-
-🇧🇷 Português (BR) · 🇵🇹 Português (PT) · 🇺🇸 English · 🇪🇸 Español · 🇫🇷 Français · 🇩🇪 Deutsch · 🇮🇹 Italiano · 🇯🇵 日本語 · 🇨🇳 中文(简) · 🇹🇼 中文(繁) · 🇰🇷 한국어 · 🇷🇺 Русский · 🇸🇦 العربية · 🇮🇳 हिन्दी · 🇹🇭 ภาษาไทย · 🇻🇳 Tiếng Việt · 🇵🇱 Polski · 🇳🇱 Nederlands · 🇸🇪 Svenska · 🇩🇰 Dansk · 🇫🇮 Suomi · 🇳🇴 Norsk · 🇨🇿 Čeština · 🇸🇰 Slovenčina · 🇭🇺 Magyar · 🇷🇴 Română · 🇭🇷 Srpski · 🇬🇷 Ελληνικά · 🇹🇷 Türkçe · 🇺🇦 Українська · 🇮🇩 Bahasa Indonesia · 🇲🇾 Bahasa Melayu · 🇮🇱 עברית · 🇮🇱 عربي (RTL)
-
----
-
-## 🏗️ Arquitetura do sistema
-
-```
-Servidor Nightscout (HTTPS)
-         ▲
-         │  fetch()
-App-Side Service (no Zepp App do celular)
-         ▲
-         │  BLE (Bluetooth Low Energy)
-App Service (segundo plano no relógio)
-         │
-         ▼
-Tela principal do relógio (Amazfit Active 2, etc.)
-```
-
-**Três partes integradas:**
-- **Relógio**: exibe a glicemia, dispara alertas, agenda coletas por alarme
-- **Celular (App-Side)**: acessa o Nightscout via HTTPS, guarda o token com segurança
-- **Nightscout**: seu servidor pessoal com os dados do sensor CGM
-
----
-
-## 🔐 Privacidade e segurança
-
-- 🔒 O token Nightscout é armazenado **apenas no celular**, nunca no relógio
-- 🔒 URLs sem HTTPS são rejeitadas automaticamente
-- 🔒 Token nunca aparece em logs ou diagnósticos
-- 🔒 Recomendamos usar um token com permissão **somente leitura** (`readable`)
-- ⚠️ Este aplicativo é um **monitor de dados CGM**. Não substitui orientação médica.
-
----
-
-## 📄 Licença
-
-Este projeto é distribuído sob a licença **GPL-3.0**.  
-Isso significa que você pode usar, modificar e distribuir livremente — mas qualquer versão derivada também deve ser open-source sob a mesma licença.
-
-Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<div align="center">
-
-Feito com ❤️ por diabéticos, para diabéticos.  
-**ZightScout** — porque cada leitura importa.
-
-[⭐ Dê uma estrela no GitHub](https://github.com/marcioamaro/ZightScout) · [🐛 Reportar um bug](https://github.com/marcioamaro/ZightScout/issues) · [💡 Sugerir uma ideia](https://github.com/marcioamaro/ZightScout/issues)
-
-</div>
-
----
-
 <a name="english"></a>
 
 <div align="center">
@@ -329,7 +20,7 @@ Feito com ❤️ por diabéticos, para diabéticos.
 
 ---
 
-[🇧🇷 Português](#português) | 🇺🇸 **English** | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
+🇺🇸 **English** | [🇧🇷 Português](#português) | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
 
 ---
 
@@ -616,6 +307,315 @@ Made with ❤️ by diabetics, for diabetics.
 
 ---
 
+<a name="português"></a>
+
+<div align="center">
+
+<img src="screenshots/icon.png" width="120" alt="ZightScout Logo" />
+
+# 💉 ZightScout
+
+### Monitor de Glicemia CGM para smartwatches Amazfit & Zepp OS
+
+**Seus dados de glicose sempre no pulso — rápidos, inteligentes e acessíveis.**
+
+[![Versão](https://img.shields.io/badge/versão-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
+[![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
+[![Licença](https://img.shields.io/badge/licença-GPL--3.0-orange?style=for-the-badge)](LICENSE)
+[![Famílias](https://img.shields.io/badge/fam%C3%ADlias-8%20Amazfit-purple?style=for-the-badge)](#smartwatches-suportados-pt)
+[![Idiomas](https://img.shields.io/badge/idiomas-34-red?style=for-the-badge)](#idiomas-suportados-pt)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
+[![Contato](https://img.shields.io/badge/Contato-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
+
+---
+
+[🇺🇸 English](#english) | 🇧🇷 **Português** | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
+
+---
+
+</div>
+
+## ❤️ Bem-vindo ao ZightScout!
+
+Viver com diabetes e precisar acompanhar a glicemia o dia inteiro é desafiador. O **ZightScout** nasceu exatamente para tornar isso mais simples: ele conecta seu relógio Amazfit diretamente ao seu servidor **Nightscout**, exibindo sua glicemia em tempo real, alertando quando ela sai dos limites e monitorando em segundo plano — mesmo com a tela apagada.
+
+Você não precisa tirar o celular do bolso. Basta olhar para o pulso. 💚
+
+---
+
+## 📸 Telas no seu relógio
+
+### Tela Principal
+
+| mg/dL | mmol/L |
+|:---:|:---:|
+| ![Tela Principal mg/dL](screenshots/pt/01_main_mgdl.png) | ![Tela Principal mmol/L](screenshots/pt/01_main_mmol.png) |
+| Glicemia em mg/dL com seta de tendência | Glicemia em mmol/L com delta |
+
+### Configurações
+
+| Intervalos e Metas | Alertas e Vibração | Servidor e Token |
+|:---:|:---:|:---:|
+| ![Configurações - Intervalos](screenshots/pt/02_settings_ranges.png) | ![Configurações - Alertas](screenshots/pt/03_settings_alerts.png) | ![Configurações - Servidor](screenshots/pt/04_settings_server.png) |
+| Define seus limites de glicemia | Configura alertas e vibração | Conecta ao seu Nightscout |
+
+---
+
+## ✨ O que torna o ZightScout especial?
+
+### 🩸 Leitura de glicose em tempo real
+Seu valor de glicemia atualizado direto no relógio, em **mg/dL** ou **mmol/L**, com seta de tendência (⇈ ↑ ↗ → ↘ ↓ ⇊ ⇕ -) e delta desde a última leitura. Nunca mais você deixará de saber para onde sua glicemia está indo.
+
+### 🔔 Alertas inteligentes com vibração
+Receba alertas no pulso quando a glicemia sair dos seus limites personalizados:
+- **⚠️ Alerta de aviso** — glicemia abaixo ou acima dos limites configurados
+- **🚨 Alerta crítico** — hipoglicemia severa ou hiperglicemia grave, com vibração intensa e repetição automática
+- **😴 Soneca de alerta** — pause os alertas por 15, 30 ou 60 minutos quando necessário
+
+### 🌙 Monitoramento em segundo plano
+O ZightScout continua funcionando mesmo com a tela apagada. Configure intervalos de coleta de **5, 10, 30 ou 60 minutos** e durma tranquilo — o relógio vai te acordar se precisar.
+
+### 📊 Histórico visual de glicemia
+Um gráfico das últimas **12 horas** de leituras diretamente na tela, com escala fixa de 40–250 mg/dL para fácil comparação visual.
+
+### 🔒 Segurança desde o início
+O token de autenticação do Nightscout **nunca é armazenado no relógio**. Ele fica protegido no seu telefone, dentro do aplicativo Zepp. A URL do servidor é validada em tempo real com HTTPS obrigatório.
+
+### 🌍 34 idiomas nativos
+O ZightScout fala a sua língua! Suporte nativo a **34 idiomas** incluindo Árabe, Hebraico (com layout RTL), Tailandês, Hindi, e muito mais.
+
+### 📱 8 famílias de smartwatches Amazfit
+Compatível com 8 famílias completas de smartwatches Amazfit com Zepp OS 3.0+ e todas as suas variantes.
+
+---
+
+## 🚀 Instalação rápida (via QR Code)
+
+A forma mais rápida de instalar o ZightScout no seu relógio:
+
+```bash
+# 1. Instale o Zeus CLI (ferramenta oficial Zepp OS)
+npm install -g @zeppos/zeus-cli
+
+# 2. Faça login com sua conta Zepp
+zeus login
+
+# 3. Clone o repositório
+git clone https://github.com/marcioamaro/ZightScout.git
+cd ZightScout
+
+# 4. Instale as dependências
+npm install
+
+# 5. Gere o QR Code de instalação
+zeus preview
+```
+
+No aplicativo **Zepp** no celular:
+1. Abra o app Zepp → **Perfil → Configurações → Sobre**
+2. Toque no ícone Zepp **7 vezes** para ativar o Modo Desenvolvedor
+3. Vá em **Perfil → Seu dispositivo → Modo Desenvolvedor**
+4. Toque em **Escanear** e aponte a câmera para o QR Code no terminal
+5. ✅ Pronto! O ZightScout será instalado automaticamente no seu relógio
+
+---
+
+## 🔧 Compilar e instalar manualmente (passo a passo)
+
+### Pré-requisitos
+
+| Ferramenta | Versão mínima | Para que serve |
+|---|---|---|
+| [Node.js](https://nodejs.org/) | 18+ | Executar scripts e ferramentas |
+| [Zeus CLI](https://docs.zepp.com/docs/watchface/guides/zeus-cli/) | Mais recente | Compilar e instalar no relógio |
+| Conta Zepp | — | Login para usar o Zeus CLI |
+| Aplicativo Zepp | Mais recente | Instalar no relógio via QR ou bridge |
+
+### Passo 1 — Clone o repositório
+
+```bash
+git clone https://github.com/marcioamaro/ZightScout.git
+cd ZightScout
+```
+
+### Passo 2 — Instale as dependências
+
+```bash
+npm install
+```
+
+### Passo 3 — Faça login no Zeus CLI
+
+```bash
+zeus login
+```
+> Use a mesma conta do aplicativo Zepp no seu celular.
+
+### Passo 4 — Compile o projeto
+
+```bash
+# Build de desenvolvimento
+zeus build
+
+# Build de produção (otimizado)
+zeus build --production
+```
+
+O arquivo compilado (`.zab`) será gerado na pasta `dist/`.
+
+### Passo 5 — Instale no relógio
+
+**Opção A: Via QR Code (mais fácil)**
+```bash
+zeus preview
+```
+Escaneie o QR Code com o aplicativo Zepp.
+
+**Opção B: Via bridge (recomendado para desenvolvedores)**
+```bash
+# Terminal — inicie o bridge
+zeus bridge
+
+# No prompt do bridge, envie:
+connect
+install -t "Amazfit Active 2 (Round)"
+```
+
+> Substitua `"Amazfit Active 2 (Round)"` pelo nome do seu dispositivo se for diferente.
+
+---
+
+## ⚙️ Configuração inicial no relógio
+
+Após instalar, o ZightScout vai guiar você pela configuração:
+
+1. **Abra o app** no relógio — aparecerá um aviso de configuração inicial
+2. Vá para a aba **Servidor** e insira:
+   - **URL do Nightscout**: `https://seu-site.nightscout.io` (obrigatório usar HTTPS)
+   - **Token de acesso**: seu token Nightscout com permissão de leitura
+3. Toque em **Testar Conexão** — você verá `URL 200 OK | TOKEN OK` se estiver tudo certo
+4. Configure seus **limites de glicemia** na aba **Intervalos**
+5. Ajuste os **alertas e vibração** na aba **Alertas**
+6. Defina o **intervalo de monitoramento** em segundo plano (5, 10, 30 ou 60 min)
+7. ✅ Tudo configurado! O ZightScout começa a monitorar imediatamente
+
+---
+
+## 📋 Funcionalidades completas
+
+### Tela principal
+- ✅ Glicemia atual em tamanho grande (mg/dL ou mmol/L)
+- ✅ Seta de tendência com 9 direções (⇈ ↑ ↗ → ↘ ↓ ⇊ ⇕ -)
+- ✅ Delta desde a última leitura (ex: +3, -8)
+- ✅ Tempo desde a última atualização (ex: "2 min atrás")
+- ✅ Indicador de status da conexão Bluetooth e HTTP
+- ✅ Botão de atualização manual
+- ✅ Versão do app exibida discretamente
+
+### Monitoramento em segundo plano
+- ✅ Coleta automática a cada 5, 10, 30 ou 60 minutos
+- ✅ Funciona com a tela apagada e relógio bloqueado
+- ✅ Autorização nativa da permissão de segundo plano pelo Zepp OS
+- ✅ Reinício automático do serviço após reboot do relógio
+- ✅ Log de diagnóstico para rastreamento de problemas
+
+### Sistema de alertas
+- ✅ Alerta de aviso (vibração leve) para limites configuráveis
+- ✅ Alerta crítico (vibração intensa, repetição até 3x) para hipoglicemia grave
+- ✅ Sons de notificação nativos do sistema
+- ✅ Deduplicação — não repete o mesmo alerta duas vezes para a mesma leitura
+- ✅ Soneca de 15, 30 ou 60 minutos
+- ✅ Cancelamento de soneca com um toque na tela principal
+- ✅ Fila persistente de alertas — nunca perde alertas críticos
+
+### Configurações
+- ✅ Limites configuráveis: veryLow, low, high, veryHigh
+- ✅ Suporte a mg/dL e mmol/L com conversão automática
+- ✅ Validação em tempo real da URL e do token Nightscout
+- ✅ Indicador visual do nível de permissão do token (somente leitura ✅ ou admin ❗)
+- ✅ Toasts animados de feedback nas ações (sincronizando, conectando, sucesso, erro)
+
+---
+
+<a name="smartwatches-suportados-pt"></a>
+## 📱 Smartwatches suportados
+
+O ZightScout é compatível com **8 famílias de smartwatches Amazfit** e suas respectivas variantes:
+
+- **Amazfit Active** (e variantes)
+- **Amazfit Balance** (e variantes)
+- **Amazfit Cheetah** (e variantes)
+- **Amazfit Falcon** (e variantes)
+- **Amazfit GTR** (e variantes)
+- **Amazfit GTS** (e variantes)
+- **Amazfit T-Rex** (e variantes)
+- **Amazfit Bip** (e variantes)
+
+> Suporta as versões com Zepp OS 3.0+ e tela de alta resolução. Modelos com resolução reduzida (< 390×400 px) não são suportados para preservar a clareza e legibilidade dos dados.
+
+---
+
+<a name="idiomas-suportados-pt"></a>
+## 🌍 Idiomas suportados
+
+O ZightScout é totalmente traduzido em **34 idiomas**:
+
+🇧🇷 Português (BR) · 🇵🇹 Português (PT) · 🇺🇸 English · 🇪🇸 Español · 🇫🇷 Français · 🇩🇪 Deutsch · 🇮🇹 Italiano · 🇯🇵 日本語 · 🇨🇳 中文(简) · 🇹🇼 中文(繁) · 🇰🇷 한국어 · 🇷🇺 Русский · 🇸🇦 العربية · 🇮🇳 हिन्दी · 🇹🇭 ภาษาไทย · 🇻🇳 Tiếng Việt · 🇵🇱 Polski · 🇳🇱 Nederlands · 🇸🇪 Svenska · 🇩🇰 Dansk · 🇫🇮 Suomi · 🇳🇴 Norsk · 🇨🇿 Čeština · 🇸🇰 Slovenčina · 🇭🇺 Magyar · 🇷🇴 Română · 🇭🇷 Srpski · 🇬🇷 Ελληνικά · 🇹🇷 Türkçe · 🇺🇦 Українська · 🇮🇩 Bahasa Indonesia · 🇲🇾 Bahasa Melayu · 🇮🇱 עברית · 🇮🇱 عربي (RTL)
+
+---
+
+## 🏗️ Arquitetura do sistema
+
+```
+Servidor Nightscout (HTTPS)
+         ▲
+         │  fetch()
+App-Side Service (no Zepp App do celular)
+         ▲
+         │  BLE (Bluetooth Low Energy)
+App Service (segundo plano no relógio)
+         │
+         ▼
+Tela principal do relógio (Amazfit Active 2, etc.)
+```
+
+**Três partes integradas:**
+- **Relógio**: exibe a glicemia, dispara alertas, agenda coletas por alarme
+- **Celular (App-Side)**: acessa o Nightscout via HTTPS, guarda o token com segurança
+- **Nightscout**: seu servidor pessoal com os dados do sensor CGM
+
+---
+
+## 🔐 Privacidade e segurança
+
+- 🔒 O token Nightscout é armazenado **apenas no celular**, nunca no relógio
+- 🔒 URLs sem HTTPS são rejeitadas automaticamente
+- 🔒 Token nunca aparece em logs ou diagnósticos
+- 🔒 Recomendamos usar um token com permissão **somente leitura** (`readable`)
+- ⚠️ Este aplicativo é um **monitor de dados CGM**. Não substitui orientação médica.
+
+---
+
+## 📄 Licença
+
+Este projeto é distribuído sob a licença **GPL-3.0**.  
+Isso significa que você pode usar, modificar e distribuir livremente — mas qualquer versão derivada também deve ser open-source sob a mesma licença.
+
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<div align="center">
+
+Feito com ❤️ por diabéticos, para diabéticos.  
+**ZightScout** — porque cada leitura importa.
+
+[⭐ Dê uma estrela no GitHub](https://github.com/marcioamaro/ZightScout) · [🐛 Reportar um bug](https://github.com/marcioamaro/ZightScout/issues) · [💡 Sugerir uma ideia](https://github.com/marcioamaro/ZightScout/issues)
+
+</div>
+
+---
+
 <a name="español"></a>
 
 <div align="center">
@@ -638,7 +638,7 @@ Made with ❤️ by diabetics, for diabetics.
 
 ---
 
-[🇧🇷 Português](#português) | [🇺🇸 English](#english) | 🇪🇸 **Español** | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
+[🇺🇸 English](#english) | [🇧🇷 Português](#português) | 🇪🇸 **Español** | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
 
 ---
 
@@ -826,7 +826,7 @@ Hecho con ❤️ por personas con diabetes, para personas con diabetes.
 
 ---
 
-[🇧🇷 Português](#português) | [🇺🇸 English](#english) | [🇪🇸 Español](#español) | 🇫🇷 **Français** | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
+[🇺🇸 English](#english) | [🇧🇷 Português](#português) | [🇪🇸 Español](#español) | 🇫🇷 **Français** | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
 
 ---
 
@@ -956,7 +956,7 @@ Créé avec ❤️ par des personnes diabétiques, pour des personnes diabétiqu
 
 ---
 
-[🇧🇷 Português](#português) | [🇺🇸 English](#english) | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | 🇩🇪 **Deutsch** | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
+[🇺🇸 English](#english) | [🇧🇷 Português](#português) | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | 🇩🇪 **Deutsch** | [🇨🇳 中文](#中文) | [🇯🇵 日本語](#日本語)
 
 ---
 
@@ -1086,7 +1086,7 @@ Mit ❤️ von Diabetikern für Diabetiker entwickelt.
 
 ---
 
-[🇧🇷 Português](#português) | [🇺🇸 English](#english) | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | 🇨🇳 **中文** | [🇯🇵 日本語](#日本語)
+[🇺🇸 English](#english) | [🇧🇷 Português](#português) | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | 🇨🇳 **中文** | [🇯🇵 日本語](#日本語)
 
 ---
 
@@ -1223,7 +1223,7 @@ zeus preview
 
 ---
 
-[🇧🇷 Português](#português) | [🇺🇸 English](#english) | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | 🇯🇵 **日本語**
+[🇺🇸 English](#english) | [🇧🇷 Português](#português) | [🇪🇸 Español](#español) | [🇫🇷 Français](#français) | [🇩🇪 Deutsch](#deutsch) | [🇨🇳 中文](#中文) | 🇯🇵 **日本語**
 
 ---
 
