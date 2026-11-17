@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "作者 Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "不支持的设备"
+
+msgid "unsupportedDeviceBody"
+msgstr "ZightScout Universal 需要 Zepp OS 3.0+ 以及 466px 或 390px 圆形或方形屏幕。"
+
+msgid "veryLow"
+msgstr "严重偏低"
+
+msgid "low"
+msgstr "偏低"
+
+msgid "inRange"
+msgstr "范围内"
+
+msgid "high"
+msgstr "偏高"
+
+msgid "veryHigh"
+msgstr "严重偏高"
+
+msgid "stable"
+msgstr "平稳"
+
+msgid "bleConnectingLabel"
+msgstr "蓝牙连接中"
+
+msgid "bleConnectingDetail"
+msgstr "正在尝试恢复与Zepp应用的连接..."
+
+msgid "bleOffLabel"
+msgstr "蓝牙已断开"
+
+msgid "bleOffDetail"
+msgstr "未能连接手机。请检查蓝牙与Zepp应用。"
+
+msgid "bleWaitingLabel"
+msgstr "蓝牙等待中"
+
+msgid "bleWaitingPhone"
+msgstr "等待手机端通讯..."
+
+msgid "bleNoRecentContact"
+msgstr "近期无手机连接记录。"
+
+msgid "bleOkLabel"
+msgstr "蓝牙正常"
+
+msgid "bleContactAgo"
+msgstr "于 {time} 与手机建立连接。"
+
+msgid "httpUrlLabel"
+msgstr "HTTP 无URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "未配置Nightscout网址。请打开设置。"
+
+msgid "httpErrorLabel"
+msgstr "HTTP 错误"
+
+msgid "httpQueryFailed"
+msgstr "于 {time} 请求Nightscout失败: {error}"
+
+msgid "httpFailLabel"
+msgstr "HTTP 失败"
+
+msgid "httpWaitingConnection"
+msgstr "正在等待网络以查询Nightscout..."
+
+msgid "httpValidating"
+msgstr "正在验证服务器连接..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP 等待中"
+
+msgid "httpNoQuery"
+msgstr "尚未执行任何查询。"
+
+msgid "httpQueryAgo"
+msgstr "上次查询Nightscout: {time}。"
+
+msgid "httpOkLabel"
+msgstr "HTTP 正常"
+
+msgid "readingNoAccessLabel"
+msgstr "无访问权限"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "无数据: 正在恢复蓝牙连接..."
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "无数据: 手机与手表连接断开。"
+
+msgid "readingNoAccessNoData"
+msgstr "近期无Nightscout数据通信。"
+
+msgid "readingNoReadingLabel"
+msgstr "无读数"
+
+msgid "readingWaitingGlucose"
+msgstr "等待获取首次血糖读数..."
+
+msgid "readingExpiredLabel"
+msgstr "已失效"
+
+msgid "readingDelayedLabel"
+msgstr "已延迟"
+
+msgid "readingAgo"
+msgstr "读数生成于: "
+
+msgid "readingCurrentLabel"
+msgstr "ATUAL"
+
+msgid "readingUpdated"
+msgstr "读数更新完成"
+
+msgid "portWord"
+msgstr "端口"
+
+msgid "noData"
+msgstr "无数据"
+
+msgid "nowUpper"
+msgstr "刚刚"
+
+msgid "minWord"
+msgstr "分钟"
+
+msgid "ageNow"
+msgstr "刚刚"
+
+msgid "age1Min"
+msgstr "1分钟前"
+
+msgid "ageXMin"
+msgstr "{n}分钟前"
+
+msgid "age1Hour"
+msgstr "1小时前"
+
+msgid "ageXHours"
+msgstr "{n}小时前"
+
+msgid "refreshBtn"
+msgstr "刷新"
+
+msgid "refreshToast"
+msgstr "正在更新血糖..."
+
+msgid "settingsBtn"
+msgstr "设置"
+
+msgid "starting"
+msgstr "正在启动..."
+
+msgid "bgInterrupted"
+msgstr "后台服务已中断: 请重启应用以重新激活。"
+
+msgid "lastUpdatePrefix"
+msgstr "已更新: "
+
+msgid "waitingUpdate"
+msgstr "等待更新"
+
+msgid "snoozeActiveBanner"
+msgstr "暂停中 ({m}分)"
+
+msgid "snoozeDisabledBanner"
+msgstr "未暂停提示"
+
+msgid "snoozeActiveStatus"
+msgstr "暂停提示中: 剩余{m}分钟"
+
+msgid "minRemaining"
+msgstr "剩余{m}分钟"
+
+msgid "p2Title"
+msgstr "ZightScout 设置"
+
+msgid "tabRanges"
+msgstr "范围"
+
+msgid "tabAlerts"
+msgstr "警报/后台"
+
+msgid "tabServer"
+msgstr "服务器"
+
+msgid "saveAndReturn"
+msgstr "保存并返回"
+
+msgid "veryLowThreshold"
+msgstr "严重偏低 (<)"
+
+msgid "lowThreshold"
+msgstr "偏低 (<)"
+
+msgid "highThreshold"
+msgstr "偏高 (>)"
+
+msgid "veryHighThreshold"
+msgstr "严重偏高 (>)"
+
+msgid "yellowAlertTitle"
+msgstr "黄色警报 (超出范围)"
+
+msgid "vibOn"
+msgstr "震动: 开启"
+
+msgid "vibOff"
+msgstr "震动: 关闭"
+
+msgid "testBtn"
+msgstr "测试"
+
+msgid "test3xBtn"
+msgstr "测试3次"
+
+msgid "redAlertTitle"
+msgstr "红色警报 (危急)"
+
+msgid "bgIntervalPrefix"
+msgstr "后台更新: "
+
+msgid "bgIntervalSuffix"
+msgstr "分钟"
+
+msgid "bgIntervalOff"
+msgstr "后台更新: 关闭"
+
+msgid "bgPermissionNotice"
+msgstr "⚠️ 需要在手表 设置 > 应用 > ZightScout 中开启“后台运行”权限"
+
+msgid "optOff"
+msgstr "关闭"
+
+msgid "snoozeActiveLabel"
+msgstr "暂停提示中:"
+
+msgid "snoozeInactiveLabel"
+msgstr "暂停提示 (暂停警报):"
+
+msgid "cancelSnooze"
+msgstr "取消暂停"
+
+msgid "cancelSnoozeConfirm"
+msgstr "是否取消暂停并恢复警报？"
+
+msgid "btnYes"
+msgstr "是"
+
+msgid "btnNo"
+msgstr "否"
+
+msgid "snoozeCancelledToast"
+msgstr "已取消暂停"
+
+msgid "serverHeader"
+msgstr "Nightscout 网址:"
+
+msgid "noUrlConfigured"
+msgstr "未配置网址"
+
+msgid "tapToTest"
+msgstr "点击测试"
+
+msgid "diagnosticTitle"
+msgstr "系统诊断"
+
+msgid "lastReading"
+msgstr "上次读数"
+
+msgid "noReadingDiag"
+msgstr "未接收到读数"
+
+msgid "bgActivePrefix"
+msgstr "后台已开启: 每 "
+
+msgid "bgActiveHa"
+msgstr " 前: "
+
+msgid "bgNoSignal"
+msgstr "后台已开启: 无信号已 "
+
+msgid "enterUrlBtn"
+msgstr "输入网址"
+
+msgid "testConnBtn"
+msgstr "测试连接"
+
+msgid "unitNotDetected"
+msgstr "未检测到单位。\n请选择单位:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL正常。\n请选择单位并保存。"
+
+msgid "unitDetected"
+msgstr "检测到单位: {unit}"
+
+msgid "unitSelected"
+msgstr "已选择单位: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "保存单位失败"
+
+msgid "tokenConfigured"
+msgstr "令牌: 已配置"
+
+msgid "tokenOptional"
+msgstr "令牌: 可选"
+
+msgid "pasteToken"
+msgstr "粘贴访问令牌。留空则为删除。"
+
+msgid "tokenOpenFail"
+msgstr "打开键盘失败"
+
+msgid "tokenInvalid"
+msgstr "无效的令牌"
+
+msgid "tokenSaveFail"
+msgstr "保存令牌失败"
+
+msgid "tokenSaved"
+msgstr "令牌已保存至手机"
+
+msgid "tokenRemoved"
+msgstr "已删除令牌"
+
+msgid "testFailToast"
+msgstr "发送测试失败"
+
+msgid "noResponseServer"
+msgstr "服务器无响应"
+
+msgid "criticalAlertTitle"
+msgstr "危急血糖警报"
+
+msgid "warningAlertTitle"
+msgstr "血糖超出目标范围"
+
+msgid "openNotification"
+msgstr "打开"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout 离线"
+
+msgid "offlineAlertBody"
+msgstr "已有{minutes}分钟无数据。请检查蓝牙与Zepp应用"
+
+msgid "minXAction"
+msgstr "{n}分钟"
+
+msgid "snoozeToast"
+msgstr "暂停提示: {minutes}分钟"
+
+msgid "alertPrefix"
+msgstr "警报:"
+
+msgid "initialConnStatus"
+msgstr "蓝牙等待中 | 网络等待中 | 无数据"
+
+msgid "bleSendFail"
+msgstr "发送失败"
+
+msgid "syncing"
+msgstr "同步中..."
+
+msgid "updating"
+msgstr "正在更新..."
+
+msgid "nightscoutError"
+msgstr "Nightscout错误"
+
+msgid "dataParseError"
+msgstr "数据解析错误"
+
+msgid "genericError"
+msgstr "错误"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 令牌已配置"
+
+msgid "enterTokenBtn"
+msgstr "🔑 输入令牌/密钥"
+
+msgid "promptTokenTitle"
+msgstr "是否输入令牌？"
+
+msgid "promptTokenBody"
+msgstr "是否输入私有Nightscout的访问令牌？"
+
+msgid "noBtn"
+msgstr "否"
+
+msgid "yesBtn"
+msgstr "是"
+
+msgid "invalidUrl"
+msgstr "URL无效"
+
+msgid "urlSaveFail"
+msgstr "保存URL失败"
+
+msgid "urlAndTokenSaved"
+msgstr "URL与令牌配置成功！"
+
+msgid "invalidRanges"
+msgstr "血糖范围无效"
+
+msgid "settingsSavedToast"
+msgstr "设置已保存"
+
+msgid "urlOkResponse"
+msgstr "URL连接正常 (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token 有效 (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (未授权)"
+
+msgid "http403"
+msgstr "HTTP 403 (禁止访问)"
+
+msgid "http404"
+msgstr "HTTP 404 (未找到)"
+
+msgid "http429"
+msgstr "HTTP 429 (请求过多)"
+
+msgid "http500"
+msgstr "HTTP 500 (服务器错误)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (服务器不可用)"
+
+msgid "errTimeout"
+msgstr "无响应 (超时)"
+
+msgid "errNetworkShort"
+msgstr "无网络连接"
+
+msgid "errBleDisconnected"
+msgstr "蓝牙已断开"
+
+msgid "testFailPrefix"
+msgstr "失败:"
+
+msgid "tokenObtained"
+msgstr "令牌获取成功！"
+
+msgid "tokenObtainFail"
+msgstr "获取令牌失败"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "暂停提示中: {minutes}分钟"
+
+msgid "errNoUrl"
+msgstr "未配置Nightscout网址"
+
+msgid "errAuth"
+msgstr "令牌无效或缺少读取权限"
+
+msgid "errRateLimit"
+msgstr "已达请求上限，请稍后重试"
+
+msgid "errServerDown"
+msgstr "Nightscout服务器不可用"
+
+msgid "errNoReadings"
+msgstr "Nightscout中无血糖数据"
+
+msgid "errNetwork"
+msgstr "连接异常: 服务器无法访问"
+
+msgid "authAdmin"
+msgstr "写入权限令牌 (管理员)"
+
+msgid "authReadable"
+msgstr "只读令牌 (安全)"
+
+msgid "authAnon"
+msgstr "匿名访问 / 无令牌"
+
+msgid "tapToRefresh"
+msgstr "点击更新"
+
+msgid "staleDataPrompt"
+msgstr "数据已过期"
+
+msgid "testAlertCritTitle"
+msgstr "测试 - 红色"
+
+msgid "testAlertWarnTitle"
+msgstr "测试 - 黄色"
+
+msgid "testAlertBody"
+msgstr "振动与通知测试。"
+
+msgid "bgPermissionDeniedTitle"
+msgstr "后台运行权限"
+
+msgid "bgPermissionDeniedBody"
+msgstr "为了在屏幕关闭或休眠时接收警报和通知，ZightScout需要“后台服务”权限。\n\n缺少此权限，定期读取将无法运行。"
+
+msgid "btnClose"
+msgstr "关闭"
+
+msgid "btnRetry"
+msgstr "重试"
+
+msgid "btnActivateAnyway"
+msgstr "仍然启用"
+

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hi-IN\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout साथी"
+
+msgid "brandTag"
+msgstr "Nightscout साथी"
+
+msgid "heroHeadline"
+msgstr "ग्लूकोज़ का डेटा अपनी कलाई पर पाएँ!"
+
+msgid "heroDescription"
+msgstr "अपने Amazfit को अपने Nightscout सर्वर से जोड़ें और CGM की जानकारी आसानी और गोपनीयता से देखें।"
+
+msgid "heroCare"
+msgstr "मधुमेह से जूझ रहे लोगों और उनकी देखभाल करने वालों के लिए स्नेहपूर्वक बनाया गया। ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 महत्वपूर्ण:"
+
+msgid "importantBody"
+msgstr "अलर्ट सही ढंग से काम करें, इसके लिए आपको अपनी स्मार्टवॉच की सेटिंग में ऐप को बैकग्राउंड में चलने की अनुमति देनी होगी।"
+
+msgid "disclaimerLabel"
+msgstr "⚠️ अस्वीकरण:"
+
+msgid "disclaimerBody"
+msgstr "यह केवल जानकारी देने वाला टूल है, <strong>चिकित्सा उपकरण नहीं</strong>। यह स्वीकृत ग्लूकोज़ मॉनिटरिंग सिस्टम का विकल्प नहीं है और उपचार संबंधी निर्णयों के लिए इस पर अकेले निर्भर नहीं होना चाहिए।"
+
+msgid "supportLabel"
+msgstr "☕ परियोजना का समर्थन करें:"
+
+msgid "contactLabel"
+msgstr "📧 संपर्क ईमेल:"
+
+msgid "configurationTitle"
+msgstr "⚙️ कॉन्फ़िगरेशन गाइड"
+
+msgid "configurationIntro"
+msgstr "URL और टोकन (यदि आवश्यक हो) सेट करने के लिए, <strong>ZightScout3+</strong> ऐप खोलें, <em>सेटिंग्स</em> में जाएँ, <em>सर्वर</em> टैब चुनें और <em>URL दर्ज करें</em> पर टैप करें। पुष्टि करने के बाद आपसे टोकन माँगा जाएगा; यदि आपके पास टोकन नहीं है, तो कुछ भी लिखे बिना कीबोर्ड बंद कर दें।"
+
+msgid "connectionCheck"
+msgstr "इसके बाद <strong>कनेक्शन जाँचें</strong> पर टैप करें। कनेक्शन की पुष्टि करने वाला संदेश दिखना चाहिए। यदि <span class=\"error\">401 ERROR</span> दिखाई दे, तो इसका अर्थ है कि टोकन प्रमाणीकरण में समस्या है।"
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ घड़ी की एक ज़रूरी अनुमति"
+
+msgid "watchPermissionLead"
+msgstr "घड़ी की सेटिंग में यह विकल्प यहाँ चालू करें:"
+
+msgid "watchPermissionBody"
+msgstr "ऐप बंद होने पर भी (बैकग्राउंड में) सूचनाएँ भेजने और घड़ी में कंपन कराने के लिए, ZightScout को यह अनुमति सीधे घड़ी पर देनी होगी।"
+
+msgid "watchPermissionCritical"
+msgstr "<strong>बहुत ज़रूरी:</strong> यदि आपको लक्ष्य सीमा से बाहर होने के अलर्ट/सूचनाएँ नहीं मिल रही हैं और सेवा हर <em>X मिनट</em> में चलने के लिए सेट है, तो ऐप को बैकग्राउंड में चलने की अनुमति <strong>ज़रूर</strong> दें।"
+
+msgid "stepSettings"
+msgstr "अपनी Amazfit स्मार्टवॉच पर <strong>सेटिंग्स</strong> खोलें।"
+
+msgid "stepPermissions"
+msgstr "<strong>अनुमतियाँ</strong> खोलें।"
+
+msgid "stepApp"
+msgstr "<strong>ZightScout</strong> ढूँढ़ें और चुनें।"
+
+msgid "stepBackground"
+msgstr "<strong>बैकग्राउंड में चलने</strong> या <strong>ऑटो-स्टार्ट</strong> की अनुमति दें।"
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 उपलब्ध भाषाएँ"
+
+msgid "supportedLanguagesIntro"
+msgstr "ऐप का इंटरफ़ेस Zepp OS की इन भाषाओं में उपलब्ध है:"
+
+msgid "footerSlogan"
+msgstr "मधुमेह प्रबंधन को बेहतर बनाने वाली तकनीक।"
+
+msgid "nativeSubtitle"
+msgstr "निरंतर ग्लूकोज़ मॉनिटरिंग (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "घड़ी का कॉन्फ़िगरेशन"
+
+msgid "nativeWatchText"
+msgstr "घड़ी पर ZightScout सेटिंग्स में सीमाएँ, अलर्ट और बैकग्राउंड मॉनिटरिंग कॉन्फ़िगर करें।"
+
+msgid "nativeUsageTitle"
+msgstr "उपयोग की जानकारी"
+
+msgid "nativeUsageServer"
+msgstr "घड़ी इस सर्वर से ग्लूकोज़ रीडिंग दिखाती है।"
+
+msgid "nativeUsageTransfer"
+msgstr "URL Bluetooth के ज़रिए कनेक्ट की गई घड़ी पर भेजा जाता है।"

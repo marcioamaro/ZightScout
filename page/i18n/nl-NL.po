@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "door Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Niet-ondersteund apparaat"
+
+msgid "unsupportedDeviceBody"
+msgstr "Resolutie {w}x{h} onder veilige limiet (390px).\n\nVoor patiëntveiligheid is weergave niet toegestaan."
+
+msgid "veryLow"
+msgstr "Zeer laag"
+
+msgid "low"
+msgstr "Laag"
+
+msgid "inRange"
+msgstr "Binnen doel"
+
+msgid "high"
+msgstr "Hoog"
+
+msgid "veryHigh"
+msgstr "Zeer hoog"
+
+msgid "stable"
+msgstr "Stabiel"
+
+msgid "bleConnectingLabel"
+msgstr "BLE VERBINDEN"
+
+msgid "bleConnectingDetail"
+msgstr "verbinden..."
+
+msgid "bleOffLabel"
+msgstr "BLE UIT"
+
+msgid "bleOffDetail"
+msgstr "verbroken"
+
+msgid "bleWaitingLabel"
+msgstr "BLE WACHTEN"
+
+msgid "bleWaitingPhone"
+msgstr "wachten op telefoon"
+
+msgid "bleNoRecentContact"
+msgstr "geen recent contact"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "contact "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL niet ingesteld"
+
+msgid "httpErrorLabel"
+msgstr "HTTP FOUT"
+
+msgid "httpQueryFailed"
+msgstr "verzoek mislukt"
+
+msgid "httpFailLabel"
+msgstr "HTTP MISLUKT"
+
+msgid "httpWaitingConnection"
+msgstr "wachten op verbinding"
+
+msgid "httpValidating"
+msgstr "valideren..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP WACHTEN"
+
+msgid "httpNoQuery"
+msgstr "geen verzoek"
+
+msgid "httpQueryAgo"
+msgstr "verzoek "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "GEEN TOEGANG"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "bluetooth verbinden"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth verbroken"
+
+msgid "readingNoAccessNoData"
+msgstr "geen gegevenstoegang"
+
+msgid "readingNoReadingLabel"
+msgstr "GEEN METING"
+
+msgid "readingWaitingGlucose"
+msgstr "wachten op glucose"
+
+msgid "readingExpiredLabel"
+msgstr "VERLOPEN"
+
+msgid "readingDelayedLabel"
+msgstr "VERTRAAGD"
+
+msgid "readingAgo"
+msgstr "meting "
+
+msgid "readingCurrentLabel"
+msgstr "HUIDIG"
+
+msgid "readingUpdated"
+msgstr "meting up-to-date"
+
+msgid "portWord"
+msgstr "poort "
+
+msgid "noData"
+msgstr "GEEN GEGEVENS"
+
+msgid "nowUpper"
+msgstr "NU"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Zojuist"
+
+msgid "age1Min"
+msgstr "1 min geleden"
+
+msgid "ageXMin"
+msgstr "{n} min geleden"
+
+msgid "age1Hour"
+msgstr "1 uur geleden"
+
+msgid "ageXHours"
+msgstr "{n} uur geleden"
+
+msgid "refreshBtn"
+msgstr "Vernieuwen"
+
+msgid "refreshToast"
+msgstr "Glucose bijwerken..."
+
+msgid "settingsBtn"
+msgstr "Instellingen"
+
+msgid "starting"
+msgstr "Starten..."
+
+msgid "bgInterrupted"
+msgstr "Achtergrond gestopt. Controleer instellingen."
+
+msgid "lastUpdatePrefix"
+msgstr "Laatste update: "
+
+msgid "waitingUpdate"
+msgstr "Wachten op update"
+
+msgid "snoozeActiveBanner"
+msgstr "SLUIMER ACTIEF • "
+
+msgid "snoozeDisabledBanner"
+msgstr "SLUIMER UIT"
+
+msgid "snoozeActiveStatus"
+msgstr " • SLUIMER ACTIEF • "
+
+msgid "minRemaining"
+msgstr " min resterend"
+
+msgid "p2Title"
+msgstr "ZightScout Instellingen"
+
+msgid "tabRanges"
+msgstr "Bereiken"
+
+msgid "tabAlerts"
+msgstr "Alerts / Achtergr."
+
+msgid "tabServer"
+msgstr "Server"
+
+msgid "saveAndReturn"
+msgstr "Opslaan & Sluiten"
+
+msgid "veryLowThreshold"
+msgstr "Zeer laag (<)"
+
+msgid "lowThreshold"
+msgstr "Laag (<)"
+
+msgid "highThreshold"
+msgstr "Hoog (>)"
+
+msgid "veryHighThreshold"
+msgstr "Zeer hoog (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Buiten doel (Geel)"
+
+msgid "vibOn"
+msgstr "Trillen: AAN"
+
+msgid "vibOff"
+msgstr "Trillen: UIT"
+
+msgid "testBtn"
+msgstr "Test"
+
+msgid "test3xBtn"
+msgstr "Test 3x"
+
+msgid "redAlertTitle"
+msgstr "Rood: 3 alerts"
+
+msgid "bgIntervalPrefix"
+msgstr "Achtergrond: elke "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Achtergrond: Uit"
+
+msgid "bgPermissionNotice"
+msgstr "Voor achtergronddienst machtiging\ninschakelen in horloge-instellingen."
+
+msgid "optOff"
+msgstr "Uit"
+
+msgid "snoozeActiveLabel"
+msgstr "Sluimer actief: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Sluimer inactief"
+
+msgid "cancelSnooze"
+msgstr "Sluimer annuleren"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Sluimer annuleren?"
+
+msgid "btnYes"
+msgstr "Ja"
+
+msgid "btnNo"
+msgstr "Nee"
+
+msgid "snoozeCancelledToast"
+msgstr "Sluimer geannuleerd"
+
+msgid "serverHeader"
+msgstr "Nightscout Server:"
+
+msgid "noUrlConfigured"
+msgstr "Geen URL ingesteld"
+
+msgid "tapToTest"
+msgstr "Tik hieronder om\nserver te testen"
+
+msgid "diagnosticTitle"
+msgstr "Diagnose: "
+
+msgid "lastReading"
+msgstr "laatste meting "
+
+msgid "noReadingDiag"
+msgstr "geen metingen"
+
+msgid "bgActivePrefix"
+msgstr "Achtergrond: "
+
+msgid "bgActiveHa"
+msgstr "actief voor "
+
+msgid "bgNoSignal"
+msgstr "geen signaal"
+
+msgid "enterUrlBtn"
+msgstr "URL Invoeren"
+
+msgid "testConnBtn"
+msgstr "Verbinding Testen"
+
+msgid "unitNotDetected"
+msgstr "Eenheid niet gedetecteerd.\nKies eenheid:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nKies eenheid en sla op."
+
+msgid "unitDetected"
+msgstr "Gedetecteerde eenheid: {unit}"
+
+msgid "unitSelected"
+msgstr "Geselecteerde eenheid: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Kon eenheid niet opslaan"
+
+msgid "tokenConfigured"
+msgstr "Token: geconfigureerd"
+
+msgid "tokenOptional"
+msgstr "Token: optioneel"
+
+msgid "pasteToken"
+msgstr "Plak token. Leeg om te wissen."
+
+msgid "tokenOpenFail"
+msgstr "Toetsenbord openen mislukt"
+
+msgid "tokenInvalid"
+msgstr "Ongeldige token"
+
+msgid "tokenSaveFail"
+msgstr "Token opslaan mislukt"
+
+msgid "tokenSaved"
+msgstr "Token opgeslagen op telefoon"
+
+msgid "tokenRemoved"
+msgstr "Token verwijderd"
+
+msgid "testFailToast"
+msgstr "Test versturen mislukt"
+
+msgid "noResponseServer"
+msgstr "Geen reactie van server"
+
+msgid "criticalAlertTitle"
+msgstr "Kritieke Glucose"
+
+msgid "warningAlertTitle"
+msgstr "Glucose Buiten Doel"
+
+msgid "openNotification"
+msgstr "Openen"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Offline"
+
+msgid "offlineAlertBody"
+msgstr "Geen gegevens gedurende {minutes} min. Controleer Bluetooth & Zepp app"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Sluimer: {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Alert:"
+
+msgid "initialConnStatus"
+msgstr "BLE WACHTEN | HTTP WACHTEN | GEEN DATA"
+
+msgid "bleSendFail"
+msgstr "Verzenden mislukt"
+
+msgid "syncing"
+msgstr "Synchroniseren..."
+
+msgid "updating"
+msgstr "Bijwerken..."
+
+msgid "nightscoutError"
+msgstr "Nightscout fout"
+
+msgid "dataParseError"
+msgstr "Gegevensverwerkingsfout"
+
+msgid "genericError"
+msgstr "Fout"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token Geconfigureerd"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Token / Secret Invoeren"
+
+msgid "promptTokenTitle"
+msgstr "Token Invoeren?"
+
+msgid "promptTokenBody"
+msgstr "Token invoeren voor privé Nightscout?"
+
+msgid "noBtn"
+msgstr "Nee"
+
+msgid "yesBtn"
+msgstr "Ja"
+
+msgid "invalidUrl"
+msgstr "Ongeldige URL"
+
+msgid "urlSaveFail"
+msgstr "URL opslaan mislukt"
+
+msgid "urlAndTokenSaved"
+msgstr "URL & Token opgeslagen!"
+
+msgid "invalidRanges"
+msgstr "Ongeldige bereiken"
+
+msgid "settingsSavedToast"
+msgstr "Instellingen opgeslagen"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token geldig (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Niet geautoriseerd)"
+
+msgid "http403"
+msgstr "HTTP 403 (Verboden)"
+
+msgid "http404"
+msgstr "HTTP 404 (Niet gevonden)"
+
+msgid "http429"
+msgstr "HTTP 429 (Te veel verzoeken)"
+
+msgid "http500"
+msgstr "HTTP 500 (Serverfout)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Server onbereikbaar)"
+
+msgid "errTimeout"
+msgstr "Geen reactie (Time-out)"
+
+msgid "errNetworkShort"
+msgstr "Geen netwerkverbinding"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth verbroken"
+
+msgid "testFailPrefix"
+msgstr "Mislukt:"
+
+msgid "tokenObtained"
+msgstr "Token verkregen!"
+
+msgid "tokenObtainFail"
+msgstr "Token ophalen mislukt"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Sluimer actief: {minutes} min"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL niet geconfigureerd"
+
+msgid "errAuth"
+msgstr "Ongeldig token of geen leestoegang"
+
+msgid "errRateLimit"
+msgstr "Verzoeklimiet bereikt; probeer later opnieuw"
+
+msgid "errServerDown"
+msgstr "Nightscout server onbereikbaar"
+
+msgid "errNoReadings"
+msgstr "Geen metingen in Nightscout"
+
+msgid "errNetwork"
+msgstr "Verbindingsprobleem: server onbereikbaar"
+
+msgid "authAdmin"
+msgstr "Schrijftoken (Admin)"
+
+msgid "authReadable"
+msgstr "Alleen-lezen token (Veilig)"
+
+msgid "authAnon"
+msgstr "Anonieme toegang / geen token"
+
+msgid "tapToRefresh"
+msgstr "Tik op Vernieuwen"
+
+msgid "staleDataPrompt"
+msgstr "Verouderde gegevens"
+
+msgid "testAlertCritTitle"
+msgstr "TEST - Rood"
+
+msgid "testAlertWarnTitle"
+msgstr "TEST - Geel"
+
+msgid "testAlertBody"
+msgstr "Tril- en notificatietest."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Achtergrondmachtiging"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Om waarschuwingen te ontvangen met het scherm uit, heeft ZightScout de machtiging 'Achtergronddienst' nodig.\n\nZonder dit werken periodieke metingen niet."
+
+msgid "btnClose"
+msgstr "Sluiten"
+
+msgid "btnRetry"
+msgstr "Opnieuw Proberen"
+
+msgid "btnActivateAnyway"
+msgstr "Trotzdem Activeren"
+

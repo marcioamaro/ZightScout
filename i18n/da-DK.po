@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "af Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Enhed ikke understøttet"
+
+msgid "unsupportedDeviceBody"
+msgstr "Opløsning {w}x{h} under sikker grænse (390px).\n\nAf hensyn til patientsikkerhed er visning ikke tilladt."
+
+msgid "veryLow"
+msgstr "Meget lav"
+
+msgid "low"
+msgstr "Lav"
+
+msgid "inRange"
+msgstr "I målområde"
+
+msgid "high"
+msgstr "Høj"
+
+msgid "veryHigh"
+msgstr "Meget høj"
+
+msgid "stable"
+msgstr "Stabil"
+
+msgid "bleConnectingLabel"
+msgstr "BLE FORBINDER"
+
+msgid "bleConnectingDetail"
+msgstr "forbinder..."
+
+msgid "bleOffLabel"
+msgstr "BLE FRA"
+
+msgid "bleOffDetail"
+msgstr "afbrudt"
+
+msgid "bleWaitingLabel"
+msgstr "BLE VENTER"
+
+msgid "bleWaitingPhone"
+msgstr "venter på telefon"
+
+msgid "bleNoRecentContact"
+msgstr "ingen nylig kontakt"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "kontakt "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL ikke konfigureret"
+
+msgid "httpErrorLabel"
+msgstr "HTTP FEJL"
+
+msgid "httpQueryFailed"
+msgstr "forespørgsel mislykkedes"
+
+msgid "httpFailLabel"
+msgstr "HTTP MISLYKKEDES"
+
+msgid "httpWaitingConnection"
+msgstr "venter på forbindelse"
+
+msgid "httpValidating"
+msgstr "validerer..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP VENTER"
+
+msgid "httpNoQuery"
+msgstr "ingen forespørgsel"
+
+msgid "httpQueryAgo"
+msgstr "forespørgsel "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "INGEN ADGANG"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "forbinder bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth afbrudt"
+
+msgid "readingNoAccessNoData"
+msgstr "ingen dataadgang"
+
+msgid "readingNoReadingLabel"
+msgstr "INGEN MÅLING"
+
+msgid "readingWaitingGlucose"
+msgstr "venter på glukose"
+
+msgid "readingExpiredLabel"
+msgstr "UDLØBET"
+
+msgid "readingDelayedLabel"
+msgstr "FORSINKET"
+
+msgid "readingAgo"
+msgstr "måling "
+
+msgid "readingCurrentLabel"
+msgstr "AKTUEL"
+
+msgid "readingUpdated"
+msgstr "måling opdateret"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "INGEN DATA"
+
+msgid "nowUpper"
+msgstr "NU"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Lige nu"
+
+msgid "age1Min"
+msgstr "1 min siden"
+
+msgid "ageXMin"
+msgstr "{n} min siden"
+
+msgid "age1Hour"
+msgstr "1 time siden"
+
+msgid "ageXHours"
+msgstr "{n} timer siden"
+
+msgid "refreshBtn"
+msgstr "Opdater"
+
+msgid "refreshToast"
+msgstr "Opdaterer glukose..."
+
+msgid "settingsBtn"
+msgstr "Indstillinger"
+
+msgid "starting"
+msgstr "Starter..."
+
+msgid "bgInterrupted"
+msgstr "Baggrundstjeneste stoppet. Tjek indstillinger."
+
+msgid "lastUpdatePrefix"
+msgstr "Sidste opdatering: "
+
+msgid "waitingUpdate"
+msgstr "Venter på opdatering"
+
+msgid "snoozeActiveBanner"
+msgstr "SLUMRE AKTIV • "
+
+msgid "snoozeDisabledBanner"
+msgstr "SLUMRE FRA"
+
+msgid "snoozeActiveStatus"
+msgstr " • SLUMRE AKTIV • "
+
+msgid "minRemaining"
+msgstr " min tilbage"
+
+msgid "p2Title"
+msgstr "ZightScout Indstillinger"
+
+msgid "tabRanges"
+msgstr "Områder"
+
+msgid "tabAlerts"
+msgstr "Alarmer / Baggrund"
+
+msgid "tabServer"
+msgstr "Server"
+
+msgid "saveAndReturn"
+msgstr "Gem & Luk"
+
+msgid "veryLowThreshold"
+msgstr "Meget lav (<)"
+
+msgid "lowThreshold"
+msgstr "Lav (<)"
+
+msgid "highThreshold"
+msgstr "Høj (>)"
+
+msgid "veryHighThreshold"
+msgstr "Meget høj (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Uden for mål (Gul)"
+
+msgid "vibOn"
+msgstr "Vibration: TIL"
+
+msgid "vibOff"
+msgstr "Vibration: FRA"
+
+msgid "testBtn"
+msgstr "Test"
+
+msgid "test3xBtn"
+msgstr "Test 3x"
+
+msgid "redAlertTitle"
+msgstr "Rød: 3 alarmer"
+
+msgid "bgIntervalPrefix"
+msgstr "Baggrund: hvert "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Baggrund: Fra"
+
+msgid "bgPermissionNotice"
+msgstr "Aktivér tilladelse i urets\nindstillinger for baggrundstjeneste."
+
+msgid "optOff"
+msgstr "Fra"
+
+msgid "snoozeActiveLabel"
+msgstr "Slumre aktiv: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Slumre inaktiv"
+
+msgid "cancelSnooze"
+msgstr "Annuller slumre"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Annuller slumre?"
+
+msgid "btnYes"
+msgstr "Ja"
+
+msgid "btnNo"
+msgstr "Nej"
+
+msgid "snoozeCancelledToast"
+msgstr "Slumre annulleret"
+
+msgid "serverHeader"
+msgstr "Nightscout Server:"
+
+msgid "noUrlConfigured"
+msgstr "Ingen URL konfigureret"
+
+msgid "tapToTest"
+msgstr "Tryk nedenfor for at\nteste serverforbindelse"
+
+msgid "diagnosticTitle"
+msgstr "Diagnostik: "
+
+msgid "lastReading"
+msgstr "sidste måling "
+
+msgid "noReadingDiag"
+msgstr "ingen målinger"
+
+msgid "bgActivePrefix"
+msgstr "Baggrund: "
+
+msgid "bgActiveHa"
+msgstr "aktiv i "
+
+msgid "bgNoSignal"
+msgstr "intet signal"
+
+msgid "enterUrlBtn"
+msgstr "Indtast URL"
+
+msgid "testConnBtn"
+msgstr "Test Forbindelse"
+
+msgid "unitNotDetected"
+msgstr "Enhed ikke registreret.\nVælg enhed:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nVælg enhed og gem."
+
+msgid "unitDetected"
+msgstr "Registreret enhed: {unit}"
+
+msgid "unitSelected"
+msgstr "Valgt enhed: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Kunne ikke gemme enhed"
+
+msgid "tokenConfigured"
+msgstr "Token: konfigureret"
+
+msgid "tokenOptional"
+msgstr "Token: valgfrit"
+
+msgid "pasteToken"
+msgstr "Indsæt token. Tom for at rydde."
+
+msgid "tokenOpenFail"
+msgstr "Kunne ikke åbne tastatur"
+
+msgid "tokenInvalid"
+msgstr "Ugyldigt token"
+
+msgid "tokenSaveFail"
+msgstr "Kunne ikke gemme token"
+
+msgid "tokenSaved"
+msgstr "Token gemt på telefon"
+
+msgid "tokenRemoved"
+msgstr "Token fjernet"
+
+msgid "testFailToast"
+msgstr "Kunne ikke sende testalarm"
+
+msgid "noResponseServer"
+msgstr "Intet svar fra server"
+
+msgid "criticalAlertTitle"
+msgstr "Kritisk Blodsukker"
+
+msgid "warningAlertTitle"
+msgstr "Blodsukker Uden for Mål"
+
+msgid "openNotification"
+msgstr "Åbn"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Offline"
+
+msgid "offlineAlertBody"
+msgstr "Ingen data i {minutes} min. Tjek Bluetooth & Zepp-app"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Slumre: {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Alarm:"
+
+msgid "initialConnStatus"
+msgstr "BLE VENTER | HTTP VENTER | INGEN DATA"
+
+msgid "bleSendFail"
+msgstr "Afsendelse mislykkedes"
+
+msgid "syncing"
+msgstr "Synkroniserer..."
+
+msgid "updating"
+msgstr "Opdaterer..."
+
+msgid "nightscoutError"
+msgstr "Nightscout fejl"
+
+msgid "dataParseError"
+msgstr "Datafortolkningsfejl"
+
+msgid "genericError"
+msgstr "Fejl"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token Konfigureret"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Indtast Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Indtast Token?"
+
+msgid "promptTokenBody"
+msgstr "Indtast token til privat Nightscout?"
+
+msgid "noBtn"
+msgstr "Nej"
+
+msgid "yesBtn"
+msgstr "Ja"
+
+msgid "invalidUrl"
+msgstr "Ugyldig URL"
+
+msgid "urlSaveFail"
+msgstr "Kunne ikke gemme URL"
+
+msgid "urlAndTokenSaved"
+msgstr "URL og token gemt!"
+
+msgid "invalidRanges"
+msgstr "Ugyldige områder"
+
+msgid "settingsSavedToast"
+msgstr "Indstillinger gemt"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token gyldig (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Uautoriseret)"
+
+msgid "http403"
+msgstr "HTTP 403 (Forbudt)"
+
+msgid "http404"
+msgstr "HTTP 404 (Ikke fundet)"
+
+msgid "http429"
+msgstr "HTTP 429 (For mange forespørgsler)"
+
+msgid "http500"
+msgstr "HTTP 500 (Serverfejl)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Server utilgængelig)"
+
+msgid "errTimeout"
+msgstr "Intet svar (Timeout)"
+
+msgid "errNetworkShort"
+msgstr "Ingen netværksforbindelse"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth afbrudt"
+
+msgid "testFailPrefix"
+msgstr "Fejl:"
+
+msgid "tokenObtained"
+msgstr "Token modtaget!"
+
+msgid "tokenObtainFail"
+msgstr "Kunne ikke hente token"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Slumre aktiv: {minutes} min"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL ikke konfigureret"
+
+msgid "errAuth"
+msgstr "Ugyldigt token eller mangler læsetilladelse"
+
+msgid "errRateLimit"
+msgstr "Forespørgselsgrænse nået; prøv igen senere"
+
+msgid "errServerDown"
+msgstr "Nightscout server utilgængelig"
+
+msgid "errNoReadings"
+msgstr "Ingen målinger i Nightscout"
+
+msgid "errNetwork"
+msgstr "Forbindelsesproblem: server utilgængelig"
+
+msgid "authAdmin"
+msgstr "Skrive-token (Admin)"
+
+msgid "authReadable"
+msgstr "Læse-token (Sikker)"
+
+msgid "authAnon"
+msgstr "Anonym adgang / intet token"
+
+msgid "tapToRefresh"
+msgstr "Tryk på Opdater"
+
+msgid "staleDataPrompt"
+msgstr "Forældede data"
+
+msgid "testAlertCritTitle"
+msgstr "TEST - Rød"
+
+msgid "testAlertWarnTitle"
+msgstr "TEST - Gul"
+
+msgid "testAlertBody"
+msgstr "Vibrations- og notifikationstest."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Baggrundstilladelse"
+
+msgid "bgPermissionDeniedBody"
+msgstr "For at modtage alarmer med slukket skærm kræves tilladelsen 'Baggrundstjeneste'.\n\nUden denne virker periodiske målinger ikke."
+
+msgid "btnClose"
+msgstr "Luk"
+
+msgid "btnRetry"
+msgstr "Prøv Igen"
+
+msgid "btnActivateAnyway"
+msgstr "Aktivér Alligevel"
+

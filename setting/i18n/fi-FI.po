@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fi-FI\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout-kumppani"
+
+msgid "brandTag"
+msgstr "Nightscout-kumppani"
+
+msgid "heroHeadline"
+msgstr "Tuo glukoositietosi ranteeseesi!"
+
+msgid "heroDescription"
+msgstr "Yhdistä Amazfit-kellosi omaan Nightscout-palvelimeesi ja tarkastele CGM-tietojasi kätevästi ja huomaamattomasti."
+
+msgid "heroCare"
+msgstr "Huolella tehty diabetesta sairastaville ja heidän läheisilleen. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Tärkeää:"
+
+msgid "importantBody"
+msgstr "Jotta hälytykset toimivat oikein, sinun on sallittava sovelluksen toiminta taustalla älykellon asetuksissa."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Vastuuvapauslauseke:"
+
+msgid "disclaimerBody"
+msgstr "Tämä on vain tiedon tarjoamiseen tarkoitettu työkalu, <strong>ei lääkinnällinen laite</strong>. Se ei korvaa hyväksyttyjä glukoosin seurantajärjestelmiä, eikä sitä tule käyttää hoitopäätösten ainoana perusteena."
+
+msgid "supportLabel"
+msgstr "☕ Tue projektia:"
+
+msgid "contactLabel"
+msgstr "📧 Sähköposti yhteydenottoja varten:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Määritysopas"
+
+msgid "configurationIntro"
+msgstr "Määritä URL-osoite ja token (tarvittaessa) avaamalla <strong>ZightScout3+</strong>-sovellus, siirtymällä kohtaan <em>Asetukset</em>, valitsemalla <em>Palvelin</em>-välilehti ja napauttamalla <em>Anna URL-osoite</em>. Vahvistuksen jälkeen sinua pyydetään antamaan token. Jos sinulla ei ole sitä, sulje näppäimistö kirjoittamatta mitään."
+
+msgid "connectionCheck"
+msgstr "Napauta seuraavaksi <strong>Testaa yhteys</strong>. Näkyviin pitäisi tulla viesti onnistuneesta yhteystestistä. Jos näet ilmoituksen <span class=\"error\">401 ERROR</span>, tokenin todennuksessa on ongelma."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Tärkeä kellon käyttöoikeus"
+
+msgid "watchPermissionLead"
+msgstr "Näin otat tämän käyttöön kellon asetuksissa:"
+
+msgid "watchPermissionBody"
+msgstr "Jotta ZightScout voi lähettää ilmoituksia ja väristä sovelluksen ollessa suljettuna (taustalla), sille on annettava käyttöoikeus suoraan kellossa."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>TÄRKEÄÄ:</strong> Jos et saa tavoitealueen ulkopuolisia hälytyksiä/ilmoituksia ja palvelu on määritetty toimimaan säännöllisesti <em>X minuutin</em> välein, sinun <strong>on sallittava</strong> sovelluksen toiminta taustalla."
+
+msgid "stepSettings"
+msgstr "Avaa Amazfit-älykellossa <strong>Asetukset</strong>."
+
+msgid "stepPermissions"
+msgstr "Avaa <strong>Käyttöoikeudet</strong>."
+
+msgid "stepApp"
+msgstr "Etsi ja valitse <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Salli <strong>Toiminta taustalla</strong> tai <strong>Automaattinen käynnistys</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Tuetut kielet"
+
+msgid "supportedLanguagesIntro"
+msgstr "Sovelluksen käyttöliittymä on saatavilla seuraavilla Zepp OS:n natiivikielillä:"
+
+msgid "footerSlogan"
+msgstr "Teknologia tukee diabeteksen hallintaa."
+
+msgid "nativeSubtitle"
+msgstr "Jatkuva glukoosinseuranta (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Kellon asetukset"
+
+msgid "nativeWatchText"
+msgstr "Määritä tavoitealueet, hälytykset ja taustaseuranta kellon ZightScout-asetuksissa."
+
+msgid "nativeUsageTitle"
+msgstr "Käyttötiedot"
+
+msgid "nativeUsageServer"
+msgstr "Kello näyttää tämän palvelimen glukoosimittaukset."
+
+msgid "nativeUsageTransfer"
+msgstr "URL-osoite siirretään yhdistettyyn kelloon Bluetooth-yhteyden kautta."

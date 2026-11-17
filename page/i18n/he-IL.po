@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "מאת Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "מכשיר לא נתמך"
+
+msgid "unsupportedDeviceBody"
+msgstr "רזולוציה {w}x{h} מתחת לסף הבטיחות (390px).\n\nלמען בטיחות המטופל, הצפייה בדגם זה אינה מותרת."
+
+msgid "veryLow"
+msgstr "נמוך מאוד"
+
+msgid "low"
+msgstr "נמוך"
+
+msgid "inRange"
+msgstr "בטווח היעד"
+
+msgid "high"
+msgstr "גבוה"
+
+msgid "veryHigh"
+msgstr "גבוה מאוד"
+
+msgid "stable"
+msgstr "יציב"
+
+msgid "bleConnectingLabel"
+msgstr "BLE מתחבר"
+
+msgid "bleConnectingDetail"
+msgstr "מתחבר..."
+
+msgid "bleOffLabel"
+msgstr "BLE כבוי"
+
+msgid "bleOffDetail"
+msgstr "מנותק"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ממתין"
+
+msgid "bleWaitingPhone"
+msgstr "ממתין לטלפון"
+
+msgid "bleNoRecentContact"
+msgstr "אין תקשורת לאחרונה"
+
+msgid "bleOkLabel"
+msgstr "BLE תקין"
+
+msgid "bleContactAgo"
+msgstr "תקשורת לפני "
+
+msgid "httpUrlLabel"
+msgstr "HTTP כתובת"
+
+msgid "httpUrlNotConfigured"
+msgstr "כתובת לא הוגדרה"
+
+msgid "httpErrorLabel"
+msgstr "שגיאת HTTP"
+
+msgid "httpQueryFailed"
+msgstr "שאילתה נכשלה"
+
+msgid "httpFailLabel"
+msgstr "HTTP נכשל"
+
+msgid "httpWaitingConnection"
+msgstr "ממתין לחיבור רשת"
+
+msgid "httpValidating"
+msgstr "מאמת..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ממתין"
+
+msgid "httpNoQuery"
+msgstr "אין שאילתה"
+
+msgid "httpQueryAgo"
+msgstr "שאילתה לפני "
+
+msgid "httpOkLabel"
+msgstr "HTTP תקין"
+
+msgid "readingNoAccessLabel"
+msgstr "אין גישה"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "מחבר בלוטות'"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "בלוטות' מנותק"
+
+msgid "readingNoAccessNoData"
+msgstr "אין גישה לנתונים"
+
+msgid "readingNoReadingLabel"
+msgstr "אין קריאה"
+
+msgid "readingWaitingGlucose"
+msgstr "ממתין לסוכר"
+
+msgid "readingExpiredLabel"
+msgstr "פג תוקף"
+
+msgid "readingDelayedLabel"
+msgstr "מעוכב"
+
+msgid "readingAgo"
+msgstr "קריאה לפני "
+
+msgid "readingCurrentLabel"
+msgstr "נוכחי"
+
+msgid "readingUpdated"
+msgstr "קריאה מעודכנת"
+
+msgid "portWord"
+msgstr "יציאה "
+
+msgid "noData"
+msgstr "אין נתונים"
+
+msgid "nowUpper"
+msgstr "עכשיו"
+
+msgid "minWord"
+msgstr "דק'"
+
+msgid "ageNow"
+msgstr "ממש עכשיו"
+
+msgid "age1Min"
+msgstr "לפני דקה"
+
+msgid "ageXMin"
+msgstr "לפני {n} דק'"
+
+msgid "age1Hour"
+msgstr "לפני שעה"
+
+msgid "ageXHours"
+msgstr "לפני {n} שעות"
+
+msgid "refreshBtn"
+msgstr "רענן"
+
+msgid "refreshToast"
+msgstr "מעדכן סוכר..."
+
+msgid "settingsBtn"
+msgstr "הגדרות"
+
+msgid "starting"
+msgstr "מפעיל..."
+
+msgid "bgInterrupted"
+msgstr "שירות הרקע נעצר. בדוק הגדרות."
+
+msgid "lastUpdatePrefix"
+msgstr "עדכון אחרון: "
+
+msgid "waitingUpdate"
+msgstr "ממתין לעדכון"
+
+msgid "snoozeActiveBanner"
+msgstr "השתקה פעילה • "
+
+msgid "snoozeDisabledBanner"
+msgstr "השתקה כבויה"
+
+msgid "snoozeActiveStatus"
+msgstr " • השתקה פעילה • "
+
+msgid "minRemaining"
+msgstr " דק' נותרו"
+
+msgid "p2Title"
+msgstr "הגדרות ZightScout"
+
+msgid "tabRanges"
+msgstr "טווחים"
+
+msgid "tabAlerts"
+msgstr "התראות / רקע"
+
+msgid "tabServer"
+msgstr "שרת"
+
+msgid "saveAndReturn"
+msgstr "שמור וצא"
+
+msgid "veryLowThreshold"
+msgstr "נמוך מאוד (<)"
+
+msgid "lowThreshold"
+msgstr "נמוך (<)"
+
+msgid "highThreshold"
+msgstr "גבוה (>)"
+
+msgid "veryHighThreshold"
+msgstr "גבוה מאוד (>)"
+
+msgid "yellowAlertTitle"
+msgstr "מחוץ לטווח (צהוב)"
+
+msgid "vibOn"
+msgstr "רטט: פעיל"
+
+msgid "vibOff"
+msgstr "רטט: כבוי"
+
+msgid "testBtn"
+msgstr "בדיקה"
+
+msgid "test3xBtn"
+msgstr "בדיקה 3x"
+
+msgid "redAlertTitle"
+msgstr "אדום: 3 התראות"
+
+msgid "bgIntervalPrefix"
+msgstr "רקע: כל "
+
+msgid "bgIntervalSuffix"
+msgstr " דק'"
+
+msgid "bgIntervalOff"
+msgstr "רקע: כבוי"
+
+msgid "bgPermissionNotice"
+msgstr "עבור שירות רקע, אפשר את\nההרשאה בהגדרות השעון."
+
+msgid "optOff"
+msgstr "כבוי"
+
+msgid "snoozeActiveLabel"
+msgstr "השתקה פעילה: "
+
+msgid "snoozeInactiveLabel"
+msgstr "השתקה מושבתת"
+
+msgid "cancelSnooze"
+msgstr "בטל השתקה"
+
+msgid "cancelSnoozeConfirm"
+msgstr "לבטל השתקה?"
+
+msgid "btnYes"
+msgstr "כן"
+
+msgid "btnNo"
+msgstr "לא"
+
+msgid "snoozeCancelledToast"
+msgstr "השתקה בוטלה"
+
+msgid "serverHeader"
+msgstr "שרת Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "לא הוגדרה כתובת"
+
+msgid "tapToTest"
+msgstr "הקש למטה לבדיקת\nחיבור לשרת"
+
+msgid "diagnosticTitle"
+msgstr "אבחון: "
+
+msgid "lastReading"
+msgstr "קריאה אחרונה "
+
+msgid "noReadingDiag"
+msgstr "אין קריאות"
+
+msgid "bgActivePrefix"
+msgstr "רקע: "
+
+msgid "bgActiveHa"
+msgstr "פעיל מזה "
+
+msgid "bgNoSignal"
+msgstr "אין אות"
+
+msgid "enterUrlBtn"
+msgstr "הזן כתובת"
+
+msgid "testConnBtn"
+msgstr "בדוק חיבור"
+
+msgid "unitNotDetected"
+msgstr "יחידה לא זוהתה.\nבחר יחידה:"
+
+msgid "urlOkSelectUnit"
+msgstr "כתובת תקינה.\nבחר יחידה ושמור."
+
+msgid "unitDetected"
+msgstr "יחידה שזוהתה: {unit}"
+
+msgid "unitSelected"
+msgstr "יחידה שנבחרה: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "שמירת יחידה נכשלה"
+
+msgid "tokenConfigured"
+msgstr "טוקן: מוגדר"
+
+msgid "tokenOptional"
+msgstr "טוקן: אופציונלי"
+
+msgid "pasteToken"
+msgstr "הדבק טוקן. ריק למחיקה."
+
+msgid "tokenOpenFail"
+msgstr "פתיחת מקלדת נכשלה"
+
+msgid "tokenInvalid"
+msgstr "טוקן לא תקין"
+
+msgid "tokenSaveFail"
+msgstr "שמירת טוקן נכשלה"
+
+msgid "tokenSaved"
+msgstr "טוקן נשמר בטלפון"
+
+msgid "tokenRemoved"
+msgstr "טוקן הוסר"
+
+msgid "testFailToast"
+msgstr "שליחת בדיקה נכשלה"
+
+msgid "noResponseServer"
+msgstr "אין תגובה מהשרת"
+
+msgid "criticalAlertTitle"
+msgstr "סוכר קריטי"
+
+msgid "warningAlertTitle"
+msgstr "סוכר מחוץ לטווח"
+
+msgid "openNotification"
+msgstr "פתח"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout לא מקוון"
+
+msgid "offlineAlertBody"
+msgstr "אין נתונים {minutes} דק'. בדוק בלוטות' ואת אפליקציית Zepp"
+
+msgid "minXAction"
+msgstr "{n} דק'"
+
+msgid "snoozeToast"
+msgstr "השתקה: {minutes} דק'"
+
+msgid "alertPrefix"
+msgstr "התראה:"
+
+msgid "initialConnStatus"
+msgstr "BLE ממתין | HTTP ממתין | אין נתונים"
+
+msgid "bleSendFail"
+msgstr "שליחה נכשלה"
+
+msgid "syncing"
+msgstr "מסנכרן..."
+
+msgid "updating"
+msgstr "מעדכן..."
+
+msgid "nightscoutError"
+msgstr "שגיאת Nightscout"
+
+msgid "dataParseError"
+msgstr "שגיאת פענוח נתונים"
+
+msgid "genericError"
+msgstr "שגיאה"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 טוקן מוגדר"
+
+msgid "enterTokenBtn"
+msgstr "🔑 הזן טוקן / Secret"
+
+msgid "promptTokenTitle"
+msgstr "להזין טוקן?"
+
+msgid "promptTokenBody"
+msgstr "להזין טוקן עבור Nightscout פרטי?"
+
+msgid "noBtn"
+msgstr "לא"
+
+msgid "yesBtn"
+msgstr "כן"
+
+msgid "invalidUrl"
+msgstr "כתובת לא תקינה"
+
+msgid "urlSaveFail"
+msgstr "שמירת כתובת נכשלה"
+
+msgid "urlAndTokenSaved"
+msgstr "כתובת וטוקן נשמרו!"
+
+msgid "invalidRanges"
+msgstr "טווחים לא תקינים"
+
+msgid "settingsSavedToast"
+msgstr "הגדרות נשמרו"
+
+msgid "urlOkResponse"
+msgstr "כתובת תקינה (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "כתובת/טוקן תקינים (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (לא מורשה)"
+
+msgid "http403"
+msgstr "HTTP 403 (אסור)"
+
+msgid "http404"
+msgstr "HTTP 404 (לא נמצא)"
+
+msgid "http429"
+msgstr "HTTP 429 (בקשות רבות מדי)"
+
+msgid "http500"
+msgstr "HTTP 500 (שגיאת שרת)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (שרת לא זמין)"
+
+msgid "errTimeout"
+msgstr "אין תגובה (פסק זמן)"
+
+msgid "errNetworkShort"
+msgstr "אין חיבור רשת"
+
+msgid "errBleDisconnected"
+msgstr "בלוטות' מנותק"
+
+msgid "testFailPrefix"
+msgstr "נכשל:"
+
+msgid "tokenObtained"
+msgstr "טוקן התקבל!"
+
+msgid "tokenObtainFail"
+msgstr "קבלת טוקן נכשלה"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "השתקה פעילה: {minutes} דק'"
+
+msgid "errNoUrl"
+msgstr "כתובת Nightscout לא הוגדרה"
+
+msgid "errAuth"
+msgstr "טוקן לא תקין או חסרת הרשאת קריאה"
+
+msgid "errRateLimit"
+msgstr "מגבלת שאילתות; נסה מאוחר יותר"
+
+msgid "errServerDown"
+msgstr "שרת Nightscout אינו זמין"
+
+msgid "errNoReadings"
+msgstr "אין קריאות ב-Nightscout"
+
+msgid "errNetwork"
+msgstr "בעיית חיבור: השרת אינו זמין"
+
+msgid "authAdmin"
+msgstr "טוקן כתיבה (מנהל)"
+
+msgid "authReadable"
+msgstr "טוקן לקריאה בלבד (בטוח)"
+
+msgid "authAnon"
+msgstr "גישה אנונימית / ללא טוקן"
+
+msgid "tapToRefresh"
+msgstr "הקש לרענון"
+
+msgid "staleDataPrompt"
+msgstr "נתונים ישנים"
+
+msgid "testAlertCritTitle"
+msgstr "בדיקה - אדום"
+
+msgid "testAlertWarnTitle"
+msgstr "בדיקה - צהוב"
+
+msgid "testAlertBody"
+msgstr "בדיקת רטט והתראה."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "הרשאת רקע"
+
+msgid "bgPermissionDeniedBody"
+msgstr "לקבלת התראות כשהמסך כבוי, נדרשת הרשאת 'שירות רקע'.\n\nללא הרשאה זו, קריאות תקופתיות לא יפעלו."
+
+msgid "btnClose"
+msgstr "סגור"
+
+msgid "btnRetry"
+msgstr "נסה שוב"
+
+msgid "btnActivateAnyway"
+msgstr "הפעל בכל זאת"
+

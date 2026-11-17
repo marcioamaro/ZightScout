@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: ar_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "بواسطة Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "جهاز غير مدعوم"
+
+msgid "unsupportedDeviceBody"
+msgstr "الدقة {w}x{h} أقل من الحد الأدنى الآمن (390 بكسل).\n\nلحماية المريض، لا يُسمح بالعرض على هذا الطراز."
+
+msgid "veryLow"
+msgstr "منخفض جداً"
+
+msgid "low"
+msgstr "منخفض"
+
+msgid "inRange"
+msgstr "ضمن الهدف"
+
+msgid "high"
+msgstr "مرتفع"
+
+msgid "veryHigh"
+msgstr "مرتفع جداً"
+
+msgid "stable"
+msgstr "مستقر"
+
+msgid "bleConnectingLabel"
+msgstr "BLE جاري الاتصال"
+
+msgid "bleConnectingDetail"
+msgstr "جاري الاتصال..."
+
+msgid "bleOffLabel"
+msgstr "BLE متوقف"
+
+msgid "bleOffDetail"
+msgstr "غير متصل"
+
+msgid "bleWaitingLabel"
+msgstr "BLE في الانتظار"
+
+msgid "bleWaitingPhone"
+msgstr "في انتظار الهاتف"
+
+msgid "bleNoRecentContact"
+msgstr "لا يوجد اتصال حديث"
+
+msgid "bleOkLabel"
+msgstr "BLE متصل"
+
+msgid "bleContactAgo"
+msgstr "اتصال منذ "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "الرابط غير مضبوط"
+
+msgid "httpErrorLabel"
+msgstr "خطأ HTTP"
+
+msgid "httpQueryFailed"
+msgstr "فشل الطلب"
+
+msgid "httpFailLabel"
+msgstr "فشل HTTP"
+
+msgid "httpWaitingConnection"
+msgstr "في انتظار الاتصال"
+
+msgid "httpValidating"
+msgstr "جاري التحقق..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP في الانتظار"
+
+msgid "httpNoQuery"
+msgstr "لا توجد طلبات"
+
+msgid "httpQueryAgo"
+msgstr "طلب منذ "
+
+msgid "httpOkLabel"
+msgstr "HTTP متصل"
+
+msgid "readingNoAccessLabel"
+msgstr "لا يوجد وصول"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "جاري توصيل البلوتوث"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "البلوتوث مفصول"
+
+msgid "readingNoAccessNoData"
+msgstr "لا تتوفر بيانات"
+
+msgid "readingNoReadingLabel"
+msgstr "لا توجد قراءة"
+
+msgid "readingWaitingGlucose"
+msgstr "في انتظار سكر الدم"
+
+msgid "readingExpiredLabel"
+msgstr "منتهية الصلاحية"
+
+msgid "readingDelayedLabel"
+msgstr "متأخرة"
+
+msgid "readingAgo"
+msgstr "قراءة منذ "
+
+msgid "readingCurrentLabel"
+msgstr "الحالية"
+
+msgid "readingUpdated"
+msgstr "القراءة محدثة"
+
+msgid "portWord"
+msgstr "منفذ "
+
+msgid "noData"
+msgstr "لا توجد بيانات"
+
+msgid "nowUpper"
+msgstr "الآن"
+
+msgid "minWord"
+msgstr "دقيقة"
+
+msgid "ageNow"
+msgstr "الآن"
+
+msgid "age1Min"
+msgstr "منذ دقيقة واحدة"
+
+msgid "ageXMin"
+msgstr "منذ {n} دقيقة"
+
+msgid "age1Hour"
+msgstr "منذ ساعة واحدة"
+
+msgid "ageXHours"
+msgstr "منذ {n} ساعة"
+
+msgid "refreshBtn"
+msgstr "تحديث"
+
+msgid "refreshToast"
+msgstr "جاري تحديث السكر..."
+
+msgid "settingsBtn"
+msgstr "الإعدادات"
+
+msgid "starting"
+msgstr "جاري البدء..."
+
+msgid "bgInterrupted"
+msgstr "توقف العمل بالخلفية. تحقق من الإعدادات."
+
+msgid "lastUpdatePrefix"
+msgstr "آخر تحديث: "
+
+msgid "waitingUpdate"
+msgstr "في انتظار التحديث"
+
+msgid "snoozeActiveBanner"
+msgstr "الغفوة مفعلة • "
+
+msgid "snoozeDisabledBanner"
+msgstr "الغفوة متوقفة"
+
+msgid "snoozeActiveStatus"
+msgstr " • الغفوة مفعلة • "
+
+msgid "minRemaining"
+msgstr " دقيقة متبقية"
+
+msgid "p2Title"
+msgstr "إعدادات ZightScout"
+
+msgid "tabRanges"
+msgstr "النطاقات"
+
+msgid "tabAlerts"
+msgstr "تنبيهات/خلفية"
+
+msgid "tabServer"
+msgstr "الخادم"
+
+msgid "saveAndReturn"
+msgstr "حفظ وخروج"
+
+msgid "veryLowThreshold"
+msgstr "منخفض جداً (<)"
+
+msgid "lowThreshold"
+msgstr "منخفض (<)"
+
+msgid "highThreshold"
+msgstr "مرتفع (>)"
+
+msgid "veryHighThreshold"
+msgstr "مرتفع جداً (>)"
+
+msgid "yellowAlertTitle"
+msgstr "خارج النطاق (أصفر)"
+
+msgid "vibOn"
+msgstr "الاهتزاز: مفعّل"
+
+msgid "vibOff"
+msgstr "الاهتزاز: متوقف"
+
+msgid "testBtn"
+msgstr "اختبار"
+
+msgid "test3xBtn"
+msgstr "اختبار 3 مرات"
+
+msgid "redAlertTitle"
+msgstr "أحمر: 3 تنبيهات"
+
+msgid "bgIntervalPrefix"
+msgstr "الخلفية: كل "
+
+msgid "bgIntervalSuffix"
+msgstr " دقيقة"
+
+msgid "bgIntervalOff"
+msgstr "الخلفية: متوقفة"
+
+msgid "bgPermissionNotice"
+msgstr "للعمل بالخلفية، قم بتفعيل\nالإذن في إعدادات الساعة."
+
+msgid "optOff"
+msgstr "متوقف"
+
+msgid "snoozeActiveLabel"
+msgstr "الغفوة مفعلة: "
+
+msgid "snoozeInactiveLabel"
+msgstr "الغفوة غير مفعلة"
+
+msgid "cancelSnooze"
+msgstr "إلغاء الغفوة"
+
+msgid "cancelSnoozeConfirm"
+msgstr "إلغاء الغفوة؟"
+
+msgid "btnYes"
+msgstr "نعم"
+
+msgid "btnNo"
+msgstr "لا"
+
+msgid "snoozeCancelledToast"
+msgstr "تم إلغاء الغفوة"
+
+msgid "serverHeader"
+msgstr "خادم Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "لم يتم تكوين الرابط"
+
+msgid "tapToTest"
+msgstr "المس بالأسفل لاختبار\nالاتصال بالخادم"
+
+msgid "diagnosticTitle"
+msgstr "التشخيص: "
+
+msgid "lastReading"
+msgstr "آخر قراءة "
+
+msgid "noReadingDiag"
+msgstr "لا توجد قراءات"
+
+msgid "bgActivePrefix"
+msgstr "الخلفية: "
+
+msgid "bgActiveHa"
+msgstr "نشط منذ "
+
+msgid "bgNoSignal"
+msgstr "لا توجد إشارة"
+
+msgid "enterUrlBtn"
+msgstr "إدخال الرابط"
+
+msgid "testConnBtn"
+msgstr "اختبار الاتصال"
+
+msgid "unitNotDetected"
+msgstr "لم يتم التعرف على الوحدة.\nاختر الوحدة:"
+
+msgid "urlOkSelectUnit"
+msgstr "الرابط صحيح.\nاختر الوحدة ثم احفظ."
+
+msgid "unitDetected"
+msgstr "الوحدة المكتشفة: {unit}"
+
+msgid "unitSelected"
+msgstr "الوحدة المختارة: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "فشل حفظ الوحدة"
+
+msgid "tokenConfigured"
+msgstr "الرمز: تم التكوين"
+
+msgid "tokenOptional"
+msgstr "الرمز: اختياري"
+
+msgid "pasteToken"
+msgstr "الصق الرمز. اتركه فارغاً للحذف."
+
+msgid "tokenOpenFail"
+msgstr "فشل فتح لوحة المفاتيح"
+
+msgid "tokenInvalid"
+msgstr "رمز غير صالح"
+
+msgid "tokenSaveFail"
+msgstr "فشل حفظ الرمز"
+
+msgid "tokenSaved"
+msgstr "تم حفظ الرمز بالهاتف"
+
+msgid "tokenRemoved"
+msgstr "تمت إزالة الرمز"
+
+msgid "testFailToast"
+msgstr "فشل إرسال الاختبار"
+
+msgid "noResponseServer"
+msgstr "لا توجد استجابة من الخادم"
+
+msgid "criticalAlertTitle"
+msgstr "تنبيه سكر حرج"
+
+msgid "warningAlertTitle"
+msgstr "السكر خارج النطاق المستهدف"
+
+msgid "openNotification"
+msgstr "فتح"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout غير متصل"
+
+msgid "offlineAlertBody"
+msgstr "لا توجد بيانات منذ {minutes} دقيقة. تحقق من البلوتوث وتطبيق Zepp"
+
+msgid "minXAction"
+msgstr "{n} دقيقة"
+
+msgid "snoozeToast"
+msgstr "غفوة: {minutes} دقيقة"
+
+msgid "alertPrefix"
+msgstr "تنبيه:"
+
+msgid "initialConnStatus"
+msgstr "BLE بالانتظار | HTTP بالانتظار | لا بيانات"
+
+msgid "bleSendFail"
+msgstr "فشل الإرسال"
+
+msgid "syncing"
+msgstr "جاري المزامنة..."
+
+msgid "updating"
+msgstr "جاري التحديث..."
+
+msgid "nightscoutError"
+msgstr "خطأ في Nightscout"
+
+msgid "dataParseError"
+msgstr "خطأ في معالجة البيانات"
+
+msgid "genericError"
+msgstr "خطأ"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 الرمز مضبوط"
+
+msgid "enterTokenBtn"
+msgstr "🔑 إدخال الرمز / السر"
+
+msgid "promptTokenTitle"
+msgstr "إدخال الرمز؟"
+
+msgid "promptTokenBody"
+msgstr "هل تريد إدخال رمز لـ Nightscout الخاص؟"
+
+msgid "noBtn"
+msgstr "لا"
+
+msgid "yesBtn"
+msgstr "نعم"
+
+msgid "invalidUrl"
+msgstr "رابط غير صالح"
+
+msgid "urlSaveFail"
+msgstr "فشل حفظ الرابط"
+
+msgid "urlAndTokenSaved"
+msgstr "تم حفظ الرابط والرمز!"
+
+msgid "invalidRanges"
+msgstr "نطاقات سكر غير صالحة"
+
+msgid "settingsSavedToast"
+msgstr "تم حفظ الإعدادات"
+
+msgid "urlOkResponse"
+msgstr "الرابط متصل (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "الرابط والرمز صحيحان (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (غير مصرح)"
+
+msgid "http403"
+msgstr "HTTP 403 (ممنوع)"
+
+msgid "http404"
+msgstr "HTTP 404 (غير موجود)"
+
+msgid "http429"
+msgstr "HTTP 429 (طلبات كثيرة)"
+
+msgid "http500"
+msgstr "HTTP 500 (خطأ بالخادم)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (الخادم غير متاح)"
+
+msgid "errTimeout"
+msgstr "لا توجد استجابة (مهلة)"
+
+msgid "errNetworkShort"
+msgstr "لا يوجد اتصال بالشبكة"
+
+msgid "errBleDisconnected"
+msgstr "البلوتوث مفصول"
+
+msgid "testFailPrefix"
+msgstr "فشل:"
+
+msgid "tokenObtained"
+msgstr "تم الحصول على الرمز!"
+
+msgid "tokenObtainFail"
+msgstr "فشل الحصول على الرمز"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "الغفوة مفعلة: {minutes} دقيقة"
+
+msgid "errNoUrl"
+msgstr "لم يتم تكوين رابط Nightscout"
+
+msgid "errAuth"
+msgstr "رمز غير صالح أو بدون إذن قراءة"
+
+msgid "errRateLimit"
+msgstr "تم بلوغ الحد الأقصى للطلبات؛ يرجى المحاولة لاحقاً"
+
+msgid "errServerDown"
+msgstr "خادم Nightscout غير متوفر"
+
+msgid "errNoReadings"
+msgstr "لا توجد قراءات في Nightscout"
+
+msgid "errNetwork"
+msgstr "مشكلة اتصال: لا يمكن الوصول للخادم"
+
+msgid "authAdmin"
+msgstr "رمز كتابة (مسؤول)"
+
+msgid "authReadable"
+msgstr "رمز للقراءة فقط (آمن)"
+
+msgid "authAnon"
+msgstr "وصول مجهول / بدون رمز"
+
+msgid "tapToRefresh"
+msgstr "انقر للتحديث"
+
+msgid "staleDataPrompt"
+msgstr "بيانات قديمة"
+
+msgid "testAlertCritTitle"
+msgstr "اختبار - أحمر"
+
+msgid "testAlertWarnTitle"
+msgstr "اختبار - أصفر"
+
+msgid "testAlertBody"
+msgstr "اختبار الاهتزاز والإشعار."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "إذن العمل في الخلفية"
+
+msgid "bgPermissionDeniedBody"
+msgstr "لتلقي التنبيهات والإشعارات أثناء إيقاف تشغيل الشاشة أو وضع السكون، يتطلب ZightScout إذن 'خدمة الخلفية'.\n\nبدونه، لن تعمل القراءات الدورية."
+
+msgid "btnClose"
+msgstr "إغلاق"
+
+msgid "btnRetry"
+msgstr "إعادة المحاولة"
+
+msgid "btnActivateAnyway"
+msgstr "التفعيل على أي حال"
+

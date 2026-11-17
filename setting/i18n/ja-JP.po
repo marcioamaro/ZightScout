@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ja-JP\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout コンパニオン"
+
+msgid "brandTag"
+msgstr "Nightscout コンパニオン"
+
+msgid "heroHeadline"
+msgstr "血糖値データを手首で確認しましょう！"
+
+msgid "heroDescription"
+msgstr "お使いの Amazfit をご自身の Nightscout サーバーに接続して、CGM 情報を手軽に、さりげなく確認できます。"
+
+msgid "heroCare"
+msgstr "糖尿病のある方と、その方を支える人々のために心を込めて作りました。 ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 重要:"
+
+msgid "importantBody"
+msgstr "アラートを正しく動作させるには、スマートウォッチの設定でアプリのバックグラウンド実行を許可してください。"
+
+msgid "disclaimerLabel"
+msgstr "⚠️ 免責事項:"
+
+msgid "disclaimerBody"
+msgstr "これは情報提供のみを目的としたツールであり、<strong>医療機器ではありません</strong>。承認された血糖モニタリングシステムの代わりにはならず、治療方針を決める唯一の根拠として使用しないでください。"
+
+msgid "supportLabel"
+msgstr "☕ プロジェクトを支援:"
+
+msgid "contactLabel"
+msgstr "📧 お問い合わせメール:"
+
+msgid "configurationTitle"
+msgstr "⚙️ 設定ガイド"
+
+msgid "configurationIntro"
+msgstr "URL とトークン（必要な場合）を設定するには、<strong>ZightScout3+</strong> アプリを開き、<em>設定</em>に進み、<em>サーバー</em>タブを選んで<em>URL を入力</em>をタップします。確認後にトークンの入力を求められます。トークンをお持ちでない場合は、何も入力せずにキーボードを閉じてください。"
+
+msgid "connectionCheck"
+msgstr "次に、<strong>接続をテスト</strong>をタップします。接続を確認するメッセージが表示されます。<span class=\"error\">401 ERROR</span> が表示された場合は、トークン認証に問題があります。"
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ 時計の重要な権限"
+
+msgid "watchPermissionLead"
+msgstr "時計の設定でこの項目を有効にする場所:"
+
+msgid "watchPermissionBody"
+msgstr "アプリを閉じた後も（バックグラウンドで）通知を送り、振動させるには、時計本体で ZightScout に権限を付与する必要があります。"
+
+msgid "watchPermissionCritical"
+msgstr "<strong>重要:</strong> 範囲外アラート／通知が届かず、サービスを<em>X 分ごと</em>の定期実行に設定している場合、アプリのバックグラウンド実行を<strong>必ず</strong>許可してください。"
+
+msgid "stepSettings"
+msgstr "Amazfit スマートウォッチで<strong>設定</strong>を開きます。"
+
+msgid "stepPermissions"
+msgstr "<strong>権限</strong>を開きます。"
+
+msgid "stepApp"
+msgstr "<strong>ZightScout</strong>を見つけて選択します。"
+
+msgid "stepBackground"
+msgstr "<strong>バックグラウンド実行</strong>または<strong>自動起動</strong>を許可します。"
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 対応言語"
+
+msgid "supportedLanguagesIntro"
+msgstr "アプリのインターフェースは、次の Zepp OS 対応言語でご利用いただけます:"
+
+msgid "footerSlogan"
+msgstr "テクノロジーで糖尿病の自己管理を支援します。"
+
+msgid "nativeSubtitle"
+msgstr "持続血糖モニタリング（CGM）"
+
+msgid "nativeWatchTitle"
+msgstr "時計の設定"
+
+msgid "nativeWatchText"
+msgstr "時計の ZightScout 設定で、範囲、アラート、バックグラウンド監視を設定できます。"
+
+msgid "nativeUsageTitle"
+msgstr "使用情報"
+
+msgid "nativeUsageServer"
+msgstr "時計には、このサーバーから取得した血糖値が表示されます。"
+
+msgid "nativeUsageTransfer"
+msgstr "URL は Bluetooth 経由で接続中の時計に転送されます。"

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nl-NL\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout-metgezel"
+
+msgid "brandTag"
+msgstr "Nightscout-metgezel"
+
+msgid "heroHeadline"
+msgstr "Haal je glucosegegevens naar je pols!"
+
+msgid "heroDescription"
+msgstr "Verbind je Amazfit met je eigen Nightscout-server en bekijk je CGM-gegevens gemakkelijk en discreet."
+
+msgid "heroCare"
+msgstr "Met zorg gemaakt voor mensen met diabetes en hun verzorgers. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Belangrijk:"
+
+msgid "importantBody"
+msgstr "Schakel de machtiging voor achtergronduitvoering van de app in via de instellingen van je smartwatch, zodat meldingen goed werken."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Disclaimer:"
+
+msgid "disclaimerBody"
+msgstr "Dit is alleen een hulpmiddel voor informatie, <strong>geen medisch hulpmiddel</strong>. Het vervangt geen goedgekeurde glucosebewakingssystemen en mag niet de enige basis zijn voor behandelbeslissingen."
+
+msgid "supportLabel"
+msgstr "☕ Steun het project:"
+
+msgid "contactLabel"
+msgstr "📧 Contact-e-mailadres:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Configuratiehandleiding"
+
+msgid "configurationIntro"
+msgstr "Open de app <strong>ZightScout3+</strong> om de URL en eventueel een token in te stellen. Ga naar <em>Instellingen</em>, kies het tabblad <em>Server</em> en tik op <em>URL invoeren</em>. Na bevestiging wordt om het token gevraagd. Heb je er geen, sluit dan gewoon het toetsenbord zonder iets in te voeren."
+
+msgid "connectionCheck"
+msgstr "Tik daarna op <strong>Verbinding testen</strong>. Er hoort een bericht te verschijnen dat de verbinding is bevestigd. Zie je <span class=\"error\">401 ERROR</span>, dan is er een probleem met de tokenverificatie."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Belangrijke horlogemachtiging"
+
+msgid "watchPermissionLead"
+msgstr "Zo schakel je dit in via de horloge-instellingen:"
+
+msgid "watchPermissionBody"
+msgstr "Om meldingen te versturen en te trillen wanneer de app gesloten is (op de achtergrond draait), moet ZightScout rechtstreeks op het horloge toestemming krijgen."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>ZEER BELANGRIJK:</strong> Ontvang je geen waarschuwingen/meldingen buiten het doelbereik en is de service ingesteld op periodieke uitvoering elke <em>X minuten</em>, dan <strong>moet</strong> je toestaan dat de app op de achtergrond draait."
+
+msgid "stepSettings"
+msgstr "Open op je Amazfit-smartwatch <strong>Instellingen</strong>."
+
+msgid "stepPermissions"
+msgstr "Open <strong>Machtigingen</strong>."
+
+msgid "stepApp"
+msgstr "Zoek <strong>ZightScout</strong> en selecteer de app."
+
+msgid "stepBackground"
+msgstr "Sta <strong>Op de achtergrond uitvoeren</strong> of <strong>Automatisch starten</strong> toe."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Ondersteunde talen"
+
+msgid "supportedLanguagesIntro"
+msgstr "De app-interface is beschikbaar in deze native Zepp OS-talen:"
+
+msgid "footerSlogan"
+msgstr "Diabetesbeheer ondersteunen met technologie."
+
+msgid "nativeSubtitle"
+msgstr "Continue glucosemonitor (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Horloge configureren"
+
+msgid "nativeWatchText"
+msgstr "Stel bereiken, meldingen en achtergrondbewaking in via ZightScout-instellingen op het horloge."
+
+msgid "nativeUsageTitle"
+msgstr "Gebruiksinformatie"
+
+msgid "nativeUsageServer"
+msgstr "Het horloge toont glucosemetingen van deze server."
+
+msgid "nativeUsageTransfer"
+msgstr "De URL wordt via Bluetooth naar het verbonden horloge verzonden."

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: vi-VN\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Ứng dụng đồng hành Nightscout"
+
+msgid "brandTag"
+msgstr "Ứng dụng đồng hành Nightscout"
+
+msgid "heroHeadline"
+msgstr "Đưa dữ liệu glucose lên cổ tay bạn!"
+
+msgid "heroDescription"
+msgstr "Kết nối Amazfit với máy chủ Nightscout riêng của bạn để xem thông tin CGM một cách thuận tiện và kín đáo."
+
+msgid "heroCare"
+msgstr "Được tạo bằng sự tận tâm dành cho người mắc bệnh tiểu đường và người chăm sóc. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Quan trọng:"
+
+msgid "importantBody"
+msgstr "Để cảnh báo hoạt động chính xác, bạn phải bật quyền chạy nền cho ứng dụng trong cài đặt đồng hồ thông minh."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Tuyên bố miễn trừ trách nhiệm:"
+
+msgid "disclaimerBody"
+msgstr "Đây chỉ là công cụ cung cấp thông tin, <strong>không phải thiết bị y tế</strong>. Ứng dụng không thay thế các hệ thống theo dõi glucose đã được phê duyệt và không nên là cơ sở duy nhất cho các quyết định điều trị."
+
+msgid "supportLabel"
+msgstr "☕ Ủng hộ dự án:"
+
+msgid "contactLabel"
+msgstr "📧 Email liên hệ:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Hướng dẫn cấu hình"
+
+msgid "configurationIntro"
+msgstr "Để cấu hình URL và Token (nếu cần), hãy mở ứng dụng <strong>ZightScout3+</strong>, vào <em>Cài đặt</em>, chọn thẻ <em>Máy chủ</em> rồi nhấn <em>Nhập URL</em>. Sau khi xác nhận, bạn sẽ được yêu cầu nhập token; nếu không có, chỉ cần đóng bàn phím mà không nhập gì."
+
+msgid "connectionCheck"
+msgstr "Tiếp theo, nhấn <strong>Kiểm tra kết nối</strong>. Một thông báo xác nhận kết nối thành công sẽ xuất hiện. Nếu thấy <span class=\"error\">401 ERROR</span>, nghĩa là có vấn đề xác thực Token."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Quyền quan trọng trên đồng hồ"
+
+msgid "watchPermissionLead"
+msgstr "Cách bật quyền này trong cài đặt đồng hồ:"
+
+msgid "watchPermissionBody"
+msgstr "Để gửi thông báo và rung khi ứng dụng đã đóng (chạy nền), ZightScout cần được cấp quyền trực tiếp trên đồng hồ."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>QUAN TRỌNG:</strong> Nếu bạn không nhận được Cảnh báo/Thông báo ngoài phạm vi và dịch vụ được đặt chạy định kỳ mỗi <em>X phút</em>, bạn <strong>phải</strong> cho phép ứng dụng chạy nền."
+
+msgid "stepSettings"
+msgstr "Trên đồng hồ thông minh Amazfit, mở <strong>Cài đặt</strong>."
+
+msgid "stepPermissions"
+msgstr "Mở <strong>Quyền</strong>."
+
+msgid "stepApp"
+msgstr "Tìm và chọn <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Cho phép <strong>Chạy nền</strong> hoặc <strong>Tự khởi động</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Ngôn ngữ được hỗ trợ"
+
+msgid "supportedLanguagesIntro"
+msgstr "Giao diện ứng dụng có sẵn bằng các ngôn ngữ Zepp OS sau:"
+
+msgid "footerSlogan"
+msgstr "Nâng cao hiệu quả quản lý bệnh tiểu đường bằng công nghệ."
+
+msgid "nativeSubtitle"
+msgstr "Máy theo dõi glucose liên tục (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Cấu hình đồng hồ"
+
+msgid "nativeWatchText"
+msgstr "Cấu hình khoảng giá trị, cảnh báo và theo dõi nền trong phần Cài đặt ZightScout trên đồng hồ."
+
+msgid "nativeUsageTitle"
+msgstr "Thông tin sử dụng"
+
+msgid "nativeUsageServer"
+msgstr "Đồng hồ hiển thị chỉ số glucose từ máy chủ này."
+
+msgid "nativeUsageTransfer"
+msgstr "URL được truyền đến đồng hồ đã kết nối qua Bluetooth."

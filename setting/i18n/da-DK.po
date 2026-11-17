@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: da-DK\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout-ledsager"
+
+msgid "brandTag"
+msgstr "Nightscout-ledsager"
+
+msgid "heroHeadline"
+msgstr "Få dine glukosedata på håndleddet!"
+
+msgid "heroDescription"
+msgstr "Forbind dit Amazfit-ur med din egen Nightscout-server, og se dine CGM-oplysninger nemt og diskret."
+
+msgid "heroCare"
+msgstr "Udviklet med omtanke for personer med diabetes og deres omsorgspersoner. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Vigtigt:"
+
+msgid "importantBody"
+msgstr "For at alarmer fungerer korrekt, skal du tillade, at appen kører i baggrunden, i dit smarturs indstillinger."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Ansvarsfraskrivelse:"
+
+msgid "disclaimerBody"
+msgstr "Dette er kun et informationsværktøj, <strong>ikke medicinsk udstyr</strong>. Det erstatter ikke godkendte systemer til glukosemåling og bør ikke bruges som eneste grundlag for behandlingsbeslutninger."
+
+msgid "supportLabel"
+msgstr "☕ Støt projektet:"
+
+msgid "contactLabel"
+msgstr "📧 Kontakt-e-mail:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Konfigurationsvejledning"
+
+msgid "configurationIntro"
+msgstr "Hvis du vil konfigurere URL'en og tokenet (hvis nødvendigt), skal du åbne appen <strong>ZightScout3+</strong>, gå til <em>Indstillinger</em>, vælge fanen <em>Server</em> og trykke på <em>Indtast URL</em>. Når du har bekræftet, bliver du bedt om tokenet. Hvis du ikke har et, skal du blot lukke tastaturet uden at indtaste noget."
+
+msgid "connectionCheck"
+msgstr "Tryk derefter på <strong>Test forbindelse</strong>. Der bør vises en meddelelse om, at forbindelsen er godkendt. Hvis du ser <span class=\"error\">401 ERROR</span>, er der et problem med tokenautentificeringen."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Vigtig tilladelse på uret"
+
+msgid "watchPermissionLead"
+msgstr "Sådan aktiverer du dette i urets indstillinger:"
+
+msgid "watchPermissionBody"
+msgstr "For at sende meddelelser og vibrere, når appen er lukket (kører i baggrunden), skal ZightScout have tilladelsen direkte på uret."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>VIGTIGT:</strong> Hvis du ikke modtager alarmer/meddelelser om værdier uden for målområdet, og tjenesten er indstillet til at køre regelmæssigt med et interval på <em>X minutter</em>, skal du <strong>tillade</strong>, at appen kører i baggrunden."
+
+msgid "stepSettings"
+msgstr "Åbn <strong>Indstillinger</strong> på dit Amazfit-smartur."
+
+msgid "stepPermissions"
+msgstr "Åbn <strong>Tilladelser</strong>."
+
+msgid "stepApp"
+msgstr "Find og vælg <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Tillad <strong>Kør i baggrunden</strong> eller <strong>Automatisk start</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Understøttede sprog"
+
+msgid "supportedLanguagesIntro"
+msgstr "Appens grænseflade findes på disse indbyggede Zepp OS-sprog:"
+
+msgid "footerSlogan"
+msgstr "Teknologi, der styrker håndteringen af diabetes."
+
+msgid "nativeSubtitle"
+msgstr "Kontinuerlig glukosemåling (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Urindstillinger"
+
+msgid "nativeWatchText"
+msgstr "Konfigurer målområder, alarmer og baggrundsovervågning i ZightScout-indstillingerne på uret."
+
+msgid "nativeUsageTitle"
+msgstr "Brugsoplysninger"
+
+msgid "nativeUsageServer"
+msgstr "Uret viser glukosemålinger fra denne server."
+
+msgid "nativeUsageTransfer"
+msgstr "URL'en overføres til det tilsluttede ur via Bluetooth."

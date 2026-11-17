@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "oleh Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Perangkat Tidak Didukung"
+
+msgid "unsupportedDeviceBody"
+msgstr "Resolusi {w}x{h} di bawah batas aman (390px).\n\nDemi keselamatan pasien, tampilan tidak diizinkan pada model ini."
+
+msgid "veryLow"
+msgstr "Sangat Rendah"
+
+msgid "low"
+msgstr "Rendah"
+
+msgid "inRange"
+msgstr "Dalam Target"
+
+msgid "high"
+msgstr "Tinggi"
+
+msgid "veryHigh"
+msgstr "Sangat Tinggi"
+
+msgid "stable"
+msgstr "Stabil"
+
+msgid "bleConnectingLabel"
+msgstr "BLE MENGHUBUNGKAN"
+
+msgid "bleConnectingDetail"
+msgstr "menghubungkan..."
+
+msgid "bleOffLabel"
+msgstr "BLE MATI"
+
+msgid "bleOffDetail"
+msgstr "terputus"
+
+msgid "bleWaitingLabel"
+msgstr "BLE MENUNGGU"
+
+msgid "bleWaitingPhone"
+msgstr "menunggu ponsel"
+
+msgid "bleNoRecentContact"
+msgstr "tidak ada kontak baru"
+
+msgid "bleOkLabel"
+msgstr "BLE OKE"
+
+msgid "bleContactAgo"
+msgstr "kontak "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL belum dikonfigurasi"
+
+msgid "httpErrorLabel"
+msgstr "HTTP ERROR"
+
+msgid "httpQueryFailed"
+msgstr "kueri gagal"
+
+msgid "httpFailLabel"
+msgstr "HTTP GAGAL"
+
+msgid "httpWaitingConnection"
+msgstr "menunggu koneksi"
+
+msgid "httpValidating"
+msgstr "memvalidasi..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP MENUNGGU"
+
+msgid "httpNoQuery"
+msgstr "tidak ada kueri"
+
+msgid "httpQueryAgo"
+msgstr "kueri "
+
+msgid "httpOkLabel"
+msgstr "HTTP OKE"
+
+msgid "readingNoAccessLabel"
+msgstr "TIDAK ADA AKSES"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "menghubungkan bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth terputus"
+
+msgid "readingNoAccessNoData"
+msgstr "tidak ada akses data"
+
+msgid "readingNoReadingLabel"
+msgstr "TIDAK ADA BACAAN"
+
+msgid "readingWaitingGlucose"
+msgstr "menunggu glukosa"
+
+msgid "readingExpiredLabel"
+msgstr "KEDALUWARSA"
+
+msgid "readingDelayedLabel"
+msgstr "TERTUNDA"
+
+msgid "readingAgo"
+msgstr "bacaan "
+
+msgid "readingCurrentLabel"
+msgstr "SAAT INI"
+
+msgid "readingUpdated"
+msgstr "bacaan terbaru"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "TIDAK ADA DATA"
+
+msgid "nowUpper"
+msgstr "SEKARANG"
+
+msgid "minWord"
+msgstr "MENIT"
+
+msgid "ageNow"
+msgstr "Baru saja"
+
+msgid "age1Min"
+msgstr "1 mnt lalu"
+
+msgid "ageXMin"
+msgstr "{n} mnt lalu"
+
+msgid "age1Hour"
+msgstr "1 jam lalu"
+
+msgid "ageXHours"
+msgstr "{n} jam lalu"
+
+msgid "refreshBtn"
+msgstr "Segarkan"
+
+msgid "refreshToast"
+msgstr "Memperbarui glukosa..."
+
+msgid "settingsBtn"
+msgstr "Pengaturan"
+
+msgid "starting"
+msgstr "Memulai..."
+
+msgid "bgInterrupted"
+msgstr "Layanan latar belakang berhenti. Periksa pengaturan."
+
+msgid "lastUpdatePrefix"
+msgstr "Pembaruan terakhir: "
+
+msgid "waitingUpdate"
+msgstr "Menunggu pembaruan"
+
+msgid "snoozeActiveBanner"
+msgstr "TUNDA AKTIF • "
+
+msgid "snoozeDisabledBanner"
+msgstr "TUNDA MATI"
+
+msgid "snoozeActiveStatus"
+msgstr " • TUNDA AKTIF • "
+
+msgid "minRemaining"
+msgstr " mnt tersisa"
+
+msgid "p2Title"
+msgstr "Pengaturan ZightScout"
+
+msgid "tabRanges"
+msgstr "Rentang"
+
+msgid "tabAlerts"
+msgstr "Peringatan / Latar"
+
+msgid "tabServer"
+msgstr "Server"
+
+msgid "saveAndReturn"
+msgstr "Simpan & Keluar"
+
+msgid "veryLowThreshold"
+msgstr "Sangat Rendah (<)"
+
+msgid "lowThreshold"
+msgstr "Rendah (<)"
+
+msgid "highThreshold"
+msgstr "Tinggi (>)"
+
+msgid "veryHighThreshold"
+msgstr "Sangat Tinggi (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Di Luar Target (Kuning)"
+
+msgid "vibOn"
+msgstr "Getar: NYALA"
+
+msgid "vibOff"
+msgstr "Getar: MATI"
+
+msgid "testBtn"
+msgstr "Uji"
+
+msgid "test3xBtn"
+msgstr "Uji 3x"
+
+msgid "redAlertTitle"
+msgstr "Merah: 3 peringatan"
+
+msgid "bgIntervalPrefix"
+msgstr "Latar: setiap "
+
+msgid "bgIntervalSuffix"
+msgstr " mnt"
+
+msgid "bgIntervalOff"
+msgstr "Latar: Mati"
+
+msgid "bgPermissionNotice"
+msgstr "Untuk layanan latar belakang, aktifkan\nizin di pengaturan jam tangan."
+
+msgid "optOff"
+msgstr "Mati"
+
+msgid "snoozeActiveLabel"
+msgstr "Tunda aktif: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Tunda tidak aktif"
+
+msgid "cancelSnooze"
+msgstr "Batalkan tunda"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Batalkan tunda?"
+
+msgid "btnYes"
+msgstr "Ya"
+
+msgid "btnNo"
+msgstr "Tidak"
+
+msgid "snoozeCancelledToast"
+msgstr "Tunda dibatalkan"
+
+msgid "serverHeader"
+msgstr "Server Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "URL belum dikonfigurasi"
+
+msgid "tapToTest"
+msgstr "Ketuk di bawah untuk\nmenguji koneksi"
+
+msgid "diagnosticTitle"
+msgstr "Diagnostik: "
+
+msgid "lastReading"
+msgstr "bacaan terakhir "
+
+msgid "noReadingDiag"
+msgstr "tidak ada bacaan"
+
+msgid "bgActivePrefix"
+msgstr "Latar belakang: "
+
+msgid "bgActiveHa"
+msgstr "aktif selama "
+
+msgid "bgNoSignal"
+msgstr "tidak ada sinyal"
+
+msgid "enterUrlBtn"
+msgstr "Masukkan URL"
+
+msgid "testConnBtn"
+msgstr "Uji Koneksi"
+
+msgid "unitNotDetected"
+msgstr "Satuan tidak terdeteksi.\nPilih satuan:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OKE.\nPilih satuan dan simpan."
+
+msgid "unitDetected"
+msgstr "Satuan terdeteksi: {unit}"
+
+msgid "unitSelected"
+msgstr "Satuan dipilih: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Gagal menyimpan satuan"
+
+msgid "tokenConfigured"
+msgstr "Token: dikonfigurasi"
+
+msgid "tokenOptional"
+msgstr "Token: opsional"
+
+msgid "pasteToken"
+msgstr "Tempel token. Kosongkan untuk menghapus."
+
+msgid "tokenOpenFail"
+msgstr "Gagal membuka keyboard"
+
+msgid "tokenInvalid"
+msgstr "Token tidak valid"
+
+msgid "tokenSaveFail"
+msgstr "Gagal menyimpan token"
+
+msgid "tokenSaved"
+msgstr "Token disimpan di ponsel"
+
+msgid "tokenRemoved"
+msgstr "Token dihapus"
+
+msgid "testFailToast"
+msgstr "Gagal mengirim uji"
+
+msgid "noResponseServer"
+msgstr "Tidak ada respon dari server"
+
+msgid "criticalAlertTitle"
+msgstr "Glukosa Kritis"
+
+msgid "warningAlertTitle"
+msgstr "Glukosa di Luar Target"
+
+msgid "openNotification"
+msgstr "Buka"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Offline"
+
+msgid "offlineAlertBody"
+msgstr "Tidak ada data selama {minutes} mnt. Periksa Bluetooth & aplikasi Zepp"
+
+msgid "minXAction"
+msgstr "{n} mnt"
+
+msgid "snoozeToast"
+msgstr "Tunda: {minutes} mnt"
+
+msgid "alertPrefix"
+msgstr "Peringatan:"
+
+msgid "initialConnStatus"
+msgstr "BLE MENUNGGU | HTTP MENUNGGU | TIDAK ADA DATA"
+
+msgid "bleSendFail"
+msgstr "Pengiriman gagal"
+
+msgid "syncing"
+msgstr "Menyinkronkan..."
+
+msgid "updating"
+msgstr "Memperbarui..."
+
+msgid "nightscoutError"
+msgstr "Kesalahan Nightscout"
+
+msgid "dataParseError"
+msgstr "Kesalahan penguraian data"
+
+msgid "genericError"
+msgstr "Kesalahan"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token Dikonfigurasi"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Masukkan Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Masukkan Token?"
+
+msgid "promptTokenBody"
+msgstr "Masukkan token untuk Nightscout pribadi?"
+
+msgid "noBtn"
+msgstr "Tidak"
+
+msgid "yesBtn"
+msgstr "Ya"
+
+msgid "invalidUrl"
+msgstr "URL tidak valid"
+
+msgid "urlSaveFail"
+msgstr "Gagal menyimpan URL"
+
+msgid "urlAndTokenSaved"
+msgstr "URL & Token disimpan!"
+
+msgid "invalidRanges"
+msgstr "Rentang tidak valid"
+
+msgid "settingsSavedToast"
+msgstr "Pengaturan disimpan"
+
+msgid "urlOkResponse"
+msgstr "URL OKE (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token valid (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Tidak Diizinkan)"
+
+msgid "http403"
+msgstr "HTTP 403 (Dilarang)"
+
+msgid "http404"
+msgstr "HTTP 404 (Tidak Ditemukan)"
+
+msgid "http429"
+msgstr "HTTP 429 (Terlalu Banyak Permintaan)"
+
+msgid "http500"
+msgstr "HTTP 500 (Kesalahan Server)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Server Tidak Tersedia)"
+
+msgid "errTimeout"
+msgstr "Tidak ada respon (Waktu Habis)"
+
+msgid "errNetworkShort"
+msgstr "Tidak ada koneksi jaringan"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth terputus"
+
+msgid "testFailPrefix"
+msgstr "Gagal:"
+
+msgid "tokenObtained"
+msgstr "Token diperoleh!"
+
+msgid "tokenObtainFail"
+msgstr "Gagal memperoleh token"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Tunda aktif: {minutes} mnt"
+
+msgid "errNoUrl"
+msgstr "URL Nightscout belum dikonfigurasi"
+
+msgid "errAuth"
+msgstr "Token tidak valid atau tidak ada izin baca"
+
+msgid "errRateLimit"
+msgstr "Batas kueri tercapai; coba lagi nanti"
+
+msgid "errServerDown"
+msgstr "Server Nightscout tidak tersedia"
+
+msgid "errNoReadings"
+msgstr "Tidak ada bacaan di Nightscout"
+
+msgid "errNetwork"
+msgstr "Masalah koneksi: server tidak tersedia"
+
+msgid "authAdmin"
+msgstr "Token tulis (Admin)"
+
+msgid "authReadable"
+msgstr "Token baca saja (Aman)"
+
+msgid "authAnon"
+msgstr "Akses anonim / tanpa token"
+
+msgid "tapToRefresh"
+msgstr "Ketuk Segarkan"
+
+msgid "staleDataPrompt"
+msgstr "Data kedaluwarsa"
+
+msgid "testAlertCritTitle"
+msgstr "UJI - Merah"
+
+msgid "testAlertWarnTitle"
+msgstr "UJI - Kuning"
+
+msgid "testAlertBody"
+msgstr "Uji getaran dan notifikasi."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Izin Latar Belakang"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Untuk menerima peringatan saat layar mati, diperlukan izin 'Layanan Latar Belakang'.\n\nTanpa izin ini, pembacaan berkala tidak berfungsi."
+
+msgid "btnClose"
+msgstr "Tutup"
+
+msgid "btnRetry"
+msgstr "Coba Lagi"
+
+msgid "btnActivateAnyway"
+msgstr "Tetap Aktifkan"
+

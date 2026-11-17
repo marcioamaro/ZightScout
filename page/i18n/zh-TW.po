@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "由 Márcio Amaro 開發"
+
+msgid "unsupportedDeviceTitle"
+msgstr "不支援的裝置"
+
+msgid "unsupportedDeviceBody"
+msgstr "解析度 {w}x{h} 低於安全下限 (390px)。\n\n為保障患者安全，此型號不允許檢視。"
+
+msgid "veryLow"
+msgstr "極低"
+
+msgid "low"
+msgstr "偏低"
+
+msgid "inRange"
+msgstr "在目標範圍"
+
+msgid "high"
+msgstr "偏高"
+
+msgid "veryHigh"
+msgstr "極高"
+
+msgid "stable"
+msgstr "穩定"
+
+msgid "bleConnectingLabel"
+msgstr "藍牙連線中"
+
+msgid "bleConnectingDetail"
+msgstr "正在連線..."
+
+msgid "bleOffLabel"
+msgstr "藍牙關閉"
+
+msgid "bleOffDetail"
+msgstr "已斷開連線"
+
+msgid "bleWaitingLabel"
+msgstr "藍牙等待中"
+
+msgid "bleWaitingPhone"
+msgstr "等待手機回應"
+
+msgid "bleNoRecentContact"
+msgstr "近期無通訊"
+
+msgid "bleOkLabel"
+msgstr "藍牙正常"
+
+msgid "bleContactAgo"
+msgstr "通訊於 "
+
+msgid "httpUrlLabel"
+msgstr "HTTP 網址"
+
+msgid "httpUrlNotConfigured"
+msgstr "未設定網址"
+
+msgid "httpErrorLabel"
+msgstr "HTTP 錯誤"
+
+msgid "httpQueryFailed"
+msgstr "查詢失敗"
+
+msgid "httpFailLabel"
+msgstr "HTTP 失敗"
+
+msgid "httpWaitingConnection"
+msgstr "等待網路連線"
+
+msgid "httpValidating"
+msgstr "正在驗證..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP 等待中"
+
+msgid "httpNoQuery"
+msgstr "無查詢記錄"
+
+msgid "httpQueryAgo"
+msgstr "查詢於 "
+
+msgid "httpOkLabel"
+msgstr "HTTP 正常"
+
+msgid "readingNoAccessLabel"
+msgstr "無法存取"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "正在連線藍牙"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "藍牙已斷開"
+
+msgid "readingNoAccessNoData"
+msgstr "無數據存取"
+
+msgid "readingNoReadingLabel"
+msgstr "無讀數"
+
+msgid "readingWaitingGlucose"
+msgstr "等待血糖讀數"
+
+msgid "readingExpiredLabel"
+msgstr "讀數過期"
+
+msgid "readingDelayedLabel"
+msgstr "讀數延遲"
+
+msgid "readingAgo"
+msgstr "讀數於 "
+
+msgid "readingCurrentLabel"
+msgstr "當前讀數"
+
+msgid "readingUpdated"
+msgstr "讀數已是最新"
+
+msgid "portWord"
+msgstr "連接埠 "
+
+msgid "noData"
+msgstr "無數據"
+
+msgid "nowUpper"
+msgstr "剛剛"
+
+msgid "minWord"
+msgstr "分鐘"
+
+msgid "ageNow"
+msgstr "剛剛"
+
+msgid "age1Min"
+msgstr "1 分鐘前"
+
+msgid "ageXMin"
+msgstr "{n} 分鐘前"
+
+msgid "age1Hour"
+msgstr "1 小時前"
+
+msgid "ageXHours"
+msgstr "{n} 小時前"
+
+msgid "refreshBtn"
+msgstr "重新整理"
+
+msgid "refreshToast"
+msgstr "正在更新血糖..."
+
+msgid "settingsBtn"
+msgstr "設定"
+
+msgid "starting"
+msgstr "正在啟動..."
+
+msgid "bgInterrupted"
+msgstr "背景服務已停止，請檢查設定。"
+
+msgid "lastUpdatePrefix"
+msgstr "最後更新："
+
+msgid "waitingUpdate"
+msgstr "等待更新中"
+
+msgid "snoozeActiveBanner"
+msgstr "靜音暫停中 • "
+
+msgid "snoozeDisabledBanner"
+msgstr "靜音已關閉"
+
+msgid "snoozeActiveStatus"
+msgstr " • 靜音暫停中 • "
+
+msgid "minRemaining"
+msgstr " 分鐘剩餘"
+
+msgid "p2Title"
+msgstr "ZightScout 設定"
+
+msgid "tabRanges"
+msgstr "範圍"
+
+msgid "tabAlerts"
+msgstr "警報 / 背景"
+
+msgid "tabServer"
+msgstr "伺服器"
+
+msgid "saveAndReturn"
+msgstr "儲存並退出"
+
+msgid "veryLowThreshold"
+msgstr "極低 (<)"
+
+msgid "lowThreshold"
+msgstr "偏低 (<)"
+
+msgid "highThreshold"
+msgstr "偏高 (>)"
+
+msgid "veryHighThreshold"
+msgstr "極高 (>)"
+
+msgid "yellowAlertTitle"
+msgstr "超出目標 (黃色)"
+
+msgid "vibOn"
+msgstr "震動：開啟"
+
+msgid "vibOff"
+msgstr "震動：關閉"
+
+msgid "testBtn"
+msgstr "測試"
+
+msgid "test3xBtn"
+msgstr "測試 3 次"
+
+msgid "redAlertTitle"
+msgstr "紅色：3 次警報"
+
+msgid "bgIntervalPrefix"
+msgstr "背景間隔：每 "
+
+msgid "bgIntervalSuffix"
+msgstr " 分鐘"
+
+msgid "bgIntervalOff"
+msgstr "背景服務：關閉"
+
+msgid "bgPermissionNotice"
+msgstr "若要使用背景服務，請在手錶設定中開啟權限。"
+
+msgid "optOff"
+msgstr "關閉"
+
+msgid "snoozeActiveLabel"
+msgstr "靜音生效中："
+
+msgid "snoozeInactiveLabel"
+msgstr "靜音未啟用"
+
+msgid "cancelSnooze"
+msgstr "取消靜音"
+
+msgid "cancelSnoozeConfirm"
+msgstr "確認取消靜音？"
+
+msgid "btnYes"
+msgstr "是"
+
+msgid "btnNo"
+msgstr "否"
+
+msgid "snoozeCancelledToast"
+msgstr "靜音已取消"
+
+msgid "serverHeader"
+msgstr "Nightscout 伺服器："
+
+msgid "noUrlConfigured"
+msgstr "尚未設定網址"
+
+msgid "tapToTest"
+msgstr "點擊下方\n測試伺服器連線"
+
+msgid "diagnosticTitle"
+msgstr "診斷："
+
+msgid "lastReading"
+msgstr "最後讀數 "
+
+msgid "noReadingDiag"
+msgstr "無讀數記錄"
+
+msgid "bgActivePrefix"
+msgstr "背景服務："
+
+msgid "bgActiveHa"
+msgstr "已運行 "
+
+msgid "bgNoSignal"
+msgstr "無訊號"
+
+msgid "enterUrlBtn"
+msgstr "輸入網址"
+
+msgid "testConnBtn"
+msgstr "測試連線"
+
+msgid "unitNotDetected"
+msgstr "未能偵測到單位。\n請選擇單位："
+
+msgid "urlOkSelectUnit"
+msgstr "網址正常。\n請選擇單位並儲存。"
+
+msgid "unitDetected"
+msgstr "偵測到單位：{unit}"
+
+msgid "unitSelected"
+msgstr "已選擇單位：{unit}"
+
+msgid "unitSaveFailed"
+msgstr "儲存單位失敗"
+
+msgid "tokenConfigured"
+msgstr "權杖：已設定"
+
+msgid "tokenOptional"
+msgstr "權杖：選填"
+
+msgid "pasteToken"
+msgstr "貼上權杖（留空以清除）"
+
+msgid "tokenOpenFail"
+msgstr "無法開啟輸入法鍵盤"
+
+msgid "tokenInvalid"
+msgstr "權杖無效"
+
+msgid "tokenSaveFail"
+msgstr "儲存權杖失敗"
+
+msgid "tokenSaved"
+msgstr "權杖已儲存於手機"
+
+msgid "tokenRemoved"
+msgstr "權杖已移除"
+
+msgid "testFailToast"
+msgstr "發送測試警報失敗"
+
+msgid "noResponseServer"
+msgstr "伺服器無回應"
+
+msgid "criticalAlertTitle"
+msgstr "危險血糖警報"
+
+msgid "warningAlertTitle"
+msgstr "血糖超出目標範圍"
+
+msgid "openNotification"
+msgstr "開啟"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout 離線"
+
+msgid "offlineAlertBody"
+msgstr "{minutes} 分鐘未收到數據。請檢查藍牙與 Zepp App"
+
+msgid "minXAction"
+msgstr "{n} 分鐘"
+
+msgid "snoozeToast"
+msgstr "靜音暫停：{minutes} 分鐘"
+
+msgid "alertPrefix"
+msgstr "警報："
+
+msgid "initialConnStatus"
+msgstr "藍牙等待中 | HTTP 等待中 | 無數據"
+
+msgid "bleSendFail"
+msgstr "發送失敗"
+
+msgid "syncing"
+msgstr "同步中..."
+
+msgid "updating"
+msgstr "更新中..."
+
+msgid "nightscoutError"
+msgstr "Nightscout 錯誤"
+
+msgid "dataParseError"
+msgstr "數據解析錯誤"
+
+msgid "genericError"
+msgstr "錯誤"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 權杖已設定"
+
+msgid "enterTokenBtn"
+msgstr "🔑 輸入權杖 / Secret"
+
+msgid "promptTokenTitle"
+msgstr "是否輸入權杖？"
+
+msgid "promptTokenBody"
+msgstr "是否為私有 Nightscout 輸入權杖？"
+
+msgid "noBtn"
+msgstr "否"
+
+msgid "yesBtn"
+msgstr "是"
+
+msgid "invalidUrl"
+msgstr "網址格式無效"
+
+msgid "urlSaveFail"
+msgstr "儲存網址失敗"
+
+msgid "urlAndTokenSaved"
+msgstr "網址與權杖已儲存！"
+
+msgid "invalidRanges"
+msgstr "設定範圍無效"
+
+msgid "settingsSavedToast"
+msgstr "設定已儲存"
+
+msgid "urlOkResponse"
+msgstr "網址正常 (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "網址與權杖有效 (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401（未授權）"
+
+msgid "http403"
+msgstr "HTTP 403（禁止存取）"
+
+msgid "http404"
+msgstr "HTTP 404（找不到網址）"
+
+msgid "http429"
+msgstr "HTTP 429（請求過多）"
+
+msgid "http500"
+msgstr "HTTP 500（伺服器錯誤）"
+
+msgid "http5xx"
+msgstr "HTTP {code}（伺服器不可用）"
+
+msgid "errTimeout"
+msgstr "無回應（逾時）"
+
+msgid "errNetworkShort"
+msgstr "無網路連線"
+
+msgid "errBleDisconnected"
+msgstr "藍牙已斷開"
+
+msgid "testFailPrefix"
+msgstr "失敗："
+
+msgid "tokenObtained"
+msgstr "已取得權杖！"
+
+msgid "tokenObtainFail"
+msgstr "取得權杖失敗"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "靜音暫停中：{minutes} 分鐘"
+
+msgid "errNoUrl"
+msgstr "尚未設定 Nightscout 網址"
+
+msgid "errAuth"
+msgstr "權杖無效或缺少讀取權限"
+
+msgid "errRateLimit"
+msgstr "達到查詢限制，請稍後再試"
+
+msgid "errServerDown"
+msgstr "Nightscout 伺服器不可用"
+
+msgid "errNoReadings"
+msgstr "Nightscout 中無血糖讀數"
+
+msgid "errNetwork"
+msgstr "連線問題：伺服器不可用"
+
+msgid "authAdmin"
+msgstr "寫入權杖 (管理員)"
+
+msgid "authReadable"
+msgstr "唯讀權杖 (安全)"
+
+msgid "authAnon"
+msgstr "匿名存取 / 無權杖"
+
+msgid "tapToRefresh"
+msgstr "點擊重新整理"
+
+msgid "staleDataPrompt"
+msgstr "數據已過期"
+
+msgid "testAlertCritTitle"
+msgstr "測試 - 紅色"
+
+msgid "testAlertWarnTitle"
+msgstr "測試 - 黃色"
+
+msgid "testAlertBody"
+msgstr "震動與通知測試。"
+
+msgid "bgPermissionDeniedTitle"
+msgstr "背景執行權限"
+
+msgid "bgPermissionDeniedBody"
+msgstr "為了在螢幕關閉或待機時接收警報和通知，ZightScout 需要「背景服務」權限。\n\n缺少此權限，定期讀取功能將無法運作。"
+
+msgid "btnClose"
+msgstr "關閉"
+
+msgid "btnRetry"
+msgstr "重試"
+
+msgid "btnActivateAnyway"
+msgstr "仍然啟用"
+

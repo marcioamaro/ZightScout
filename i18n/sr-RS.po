@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "autor Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Nepodržan uređaj"
+
+msgid "unsupportedDeviceBody"
+msgstr "Rezolucija {w}x{h} je ispod bezbedne granice (390px).\n\nZbog bezbednosti pacijenta prikaz na ovom modelu nije dozvoljen."
+
+msgid "veryLow"
+msgstr "Veoma nisko"
+
+msgid "low"
+msgstr "Nisko"
+
+msgid "inRange"
+msgstr "U cilju"
+
+msgid "high"
+msgstr "Visoko"
+
+msgid "veryHigh"
+msgstr "Veoma visoko"
+
+msgid "stable"
+msgstr "Stabilno"
+
+msgid "bleConnectingLabel"
+msgstr "BLE POVEZIVANJE"
+
+msgid "bleConnectingDetail"
+msgstr "povezivanje..."
+
+msgid "bleOffLabel"
+msgstr "BLE ISKLJUČEN"
+
+msgid "bleOffDetail"
+msgstr "prekinuta veza"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ČEKANJE"
+
+msgid "bleWaitingPhone"
+msgstr "čekanje na telefon"
+
+msgid "bleNoRecentContact"
+msgstr "nema nedavnog kontakta"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "kontakt "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL nije konfigurisan"
+
+msgid "httpErrorLabel"
+msgstr "HTTP GREŠKA"
+
+msgid "httpQueryFailed"
+msgstr "upit nije uspeo"
+
+msgid "httpFailLabel"
+msgstr "HTTP NEUSPEH"
+
+msgid "httpWaitingConnection"
+msgstr "čekanje na mrežu"
+
+msgid "httpValidating"
+msgstr "provera..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ČEKANJE"
+
+msgid "httpNoQuery"
+msgstr "nema upita"
+
+msgid "httpQueryAgo"
+msgstr "upit "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "NEMA PRISTUPA"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "povezivanje bluetooth-a"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth isključen"
+
+msgid "readingNoAccessNoData"
+msgstr "nema pristupa podacima"
+
+msgid "readingNoReadingLabel"
+msgstr "NEMA OČITAVANJA"
+
+msgid "readingWaitingGlucose"
+msgstr "čekanje na glukozu"
+
+msgid "readingExpiredLabel"
+msgstr "ISTEKLO"
+
+msgid "readingDelayedLabel"
+msgstr "ODLOŽENO"
+
+msgid "readingAgo"
+msgstr "očitavanje "
+
+msgid "readingCurrentLabel"
+msgstr "TRENUTNO"
+
+msgid "readingUpdated"
+msgstr "očitavanje ažurirano"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "NEMA PODATAKA"
+
+msgid "nowUpper"
+msgstr "SADA"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Upravo sada"
+
+msgid "age1Min"
+msgstr "pre 1 min"
+
+msgid "ageXMin"
+msgstr "pre {n} min"
+
+msgid "age1Hour"
+msgstr "pre 1 sat"
+
+msgid "ageXHours"
+msgstr "pre {n} sati"
+
+msgid "refreshBtn"
+msgstr "Osveži"
+
+msgid "refreshToast"
+msgstr "Ažuriranje glukoze..."
+
+msgid "settingsBtn"
+msgstr "Podešavanja"
+
+msgid "starting"
+msgstr "Pokretanje..."
+
+msgid "bgInterrupted"
+msgstr "Pozadinska služba zaustavljena. Proverite podešavanja."
+
+msgid "lastUpdatePrefix"
+msgstr "Poslednje ažuriranje: "
+
+msgid "waitingUpdate"
+msgstr "Čekanje na ažuriranje"
+
+msgid "snoozeActiveBanner"
+msgstr "PAUZA AKTIVNA • "
+
+msgid "snoozeDisabledBanner"
+msgstr "PAUZA ISKLJUČENA"
+
+msgid "snoozeActiveStatus"
+msgstr " • PAUZA AKTIVNA • "
+
+msgid "minRemaining"
+msgstr " min preostalo"
+
+msgid "p2Title"
+msgstr "ZightScout Podešavanja"
+
+msgid "tabRanges"
+msgstr "Rasponi"
+
+msgid "tabAlerts"
+msgstr "Alarmi / Pozadina"
+
+msgid "tabServer"
+msgstr "Server"
+
+msgid "saveAndReturn"
+msgstr "Sačuvaj i zatvori"
+
+msgid "veryLowThreshold"
+msgstr "Veoma nisko (<)"
+
+msgid "lowThreshold"
+msgstr "Nisko (<)"
+
+msgid "highThreshold"
+msgstr "Visoko (>)"
+
+msgid "veryHighThreshold"
+msgstr "Veoma visoko (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Van cilja (Žuto)"
+
+msgid "vibOn"
+msgstr "Vibracija: UKLJ"
+
+msgid "vibOff"
+msgstr "Vibracija: ISKLJ"
+
+msgid "testBtn"
+msgstr "Test"
+
+msgid "test3xBtn"
+msgstr "Test 3x"
+
+msgid "redAlertTitle"
+msgstr "Crveno: 3 alarma"
+
+msgid "bgIntervalPrefix"
+msgstr "Pozadina: svakih "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Pozadina: Isključeno"
+
+msgid "bgPermissionNotice"
+msgstr "Za pozadinski rad omogućite\ndozvolu u podešavanjima sata."
+
+msgid "optOff"
+msgstr "Isklj"
+
+msgid "snoozeActiveLabel"
+msgstr "Pauza aktivna: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Pauza nije aktivna"
+
+msgid "cancelSnooze"
+msgstr "Otkaži pauzu"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Otkaži pauzu?"
+
+msgid "btnYes"
+msgstr "Da"
+
+msgid "btnNo"
+msgstr "Ne"
+
+msgid "snoozeCancelledToast"
+msgstr "Pauza otkazana"
+
+msgid "serverHeader"
+msgstr "Nightscout Server:"
+
+msgid "noUrlConfigured"
+msgstr "URL nije podešen"
+
+msgid "tapToTest"
+msgstr "Dodirnite ispod za\ntestiranje servera"
+
+msgid "diagnosticTitle"
+msgstr "Dijagnostika: "
+
+msgid "lastReading"
+msgstr "poslednje očitavanje "
+
+msgid "noReadingDiag"
+msgstr "nema očitavanja"
+
+msgid "bgActivePrefix"
+msgstr "Pozadina: "
+
+msgid "bgActiveHa"
+msgstr "aktivna "
+
+msgid "bgNoSignal"
+msgstr "nema signala"
+
+msgid "enterUrlBtn"
+msgstr "Unesi URL"
+
+msgid "testConnBtn"
+msgstr "Testiraj vezu"
+
+msgid "unitNotDetected"
+msgstr "Jedinica nije prepoznata.\nIzaberite jedinicu:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nIzaberite jedinicu i sačuvajte."
+
+msgid "unitDetected"
+msgstr "Otkrivena jedinica: {unit}"
+
+msgid "unitSelected"
+msgstr "Izabrana jedinica: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Neuspešno čuvanje jedinice"
+
+msgid "tokenConfigured"
+msgstr "Token: podešen"
+
+msgid "tokenOptional"
+msgstr "Token: opcionalan"
+
+msgid "pasteToken"
+msgstr "Nalepi token. Prazno za brisanje."
+
+msgid "tokenOpenFail"
+msgstr "Neuspešno otvaranje tastature"
+
+msgid "tokenInvalid"
+msgstr "Nevažeći token"
+
+msgid "tokenSaveFail"
+msgstr "Neuspešno čuvanje tokena"
+
+msgid "tokenSaved"
+msgstr "Token sačuvan na telefonu"
+
+msgid "tokenRemoved"
+msgstr "Token uklonjen"
+
+msgid "testFailToast"
+msgstr "Slanje test alarma nije uspelo"
+
+msgid "noResponseServer"
+msgstr "Nema odgovora od servera"
+
+msgid "criticalAlertTitle"
+msgstr "Kritična glukoza"
+
+msgid "warningAlertTitle"
+msgstr "Glukoza van cilja"
+
+msgid "openNotification"
+msgstr "Otvori"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Van mreže"
+
+msgid "offlineAlertBody"
+msgstr "Nema podataka {minutes} min. Proverite Bluetooth i Zepp aplikaciju"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Pauza: {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Alarm:"
+
+msgid "initialConnStatus"
+msgstr "BLE ČEKANJE | HTTP ČEKANJE | NEMA PODATAKA"
+
+msgid "bleSendFail"
+msgstr "Slanje nije uspelo"
+
+msgid "syncing"
+msgstr "Sinhronizacija..."
+
+msgid "updating"
+msgstr "Ažuriranje..."
+
+msgid "nightscoutError"
+msgstr "Nightscout greška"
+
+msgid "dataParseError"
+msgstr "Greška obrade podataka"
+
+msgid "genericError"
+msgstr "Greška"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token konfigurisan"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Unesi Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Unesite Token?"
+
+msgid "promptTokenBody"
+msgstr "Unesite token za privatni Nightscout?"
+
+msgid "noBtn"
+msgstr "Ne"
+
+msgid "yesBtn"
+msgstr "Da"
+
+msgid "invalidUrl"
+msgstr "Nevažeći URL"
+
+msgid "urlSaveFail"
+msgstr "Čuvanje URL-a nije uspelo"
+
+msgid "urlAndTokenSaved"
+msgstr "URL i token sačuvani!"
+
+msgid "invalidRanges"
+msgstr "Nevažeći rasponi"
+
+msgid "settingsSavedToast"
+msgstr "Podešavanja sačuvana"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token važeći (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Neautorizovano)"
+
+msgid "http403"
+msgstr "HTTP 403 (Zabranjeno)"
+
+msgid "http404"
+msgstr "HTTP 404 (Nije pronađeno)"
+
+msgid "http429"
+msgstr "HTTP 429 (Previše zahteva)"
+
+msgid "http500"
+msgstr "HTTP 500 (Greška servera)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Server nedostupan)"
+
+msgid "errTimeout"
+msgstr "Nema odgovora (Isteklo vreme)"
+
+msgid "errNetworkShort"
+msgstr "Nema mrežne veze"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth prekinut"
+
+msgid "testFailPrefix"
+msgstr "Neuspeh:"
+
+msgid "tokenObtained"
+msgstr "Token dobijen!"
+
+msgid "tokenObtainFail"
+msgstr "Pribavljanje tokena nije uspelo"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Pauza aktivna: {minutes} min"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL nije podešen"
+
+msgid "errAuth"
+msgstr "Nevažeći token ili nedostaje dozvola za čitanje"
+
+msgid "errRateLimit"
+msgstr "Dostignuto ograničenje upita; pokušajte kasnije"
+
+msgid "errServerDown"
+msgstr "Nightscout server nedostupan"
+
+msgid "errNoReadings"
+msgstr "Nema očitavanja u Nightscout-u"
+
+msgid "errNetwork"
+msgstr "Problem sa vezom: server nedostupan"
+
+msgid "authAdmin"
+msgstr "Token za pisanje (Admin)"
+
+msgid "authReadable"
+msgstr "Token samo za čitanje (Bezbedno)"
+
+msgid "authAnon"
+msgstr "Anoniman pristup / bez tokena"
+
+msgid "tapToRefresh"
+msgstr "Dodirnite za osvežavanje"
+
+msgid "staleDataPrompt"
+msgstr "Zastareli podaci"
+
+msgid "testAlertCritTitle"
+msgstr "TEST - Crveno"
+
+msgid "testAlertWarnTitle"
+msgstr "TEST - Žuto"
+
+msgid "testAlertBody"
+msgstr "Test vibracije i obaveštenja."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Dozvola za pozadinu"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Za prijem alarma dok je ekran isključen, potrebna je dozvola 'Pozadinska služba'.\n\nBez nje periodična očitavanja ne rade."
+
+msgid "btnClose"
+msgstr "Zatvori"
+
+msgid "btnRetry"
+msgstr "Pokušaj ponovo"
+
+msgid "btnActivateAnyway"
+msgstr "Ipak aktiviraj"
+

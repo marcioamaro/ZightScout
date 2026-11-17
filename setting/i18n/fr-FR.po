@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr-FR\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Votre compagnon Nightscout"
+
+msgid "brandTag"
+msgstr "Votre compagnon Nightscout"
+
+msgid "heroHeadline"
+msgstr "Retrouvez vos données de glycémie à votre poignet !"
+
+msgid "heroDescription"
+msgstr "Connectez votre Amazfit à votre propre serveur Nightscout et consultez les informations de votre MGC en toute simplicité et discrétion."
+
+msgid "heroCare"
+msgstr "Conçu avec soin pour les personnes diabétiques et leurs proches aidants. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Important :"
+
+msgid "importantBody"
+msgstr "Pour que les alertes fonctionnent correctement, vous devez autoriser l’application à s’exécuter en arrière-plan dans les paramètres de votre montre connectée."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Avertissement :"
+
+msgid "disclaimerBody"
+msgstr "Cet outil est fourni à titre informatif uniquement ; <strong>ce n’est pas un dispositif médical</strong>. Il ne remplace pas les systèmes de surveillance de la glycémie approuvés et ne doit pas servir de seul fondement aux décisions thérapeutiques."
+
+msgid "supportLabel"
+msgstr "☕ Soutenir le projet :"
+
+msgid "contactLabel"
+msgstr "📧 Adresse e-mail de contact :"
+
+msgid "configurationTitle"
+msgstr "⚙️ Guide de configuration"
+
+msgid "configurationIntro"
+msgstr "Pour configurer l’URL et le jeton (si nécessaire), ouvrez l’application <strong>ZightScout3+</strong>, accédez aux <em>Paramètres</em>, sélectionnez l’onglet <em>Serveur</em>, puis appuyez sur <em>Saisir l’URL</em>. Après confirmation, vous serez invité à saisir le jeton ; si vous n’en avez pas, fermez simplement le clavier sans rien saisir."
+
+msgid "connectionCheck"
+msgstr "Appuyez ensuite sur <strong>Tester la connexion</strong>. Un message confirmant la validation de la connexion devrait s’afficher. Si vous voyez <span class=\"error\">401 ERROR</span>, cela indique un problème d’authentification du jeton."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Autorisation importante sur la montre"
+
+msgid "watchPermissionLead"
+msgstr "Où activer cette option dans les paramètres de votre montre :"
+
+msgid "watchPermissionBody"
+msgstr "Pour envoyer des notifications et faire vibrer la montre lorsque l’application est fermée (en arrière-plan), vous devez accorder l’autorisation nécessaire à ZightScout directement sur la montre."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>IMPORTANT :</strong> Si vous ne recevez pas d’alertes/notifications de glycémie hors plage et que le service est configuré pour s’exécuter périodiquement toutes les <em>X Minutes</em>, vous <strong>devez</strong> autoriser l’application à s’exécuter en arrière-plan."
+
+msgid "stepSettings"
+msgstr "Sur votre montre connectée Amazfit, ouvrez les <strong>Paramètres</strong>."
+
+msgid "stepPermissions"
+msgstr "Ouvrez les <strong>Autorisations</strong>."
+
+msgid "stepApp"
+msgstr "Recherchez et sélectionnez <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Autorisez l’<strong>Exécution en arrière-plan</strong> ou le <strong>Démarrage automatique</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Langues prises en charge"
+
+msgid "supportedLanguagesIntro"
+msgstr "L’interface de l’application est disponible dans les langues natives de Zepp OS suivantes :"
+
+msgid "footerSlogan"
+msgstr "La technologie au service de la gestion du diabète."
+
+msgid "nativeSubtitle"
+msgstr "Moniteur de glucose en continu (MGC)"
+
+msgid "nativeWatchTitle"
+msgstr "Configuration de la montre"
+
+msgid "nativeWatchText"
+msgstr "Configurez les plages, les alertes et la surveillance en arrière-plan dans les paramètres de ZightScout sur la montre."
+
+msgid "nativeUsageTitle"
+msgstr "Informations d’utilisation"
+
+msgid "nativeUsageServer"
+msgstr "La montre affiche les mesures de glycémie provenant de ce serveur."
+
+msgid "nativeUsageTransfer"
+msgstr "L’URL est transférée à la montre connectée via Bluetooth."

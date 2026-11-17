@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru-RU\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — помощник Nightscout"
+
+msgid "brandTag"
+msgstr "Помощник Nightscout"
+
+msgid "heroHeadline"
+msgstr "Данные об уровне глюкозы — у вас на запястье!"
+
+msgid "heroDescription"
+msgstr "Подключите Amazfit к своему серверу Nightscout и просматривайте данные CGM удобно и конфиденциально."
+
+msgid "heroCare"
+msgstr "Создано с заботой о людях с диабетом и тех, кто за ними ухаживает. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Важно:"
+
+msgid "importantBody"
+msgstr "Чтобы оповещения работали правильно, разрешите приложению работать в фоновом режиме в настройках смарт-часов."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Отказ от ответственности:"
+
+msgid "disclaimerBody"
+msgstr "Это приложение предназначено только для предоставления информации и <strong>не является медицинским устройством</strong>. Оно не заменяет одобренные системы мониторинга уровня глюкозы, и его не следует использовать как единственное основание для принятия решений о лечении."
+
+msgid "supportLabel"
+msgstr "☕ Поддержать проект:"
+
+msgid "contactLabel"
+msgstr "📧 Электронная почта для связи:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Руководство по настройке"
+
+msgid "configurationIntro"
+msgstr "Чтобы настроить URL и токен (если он требуется), откройте приложение <strong>ZightScout3+</strong>, перейдите в раздел <em>Настройки</em>, выберите вкладку <em>Сервер</em> и нажмите <em>Ввести URL</em>. После подтверждения появится запрос на ввод токена; если у вас его нет, просто закройте клавиатуру, ничего не вводя."
+
+msgid "connectionCheck"
+msgstr "Затем нажмите <strong>Проверить подключение</strong>. Должно появиться сообщение об успешной проверке подключения. Если вы видите <span class=\"error\">401 ERROR</span>, это означает, что возникла проблема с аутентификацией токена."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Важное разрешение на часах"
+
+msgid "watchPermissionLead"
+msgstr "Где включить эту настройку на часах:"
+
+msgid "watchPermissionBody"
+msgstr "Чтобы приложение отправляло уведомления и вибрировало, когда оно закрыто (работает в фоновом режиме), необходимо предоставить ZightScout разрешение непосредственно на часах."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>ВАЖНО:</strong> Если вы не получаете оповещения/уведомления о выходе уровня глюкозы за пределы диапазона, а служба настроена на периодический запуск каждые <em>X Minutes</em>, <strong>необходимо</strong> разрешить приложению работать в фоновом режиме."
+
+msgid "stepSettings"
+msgstr "На смарт-часах Amazfit откройте <strong>Настройки</strong>."
+
+msgid "stepPermissions"
+msgstr "Откройте раздел <strong>Разрешения</strong>."
+
+msgid "stepApp"
+msgstr "Найдите и выберите <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Разрешите <strong>Работу в фоновом режиме</strong> или <strong>Автозапуск</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Поддерживаемые языки"
+
+msgid "supportedLanguagesIntro"
+msgstr "Интерфейс приложения доступен на следующих языках Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "Технологии помогают контролировать диабет."
+
+msgid "nativeSubtitle"
+msgstr "Непрерывный мониторинг глюкозы (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Настройка часов"
+
+msgid "nativeWatchText"
+msgstr "Настройте диапазоны, оповещения и фоновый мониторинг в настройках ZightScout на часах."
+
+msgid "nativeUsageTitle"
+msgstr "Информация об использовании"
+
+msgid "nativeUsageServer"
+msgstr "На часах отображаются показания уровня глюкозы с этого сервера."
+
+msgid "nativeUsageTransfer"
+msgstr "URL передаётся на подключённые часы по Bluetooth."

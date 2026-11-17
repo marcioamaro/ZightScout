@@ -1,0 +1,40 @@
+{
+  "name": "zightscout",
+  "version": "3.0.61",
+  "description": "ZightScout - Monitor de glicose CGM para Zepp OS via Nightscout",
+  "scripts": {
+    "dev": "echo 'Run: zeus dev (requires @zeppos/zeus-cli)'",
+    "build": "zeus build",
+    "build:check": "node tests/test-build.js && zeus build",
+    "build:prod": "zeus build --production",
+    "release": "node scripts/increment-version.js && zeus build --production",
+    "preview": "zeus preview",
+    "install:device": "zeus install",
+    "test": "node tests/test-parser.js && node tests/test-url-token-validation.js && node tests/test-checkbox.js && node tests/test-token-flow.js && node tests/test-i18n.js && node tests/test-glucose-unit.mjs",
+    "test:syntax": "node --check page/index.js && node --check page/page2.js && node --check pages/index.js && node --check app-side/index.js && node --check app-service/index.js && node --check app-service/alert-service.js && node --check shared/message.js",
+    "test:yaml": "node tests/test-yaml.js",
+    "test:build": "node tests/test-build.js",
+    "test:background": "node tests/test-background.cjs",
+    "test:listener-idempotency": "node tests/test-listener-idempotency.cjs",
+    "test:request-correlation": "node tests/test-request-correlation.cjs",
+    "test:version-consistency": "node tests/test-version-consistency.cjs",
+    "test:legacy-entrypoints": "node tests/test-legacy-entrypoints.cjs",
+    "i18n": "node scripts/generate-po.js",
+    "simulator": "node scripts/start-simulator.js",
+    "start": "node scripts/start-simulator.js",
+    "lint": "echo 'Linting not configured yet'",
+    "help": "node scripts/help.js",
+    "screenshots": "python scripts/generateScreenshots.py"
+  },
+  "keywords": [
+    "zeppos",
+    "nightscout",
+    "cgm"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "js-yaml": "^4.1.1",
+    "yaml-lint": "^1.7.0"
+  }
+}

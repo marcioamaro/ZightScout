@@ -1,0 +1,784 @@
+{
+  "configVersion": "v3",
+  "app": {
+    "appId": 1127420,
+    "appName": "ZightScout3+",
+    "name": "ZightScout3+",
+    "appType": "app",
+    "version": {
+      "code": 96,
+      "name": "3.0.61"
+    },
+    "icon": "icon.png",
+    "vender": "ZightScout3+",
+    "description": "Monitor de glicose CGM via Nightscout (Universal Zepp OS 3.0+)",
+    "i18n": {
+      "pt-BR": {
+        "name": "ZightScout3+",
+        "description": "Monitor de glicose CGM via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "pt-PT": {
+        "name": "ZightScout3+",
+        "description": "Monitor de glicose CGM via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "en-US": {
+        "name": "ZightScout3+",
+        "description": "CGM glucose monitor via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "es-ES": {
+        "name": "ZightScout3+",
+        "description": "Monitor de glucosa CGM vía Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "fr-FR": {
+        "name": "ZightScout3+",
+        "description": "Moniteur de glucose CGM via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "de-DE": {
+        "name": "ZightScout3+",
+        "description": "CGM-Glukosemonitor über Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "ja-JP": {
+        "name": "ZightScout3+",
+        "description": "Nightscout経由のCGM血糖値モニター (Universal Zepp OS 3.0+)"
+      },
+      "zh-CN": {
+        "name": "ZightScout3+",
+        "description": "通过 Nightscout 的 CGM 血糖监测 (Universal Zepp OS 3.0+)"
+      },
+      "zh-TW": {
+        "name": "ZightScout3+",
+        "description": "透過 Nightscout 的 CGM 血糖監測 (Universal Zepp OS 3.0+)"
+      },
+      "ko-KR": {
+        "name": "ZightScout3+",
+        "description": "Nightscout 연동 CGM 혈당 모니터 (Universal Zepp OS 3.0+)"
+      },
+      "ar-EG": {
+        "name": "ZightScout3+",
+        "description": "مراقب نسبة السكر CGM عبر Nightscout"
+      },
+      "hi-IN": {
+        "name": "ZightScout3+",
+        "description": "Nightscout के माध्यम से CGM ग्लूकोज मॉनिटर"
+      },
+      "it-IT": {
+        "name": "ZightScout3+",
+        "description": "Monitor glicemia CGM via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "ru-RU": {
+        "name": "ZightScout3+",
+        "description": "CGM монитор глюкозы через Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "pl-PL": {
+        "name": "ZightScout3+",
+        "description": "Monitor glikemii CGM przez Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "id-ID": {
+        "name": "ZightScout3+",
+        "description": "Monitor glukosa CGM melalui Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "th-TH": {
+        "name": "ZightScout3+",
+        "description": "เครื่องตรวจวัดระดับน้ำตาล CGM ผ่าน Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "vi-VN": {
+        "name": "ZightScout3+",
+        "description": "Máy theo dõi đường huyết CGM qua Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "nl-NL": {
+        "name": "ZightScout3+",
+        "description": "CGM-glucosemonitor via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "tr-TR": {
+        "name": "ZightScout3+",
+        "description": "Nightscout üzerinden CGM glikoz monitörü (Universal Zepp OS 3.0+)"
+      },
+      "uk-UA": {
+        "name": "ZightScout3+",
+        "description": "CGM монітор глюкози через Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "iw-IL": {
+        "name": "ZightScout3+",
+        "description": "מוניטור סוכר CGM דרך Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "ro-RO": {
+        "name": "ZightScout3+",
+        "description": "Monitor de glucoză CGM prin Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "cs-CZ": {
+        "name": "ZightScout3+",
+        "description": "Monitor glukózy CGM přes Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "el-GR": {
+        "name": "ZightScout3+",
+        "description": "Παρακολούθηση γλυκόζης CGM μέσω Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "sr-RS": {
+        "name": "ZightScout3+",
+        "description": "CGM монитор глукозе преко Nightscout-а (Universal Zepp OS 3.0+)"
+      },
+      "ca-ES": {
+        "name": "ZightScout3+",
+        "description": "Monitor de glucosa CGM via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "fi-FI": {
+        "name": "ZightScout3+",
+        "description": "CGM-glukoosimittari Nightscoutin kautta (Universal Zepp OS 3.0+)"
+      },
+      "nb-NO": {
+        "name": "ZightScout3+",
+        "description": "CGM-glukosemonitor via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "da-DK": {
+        "name": "ZightScout3+",
+        "description": "CGM-glukosemonitor via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "sv-SE": {
+        "name": "ZightScout3+",
+        "description": "CGM-glukosmonitor via Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "hu-HU": {
+        "name": "ZightScout3+",
+        "description": "CGM vércukormonitor Nightscouton keresztül (Universal Zepp OS 3.0+)"
+      },
+      "ms-MY": {
+        "name": "ZightScout3+",
+        "description": "Pemantau glukosa CGM melalui Nightscout (Universal Zepp OS 3.0+)"
+      },
+      "sk-SK": {
+        "name": "ZightScout3+",
+        "description": "Monitor glukózy CGM cez Nightscout (Universal Zepp OS 3.0+)"
+      }
+    }
+  },
+  "permissions": [
+    "internet",
+    "data:user.info",
+    "device:os.local_storage",
+    "device:os.bg_service",
+    "device:os.notification",
+    "device:os.alarm"
+  ],
+  "runtime": {
+    "apiVersion": {
+      "compatible": "3.0.0",
+      "target": "3.0.0",
+      "minVersion": "3.0.0"
+    }
+  },
+  "targets": {
+    "universal": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/index",
+            "page/page2",
+            "pages/index"
+          ]
+        },
+        "app-side": {
+          "path": "app-side/index"
+        },
+        "setting": {
+          "path": "setting/index"
+        },
+        "app-service": {
+          "services": [
+            "app-service/index",
+            "app-service/alert-service"
+          ]
+        }
+      },
+      "platforms": [
+        {
+          "name": "active-2-round",
+          "deviceSource": 8913153
+        },
+        {
+          "name": "active-2-round-cn",
+          "deviceSource": 8913152
+        },
+        {
+          "name": "active-2-round-w",
+          "deviceSource": 8913155
+        },
+        {
+          "name": "active-2-round-2",
+          "deviceSource": 8913159
+        },
+        {
+          "name": "active-2-round-v2",
+          "deviceSource": 10092801
+        },
+        {
+          "name": "active-2-round-v2-cn",
+          "deviceSource": 10092800
+        },
+        {
+          "name": "active-2-round-v2-w",
+          "deviceSource": 10092803
+        },
+        {
+          "name": "active-2-round-v2-w2",
+          "deviceSource": 10092807
+        },
+        {
+          "name": "active-2-round-v3",
+          "deviceSource": 10617091
+        },
+        {
+          "name": "active-2-square",
+          "deviceSource": 10223872
+        },
+        {
+          "name": "active-2-square-cn",
+          "deviceSource": 10223873
+        },
+        {
+          "name": "active-2-square-w",
+          "deviceSource": 10223875
+        },
+        {
+          "name": "balance-2",
+          "deviceSource": 9568512
+        },
+        {
+          "name": "balance-2-w",
+          "deviceSource": 9568513
+        },
+        {
+          "name": "balance-2-w2",
+          "deviceSource": 9568515
+        },
+        {
+          "name": "bip-6",
+          "deviceSource": 9765120
+        },
+        {
+          "name": "bip-6-w",
+          "deviceSource": 9765121
+        },
+        {
+          "name": "t-rex-3-pro-48",
+          "deviceSource": 10551552
+        },
+        {
+          "name": "t-rex-3-pro-44",
+          "deviceSource": 10682624
+        },
+        {
+          "name": "cheetah-2-pro",
+          "deviceSource": 11010304
+        },
+        {
+          "name": "falcon-cn",
+          "deviceSource": 414
+        },
+        {
+          "name": "falcon-w",
+          "deviceSource": 415
+        },
+        {
+          "name": "t-rex-ultra-cn",
+          "deviceSource": 6553856
+        },
+        {
+          "name": "t-rex-ultra-w",
+          "deviceSource": 6553857
+        },
+        {
+          "name": "gtr-4-limited-edition-w",
+          "deviceSource": 7864577
+        },
+        {
+          "name": "gtr-4-cn",
+          "deviceSource": 7930112
+        },
+        {
+          "name": "gtr-4-w",
+          "deviceSource": 7930113
+        },
+        {
+          "name": "gts-4-cn",
+          "deviceSource": 7995648
+        },
+        {
+          "name": "gts-4-w",
+          "deviceSource": 7995649
+        },
+        {
+          "name": "cheetah-pro-cn",
+          "deviceSource": 8126720
+        },
+        {
+          "name": "cheetah-pro-w",
+          "deviceSource": 8126721
+        },
+        {
+          "name": "cheetah-pro-kiptum-w",
+          "deviceSource": 8126727
+        },
+        {
+          "name": "cheetah-round-cn",
+          "deviceSource": 8192256
+        },
+        {
+          "name": "cheetah-round-w",
+          "deviceSource": 8192257
+        },
+        {
+          "name": "cheetah-square-w",
+          "deviceSource": 8257793
+        },
+        {
+          "name": "active-cn",
+          "deviceSource": 8323328
+        },
+        {
+          "name": "active-w",
+          "deviceSource": 8323329
+        },
+        {
+          "name": "amazfit-balance",
+          "deviceSource": 8519936
+        },
+        {
+          "name": "amazfit-balance-w",
+          "deviceSource": 8519937
+        },
+        {
+          "name": "amazfit-balance-meilin",
+          "deviceSource": 8519939
+        },
+        {
+          "name": "t-rex-3-cn",
+          "deviceSource": 8716544
+        },
+        {
+          "name": "t-rex-3-w",
+          "deviceSource": 8716545
+        },
+        {
+          "name": "t-rex-3-w2",
+          "deviceSource": 8716547
+        },
+        {
+          "name": "rome-cn",
+          "deviceSource": 9830656
+        },
+        {
+          "name": "rome-nfc",
+          "deviceSource": 9830657
+        },
+        {
+          "name": "rome-w",
+          "deviceSource": 9830659
+        },
+        {
+          "name": "cheetah-2-ultra-cn",
+          "deviceSource": 9978112
+        },
+        {
+          "name": "cheetah-2-ultra-w",
+          "deviceSource": 9978113
+        },
+        {
+          "name": "bip-6-w2",
+          "deviceSource": 10158337
+        },
+        {
+          "name": "balance-2-xt-cn",
+          "deviceSource": 10486016
+        },
+        {
+          "name": "balance-2-xt-w",
+          "deviceSource": 10486017
+        },
+        {
+          "name": "balance-2-xt-w2",
+          "deviceSource": 10486019
+        },
+        {
+          "name": "t-rex-3-pro-48-w",
+          "deviceSource": 10551553
+        },
+        {
+          "name": "t-rex-3-pro-48-w2",
+          "deviceSource": 10551555
+        },
+        {
+          "name": "t-rex-3-pro-44-w",
+          "deviceSource": 10682625
+        },
+        {
+          "name": "t-rex-3-pro-44-w2",
+          "deviceSource": 10682627
+        },
+        {
+          "name": "active-max-w",
+          "deviceSource": 10813697
+        },
+        {
+          "name": "active-max-w2",
+          "deviceSource": 10813699
+        },
+        {
+          "name": "t-rex-ultra-2-cn",
+          "deviceSource": 10879232
+        },
+        {
+          "name": "t-rex-ultra-2-w",
+          "deviceSource": 10879233
+        },
+        {
+          "name": "t-rex-ultra-2-w2",
+          "deviceSource": 10879235
+        },
+        {
+          "name": "active-3-premium-cn",
+          "deviceSource": 10944768
+        },
+        {
+          "name": "active-3-premium-w",
+          "deviceSource": 10944769
+        },
+        {
+          "name": "active-3-premium-w2",
+          "deviceSource": 10944771
+        },
+        {
+          "name": "active-3-premium-sw",
+          "deviceSource": 10948867
+        },
+        {
+          "name": "cheetah-2-pro-w",
+          "deviceSource": 11010305
+        },
+        {
+          "name": "cheetah-2-pro-w2",
+          "deviceSource": 11010307
+        },
+        {
+          "name": "balance-ultra-cn",
+          "deviceSource": 11075840
+        },
+        {
+          "name": "balance-ultra-w",
+          "deviceSource": 11075841
+        },
+        {
+          "name": "balance-ultra-w2",
+          "deviceSource": 11092224
+        },
+        {
+          "name": "balance-ultra-w3",
+          "deviceSource": 11092225
+        },
+        {
+          "name": "balance-3-cn",
+          "deviceSource": 11141376
+        },
+        {
+          "name": "balance-3-w",
+          "deviceSource": 11141377
+        },
+        {
+          "name": "balance-3-w2",
+          "deviceSource": 11141379
+        },
+        {
+          "name": "balance-3-ti-cn",
+          "deviceSource": 11145472
+        },
+        {
+          "name": "balance-3-ti-w",
+          "deviceSource": 11145473
+        },
+        {
+          "name": "balance-3-ti-w2",
+          "deviceSource": 11145475
+        },
+        {
+          "name": "bip-max-w",
+          "deviceSource": 11206915
+        },
+        {
+          "name": "t-rex-dual-solar-cn",
+          "deviceSource": 11403520
+        },
+        {
+          "name": "t-rex-dual-solar-w",
+          "deviceSource": 11403521
+        }
+      ],
+      "designWidth": 466
+    }
+  },
+  "i18n": {
+    "pt-BR": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "pt": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "pt-PT": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "en-US": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "en": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "es-ES": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "es": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "fr-FR": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "fr": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "de-DE": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "de": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ja-JP": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ja": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "zh-CN": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "zh": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "zh-TW": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ko-KR": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ko": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ar-EG": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ar": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "hi-IN": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "hi": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "it-IT": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "it": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ru-RU": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ru": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "pl-PL": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "pl": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "id-ID": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "id": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "th-TH": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "th": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "vi-VN": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "vi": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "nl-NL": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "nl": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "tr-TR": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "tr": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "uk-UA": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "uk": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "iw-IL": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "iw": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ro-RO": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ro": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "cs-CZ": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "cs": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "el-GR": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "el": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "sr-RS": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "sr": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ca-ES": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ca": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "fi-FI": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "fi": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "nb-NO": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "nb": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "da-DK": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "da": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "sv-SE": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "sv": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "hu-HU": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "hu": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ms-MY": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "ms": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "sk-SK": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    },
+    "sk": {
+      "appName": "ZightScout3+",
+      "name": "ZightScout3+"
+    }
+  },
+  "defaultLanguage": "en-US"
+}

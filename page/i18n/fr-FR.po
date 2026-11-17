@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "par Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Appareil Non Pris en Charge"
+
+msgid "unsupportedDeviceBody"
+msgstr "Résolution {w}x{h} sous la limite minimale sûre (390px).\n\nPour la sécurité du patient, la visualisation sur ce modèle n'est pas autorisée."
+
+msgid "veryLow"
+msgstr "Très Bas"
+
+msgid "low"
+msgstr "Bas"
+
+msgid "inRange"
+msgstr "Dans la Cible"
+
+msgid "high"
+msgstr "Élevé"
+
+msgid "veryHigh"
+msgstr "Très Élevé"
+
+msgid "stable"
+msgstr "Stable"
+
+msgid "bleConnectingLabel"
+msgstr "BLE CONNEXION"
+
+msgid "bleConnectingDetail"
+msgstr "connexion..."
+
+msgid "bleOffLabel"
+msgstr "BLE OFF"
+
+msgid "bleOffDetail"
+msgstr "déconnecté"
+
+msgid "bleWaitingLabel"
+msgstr "BLE EN ATTENTE"
+
+msgid "bleWaitingPhone"
+msgstr "en attente du tél"
+
+msgid "bleNoRecentContact"
+msgstr "sans contact récent"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "contact il y a "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL non configurée"
+
+msgid "httpErrorLabel"
+msgstr "HTTP ERREUR"
+
+msgid "httpQueryFailed"
+msgstr "échec requête"
+
+msgid "httpFailLabel"
+msgstr "HTTP ÉCHEC"
+
+msgid "httpWaitingConnection"
+msgstr "en attente connexion"
+
+msgid "httpValidating"
+msgstr "validation..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP EN ATTENTE"
+
+msgid "httpNoQuery"
+msgstr "aucune requête"
+
+msgid "httpQueryAgo"
+msgstr "requête il y a "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "SANS ACCÈS"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "connexion bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth déconnecté"
+
+msgid "readingNoAccessNoData"
+msgstr "aucun accès données"
+
+msgid "readingNoReadingLabel"
+msgstr "AUCUNE LECTURE"
+
+msgid "readingWaitingGlucose"
+msgstr "en attente glycémie"
+
+msgid "readingExpiredLabel"
+msgstr "EXPIRÉ"
+
+msgid "readingDelayedLabel"
+msgstr "EN RETARD"
+
+msgid "readingAgo"
+msgstr "lecture il y a "
+
+msgid "readingCurrentLabel"
+msgstr "ACTUEL"
+
+msgid "readingUpdated"
+msgstr "lecture à jour"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "AUCUNE DONNÉE"
+
+msgid "nowUpper"
+msgstr "MAINTENANT"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Maintenant"
+
+msgid "age1Min"
+msgstr "Il y a 1 min"
+
+msgid "ageXMin"
+msgstr "Il y a {n} min"
+
+msgid "age1Hour"
+msgstr "Il y a 1 heure"
+
+msgid "ageXHours"
+msgstr "Il y a {n} heures"
+
+msgid "refreshBtn"
+msgstr "Actualiser"
+
+msgid "refreshToast"
+msgstr "Mise à jour glycémie..."
+
+msgid "settingsBtn"
+msgstr "Paramètres"
+
+msgid "starting"
+msgstr "Démarrage..."
+
+msgid "bgInterrupted"
+msgstr "Arrêt arrière-plan. Vérifier."
+
+msgid "lastUpdatePrefix"
+msgstr "Dernière mise à jour: "
+
+msgid "waitingUpdate"
+msgstr "En attente de mise à jour"
+
+msgid "snoozeActiveBanner"
+msgstr "SNOOZE ACTIF • reste "
+
+msgid "snoozeDisabledBanner"
+msgstr "SNOOZE DÉSACTIVÉ"
+
+msgid "snoozeActiveStatus"
+msgstr " • SNOOZE ACTIF • "
+
+msgid "minRemaining"
+msgstr " min restantes"
+
+msgid "p2Title"
+msgstr "Paramètres ZightScout"
+
+msgid "tabRanges"
+msgstr "Cibles"
+
+msgid "tabAlerts"
+msgstr "Alertes / Fond"
+
+msgid "tabServer"
+msgstr "Serveur"
+
+msgid "saveAndReturn"
+msgstr "Enregistrer & Quitter"
+
+msgid "veryLowThreshold"
+msgstr "Très Bas (<)"
+
+msgid "lowThreshold"
+msgstr "Bas (<)"
+
+msgid "highThreshold"
+msgstr "Élevé (>)"
+
+msgid "veryHighThreshold"
+msgstr "Très Élevé (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Hors Cible (Jaune)"
+
+msgid "vibOn"
+msgstr "Vibration: ACTIVÉE"
+
+msgid "vibOff"
+msgstr "Vibration: DÉSACTIVÉE"
+
+msgid "testBtn"
+msgstr "Tester"
+
+msgid "test3xBtn"
+msgstr "Tester 3x"
+
+msgid "redAlertTitle"
+msgstr "Rouge: 3 alertes"
+
+msgid "bgIntervalPrefix"
+msgstr "Arrière-plan: tous les "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Arrière-plan: Désactivé"
+
+msgid "bgPermissionNotice"
+msgstr "Pour le service en arrière-plan, activez\nson autorisation dans les réglages."
+
+msgid "optOff"
+msgstr "Off"
+
+msgid "snoozeActiveLabel"
+msgstr "Snooze actif: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Snooze désactivé"
+
+msgid "cancelSnooze"
+msgstr "Annuler le snooze"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Annuler le snooze ?"
+
+msgid "btnYes"
+msgstr "Oui"
+
+msgid "btnNo"
+msgstr "Non"
+
+msgid "snoozeCancelledToast"
+msgstr "Snooze annulé"
+
+msgid "serverHeader"
+msgstr "Serveur Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "Aucune URL configurée"
+
+msgid "tapToTest"
+msgstr "Appuyez ci-dessous pour tester\nla connexion au serveur"
+
+msgid "diagnosticTitle"
+msgstr "Diagnostic: "
+
+msgid "lastReading"
+msgstr "dernière lecture "
+
+msgid "noReadingDiag"
+msgstr "aucune lecture"
+
+msgid "bgActivePrefix"
+msgstr "Arrière-plan: "
+
+msgid "bgActiveHa"
+msgstr "actif depuis "
+
+msgid "bgNoSignal"
+msgstr "sans signal"
+
+msgid "enterUrlBtn"
+msgstr "Saisir URL"
+
+msgid "testConnBtn"
+msgstr "Tester Connexion"
+
+msgid "unitNotDetected"
+msgstr "Unité non détectée.\nChoisissez l’unité :"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nChoisissez l’unité et enregistrez."
+
+msgid "unitDetected"
+msgstr "Unité détectée : {unit}"
+
+msgid "unitSelected"
+msgstr "Unité sélectionnée : {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Impossible d’enregistrer l’unité"
+
+msgid "tokenConfigured"
+msgstr "Token: configuré"
+
+msgid "tokenOptional"
+msgstr "Token: optionnel"
+
+msgid "pasteToken"
+msgstr "Collez le token. Vide supprime."
+
+msgid "tokenOpenFail"
+msgstr "Erreur ouverture clavier"
+
+msgid "tokenInvalid"
+msgstr "Token invalide"
+
+msgid "tokenSaveFail"
+msgstr "Échec sauvegarde token"
+
+msgid "tokenSaved"
+msgstr "Token enregistré sur tél"
+
+msgid "tokenRemoved"
+msgstr "Token supprimé"
+
+msgid "testFailToast"
+msgstr "Échec envoi test"
+
+msgid "noResponseServer"
+msgstr "Aucune réponse serveur"
+
+msgid "criticalAlertTitle"
+msgstr "Glycémie Critique"
+
+msgid "warningAlertTitle"
+msgstr "Glycémie Hors Cible"
+
+msgid "openNotification"
+msgstr "Ouvrir"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Hors ligne"
+
+msgid "offlineAlertBody"
+msgstr "Pas de données depuis {minutes} min. Vérifiez Bluetooth et app Zepp"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Répétition : {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Alerte :"
+
+msgid "initialConnStatus"
+msgstr "BLE ATTENTE | HTTP ATTENTE | SANS DONNÉES"
+
+msgid "bleSendFail"
+msgstr "Échec d’envoi"
+
+msgid "syncing"
+msgstr "Synchronisation..."
+
+msgid "updating"
+msgstr "Mise à jour..."
+
+msgid "nightscoutError"
+msgstr "Erreur Nightscout"
+
+msgid "dataParseError"
+msgstr "Erreur de données"
+
+msgid "genericError"
+msgstr "Erreur"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Jeton configuré"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Entrer jeton / secret"
+
+msgid "promptTokenTitle"
+msgstr "Entrer le jeton ?"
+
+msgid "promptTokenBody"
+msgstr "Entrer le jeton pour Nightscout privé ?"
+
+msgid "noBtn"
+msgstr "Non"
+
+msgid "yesBtn"
+msgstr "Oui"
+
+msgid "invalidUrl"
+msgstr "URL invalide"
+
+msgid "urlSaveFail"
+msgstr "Échec d’enregistrement URL"
+
+msgid "urlAndTokenSaved"
+msgstr "URL et jeton enregistrés !"
+
+msgid "invalidRanges"
+msgstr "Plages invalides"
+
+msgid "settingsSavedToast"
+msgstr "Paramètres enregistrés"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Jeton valides (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Non autorisé)"
+
+msgid "http403"
+msgstr "HTTP 403 (Interdit)"
+
+msgid "http404"
+msgstr "HTTP 404 (Introuvable)"
+
+msgid "http429"
+msgstr "HTTP 429 (Trop de requêtes)"
+
+msgid "http500"
+msgstr "HTTP 500 (Erreur serveur)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Serveur indisponible)"
+
+msgid "errTimeout"
+msgstr "Pas de réponse (Timeout)"
+
+msgid "errNetworkShort"
+msgstr "Pas de connexion réseau"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth déconnecté"
+
+msgid "testFailPrefix"
+msgstr "Échec :"
+
+msgid "tokenObtained"
+msgstr "Jeton obtenu !"
+
+msgid "tokenObtainFail"
+msgstr "Échec d’obtention du jeton"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Répétition active : {minutes} min"
+
+msgid "errNoUrl"
+msgstr "URL Nightscout non configurée"
+
+msgid "errAuth"
+msgstr "Jeton invalide ou sans permission de lecture"
+
+msgid "errRateLimit"
+msgstr "Limite de requêtes atteinte ; réessayez plus tard"
+
+msgid "errServerDown"
+msgstr "Serveur Nightscout indisponible"
+
+msgid "errNoReadings"
+msgstr "Aucune mesure dans Nightscout"
+
+msgid "errNetwork"
+msgstr "Problème de connexion : serveur indisponible"
+
+msgid "authAdmin"
+msgstr "Jeton d’écriture (Admin)"
+
+msgid "authReadable"
+msgstr "Jeton lecture seule (Sécurisé)"
+
+msgid "authAnon"
+msgstr "Accès anonyme / sans jeton"
+
+msgid "tapToRefresh"
+msgstr "Toucher Actualiser"
+
+msgid "staleDataPrompt"
+msgstr "Données obsolètes"
+
+msgid "testAlertCritTitle"
+msgstr "TEST - Rouge"
+
+msgid "testAlertWarnTitle"
+msgstr "TEST - Jaune"
+
+msgid "testAlertBody"
+msgstr "Test de vibration et notification."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Permission Arrière-Plan"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Pour recevoir des alertes et notifications avec l'écran éteint ou en veille, ZightScout nécessite l'autorisation 'Service en arrière-plan'.\n\nSans elle, les lectures périodiques ne fonctionneront pas."
+
+msgid "btnClose"
+msgstr "Fermer"
+
+msgid "btnRetry"
+msgstr "Réessayer"
+
+msgid "btnActivateAnyway"
+msgstr "Activer Quand Même"
+

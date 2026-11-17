@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "de Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Dispozitiv neacceptat"
+
+msgid "unsupportedDeviceBody"
+msgstr "Rezoluția {w}x{h} este sub limita de siguranță (390px).\n\nPentru siguranța pacientului, vizualizarea pe acest model nu este permisă."
+
+msgid "veryLow"
+msgstr "Foarte scăzut"
+
+msgid "low"
+msgstr "Scăzut"
+
+msgid "inRange"
+msgstr "În țintă"
+
+msgid "high"
+msgstr "Ridicat"
+
+msgid "veryHigh"
+msgstr "Foarte ridicat"
+
+msgid "stable"
+msgstr "Stabil"
+
+msgid "bleConnectingLabel"
+msgstr "BLE CONECTARE"
+
+msgid "bleConnectingDetail"
+msgstr "conectare..."
+
+msgid "bleOffLabel"
+msgstr "BLE OPRIT"
+
+msgid "bleOffDetail"
+msgstr "deconectat"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ÎN AȘTEPTARE"
+
+msgid "bleWaitingPhone"
+msgstr "așteptare telefon"
+
+msgid "bleNoRecentContact"
+msgstr "fără contact recent"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "contact "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL neconfigurat"
+
+msgid "httpErrorLabel"
+msgstr "EROARE HTTP"
+
+msgid "httpQueryFailed"
+msgstr "interogare eșuată"
+
+msgid "httpFailLabel"
+msgstr "HTTP EȘUAT"
+
+msgid "httpWaitingConnection"
+msgstr "așteptare rețea"
+
+msgid "httpValidating"
+msgstr "validare..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ÎN AȘTEPTARE"
+
+msgid "httpNoQuery"
+msgstr "fără interogare"
+
+msgid "httpQueryAgo"
+msgstr "interogare "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "FĂRĂ ACCES"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "conectare bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth deconectat"
+
+msgid "readingNoAccessNoData"
+msgstr "fără acces la date"
+
+msgid "readingNoReadingLabel"
+msgstr "FĂRĂ VALOARE"
+
+msgid "readingWaitingGlucose"
+msgstr "așteptare glicemie"
+
+msgid "readingExpiredLabel"
+msgstr "EXPIRAT"
+
+msgid "readingDelayedLabel"
+msgstr "ÎNTÂRZIAT"
+
+msgid "readingAgo"
+msgstr "valoare "
+
+msgid "readingCurrentLabel"
+msgstr "ACTUAL"
+
+msgid "readingUpdated"
+msgstr "valoare actualizată"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "FĂRĂ DATE"
+
+msgid "nowUpper"
+msgstr "ACUM"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Chiar acum"
+
+msgid "age1Min"
+msgstr "acum 1 min"
+
+msgid "ageXMin"
+msgstr "acum {n} min"
+
+msgid "age1Hour"
+msgstr "acum 1 oră"
+
+msgid "ageXHours"
+msgstr "acum {n} ore"
+
+msgid "refreshBtn"
+msgstr "Reîmprospătare"
+
+msgid "refreshToast"
+msgstr "Actualizare glicemie..."
+
+msgid "settingsBtn"
+msgstr "Setări"
+
+msgid "starting"
+msgstr "Pornire..."
+
+msgid "bgInterrupted"
+msgstr "Serviciul de fundal s-a oprit. Verificați setările."
+
+msgid "lastUpdatePrefix"
+msgstr "Ultima actualizare: "
+
+msgid "waitingUpdate"
+msgstr "Așteptare actualizare"
+
+msgid "snoozeActiveBanner"
+msgstr "AMÂNARE ACTIVĂ • "
+
+msgid "snoozeDisabledBanner"
+msgstr "AMÂNARE OPRITĂ"
+
+msgid "snoozeActiveStatus"
+msgstr " • AMÂNARE ACTIVĂ • "
+
+msgid "minRemaining"
+msgstr " min rămase"
+
+msgid "p2Title"
+msgstr "ZightScout Setări"
+
+msgid "tabRanges"
+msgstr "Intervale"
+
+msgid "tabAlerts"
+msgstr "Alerte / Fundal"
+
+msgid "tabServer"
+msgstr "Server"
+
+msgid "saveAndReturn"
+msgstr "Salvare & Ieșire"
+
+msgid "veryLowThreshold"
+msgstr "Foarte scăzut (<)"
+
+msgid "lowThreshold"
+msgstr "Scăzut (<)"
+
+msgid "highThreshold"
+msgstr "Ridicat (>)"
+
+msgid "veryHighThreshold"
+msgstr "Foarte ridicat (>)"
+
+msgid "yellowAlertTitle"
+msgstr "În afara țintei (Galben)"
+
+msgid "vibOn"
+msgstr "Vibrație: PORNITĂ"
+
+msgid "vibOff"
+msgstr "Vibrație: OPRITĂ"
+
+msgid "testBtn"
+msgstr "Test"
+
+msgid "test3xBtn"
+msgstr "Test 3x"
+
+msgid "redAlertTitle"
+msgstr "Roșu: 3 alerte"
+
+msgid "bgIntervalPrefix"
+msgstr "Fundal: la fiecare "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Fundal: Oprit"
+
+msgid "bgPermissionNotice"
+msgstr "Pentru serviciul de fundal activați\npermisiunea în setările ceasului."
+
+msgid "optOff"
+msgstr "Oprit"
+
+msgid "snoozeActiveLabel"
+msgstr "Amânare activă: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Amânare inactivă"
+
+msgid "cancelSnooze"
+msgstr "Anulare amânare"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Anulați amânarea?"
+
+msgid "btnYes"
+msgstr "Da"
+
+msgid "btnNo"
+msgstr "Nu"
+
+msgid "snoozeCancelledToast"
+msgstr "Amânare anulată"
+
+msgid "serverHeader"
+msgstr "Server Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "Niciun URL configurat"
+
+msgid "tapToTest"
+msgstr "Atingeți mai jos pentru\na testa conexiunea"
+
+msgid "diagnosticTitle"
+msgstr "Diagnosticare: "
+
+msgid "lastReading"
+msgstr "ultima valoare "
+
+msgid "noReadingDiag"
+msgstr "fără valori"
+
+msgid "bgActivePrefix"
+msgstr "Fundal: "
+
+msgid "bgActiveHa"
+msgstr "activ de "
+
+msgid "bgNoSignal"
+msgstr "fără semnal"
+
+msgid "enterUrlBtn"
+msgstr "Introduceți URL"
+
+msgid "testConnBtn"
+msgstr "Test Conexiune"
+
+msgid "unitNotDetected"
+msgstr "Unitate nedetectată.\nSelectați unitatea:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nSelectați o unitate și salvați."
+
+msgid "unitDetected"
+msgstr "Unitate detectată: {unit}"
+
+msgid "unitSelected"
+msgstr "Unitate selectată: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Nu s-a putut salva unitatea"
+
+msgid "tokenConfigured"
+msgstr "Token: configurat"
+
+msgid "tokenOptional"
+msgstr "Token: opțional"
+
+msgid "pasteToken"
+msgstr "Lipiți tokenul. Gol pentru ștergere."
+
+msgid "tokenOpenFail"
+msgstr "Nu s-a putut deschide tastatura"
+
+msgid "tokenInvalid"
+msgstr "Token nevalid"
+
+msgid "tokenSaveFail"
+msgstr "Salvarea tokenului a eșuat"
+
+msgid "tokenSaved"
+msgstr "Token salvat pe telefon"
+
+msgid "tokenRemoved"
+msgstr "Token eliminat"
+
+msgid "testFailToast"
+msgstr "Trimiterea testului a eșuat"
+
+msgid "noResponseServer"
+msgstr "Niciun răspuns de la server"
+
+msgid "criticalAlertTitle"
+msgstr "Glicemie Critică"
+
+msgid "warningAlertTitle"
+msgstr "Glicemie în Afara Țintei"
+
+msgid "openNotification"
+msgstr "Deschide"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Deconectat"
+
+msgid "offlineAlertBody"
+msgstr "Fără date timp de {minutes} min. Verificați Bluetooth & aplicația Zepp"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Amânare: {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Alertă:"
+
+msgid "initialConnStatus"
+msgstr "BLE ÎN AȘTEPTARE | HTTP ÎN AȘTEPTARE | FĂRĂ DATE"
+
+msgid "bleSendFail"
+msgstr "Trimitere eșuată"
+
+msgid "syncing"
+msgstr "Sincronizare..."
+
+msgid "updating"
+msgstr "Actualizare..."
+
+msgid "nightscoutError"
+msgstr "Eroare Nightscout"
+
+msgid "dataParseError"
+msgstr "Eroare procesare date"
+
+msgid "genericError"
+msgstr "Eroare"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token Configurat"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Introduceți Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Introduceți Token?"
+
+msgid "promptTokenBody"
+msgstr "Introduceți tokenul pentru Nightscout privat?"
+
+msgid "noBtn"
+msgstr "Nu"
+
+msgid "yesBtn"
+msgstr "Da"
+
+msgid "invalidUrl"
+msgstr "URL nevalid"
+
+msgid "urlSaveFail"
+msgstr "Salvarea URL-ului a eșuat"
+
+msgid "urlAndTokenSaved"
+msgstr "URL și Token salvate!"
+
+msgid "invalidRanges"
+msgstr "Intervale nevalide"
+
+msgid "settingsSavedToast"
+msgstr "Setări salvate"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token valide (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Neautorizat)"
+
+msgid "http403"
+msgstr "HTTP 403 (Interzis)"
+
+msgid "http404"
+msgstr "HTTP 404 (Negăsit)"
+
+msgid "http429"
+msgstr "HTTP 429 (Prea multe cereri)"
+
+msgid "http500"
+msgstr "HTTP 500 (Eroare server)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Server indisponibil)"
+
+msgid "errTimeout"
+msgstr "Niciun răspuns (Timp expirat)"
+
+msgid "errNetworkShort"
+msgstr "Fără conexiune la rețea"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth deconectat"
+
+msgid "testFailPrefix"
+msgstr "Eșuat:"
+
+msgid "tokenObtained"
+msgstr "Token obținut!"
+
+msgid "tokenObtainFail"
+msgstr "Obținerea tokenului a eșuat"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Amânare activă: {minutes} min"
+
+msgid "errNoUrl"
+msgstr "URL Nightscout neconfigurat"
+
+msgid "errAuth"
+msgstr "Token nevalid sau lipsă permisiune citire"
+
+msgid "errRateLimit"
+msgstr "Limită atinsă; încercați mai târziu"
+
+msgid "errServerDown"
+msgstr "Server Nightscout indisponibil"
+
+msgid "errNoReadings"
+msgstr "Fără valori în Nightscout"
+
+msgid "errNetwork"
+msgstr "Problemă de conexiune: server indisponibil"
+
+msgid "authAdmin"
+msgstr "Token scriere (Admin)"
+
+msgid "authReadable"
+msgstr "Token doar citire (Sigur)"
+
+msgid "authAnon"
+msgstr "Acces anonim / fără token"
+
+msgid "tapToRefresh"
+msgstr "Atingeți Reîmprospătare"
+
+msgid "staleDataPrompt"
+msgstr "Date învechite"
+
+msgid "testAlertCritTitle"
+msgstr "TEST - Roșu"
+
+msgid "testAlertWarnTitle"
+msgstr "TEST - Galben"
+
+msgid "testAlertBody"
+msgstr "Test de vibrație și notificare."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Permisiune de Fundal"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Pentru a primi alerte cu ecranul oprit, este necesară permisiunea 'Serviciu de fundal'.\n\nFără aceasta, citirile periodice nu funcționează."
+
+msgid "btnClose"
+msgstr "Închide"
+
+msgid "btnRetry"
+msgstr "Reîncearcă"
+
+msgid "btnActivateAnyway"
+msgstr "Activează Oricum"
+

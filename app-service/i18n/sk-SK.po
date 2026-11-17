@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "autor Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Nepodporované zariadenie"
+
+msgid "unsupportedDeviceBody"
+msgstr "Rozlíšenie {w}x{h} je pod bezpečným limitom (390px).\n\nZ dôvodu bezpečnosti pacienta nie je zobrazenie na tomto modeli povolené."
+
+msgid "veryLow"
+msgstr "Veľmi nízka"
+
+msgid "low"
+msgstr "Nízka"
+
+msgid "inRange"
+msgstr "V cieľovom rozsahu"
+
+msgid "high"
+msgstr "Vysoká"
+
+msgid "veryHigh"
+msgstr "Veľmi vysoká"
+
+msgid "stable"
+msgstr "Stabilná"
+
+msgid "bleConnectingLabel"
+msgstr "BLE PRIPÁJANIE"
+
+msgid "bleConnectingDetail"
+msgstr "pripájanie..."
+
+msgid "bleOffLabel"
+msgstr "BLE VYPNUTÉ"
+
+msgid "bleOffDetail"
+msgstr "odpojené"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ČAKANIE"
+
+msgid "bleWaitingPhone"
+msgstr "čakanie na telefón"
+
+msgid "bleNoRecentContact"
+msgstr "žiadny nedávny kontakt"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "kontakt "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL nenastavená"
+
+msgid "httpErrorLabel"
+msgstr "CHYBA HTTP"
+
+msgid "httpQueryFailed"
+msgstr "dopyt zlyhal"
+
+msgid "httpFailLabel"
+msgstr "HTTP ZLYHALO"
+
+msgid "httpWaitingConnection"
+msgstr "čakanie na spojenie"
+
+msgid "httpValidating"
+msgstr "overovanie..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ČAKANIE"
+
+msgid "httpNoQuery"
+msgstr "žiadny dopyt"
+
+msgid "httpQueryAgo"
+msgstr "dopyt "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "BEZ PRÍSTUPU"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "pripájanie bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth odpojený"
+
+msgid "readingNoAccessNoData"
+msgstr "žiadny prístup k dátam"
+
+msgid "readingNoReadingLabel"
+msgstr "BEZ HODNOTY"
+
+msgid "readingWaitingGlucose"
+msgstr "čakanie na glykémiu"
+
+msgid "readingExpiredLabel"
+msgstr "EXPIROVANÉ"
+
+msgid "readingDelayedLabel"
+msgstr "ONESKORENÉ"
+
+msgid "readingAgo"
+msgstr "hodnota "
+
+msgid "readingCurrentLabel"
+msgstr "AKTUÁLNA"
+
+msgid "readingUpdated"
+msgstr "hodnota aktuálna"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "ŽIADNE DÁTA"
+
+msgid "nowUpper"
+msgstr "TERAZ"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Práve teraz"
+
+msgid "age1Min"
+msgstr "pred 1 min"
+
+msgid "ageXMin"
+msgstr "pred {n} min"
+
+msgid "age1Hour"
+msgstr "pred 1 hod"
+
+msgid "ageXHours"
+msgstr "pred {n} hod"
+
+msgid "refreshBtn"
+msgstr "Obnoviť"
+
+msgid "refreshToast"
+msgstr "Aktualizácia glykémie..."
+
+msgid "settingsBtn"
+msgstr "Nastavenia"
+
+msgid "starting"
+msgstr "Spúšťanie..."
+
+msgid "bgInterrupted"
+msgstr "Služba na pozadí zastavená. Skontrolujte nastavenia."
+
+msgid "lastUpdatePrefix"
+msgstr "Posledná aktualizácia: "
+
+msgid "waitingUpdate"
+msgstr "Čakanie na aktualizáciu"
+
+msgid "snoozeActiveBanner"
+msgstr "STIŠENIE AKTÍVNE • "
+
+msgid "snoozeDisabledBanner"
+msgstr "STIŠENIE VYPNUTÉ"
+
+msgid "snoozeActiveStatus"
+msgstr " • STIŠENIE AKTÍVNE • "
+
+msgid "minRemaining"
+msgstr " min zostáva"
+
+msgid "p2Title"
+msgstr "ZightScout Nastavenia"
+
+msgid "tabRanges"
+msgstr "Rozsahy"
+
+msgid "tabAlerts"
+msgstr "Alarmy / Pozadie"
+
+msgid "tabServer"
+msgstr "Server"
+
+msgid "saveAndReturn"
+msgstr "Uložiť a zavrieť"
+
+msgid "veryLowThreshold"
+msgstr "Veľmi nízka (<)"
+
+msgid "lowThreshold"
+msgstr "Nízka (<)"
+
+msgid "highThreshold"
+msgstr "Vysoká (>)"
+
+msgid "veryHighThreshold"
+msgstr "Veľmi vysoká (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Mimo cieľ (Žltá)"
+
+msgid "vibOn"
+msgstr "Vibrácie: ZAP"
+
+msgid "vibOff"
+msgstr "Vibrácie: VYP"
+
+msgid "testBtn"
+msgstr "Test"
+
+msgid "test3xBtn"
+msgstr "Test 3x"
+
+msgid "redAlertTitle"
+msgstr "Červená: 3 alarmy"
+
+msgid "bgIntervalPrefix"
+msgstr "Pozadie: každých "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Pozadie: Vypnuté"
+
+msgid "bgPermissionNotice"
+msgstr "Pre službu na pozadí povoľte\noprávnenie v nastaveniach hodiniek."
+
+msgid "optOff"
+msgstr "Vyp"
+
+msgid "snoozeActiveLabel"
+msgstr "Stíšenie aktívne: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Stíšenie neaktívne"
+
+msgid "cancelSnooze"
+msgstr "Zrušiť stíšenie"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Zrušiť stíšenie?"
+
+msgid "btnYes"
+msgstr "Áno"
+
+msgid "btnNo"
+msgstr "Nie"
+
+msgid "snoozeCancelledToast"
+msgstr "Stíšenie zrušené"
+
+msgid "serverHeader"
+msgstr "Nightscout Server:"
+
+msgid "noUrlConfigured"
+msgstr "Nie je nakonfigurovaná URL"
+
+msgid "tapToTest"
+msgstr "Ťuknutím nižšie otestujte\npripojenie k serveru"
+
+msgid "diagnosticTitle"
+msgstr "Diagnostika: "
+
+msgid "lastReading"
+msgstr "posledná hodnota "
+
+msgid "noReadingDiag"
+msgstr "žiadne hodnoty"
+
+msgid "bgActivePrefix"
+msgstr "Pozadie: "
+
+msgid "bgActiveHa"
+msgstr "aktívne po "
+
+msgid "bgNoSignal"
+msgstr "žiadny signál"
+
+msgid "enterUrlBtn"
+msgstr "Zadať URL"
+
+msgid "testConnBtn"
+msgstr "Test pripojenia"
+
+msgid "unitNotDetected"
+msgstr "Jednotka nerozpoznaná.\nVyberte jednotku:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nVyberte jednotku a uložte."
+
+msgid "unitDetected"
+msgstr "Zistená jednotka: {unit}"
+
+msgid "unitSelected"
+msgstr "Vybraná jednotka: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Nepodarilo sa uložiť jednotku"
+
+msgid "tokenConfigured"
+msgstr "Token: nakonfigurovaný"
+
+msgid "tokenOptional"
+msgstr "Token: voliteľný"
+
+msgid "pasteToken"
+msgstr "Vložte token. Prázdne pre vymazanie."
+
+msgid "tokenOpenFail"
+msgstr "Klávesnicu nie je možné otvoriť"
+
+msgid "tokenInvalid"
+msgstr "Neplatný token"
+
+msgid "tokenSaveFail"
+msgstr "Uloženie tokenu zlyhalo"
+
+msgid "tokenSaved"
+msgstr "Token uložený v telefóne"
+
+msgid "tokenRemoved"
+msgstr "Token odstránený"
+
+msgid "testFailToast"
+msgstr "Odoslanie testu zlyhalo"
+
+msgid "noResponseServer"
+msgstr "Žiadna odpoveď zo servera"
+
+msgid "criticalAlertTitle"
+msgstr "Kritická glykémia"
+
+msgid "warningAlertTitle"
+msgstr "Glykémia mimo cieľový rozsah"
+
+msgid "openNotification"
+msgstr "Otvoriť"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Offline"
+
+msgid "offlineAlertBody"
+msgstr "Žiadne dáta po dobu {minutes} min. Skontrolujte Bluetooth a aplikáciu Zepp"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Stíšenie: {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Alarm:"
+
+msgid "initialConnStatus"
+msgstr "BLE ČAKANIE | HTTP ČAKANIE | ŽIADNE DÁTA"
+
+msgid "bleSendFail"
+msgstr "Odoslanie zlyhalo"
+
+msgid "syncing"
+msgstr "Synchronizácia..."
+
+msgid "updating"
+msgstr "Aktualizácia..."
+
+msgid "nightscoutError"
+msgstr "Chyba Nightscout"
+
+msgid "dataParseError"
+msgstr "Chyba spracovania dát"
+
+msgid "genericError"
+msgstr "Chyba"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token nakonfigurovaný"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Zadať Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Zadať Token?"
+
+msgid "promptTokenBody"
+msgstr "Zadať token pre súkromný Nightscout?"
+
+msgid "noBtn"
+msgstr "Nie"
+
+msgid "yesBtn"
+msgstr "Áno"
+
+msgid "invalidUrl"
+msgstr "Neplatná URL"
+
+msgid "urlSaveFail"
+msgstr "Uloženie URL zlyhalo"
+
+msgid "urlAndTokenSaved"
+msgstr "URL a token uložené!"
+
+msgid "invalidRanges"
+msgstr "Neplatné rozsahy"
+
+msgid "settingsSavedToast"
+msgstr "Nastavenia uložené"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token platný (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Neautorizované)"
+
+msgid "http403"
+msgstr "HTTP 403 (Zakázané)"
+
+msgid "http404"
+msgstr "HTTP 404 (Nenájdené)"
+
+msgid "http429"
+msgstr "HTTP 429 (Príliš veľa požiadaviek)"
+
+msgid "http500"
+msgstr "HTTP 500 (Chyba servera)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Server nedostupný)"
+
+msgid "errTimeout"
+msgstr "Bez odpovede (Časový limit)"
+
+msgid "errNetworkShort"
+msgstr "Žiadne sieťové pripojenie"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth odpojený"
+
+msgid "testFailPrefix"
+msgstr "Zlyhalo:"
+
+msgid "tokenObtained"
+msgstr "Token získaný!"
+
+msgid "tokenObtainFail"
+msgstr "Získanie tokenu zlyhalo"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Stíšenie aktívne: {minutes} min"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL nie je nastavená"
+
+msgid "errAuth"
+msgstr "Neplatný token alebo chýba oprávnenie na čítanie"
+
+msgid "errRateLimit"
+msgstr "Dosiahnutý limit dopytov; skúste to neskôr"
+
+msgid "errServerDown"
+msgstr "Nightscout server je nedostupný"
+
+msgid "errNoReadings"
+msgstr "V Nightscout nie sú žiadne hodnoty"
+
+msgid "errNetwork"
+msgstr "Problém s pripojením: server nedostupný"
+
+msgid "authAdmin"
+msgstr "Zapisovací token (Admin)"
+
+msgid "authReadable"
+msgstr "Token iba na čítanie (Bezpečný)"
+
+msgid "authAnon"
+msgstr "Anonymný prístup / bez tokenu"
+
+msgid "tapToRefresh"
+msgstr "Ťuknite na Obnoviť"
+
+msgid "staleDataPrompt"
+msgstr "Zastarané dáta"
+
+msgid "testAlertCritTitle"
+msgstr "TEST - Červená"
+
+msgid "testAlertWarnTitle"
+msgstr "TEST - Žltá"
+
+msgid "testAlertBody"
+msgstr "Test vibrácií a oznámení."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Oprávnenie na pozadí"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Na príjem upozornení pri vypnutej obrazovke vyžaduje ZightScout oprávnenie 'Služba na pozadí'.\n\nBez neho pravidelné merania nefungujú."
+
+msgid "btnClose"
+msgstr "Zavrieť"
+
+msgid "btnRetry"
+msgstr "Skúsiť znova"
+
+msgid "btnActivateAnyway"
+msgstr "Aj tak aktivovať"
+

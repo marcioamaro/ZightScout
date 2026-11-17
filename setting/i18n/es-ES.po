@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es-ES\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Tu compañero de Nightscout"
+
+msgid "brandTag"
+msgstr "Tu compañero de Nightscout"
+
+msgid "heroHeadline"
+msgstr "¡Lleva tus datos de glucosa en la muñeca!"
+
+msgid "heroDescription"
+msgstr "Conecta tu Amazfit a tu propio servidor Nightscout y consulta cómodamente y con discreción la información de tu MCG."
+
+msgid "heroCare"
+msgstr "Creado con cariño para las personas con diabetes y quienes las cuidan. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Importante:"
+
+msgid "importantBody"
+msgstr "Para que las alertas funcionen correctamente, debes activar el permiso de ejecución en segundo plano de la aplicación en los ajustes de tu reloj inteligente."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Aviso:"
+
+msgid "disclaimerBody"
+msgstr "Esta herramienta es solo informativa; <strong>no es un dispositivo médico</strong>. No sustituye a los sistemas de monitorización de glucosa aprobados y no debe utilizarse como única base para tomar decisiones sobre el tratamiento."
+
+msgid "supportLabel"
+msgstr "☕ Apoya el proyecto:"
+
+msgid "contactLabel"
+msgstr "📧 Correo electrónico de contacto:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Guía de configuración"
+
+msgid "configurationIntro"
+msgstr "Para configurar la URL y el token (si es necesario), abre la aplicación <strong>ZightScout3+</strong>, ve a <em>Ajustes</em>, selecciona la pestaña <em>Servidor</em> y pulsa <em>Introducir URL</em>. Después de confirmar, se te pedirá el token; si no tienes uno, simplemente cierra el teclado sin escribir nada."
+
+msgid "connectionCheck"
+msgstr "A continuación, pulsa <strong>Probar conexión</strong>. Debería aparecer un mensaje que confirme que la conexión se ha validado. Si ves <span class=\"error\">401 ERROR</span>, hay un problema con la autenticación del token."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Permiso importante del reloj"
+
+msgid "watchPermissionLead"
+msgstr "Dónde activar esta opción en los ajustes del reloj:"
+
+msgid "watchPermissionBody"
+msgstr "Para enviar notificaciones y vibrar cuando la aplicación está cerrada (en segundo plano), debes conceder el permiso necesario a ZightScout directamente desde el reloj."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>IMPORTANTE:</strong> Si no recibes alertas/notificaciones de glucosa fuera de rango y el servicio está configurado para ejecutarse periódicamente cada <em>X Minutes</em>, <strong>debes</strong> permitir que la aplicación se ejecute en segundo plano."
+
+msgid "stepSettings"
+msgstr "En tu reloj inteligente Amazfit, abre <strong>Ajustes</strong>."
+
+msgid "stepPermissions"
+msgstr "Abre <strong>Permisos</strong>."
+
+msgid "stepApp"
+msgstr "Busca y selecciona <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Permite <strong>Ejecutar en segundo plano</strong> o <strong>Inicio automático</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Idiomas disponibles"
+
+msgid "supportedLanguagesIntro"
+msgstr "La interfaz de la aplicación está disponible en estos idiomas nativos de Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "La tecnología al servicio de la gestión de la diabetes."
+
+msgid "nativeSubtitle"
+msgstr "Monitor continuo de glucosa (MCG)"
+
+msgid "nativeWatchTitle"
+msgstr "Configuración del reloj"
+
+msgid "nativeWatchText"
+msgstr "Configura los rangos, las alertas y la monitorización en segundo plano en los ajustes de ZightScout del reloj."
+
+msgid "nativeUsageTitle"
+msgstr "Información de uso"
+
+msgid "nativeUsageServer"
+msgstr "El reloj muestra las lecturas de glucosa de este servidor."
+
+msgid "nativeUsageTransfer"
+msgstr "La URL se transfiere al reloj conectado mediante Bluetooth."

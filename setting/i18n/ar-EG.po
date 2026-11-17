@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar-EG\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — رفيق Nightscout"
+
+msgid "brandTag"
+msgstr "رفيق Nightscout"
+
+msgid "heroHeadline"
+msgstr "تابع بيانات الجلوكوز على معصمك!"
+
+msgid "heroDescription"
+msgstr "اربط ساعة Amazfit بخادم Nightscout الخاص بك، واطّلع على معلومات المراقبة المستمرة للجلوكوز بسهولة وخصوصية."
+
+msgid "heroCare"
+msgstr "صُمم بعناية للأشخاص المصابين بالسكري والقائمين على رعايتهم. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 مهم:"
+
+msgid "importantBody"
+msgstr "لكي تعمل التنبيهات بشكل صحيح، يجب السماح للتطبيق بالعمل في الخلفية من إعدادات ساعتك الذكية."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ إخلاء مسؤولية:"
+
+msgid "disclaimerBody"
+msgstr "هذه أداة للمعلومات فقط، <strong>وليست جهازًا طبيًا</strong>. وهي لا تغني عن أنظمة مراقبة الجلوكوز المعتمدة، ولا ينبغي الاعتماد عليها وحدها لاتخاذ قرارات العلاج."
+
+msgid "supportLabel"
+msgstr "☕ ادعم المشروع:"
+
+msgid "contactLabel"
+msgstr "📧 البريد الإلكتروني للتواصل:"
+
+msgid "configurationTitle"
+msgstr "⚙️ دليل الإعداد"
+
+msgid "configurationIntro"
+msgstr "لإعداد عنوان URL والرمز المميز (إذا لزم الأمر)، افتح تطبيق <strong>ZightScout3+</strong>، وانتقل إلى <em>الإعدادات</em>، ثم اختر علامة تبويب <em>الخادم</em> واضغط على <em>إدخال URL</em>. بعد التأكيد، سيُطلب منك إدخال الرمز المميز؛ إذا لم يكن لديك رمز، فأغلق لوحة المفاتيح دون كتابة أي شيء."
+
+msgid "connectionCheck"
+msgstr "بعد ذلك، اضغط على <strong>اختبار الاتصال</strong>. من المفترض أن تظهر رسالة تؤكد نجاح الاتصال. إذا ظهر <span class=\"error\">401 ERROR</span>، فهذا يعني وجود مشكلة في المصادقة باستخدام الرمز المميز."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ إذن مهم على الساعة"
+
+msgid "watchPermissionLead"
+msgstr "مكان تفعيل هذا الخيار في إعدادات الساعة:"
+
+msgid "watchPermissionBody"
+msgstr "لإرسال الإشعارات والاهتزاز بعد إغلاق التطبيق (أثناء عمله في الخلفية)، يحتاج ZightScout إلى إذن يُمنح مباشرةً على الساعة."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>مهم جدًا:</strong> إذا لم تصلك تنبيهات/إشعارات الخروج عن النطاق، وكانت الخدمة مضبوطة على التشغيل دوريًا كل <em>X دقيقة</em>، <strong>فيجب</strong> السماح للتطبيق بالعمل في الخلفية."
+
+msgid "stepSettings"
+msgstr "على ساعة Amazfit الذكية، افتح <strong>الإعدادات</strong>."
+
+msgid "stepPermissions"
+msgstr "افتح <strong>الأذونات</strong>."
+
+msgid "stepApp"
+msgstr "ابحث عن <strong>ZightScout</strong> واختره."
+
+msgid "stepBackground"
+msgstr "اسمح بخيار <strong>العمل في الخلفية</strong> أو <strong>التشغيل التلقائي</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 اللغات المدعومة"
+
+msgid "supportedLanguagesIntro"
+msgstr "واجهة التطبيق متاحة باللغات التالية التي يدعمها Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "تقنية تساعد على إدارة مرض السكري."
+
+msgid "nativeSubtitle"
+msgstr "المراقبة المستمرة للجلوكوز (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "إعداد الساعة"
+
+msgid "nativeWatchText"
+msgstr "اضبط النطاقات والتنبيهات والمراقبة في الخلفية من إعدادات ZightScout على الساعة."
+
+msgid "nativeUsageTitle"
+msgstr "معلومات الاستخدام"
+
+msgid "nativeUsageServer"
+msgstr "تعرض الساعة قراءات الجلوكوز الواردة من هذا الخادم."
+
+msgid "nativeUsageTransfer"
+msgstr "يُنقل عنوان URL إلى الساعة المتصلة عبر Bluetooth."

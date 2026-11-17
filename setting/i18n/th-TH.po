@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: th-TH\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — แอปคู่หู Nightscout"
+
+msgid "brandTag"
+msgstr "แอปคู่หู Nightscout"
+
+msgid "heroHeadline"
+msgstr "นำข้อมูลกลูโคสมาไว้บนข้อมือของคุณ!"
+
+msgid "heroDescription"
+msgstr "เชื่อมต่อ Amazfit ของคุณกับเซิร์ฟเวอร์ Nightscout ส่วนตัว เพื่อดูข้อมูล CGM ได้อย่างสะดวกและเป็นส่วนตัว"
+
+msgid "heroCare"
+msgstr "สร้างด้วยความใส่ใจเพื่อผู้เป็นเบาหวานและผู้ดูแล ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 สำคัญ:"
+
+msgid "importantBody"
+msgstr "เพื่อให้การแจ้งเตือนทำงานได้อย่างถูกต้อง คุณต้องเปิดสิทธิ์การทำงานเบื้องหลังของแอปในการตั้งค่าสมาร์ตวอตช์"
+
+msgid "disclaimerLabel"
+msgstr "⚠️ ข้อจำกัดความรับผิดชอบ:"
+
+msgid "disclaimerBody"
+msgstr "เครื่องมือนี้มีไว้เพื่อให้ข้อมูลเท่านั้น <strong>ไม่ใช่อุปกรณ์ทางการแพทย์</strong> ไม่สามารถใช้แทนระบบติดตามกลูโคสที่ได้รับการรับรอง และไม่ควรใช้เป็นข้อมูลเพียงอย่างเดียวในการตัดสินใจรักษา"
+
+msgid "supportLabel"
+msgstr "☕ สนับสนุนโครงการ:"
+
+msgid "contactLabel"
+msgstr "📧 อีเมลติดต่อ:"
+
+msgid "configurationTitle"
+msgstr "⚙️ คู่มือการตั้งค่า"
+
+msgid "configurationIntro"
+msgstr "หากต้องการตั้งค่า URL และ Token (ถ้าจำเป็น) ให้เปิดแอป <strong>ZightScout3+</strong> ไปที่ <em>การตั้งค่า</em> เลือกแท็บ <em>เซิร์ฟเวอร์</em> แล้วแตะ <em>ป้อน URL</em> หลังจากยืนยันแล้ว ระบบจะขอให้ป้อน token หากไม่มี ให้ปิดแป้นพิมพ์โดยไม่ต้องพิมพ์อะไร"
+
+msgid "connectionCheck"
+msgstr "จากนั้นแตะ <strong>ทดสอบการเชื่อมต่อ</strong> ควรมีข้อความยืนยันว่าการเชื่อมต่อสำเร็จ หากเห็น <span class=\"error\">401 ERROR</span> แสดงว่ามีปัญหาในการยืนยันตัวตนด้วย Token"
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ สิทธิ์สำคัญบนสมาร์ตวอตช์"
+
+msgid "watchPermissionLead"
+msgstr "วิธีเปิดใช้งานในการตั้งค่านาฬิกา:"
+
+msgid "watchPermissionBody"
+msgstr "เพื่อส่งการแจ้งเตือนและสั่นขณะปิดแอป (ทำงานเบื้องหลัง) ZightScout ต้องได้รับสิทธิ์โดยตรงจากตัวนาฬิกา"
+
+msgid "watchPermissionCritical"
+msgstr "<strong>สำคัญอย่างยิ่ง:</strong> หากคุณไม่ได้รับการแจ้งเตือน/การเตือนเมื่อค่าอยู่นอกช่วง และตั้งค่าบริการให้ทำงานเป็นระยะทุก <em>X นาที</em> คุณ <strong>ต้อง</strong>อนุญาตให้แอปทำงานเบื้องหลัง"
+
+msgid "stepSettings"
+msgstr "บนสมาร์ตวอตช์ Amazfit ให้เปิด <strong>การตั้งค่า</strong>"
+
+msgid "stepPermissions"
+msgstr "เปิด <strong>สิทธิ์</strong>"
+
+msgid "stepApp"
+msgstr "ค้นหาและเลือก <strong>ZightScout</strong>"
+
+msgid "stepBackground"
+msgstr "อนุญาต <strong>ทำงานเบื้องหลัง</strong> หรือ <strong>เริ่มทำงานอัตโนมัติ</strong>"
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 ภาษาที่รองรับ"
+
+msgid "supportedLanguagesIntro"
+msgstr "อินเทอร์เฟซของแอปรองรับภาษา Zepp OS เหล่านี้:"
+
+msgid "footerSlogan"
+msgstr "ส่งเสริมการจัดการโรคเบาหวานด้วยเทคโนโลยี"
+
+msgid "nativeSubtitle"
+msgstr "เครื่องติดตามกลูโคสต่อเนื่อง (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "การตั้งค่านาฬิกา"
+
+msgid "nativeWatchText"
+msgstr "ตั้งค่าช่วงค่า การแจ้งเตือน และการติดตามเบื้องหลังได้ในการตั้งค่า ZightScout บนนาฬิกา"
+
+msgid "nativeUsageTitle"
+msgstr "ข้อมูลการใช้งาน"
+
+msgid "nativeUsageServer"
+msgstr "นาฬิกาจะแสดงค่ากลูโคสจากเซิร์ฟเวอร์นี้"
+
+msgid "nativeUsageTransfer"
+msgstr "URL จะถูกส่งไปยังนาฬิกาที่เชื่อมต่อผ่าน Bluetooth"

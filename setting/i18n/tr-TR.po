@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr-TR\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout Yardımcısı"
+
+msgid "brandTag"
+msgstr "Nightscout Yardımcısı"
+
+msgid "heroHeadline"
+msgstr "Glikoz verilerinizi bileğinize taşıyın!"
+
+msgid "heroDescription"
+msgstr "Amazfit'inizi kendi Nightscout sunucunuza bağlayın; CGM bilgilerinizi kolayca ve gizlilik içinde görüntüleyin."
+
+msgid "heroCare"
+msgstr "Diyabetli kişiler ve bakım verenleri için özenle hazırlandı. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Önemli:"
+
+msgid "importantBody"
+msgstr "Uyarıların doğru çalışması için akıllı saat ayarlarından uygulamanın arka planda çalışma iznini etkinleştirmelisiniz."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Sorumluluk reddi:"
+
+msgid "disclaimerBody"
+msgstr "Bu yalnızca bilgilendirme amaçlı bir araçtır; <strong>tıbbi cihaz değildir</strong>. Onaylı glikoz izleme sistemlerinin yerini tutmaz ve tedavi kararlarında tek dayanak olarak kullanılmamalıdır."
+
+msgid "supportLabel"
+msgstr "☕ Projeyi destekleyin:"
+
+msgid "contactLabel"
+msgstr "📧 İletişim e-postası:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Yapılandırma Kılavuzu"
+
+msgid "configurationIntro"
+msgstr "URL'yi ve gerekiyorsa Token'ı yapılandırmak için <strong>ZightScout3+</strong> uygulamasını açın, <em>Ayarlar</em>'a gidin, <em>Sunucu</em> sekmesini seçin ve <em>URL Gir</em>'e dokunun. Onayladıktan sonra token istenir; token'ınız yoksa hiçbir şey yazmadan klavyeyi kapatmanız yeterlidir."
+
+msgid "connectionCheck"
+msgstr "Ardından <strong>Bağlantıyı Test Et</strong>'e dokunun. Bağlantının doğrulandığını belirten olumlu bir mesaj görünmelidir. <span class=\"error\">401 ERROR</span> görürseniz Token kimlik doğrulamasıyla ilgili bir sorun vardır."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Önemli Saat İzni"
+
+msgid "watchPermissionLead"
+msgstr "Saat ayarlarından bu izni etkinleştirme yolu:"
+
+msgid "watchPermissionBody"
+msgstr "Uygulama kapalıyken (arka planda) bildirim göndermek ve titreşim sağlamak için ZightScout'a doğrudan saat üzerinden izin verilmelidir."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>ÇOK ÖNEMLİ:</strong> Hedef dışı uyarı/bildirim almıyorsanız ve hizmet her <em>X Dakikada</em> bir çalışacak şekilde ayarlandıysa uygulamanın arka planda çalışmasına <strong>izin vermelisiniz</strong>."
+
+msgid "stepSettings"
+msgstr "Amazfit akıllı saatinizde <strong>Ayarlar</strong>'ı açın."
+
+msgid "stepPermissions"
+msgstr "<strong>İzinler</strong>'i açın."
+
+msgid "stepApp"
+msgstr "<strong>ZightScout</strong>'u bulup seçin."
+
+msgid "stepBackground"
+msgstr "<strong>Arka Planda Çalıştır</strong> veya <strong>Otomatik Başlat</strong> iznini verin."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Desteklenen Diller"
+
+msgid "supportedLanguagesIntro"
+msgstr "Uygulama arayüzü aşağıdaki yerel Zepp OS dillerinde kullanılabilir:"
+
+msgid "footerSlogan"
+msgstr "Teknolojiyle diyabet yönetimini güçlendirin."
+
+msgid "nativeSubtitle"
+msgstr "Sürekli Glikoz İzleme (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Saat yapılandırması"
+
+msgid "nativeWatchText"
+msgstr "Saatteki ZightScout Ayarları'ndan aralıkları, uyarıları ve arka plan izlemeyi yapılandırın."
+
+msgid "nativeUsageTitle"
+msgstr "Kullanım bilgileri"
+
+msgid "nativeUsageServer"
+msgstr "Saat, bu sunucudaki glikoz ölçümlerini gösterir."
+
+msgid "nativeUsageTransfer"
+msgstr "URL, Bluetooth üzerinden bağlı saate aktarılır."

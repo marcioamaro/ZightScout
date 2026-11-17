@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ca-ES\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Acompanyant de Nightscout"
+
+msgid "brandTag"
+msgstr "Acompanyant de Nightscout"
+
+msgid "heroHeadline"
+msgstr "Consulta les dades de glucosa al canell!"
+
+msgid "heroDescription"
+msgstr "Connecta el teu Amazfit al teu servidor Nightscout i consulta la informació del teu MCG de manera còmoda i discreta."
+
+msgid "heroCare"
+msgstr "Fet amb cura per a les persones amb diabetis i les persones que en tenen cura. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Important:"
+
+msgid "importantBody"
+msgstr "Perquè les alertes funcionin correctament, has d'activar el permís d'execució en segon pla de l'aplicació a la configuració del rellotge intel·ligent."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Avís:"
+
+msgid "disclaimerBody"
+msgstr "Aquesta és només una eina informativa, <strong>no és un dispositiu mèdic</strong>. No substitueix els sistemes de monitoratge de glucosa aprovats i no s'ha d'utilitzar com a única base per prendre decisions sobre el tractament."
+
+msgid "supportLabel"
+msgstr "☕ Dona suport al projecte:"
+
+msgid "contactLabel"
+msgstr "📧 Correu electrònic de contacte:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Guia de configuració"
+
+msgid "configurationIntro"
+msgstr "Per configurar l'URL i el token (si cal), obre l'aplicació <strong>ZightScout3+</strong>, ves a <em>Configuració</em>, selecciona la pestanya <em>Servidor</em> i toca <em>Introdueix l'URL</em>. Després de confirmar-ho, se't demanarà el token; si no en tens, només has de tancar el teclat sense escriure res."
+
+msgid "connectionCheck"
+msgstr "A continuació, toca <strong>Prova la connexió</strong>. Hauria d'aparèixer un missatge que confirmi que la connexió és correcta. Si veus <span class=\"error\">401 ERROR</span>, vol dir que hi ha un problema d'autenticació del token."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Permís important del rellotge"
+
+msgid "watchPermissionLead"
+msgstr "On pots activar-ho a la configuració del rellotge:"
+
+msgid "watchPermissionBody"
+msgstr "Per enviar notificacions i vibrar quan l'aplicació està tancada (en segon pla), ZightScout necessita que li concedeixis el permís directament al rellotge."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>IMPORTANT:</strong> Si no reps alertes/notificacions de valors fora de l'interval i el servei està configurat per executar-se periòdicament cada <em>X minuts</em>, has de <strong>permetre</strong> que l'aplicació s'executi en segon pla."
+
+msgid "stepSettings"
+msgstr "Al teu rellotge intel·ligent Amazfit, obre <strong>Configuració</strong>."
+
+msgid "stepPermissions"
+msgstr "Obre <strong>Permisos</strong>."
+
+msgid "stepApp"
+msgstr "Busca i selecciona <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Permet <strong>Execució en segon pla</strong> o <strong>Inici automàtic</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Idiomes compatibles"
+
+msgid "supportedLanguagesIntro"
+msgstr "La interfície de l'aplicació està disponible en aquests idiomes natius de Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "La tecnologia al servei de la gestió de la diabetis."
+
+msgid "nativeSubtitle"
+msgstr "Monitoratge continu de glucosa (MCG)"
+
+msgid "nativeWatchTitle"
+msgstr "Configuració del rellotge"
+
+msgid "nativeWatchText"
+msgstr "Configura els intervals, les alertes i el monitoratge en segon pla a la configuració de ZightScout del rellotge."
+
+msgid "nativeUsageTitle"
+msgstr "Informació d'ús"
+
+msgid "nativeUsageServer"
+msgstr "El rellotge mostra les lectures de glucosa d'aquest servidor."
+
+msgid "nativeUsageTransfer"
+msgstr "L'URL es transfereix al rellotge connectat mitjançant Bluetooth."

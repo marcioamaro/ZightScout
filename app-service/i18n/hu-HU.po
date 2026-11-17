@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "készítette Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Nem támogatott eszköz"
+
+msgid "unsupportedDeviceBody"
+msgstr "A(z) {w}x{h} felbontás a biztonsági határ (390px) alatt van.\n\nA betegbiztonság érdekében a megjelenítés ezen a modellen nem engedélyezett."
+
+msgid "veryLow"
+msgstr "Nagyon alacsony"
+
+msgid "low"
+msgstr "Alacsony"
+
+msgid "inRange"
+msgstr "Céltartományban"
+
+msgid "high"
+msgstr "Magas"
+
+msgid "veryHigh"
+msgstr "Nagyon magas"
+
+msgid "stable"
+msgstr "Stabil"
+
+msgid "bleConnectingLabel"
+msgstr "BLE CSATLAKOZÁS"
+
+msgid "bleConnectingDetail"
+msgstr "csatlakozás..."
+
+msgid "bleOffLabel"
+msgstr "BLE KI"
+
+msgid "bleOffDetail"
+msgstr "lecsatlakozva"
+
+msgid "bleWaitingLabel"
+msgstr "BLE VÁRAKOZÁS"
+
+msgid "bleWaitingPhone"
+msgstr "várakozás a telefonra"
+
+msgid "bleNoRecentContact"
+msgstr "nincs friss kapcsolat"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "kapcsolat "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL nincs beállítva"
+
+msgid "httpErrorLabel"
+msgstr "HTTP HIBA"
+
+msgid "httpQueryFailed"
+msgstr "lekérdezés sikertelen"
+
+msgid "httpFailLabel"
+msgstr "HTTP SIKERTELEN"
+
+msgid "httpWaitingConnection"
+msgstr "várakozás hálózatra"
+
+msgid "httpValidating"
+msgstr "ellenőrzés..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP VÁRAKOZÁS"
+
+msgid "httpNoQuery"
+msgstr "nincs lekérdezés"
+
+msgid "httpQueryAgo"
+msgstr "lekérdezés "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "NINCS HOZZÁFÉRÉS"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "bluetooth csatlakozás"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth lecsatlakozva"
+
+msgid "readingNoAccessNoData"
+msgstr "nincs adathozzáférés"
+
+msgid "readingNoReadingLabel"
+msgstr "NINCS ÉRTÉK"
+
+msgid "readingWaitingGlucose"
+msgstr "várakozás glükózra"
+
+msgid "readingExpiredLabel"
+msgstr "LEJÁRT"
+
+msgid "readingDelayedLabel"
+msgstr "KÉSLELTETETT"
+
+msgid "readingAgo"
+msgstr "mérés "
+
+msgid "readingCurrentLabel"
+msgstr "AKTUÁLIS"
+
+msgid "readingUpdated"
+msgstr "mérés naprakész"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "NINCS ADAT"
+
+msgid "nowUpper"
+msgstr "MOST"
+
+msgid "minWord"
+msgstr "PERC"
+
+msgid "ageNow"
+msgstr "Épp most"
+
+msgid "age1Min"
+msgstr "1 perce"
+
+msgid "ageXMin"
+msgstr "{n} perce"
+
+msgid "age1Hour"
+msgstr "1 órája"
+
+msgid "ageXHours"
+msgstr "{n} órája"
+
+msgid "refreshBtn"
+msgstr "Frissítés"
+
+msgid "refreshToast"
+msgstr "Glükóz frissítése..."
+
+msgid "settingsBtn"
+msgstr "Beállítások"
+
+msgid "starting"
+msgstr "Indítás..."
+
+msgid "bgInterrupted"
+msgstr "Háttérszolgáltatás leállt. Ellenőrizze a beállításokat."
+
+msgid "lastUpdatePrefix"
+msgstr "Utolsó frissítés: "
+
+msgid "waitingUpdate"
+msgstr "Várakozás frissítésre"
+
+msgid "snoozeActiveBanner"
+msgstr "SZUNDI AKTÍV • "
+
+msgid "snoozeDisabledBanner"
+msgstr "SZUNDI KI"
+
+msgid "snoozeActiveStatus"
+msgstr " • SZUNDI AKTÍV • "
+
+msgid "minRemaining"
+msgstr " perc van hátra"
+
+msgid "p2Title"
+msgstr "ZightScout Beállítások"
+
+msgid "tabRanges"
+msgstr "Tartományok"
+
+msgid "tabAlerts"
+msgstr "Riasztások / Háttér"
+
+msgid "tabServer"
+msgstr "Szerver"
+
+msgid "saveAndReturn"
+msgstr "Mentés & Kilépés"
+
+msgid "veryLowThreshold"
+msgstr "Nagyon alacsony (<)"
+
+msgid "lowThreshold"
+msgstr "Alacsony (<)"
+
+msgid "highThreshold"
+msgstr "Magas (>)"
+
+msgid "veryHighThreshold"
+msgstr "Nagyon magas (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Célon kívül (Sárga)"
+
+msgid "vibOn"
+msgstr "Rezgés: BE"
+
+msgid "vibOff"
+msgstr "Rezgés: KI"
+
+msgid "testBtn"
+msgstr "Teszt"
+
+msgid "test3xBtn"
+msgstr "Teszt 3x"
+
+msgid "redAlertTitle"
+msgstr "Piros: 3 riasztás"
+
+msgid "bgIntervalPrefix"
+msgstr "Háttér: minden "
+
+msgid "bgIntervalSuffix"
+msgstr " percben"
+
+msgid "bgIntervalOff"
+msgstr "Háttér: Ki"
+
+msgid "bgPermissionNotice"
+msgstr "A háttérszolgáltatáshoz engedélyezze\naz engedélyt az óra beállításaiban."
+
+msgid "optOff"
+msgstr "Ki"
+
+msgid "snoozeActiveLabel"
+msgstr "Szundi aktív: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Szundi inaktív"
+
+msgid "cancelSnooze"
+msgstr "Szundi törlése"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Törli a szundit?"
+
+msgid "btnYes"
+msgstr "Igen"
+
+msgid "btnNo"
+msgstr "Nem"
+
+msgid "snoozeCancelledToast"
+msgstr "Szundi törölve"
+
+msgid "serverHeader"
+msgstr "Nightscout Szerver:"
+
+msgid "noUrlConfigured"
+msgstr "Nincs URL beállítva"
+
+msgid "tapToTest"
+msgstr "Koppintson lent a\nszerverkapcsolat tesztjéhez"
+
+msgid "diagnosticTitle"
+msgstr "Diagnosztika: "
+
+msgid "lastReading"
+msgstr "utolsó mérés "
+
+msgid "noReadingDiag"
+msgstr "nincsenek mérések"
+
+msgid "bgActivePrefix"
+msgstr "Háttér: "
+
+msgid "bgActiveHa"
+msgstr "aktív ideje "
+
+msgid "bgNoSignal"
+msgstr "nincs jel"
+
+msgid "enterUrlBtn"
+msgstr "URL Megadása"
+
+msgid "testConnBtn"
+msgstr "Kapcsolat Tesztelése"
+
+msgid "unitNotDetected"
+msgstr "Mértékegység nem észlelhető.\nVálasszon mértékegységet:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nVálasszon mértékegységet és mentse."
+
+msgid "unitDetected"
+msgstr "Észlelt mértékegység: {unit}"
+
+msgid "unitSelected"
+msgstr "Kiválasztott mértékegység: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Mértékegység mentése sikertelen"
+
+msgid "tokenConfigured"
+msgstr "Token: beállítva"
+
+msgid "tokenOptional"
+msgstr "Token: opcionális"
+
+msgid "pasteToken"
+msgstr "Illessze be a tokent. Törléshez hagyja üresen."
+
+msgid "tokenOpenFail"
+msgstr "Nem sikerült megnyitni a billentyűzetet"
+
+msgid "tokenInvalid"
+msgstr "Érvénytelen token"
+
+msgid "tokenSaveFail"
+msgstr "Token mentése sikertelen"
+
+msgid "tokenSaved"
+msgstr "Token mentve a telefonra"
+
+msgid "tokenRemoved"
+msgstr "Token eltávolítva"
+
+msgid "testFailToast"
+msgstr "Teszt küldése sikertelen"
+
+msgid "noResponseServer"
+msgstr "Nincs válasz a szervertől"
+
+msgid "criticalAlertTitle"
+msgstr "Kritikus Glükóz"
+
+msgid "warningAlertTitle"
+msgstr "Glükóz Céltartományon Kívül"
+
+msgid "openNotification"
+msgstr "Megnyitás"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Offline"
+
+msgid "offlineAlertBody"
+msgstr "Nincs adat {minutes} perce. Ellenőrizze a Bluetooth-t & Zepp appot"
+
+msgid "minXAction"
+msgstr "{n} perc"
+
+msgid "snoozeToast"
+msgstr "Szundi: {minutes} perc"
+
+msgid "alertPrefix"
+msgstr "Riasztás:"
+
+msgid "initialConnStatus"
+msgstr "BLE VÁRAKOZÁS | HTTP VÁRAKOZÁS | NINCS ADAT"
+
+msgid "bleSendFail"
+msgstr "Küldés sikertelen"
+
+msgid "syncing"
+msgstr "Szinkronizálás..."
+
+msgid "updating"
+msgstr "Frissítés..."
+
+msgid "nightscoutError"
+msgstr "Nightscout hiba"
+
+msgid "dataParseError"
+msgstr "Adatfeldolgozási hiba"
+
+msgid "genericError"
+msgstr "Hiba"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token Beállítva"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Token / Secret Megadása"
+
+msgid "promptTokenTitle"
+msgstr "Megadja a Tokent?"
+
+msgid "promptTokenBody"
+msgstr "Megadja a tokent a privát Nightscouthoz?"
+
+msgid "noBtn"
+msgstr "Nem"
+
+msgid "yesBtn"
+msgstr "Igen"
+
+msgid "invalidUrl"
+msgstr "Érvénytelen URL"
+
+msgid "urlSaveFail"
+msgstr "URL mentése sikertelen"
+
+msgid "urlAndTokenSaved"
+msgstr "URL és Token mentve!"
+
+msgid "invalidRanges"
+msgstr "Érvénytelen tartományok"
+
+msgid "settingsSavedToast"
+msgstr "Beállítások mentve"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token érvényes (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Nem engedélyezett)"
+
+msgid "http403"
+msgstr "HTTP 403 (Tiltott)"
+
+msgid "http404"
+msgstr "HTTP 404 (Nem található)"
+
+msgid "http429"
+msgstr "HTTP 429 (Túl sok kérés)"
+
+msgid "http500"
+msgstr "HTTP 500 (Szerverhiba)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Szerver nem elérhető)"
+
+msgid "errTimeout"
+msgstr "Nincs válasz (Időtúllépés)"
+
+msgid "errNetworkShort"
+msgstr "Nincs hálózati kapcsolat"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth lecsatlakozva"
+
+msgid "testFailPrefix"
+msgstr "Hiba:"
+
+msgid "tokenObtained"
+msgstr "Token lekérve!"
+
+msgid "tokenObtainFail"
+msgstr "Token lekérése sikertelen"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Szundi aktív: {minutes} perc"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL nincs beállítva"
+
+msgid "errAuth"
+msgstr "Érvénytelen token vagy hiányzó olvasási jogosultság"
+
+msgid "errRateLimit"
+msgstr "Lekérdezési korlát elérve; próbálja később"
+
+msgid "errServerDown"
+msgstr "Nightscout szerver nem elérhető"
+
+msgid "errNoReadings"
+msgstr "Nincsenek mérések a Nightscoutban"
+
+msgid "errNetwork"
+msgstr "Csatlakozási probléma: szerver nem elérhető"
+
+msgid "authAdmin"
+msgstr "Írási token (Admin)"
+
+msgid "authReadable"
+msgstr "Csak olvasható token (Biztonságos)"
+
+msgid "authAnon"
+msgstr "Névtelen hozzáférés / nincs token"
+
+msgid "tapToRefresh"
+msgstr "Koppintson a Frissítésre"
+
+msgid "staleDataPrompt"
+msgstr "Elavult adatok"
+
+msgid "testAlertCritTitle"
+msgstr "TESZT - Piros"
+
+msgid "testAlertWarnTitle"
+msgstr "TESZT - Sárga"
+
+msgid "testAlertBody"
+msgstr "Rezgés- és értesítésteszt."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Háttérbeli Engedély"
+
+msgid "bgPermissionDeniedBody"
+msgstr "A kikapcsolt képernyő melletti riasztásokhoz a 'Háttérszolgáltatás' engedély szükséges.\n\nEnélkül az időszakos mérések nem működnek."
+
+msgid "btnClose"
+msgstr "Bezárás"
+
+msgid "btnRetry"
+msgstr "Újrapróbálás"
+
+msgid "btnActivateAnyway"
+msgstr "Aktiválás Mindenképp"
+

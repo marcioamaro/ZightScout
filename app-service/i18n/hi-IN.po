@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "Márcio Amaro द्वारा"
+
+msgid "unsupportedDeviceTitle"
+msgstr "असमर्थित उपकरण"
+
+msgid "unsupportedDeviceBody"
+msgstr "रिज़ॉल्यूशन {w}x{h} न्यूनतम सुरक्षित सीमा (390px) से कम है।\n\nमरीज की सुरक्षा के लिए, इस मॉडल पर देखने की अनुमति नहीं है।"
+
+msgid "veryLow"
+msgstr "बहुत कम"
+
+msgid "low"
+msgstr "कम"
+
+msgid "inRange"
+msgstr "लक्ष्य सीमा में"
+
+msgid "high"
+msgstr "उच्च"
+
+msgid "veryHigh"
+msgstr "बहुत उच्च"
+
+msgid "stable"
+msgstr "स्थिर"
+
+msgid "bleConnectingLabel"
+msgstr "BLE कनेक्ट हो रहा है"
+
+msgid "bleConnectingDetail"
+msgstr "कनेक्ट हो रहा है..."
+
+msgid "bleOffLabel"
+msgstr "BLE बंद"
+
+msgid "bleOffDetail"
+msgstr "डिस्कनेक्टेड"
+
+msgid "bleWaitingLabel"
+msgstr "BLE प्रतीक्षारत"
+
+msgid "bleWaitingPhone"
+msgstr "फ़ोन की प्रतीक्षा है"
+
+msgid "bleNoRecentContact"
+msgstr "कोई हालिया संपर्क नहीं"
+
+msgid "bleOkLabel"
+msgstr "BLE ठीक है"
+
+msgid "bleContactAgo"
+msgstr "संपर्क "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL कॉन्फ़िगर नहीं है"
+
+msgid "httpErrorLabel"
+msgstr "HTTP त्रुटि"
+
+msgid "httpQueryFailed"
+msgstr "अनुरोध विफल"
+
+msgid "httpFailLabel"
+msgstr "HTTP विफल"
+
+msgid "httpWaitingConnection"
+msgstr "कनेक्शन की प्रतीक्षा है"
+
+msgid "httpValidating"
+msgstr "सत्यापित हो रहा है..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP प्रतीक्षारत"
+
+msgid "httpNoQuery"
+msgstr "कोई अनुरोध नहीं"
+
+msgid "httpQueryAgo"
+msgstr "अनुरोध "
+
+msgid "httpOkLabel"
+msgstr "HTTP ठीक है"
+
+msgid "readingNoAccessLabel"
+msgstr "पहुंच नहीं"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "ब्लूटूथ कनेक्ट हो रहा है"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "ब्लूटूथ डिस्कनेक्ट है"
+
+msgid "readingNoAccessNoData"
+msgstr "डेटा पहुंच उपलब्ध नहीं"
+
+msgid "readingNoReadingLabel"
+msgstr "कोई रीडिंग नहीं"
+
+msgid "readingWaitingGlucose"
+msgstr "ग्लूकोज डेटा की प्रतीक्षा है"
+
+msgid "readingExpiredLabel"
+msgstr "अमान्य"
+
+msgid "readingDelayedLabel"
+msgstr "विलंबित"
+
+msgid "readingAgo"
+msgstr "रीडिंग "
+
+msgid "readingCurrentLabel"
+msgstr "वर्तमान"
+
+msgid "readingUpdated"
+msgstr "रीडिंग नवीनतम है"
+
+msgid "portWord"
+msgstr "पोर्ट "
+
+msgid "noData"
+msgstr "कोई डेटा नहीं"
+
+msgid "nowUpper"
+msgstr "अभी"
+
+msgid "minWord"
+msgstr "मिनट"
+
+msgid "ageNow"
+msgstr "अभी"
+
+msgid "age1Min"
+msgstr "1 मिनट पहले"
+
+msgid "ageXMin"
+msgstr "{n} मिनट पहले"
+
+msgid "age1Hour"
+msgstr "1 घंटा पहले"
+
+msgid "ageXHours"
+msgstr "{n} घंटे पहले"
+
+msgid "refreshBtn"
+msgstr "ताज़ा करें"
+
+msgid "refreshToast"
+msgstr "ग्लूकोज अपडेट हो रहा है..."
+
+msgid "settingsBtn"
+msgstr "सेटिंग्स"
+
+msgid "starting"
+msgstr "शुरू हो रहा है..."
+
+msgid "bgInterrupted"
+msgstr "बैकग्राउंड रुका। सेटिंग्स जांचें।"
+
+msgid "lastUpdatePrefix"
+msgstr "अंतिम अपडेट: "
+
+msgid "waitingUpdate"
+msgstr "अपडेट की प्रतीक्षा है"
+
+msgid "snoozeActiveBanner"
+msgstr "स्नूज़ सक्रिय • "
+
+msgid "snoozeDisabledBanner"
+msgstr "स्नूज़ बंद"
+
+msgid "snoozeActiveStatus"
+msgstr " • स्नूज़ सक्रिय • "
+
+msgid "minRemaining"
+msgstr " मिनट शेष"
+
+msgid "p2Title"
+msgstr "ZightScout सेटिंग्स"
+
+msgid "tabRanges"
+msgstr "सीमाएं"
+
+msgid "tabAlerts"
+msgstr "अलर्ट / बैकग्राउंड"
+
+msgid "tabServer"
+msgstr "सर्वर"
+
+msgid "saveAndReturn"
+msgstr "सहेजें और बाहर निकलें"
+
+msgid "veryLowThreshold"
+msgstr "बहुत कम (<)"
+
+msgid "lowThreshold"
+msgstr "कम (<)"
+
+msgid "highThreshold"
+msgstr "उच्च (>)"
+
+msgid "veryHighThreshold"
+msgstr "बहुत उच्च (>)"
+
+msgid "yellowAlertTitle"
+msgstr "लक्ष्य सीमा से बाहर (पीला)"
+
+msgid "vibOn"
+msgstr "कंपन: चालू"
+
+msgid "vibOff"
+msgstr "कंपन: बंद"
+
+msgid "testBtn"
+msgstr "परीक्षण"
+
+msgid "test3xBtn"
+msgstr "3 बार परीक्षण"
+
+msgid "redAlertTitle"
+msgstr "लाल: 3 अलर्ट"
+
+msgid "bgIntervalPrefix"
+msgstr "बैकग्राउंड: प्रत्येक "
+
+msgid "bgIntervalSuffix"
+msgstr " मिनट"
+
+msgid "bgIntervalOff"
+msgstr "बैकग्राउंड: बंद"
+
+msgid "bgPermissionNotice"
+msgstr "बैकग्राउंड सेवा के लिए घड़ी की\nसेटिंग्स में अनुमति सक्षम करें।"
+
+msgid "optOff"
+msgstr "बंद"
+
+msgid "snoozeActiveLabel"
+msgstr "स्नूज़ सक्रिय: "
+
+msgid "snoozeInactiveLabel"
+msgstr "स्नूज़ बंद"
+
+msgid "cancelSnooze"
+msgstr "स्नूज़ रद्द करें"
+
+msgid "cancelSnoozeConfirm"
+msgstr "क्या स्नूज़ रद्द करें?"
+
+msgid "btnYes"
+msgstr "हाँ"
+
+msgid "btnNo"
+msgstr "नहीं"
+
+msgid "snoozeCancelledToast"
+msgstr "स्नूज़ रद्द कर दिया गया"
+
+msgid "serverHeader"
+msgstr "Nightscout सर्वर:"
+
+msgid "noUrlConfigured"
+msgstr "कोई URL कॉन्फ़िगर नहीं"
+
+msgid "tapToTest"
+msgstr "सर्वर कनेक्शन जांचने के लिए\nनीचे टैप करें"
+
+msgid "diagnosticTitle"
+msgstr "निदान: "
+
+msgid "lastReading"
+msgstr "अंतिम रीडिंग "
+
+msgid "noReadingDiag"
+msgstr "कोई रीडिंग नहीं"
+
+msgid "bgActivePrefix"
+msgstr "बैकग्राउंड: "
+
+msgid "bgActiveHa"
+msgstr "सक्रिय "
+
+msgid "bgNoSignal"
+msgstr "कोई सिग्नल नहीं"
+
+msgid "enterUrlBtn"
+msgstr "URL दर्ज करें"
+
+msgid "testConnBtn"
+msgstr "कनेक्शन जांचें"
+
+msgid "unitNotDetected"
+msgstr "इकाई का पता नहीं चला।\nइकाई चुनें:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL ठीक है।\nइकाई चुनें और सहेजें।"
+
+msgid "unitDetected"
+msgstr "पहचानी गई इकाई: {unit}"
+
+msgid "unitSelected"
+msgstr "चुनी गई इकाई: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "इकाई सहेजी नहीं जा सकी"
+
+msgid "tokenConfigured"
+msgstr "टोकन: कॉन्फ़िगर है"
+
+msgid "tokenOptional"
+msgstr "टोकन: वैकल्पिक"
+
+msgid "pasteToken"
+msgstr "टोकन चिपकाएं। हटाने के लिए खाली छोड़ें।"
+
+msgid "tokenOpenFail"
+msgstr "कीबोर्ड खोलने में विफल"
+
+msgid "tokenInvalid"
+msgstr "अमान्य टोकन"
+
+msgid "tokenSaveFail"
+msgstr "टोकन सहेजने में विफल"
+
+msgid "tokenSaved"
+msgstr "फ़ोन पर टोकन सहेजा गया"
+
+msgid "tokenRemoved"
+msgstr "टोकन हटाया गया"
+
+msgid "testFailToast"
+msgstr "परीक्षण भेजने में विफल"
+
+msgid "noResponseServer"
+msgstr "सर्वर से कोई प्रतिक्रिया नहीं"
+
+msgid "criticalAlertTitle"
+msgstr "गंभीर ग्लूकोज अलर्ट"
+
+msgid "warningAlertTitle"
+msgstr "ग्लूकोज लक्ष्य सीमा से बाहर"
+
+msgid "openNotification"
+msgstr "खोलें"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout ऑफ़लाइन"
+
+msgid "offlineAlertBody"
+msgstr "{minutes} मिनट से कोई डेटा नहीं। ब्लूटूथ और Zepp ऐप जांचें"
+
+msgid "minXAction"
+msgstr "{n} मिनट"
+
+msgid "snoozeToast"
+msgstr "स्नूज़: {minutes} मिनट"
+
+msgid "alertPrefix"
+msgstr "अलर्ट:"
+
+msgid "initialConnStatus"
+msgstr "BLE प्रतीक्षारत | HTTP प्रतीक्षारत | कोई डेटा नहीं"
+
+msgid "bleSendFail"
+msgstr "भेजने में विफल"
+
+msgid "syncing"
+msgstr "सिंक हो रहा है..."
+
+msgid "updating"
+msgstr "अपडेट हो रहा है..."
+
+msgid "nightscoutError"
+msgstr "Nightscout त्रुटि"
+
+msgid "dataParseError"
+msgstr "डेटा पार्सिंग त्रुटि"
+
+msgid "genericError"
+msgstr "त्रुटि"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 टोकन कॉन्फ़िगर है"
+
+msgid "enterTokenBtn"
+msgstr "🔑 टोकन / सीक्रेट दर्ज करें"
+
+msgid "promptTokenTitle"
+msgstr "टोकन दर्ज करें?"
+
+msgid "promptTokenBody"
+msgstr "क्या निजी Nightscout के लिए टोकन दर्ज करना चाहते हैं?"
+
+msgid "noBtn"
+msgstr "नहीं"
+
+msgid "yesBtn"
+msgstr "हाँ"
+
+msgid "invalidUrl"
+msgstr "अमान्य URL"
+
+msgid "urlSaveFail"
+msgstr "URL सहेजने में विफल"
+
+msgid "urlAndTokenSaved"
+msgstr "URL और टोकन सहेजा गया!"
+
+msgid "invalidRanges"
+msgstr "अमान्य ग्लूकोज सीमाएं"
+
+msgid "settingsSavedToast"
+msgstr "सेटिंग्स सहेजी गईं"
+
+msgid "urlOkResponse"
+msgstr "URL ठीक है (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/टोकन मान्य है (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (अनधिकृत)"
+
+msgid "http403"
+msgstr "HTTP 403 (निषिद्ध)"
+
+msgid "http404"
+msgstr "HTTP 404 (नहीं मिला)"
+
+msgid "http429"
+msgstr "HTTP 429 (अत्यधिक अनुरोध)"
+
+msgid "http500"
+msgstr "HTTP 500 (सर्वर त्रुटि)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (सर्वर अनुपलब्ध)"
+
+msgid "errTimeout"
+msgstr "कोई प्रतिक्रिया नहीं (समय समाप्त)"
+
+msgid "errNetworkShort"
+msgstr "कोई नेटवर्क कनेक्शन नहीं"
+
+msgid "errBleDisconnected"
+msgstr "ब्लूटूथ डिस्कनेक्ट है"
+
+msgid "testFailPrefix"
+msgstr "विफल:"
+
+msgid "tokenObtained"
+msgstr "टोकन प्राप्त हुआ!"
+
+msgid "tokenObtainFail"
+msgstr "टोकन प्राप्त करने में विफल"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "स्नूज़ सक्रिय: {minutes} मिनट"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL कॉन्फ़िगर नहीं है"
+
+msgid "errAuth"
+msgstr "अमान्य टोकन या पढ़ने की अनुमति नहीं है"
+
+msgid "errRateLimit"
+msgstr "अनुरोध सीमा समाप्त; कृपया बाद में पुनः प्रयास करें"
+
+msgid "errServerDown"
+msgstr "Nightscout सर्वर अनुपलब्ध है"
+
+msgid "errNoReadings"
+msgstr "Nightscout में कोई रीडिंग नहीं मिली"
+
+msgid "errNetwork"
+msgstr "कनेक्शन समस्या: सर्वर तक पहुंच नहीं हो पा रही"
+
+msgid "authAdmin"
+msgstr "राइट टोकन (एडमिन)"
+
+msgid "authReadable"
+msgstr "रीड-ओनली टोकन (सुरक्षित)"
+
+msgid "authAnon"
+msgstr "अज्ञात पहुंच / कोई टोकन नहीं"
+
+msgid "tapToRefresh"
+msgstr "ताज़ा करने के लिए टैप करें"
+
+msgid "staleDataPrompt"
+msgstr "पुराना डेटा"
+
+msgid "testAlertCritTitle"
+msgstr "परीक्षण - लाल"
+
+msgid "testAlertWarnTitle"
+msgstr "परीक्षण - पीला"
+
+msgid "testAlertBody"
+msgstr "कंपन और अधिसूचना परीक्षण।"
+
+msgid "bgPermissionDeniedTitle"
+msgstr "पृष्ठभूमि अनुमति"
+
+msgid "bgPermissionDeniedBody"
+msgstr "स्क्रीन बंद होने या निष्क्रिय होने पर अलर्ट और सूचनाएं प्राप्त करने के लिए ZightScout को 'पृष्ठभूमि सेवा' अनुमति की आवश्यकता होती है।\n\nइसके बिना, आवधिक रीडिंग काम नहीं करेगी।"
+
+msgid "btnClose"
+msgstr "बंद करें"
+
+msgid "btnRetry"
+msgstr "पुनः प्रयास करें"
+
+msgid "btnActivateAnyway"
+msgstr "फिर भी सक्रिय करें"
+

@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "από Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Μη υποστηριζόμενη συσκευή"
+
+msgid "unsupportedDeviceBody"
+msgstr "Η ανάλυση {w}x{h} είναι κάτω από το ασφαλές όριο (390px).\n\nΓια την ασφάλεια του ασθενούς, η προβολή δεν επιτρέπεται."
+
+msgid "veryLow"
+msgstr "Πολύ χαμηλό"
+
+msgid "low"
+msgstr "Χαμηλό"
+
+msgid "inRange"
+msgstr "Εντός στόχου"
+
+msgid "high"
+msgstr "Υψηλό"
+
+msgid "veryHigh"
+msgstr "Πολύ υψηλό"
+
+msgid "stable"
+msgstr "Σταθερό"
+
+msgid "bleConnectingLabel"
+msgstr "BLE ΣΥΝΔΕΣΗ"
+
+msgid "bleConnectingDetail"
+msgstr "σύνδεση..."
+
+msgid "bleOffLabel"
+msgstr "BLE ΑΝΕΝΕΡΓΟ"
+
+msgid "bleOffDetail"
+msgstr "αποσυνδέθηκε"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ΑΝΑΜΟΝΗ"
+
+msgid "bleWaitingPhone"
+msgstr "αναμονή τηλεφώνου"
+
+msgid "bleNoRecentContact"
+msgstr "καμία πρόσφατη επαφή"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "επαφή πριν "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL μη ρυθμισμένο"
+
+msgid "httpErrorLabel"
+msgstr "ΣΦΑΛΜΑ HTTP"
+
+msgid "httpQueryFailed"
+msgstr "το αίτημα απέτυχε"
+
+msgid "httpFailLabel"
+msgstr "ΑΠΟΤΥΧΙΑ HTTP"
+
+msgid "httpWaitingConnection"
+msgstr "αναμονή σύνδεσης"
+
+msgid "httpValidating"
+msgstr "επικύρωση..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ΑΝΑΜΟΝΗ"
+
+msgid "httpNoQuery"
+msgstr "χωρίς αίτημα"
+
+msgid "httpQueryAgo"
+msgstr "αίτημα πριν "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "ΧΩΡΙΣ ΠΡΟΣΒΑΣΗ"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "σύνδεση bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth αποσυνδέθηκε"
+
+msgid "readingNoAccessNoData"
+msgstr "χωρίς πρόσβαση δεδομένων"
+
+msgid "readingNoReadingLabel"
+msgstr "ΧΩΡΙΣ ΜΕΤΡΗΣΗ"
+
+msgid "readingWaitingGlucose"
+msgstr "αναμονή γλυκόζης"
+
+msgid "readingExpiredLabel"
+msgstr "ΕΛΗΞΕ"
+
+msgid "readingDelayedLabel"
+msgstr "ΚΑΘΥΣΤΕΡΗΣΗ"
+
+msgid "readingAgo"
+msgstr "μέτρηση πριν "
+
+msgid "readingCurrentLabel"
+msgstr "ΤΡΕΧΟΥΣΑ"
+
+msgid "readingUpdated"
+msgstr "μέτρηση ενημερωμένη"
+
+msgid "portWord"
+msgstr "θύρα "
+
+msgid "noData"
+msgstr "ΧΩΡΙΣ ΔΕΔΟΜΕΝΑ"
+
+msgid "nowUpper"
+msgstr "ΤΩΡΑ"
+
+msgid "minWord"
+msgstr "ΛΕΠ"
+
+msgid "ageNow"
+msgstr "Μόλις τώρα"
+
+msgid "age1Min"
+msgstr "πριν 1 λεπτό"
+
+msgid "ageXMin"
+msgstr "πριν {n} λεπτά"
+
+msgid "age1Hour"
+msgstr "πριν 1 ώρα"
+
+msgid "ageXHours"
+msgstr "πριν {n} ώρες"
+
+msgid "refreshBtn"
+msgstr "Ανανέωση"
+
+msgid "refreshToast"
+msgstr "Ενημέρωση γλυκόζης..."
+
+msgid "settingsBtn"
+msgstr "Ρυθμίσεις"
+
+msgid "starting"
+msgstr "Εκκίνηση..."
+
+msgid "bgInterrupted"
+msgstr "Η υπηρεσία παρασκηνίου σταμάτησε."
+
+msgid "lastUpdatePrefix"
+msgstr "Τελευταία ενημέρωση: "
+
+msgid "waitingUpdate"
+msgstr "Αναμονή για ενημέρωση"
+
+msgid "snoozeActiveBanner"
+msgstr "ΣΙΓΑΣΗ ΕΝΕΡΓΗ • "
+
+msgid "snoozeDisabledBanner"
+msgstr "ΣΙΓΑΣΗ ΑΝΕΝΕΡΓΗ"
+
+msgid "snoozeActiveStatus"
+msgstr " • ΣΙΓΑΣΗ ΕΝΕΡΓΗ • "
+
+msgid "minRemaining"
+msgstr " λεπτά απομένουν"
+
+msgid "p2Title"
+msgstr "ZightScout Ρυθμίσεις"
+
+msgid "tabRanges"
+msgstr "Εύρη"
+
+msgid "tabAlerts"
+msgstr "Ειδοποιήσεις"
+
+msgid "tabServer"
+msgstr "Διακομιστής"
+
+msgid "saveAndReturn"
+msgstr "Αποθήκευση & Έξοδος"
+
+msgid "veryLowThreshold"
+msgstr "Πολύ χαμηλό (<)"
+
+msgid "lowThreshold"
+msgstr "Χαμηλό (<)"
+
+msgid "highThreshold"
+msgstr "Υψηλό (>)"
+
+msgid "veryHighThreshold"
+msgstr "Πολύ υψηλό (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Εκτός στόχου (Κίτρινο)"
+
+msgid "vibOn"
+msgstr "Δόνηση: ΝΑΙ"
+
+msgid "vibOff"
+msgstr "Δόνηση: ΟΧΙ"
+
+msgid "testBtn"
+msgstr "Δοκιμή"
+
+msgid "test3xBtn"
+msgstr "Δοκιμή 3x"
+
+msgid "redAlertTitle"
+msgstr "Κόκκινο: 3 ειδοποιήσεις"
+
+msgid "bgIntervalPrefix"
+msgstr "Παρασκήνιο: κάθε "
+
+msgid "bgIntervalSuffix"
+msgstr " λεπτά"
+
+msgid "bgIntervalOff"
+msgstr "Παρασκήνιο: Ανενεργό"
+
+msgid "bgPermissionNotice"
+msgstr "Ενεργοποιήστε την άδεια παρασκηνίου\nστις ρυθμίσεις του ρολογιού."
+
+msgid "optOff"
+msgstr "Ανενεργό"
+
+msgid "snoozeActiveLabel"
+msgstr "Σίγαση ενεργή: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Σίγαση ανενεργή"
+
+msgid "cancelSnooze"
+msgstr "Ακύρωση σίγασης"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Ακύρωση σίγασης;"
+
+msgid "btnYes"
+msgstr "Ναι"
+
+msgid "btnNo"
+msgstr "Όχι"
+
+msgid "snoozeCancelledToast"
+msgstr "Η σίγαση ακυρώθηκε"
+
+msgid "serverHeader"
+msgstr "Διακομιστής Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "Δεν έχει οριστεί URL"
+
+msgid "tapToTest"
+msgstr "Πατήστε παρακάτω για\nδοκιμή σύνδεσης"
+
+msgid "diagnosticTitle"
+msgstr "Διαγνωστικά: "
+
+msgid "lastReading"
+msgstr "τελευταία μέτρηση "
+
+msgid "noReadingDiag"
+msgstr "χωρίς μετρήσεις"
+
+msgid "bgActivePrefix"
+msgstr "Παρασκήνιο: "
+
+msgid "bgActiveHa"
+msgstr "ενεργό για "
+
+msgid "bgNoSignal"
+msgstr "χωρίς σήμα"
+
+msgid "enterUrlBtn"
+msgstr "Εισαγωγή URL"
+
+msgid "testConnBtn"
+msgstr "Δοκιμή σύνδεσης"
+
+msgid "unitNotDetected"
+msgstr "Δεν εντοπίστηκε μονάδα.\nΕπιλέξτε μονάδα:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nΕπιλέξτε μονάδα και αποθηκεύστε."
+
+msgid "unitDetected"
+msgstr "Εντοπίστηκε μονάδα: {unit}"
+
+msgid "unitSelected"
+msgstr "Επιλεγμένη μονάδα: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Αποτυχία αποθήκευσης μονάδας"
+
+msgid "tokenConfigured"
+msgstr "Token: ρυθμισμένο"
+
+msgid "tokenOptional"
+msgstr "Token: προαιρετικό"
+
+msgid "pasteToken"
+msgstr "Επικολλήστε το token."
+
+msgid "tokenOpenFail"
+msgstr "Αποτυχία ανοίγματος πληκτρολογίου"
+
+msgid "tokenInvalid"
+msgstr "Μη έγκυρο token"
+
+msgid "tokenSaveFail"
+msgstr "Αποτυχία αποθήκευσης token"
+
+msgid "tokenSaved"
+msgstr "Το token αποθηκεύτηκε στο τηλέφωνο"
+
+msgid "tokenRemoved"
+msgstr "Το token αφαιρέθηκε"
+
+msgid "testFailToast"
+msgstr "Αποτυχία αποστολής δοκιμής"
+
+msgid "noResponseServer"
+msgstr "Καμία απόκριση από διακομιστή"
+
+msgid "criticalAlertTitle"
+msgstr "Κρίσιμη Γλυκόζη"
+
+msgid "warningAlertTitle"
+msgstr "Γλυκόζη Εκτός Στόχου"
+
+msgid "openNotification"
+msgstr "Άνοιγμα"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Εκτός σύνδεσης"
+
+msgid "offlineAlertBody"
+msgstr "Χωρίς δεδομένα για {minutes} λεπτά. Ελέγξτε το Bluetooth & την εφαρμογή Zepp"
+
+msgid "minXAction"
+msgstr "{n} λεπτά"
+
+msgid "snoozeToast"
+msgstr "Σίγαση: {minutes} λεπτά"
+
+msgid "alertPrefix"
+msgstr "Ειδοποίηση:"
+
+msgid "initialConnStatus"
+msgstr "BLE ΑΝΑΜΟΝΗ | HTTP ΑΝΑΜΟΝΗ | ΧΩΡΙΣ ΔΕΔΟΜΕΝΑ"
+
+msgid "bleSendFail"
+msgstr "Αποτυχία αποστολής"
+
+msgid "syncing"
+msgstr "Συγχρονισμός..."
+
+msgid "updating"
+msgstr "Ενημέρωση..."
+
+msgid "nightscoutError"
+msgstr "Σφάλμα Nightscout"
+
+msgid "dataParseError"
+msgstr "Σφάλμα ανάλυσης δεδομένων"
+
+msgid "genericError"
+msgstr "Σφάλμα"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token Ρυθμισμένο"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Εισαγωγή Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Εισαγωγή Token;"
+
+msgid "promptTokenBody"
+msgstr "Εισαγωγή token για ιδιωτικό Nightscout;"
+
+msgid "noBtn"
+msgstr "Όχι"
+
+msgid "yesBtn"
+msgstr "Ναι"
+
+msgid "invalidUrl"
+msgstr "Μη έγκυρο URL"
+
+msgid "urlSaveFail"
+msgstr "Αποτυχία αποθήκευσης URL"
+
+msgid "urlAndTokenSaved"
+msgstr "URL και Token αποθηκεύτηκαν!"
+
+msgid "invalidRanges"
+msgstr "Μη έγκυρα εύρη"
+
+msgid "settingsSavedToast"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token έγκυρα (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Μη εξουσιοδοτημένο)"
+
+msgid "http403"
+msgstr "HTTP 403 (Απαγορεύεται)"
+
+msgid "http404"
+msgstr "HTTP 404 (Δεν βρέθηκε)"
+
+msgid "http429"
+msgstr "HTTP 429 (Πολλά αιτήματα)"
+
+msgid "http500"
+msgstr "HTTP 500 (Σφάλμα διακομιστή)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Μη διαθέσιμος)"
+
+msgid "errTimeout"
+msgstr "Καμία απόκριση (Χρονικό όριο)"
+
+msgid "errNetworkShort"
+msgstr "Χωρίς σύνδεση δικτύου"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth αποσυνδέθηκε"
+
+msgid "testFailPrefix"
+msgstr "Αποτυχία:"
+
+msgid "tokenObtained"
+msgstr "Το token ελήφθη!"
+
+msgid "tokenObtainFail"
+msgstr "Αποτυχία λήψης token"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Σίγαση ενεργή: {minutes} λεπτά"
+
+msgid "errNoUrl"
+msgstr "URL Nightscout μη ρυθμισμένο"
+
+msgid "errAuth"
+msgstr "Μη έγκυρο token ή λείπει άδεια ανάγνωσης"
+
+msgid "errRateLimit"
+msgstr "Όριο αιτημάτων. Δοκιμάστε αργότερα"
+
+msgid "errServerDown"
+msgstr "Διακομιστής Nightscout μη διαθέσιμος"
+
+msgid "errNoReadings"
+msgstr "Χωρίς μετρήσεις στο Nightscout"
+
+msgid "errNetwork"
+msgstr "Πρόβλημα σύνδεσης διακομιστή"
+
+msgid "authAdmin"
+msgstr "Token εγγραφής (Admin)"
+
+msgid "authReadable"
+msgstr "Token ανάγνωσης (Ασφαλές)"
+
+msgid "authAnon"
+msgstr "Ανώνυμη πρόσβαση / χωρίς token"
+
+msgid "tapToRefresh"
+msgstr "Πατήστε Ανανέωση"
+
+msgid "staleDataPrompt"
+msgstr "Μη ενημερωμένα δεδομένα"
+
+msgid "testAlertCritTitle"
+msgstr "ΔΟΚΙΜΗ - Κόκκινο"
+
+msgid "testAlertWarnTitle"
+msgstr "ΔΟΚΙΜΗ - Κίτρινο"
+
+msgid "testAlertBody"
+msgstr "Δοκιμή δόνησης και ειδοποίησης."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Άδεια Παρασκηνίου"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Για ειδοποιήσεις με κλειστή οθόνη απαιτείται η άδεια 'Υπηρεσία παρασκηνίου'.\n\nΧωρίς αυτήν οι μετρήσεις δεν λειτουργούν."
+
+msgid "btnClose"
+msgstr "Κλείσιμο"
+
+msgid "btnRetry"
+msgstr "Επανάληψη"
+
+msgid "btnActivateAnyway"
+msgstr "Ενεργοποίηση Οπωσδήποτε"
+

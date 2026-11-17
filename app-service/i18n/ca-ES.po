@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "per Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Dispositiu no compatible"
+
+msgid "unsupportedDeviceBody"
+msgstr "Resolució {w}x{h} per sota del límit segur (390px).\n\nPer seguretat del pacient, no es permet la visualització en aquest model."
+
+msgid "veryLow"
+msgstr "Molt baix"
+
+msgid "low"
+msgstr "Baix"
+
+msgid "inRange"
+msgstr "A l'objectiu"
+
+msgid "high"
+msgstr "Alt"
+
+msgid "veryHigh"
+msgstr "Molt alt"
+
+msgid "stable"
+msgstr "Estable"
+
+msgid "bleConnectingLabel"
+msgstr "BLE CONNECTANT"
+
+msgid "bleConnectingDetail"
+msgstr "connectant..."
+
+msgid "bleOffLabel"
+msgstr "BLE APAGAT"
+
+msgid "bleOffDetail"
+msgstr "desconnectat"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ESPERANT"
+
+msgid "bleWaitingPhone"
+msgstr "esperant el telèfon"
+
+msgid "bleNoRecentContact"
+msgstr "sense contacte recent"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "contacte fa "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL no configurada"
+
+msgid "httpErrorLabel"
+msgstr "ERROR HTTP"
+
+msgid "httpQueryFailed"
+msgstr "consulta fallida"
+
+msgid "httpFailLabel"
+msgstr "HTTP FALLIT"
+
+msgid "httpWaitingConnection"
+msgstr "esperant connexió"
+
+msgid "httpValidating"
+msgstr "validant..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ESPERANT"
+
+msgid "httpNoQuery"
+msgstr "sense consulta"
+
+msgid "httpQueryAgo"
+msgstr "consulta fa "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "SENSE ACCÉS"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "connectant bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth desconnectat"
+
+msgid "readingNoAccessNoData"
+msgstr "sense accés a dades"
+
+msgid "readingNoReadingLabel"
+msgstr "SENSE LECTURA"
+
+msgid "readingWaitingGlucose"
+msgstr "esperant glucosa"
+
+msgid "readingExpiredLabel"
+msgstr "CADUCAT"
+
+msgid "readingDelayedLabel"
+msgstr "RETARDAT"
+
+msgid "readingAgo"
+msgstr "lectura fa "
+
+msgid "readingCurrentLabel"
+msgstr "ACTUAL"
+
+msgid "readingUpdated"
+msgstr "lectura al dia"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "SENSE DADES"
+
+msgid "nowUpper"
+msgstr "ARA"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Ara mateix"
+
+msgid "age1Min"
+msgstr "fa 1 min"
+
+msgid "ageXMin"
+msgstr "fa {n} min"
+
+msgid "age1Hour"
+msgstr "fa 1 hora"
+
+msgid "ageXHours"
+msgstr "fa {n} hores"
+
+msgid "refreshBtn"
+msgstr "Actualitzar"
+
+msgid "refreshToast"
+msgstr "Actualitzant glucosa..."
+
+msgid "settingsBtn"
+msgstr "Configuració"
+
+msgid "starting"
+msgstr "Iniciant..."
+
+msgid "bgInterrupted"
+msgstr "Servei en segon pla aturat. Reviseu la configuració."
+
+msgid "lastUpdatePrefix"
+msgstr "Última actualització: "
+
+msgid "waitingUpdate"
+msgstr "Esperant actualització"
+
+msgid "snoozeActiveBanner"
+msgstr "SILENCI ACTIU • "
+
+msgid "snoozeDisabledBanner"
+msgstr "SILENCI APAGAT"
+
+msgid "snoozeActiveStatus"
+msgstr " • SILENCI ACTIU • "
+
+msgid "minRemaining"
+msgstr " min restants"
+
+msgid "p2Title"
+msgstr "ZightScout Configuració"
+
+msgid "tabRanges"
+msgstr "Rangs"
+
+msgid "tabAlerts"
+msgstr "Alertes / Segon pla"
+
+msgid "tabServer"
+msgstr "Servidor"
+
+msgid "saveAndReturn"
+msgstr "Desar i sortir"
+
+msgid "veryLowThreshold"
+msgstr "Molt baix (<)"
+
+msgid "lowThreshold"
+msgstr "Baix (<)"
+
+msgid "highThreshold"
+msgstr "Alt (>)"
+
+msgid "veryHighThreshold"
+msgstr "Molt alt (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Fora d'objectiu (Groc)"
+
+msgid "vibOn"
+msgstr "Vibració: SÍ"
+
+msgid "vibOff"
+msgstr "Vibració: NO"
+
+msgid "testBtn"
+msgstr "Prova"
+
+msgid "test3xBtn"
+msgstr "Prova 3x"
+
+msgid "redAlertTitle"
+msgstr "Vermell: 3 alertes"
+
+msgid "bgIntervalPrefix"
+msgstr "Segon pla: cada "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Segon pla: Apagat"
+
+msgid "bgPermissionNotice"
+msgstr "Activeu el permís als paràmetres\ndel rellotge per al servei."
+
+msgid "optOff"
+msgstr "Apagat"
+
+msgid "snoozeActiveLabel"
+msgstr "Silenci actiu: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Silenci inactiu"
+
+msgid "cancelSnooze"
+msgstr "Cancel·lar silenci"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Cancel·lar silenci?"
+
+msgid "btnYes"
+msgstr "Sí"
+
+msgid "btnNo"
+msgstr "No"
+
+msgid "snoozeCancelledToast"
+msgstr "Silenci cancel·lat"
+
+msgid "serverHeader"
+msgstr "Servidor Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "Cap URL configurada"
+
+msgid "tapToTest"
+msgstr "Toqueu a sota per\nprovar la connexió"
+
+msgid "diagnosticTitle"
+msgstr "Diagnòstic: "
+
+msgid "lastReading"
+msgstr "última lectura "
+
+msgid "noReadingDiag"
+msgstr "sense lectures"
+
+msgid "bgActivePrefix"
+msgstr "Segon pla: "
+
+msgid "bgActiveHa"
+msgstr "actiu des de fa "
+
+msgid "bgNoSignal"
+msgstr "sense senyal"
+
+msgid "enterUrlBtn"
+msgstr "Introduir URL"
+
+msgid "testConnBtn"
+msgstr "Provar connexió"
+
+msgid "unitNotDetected"
+msgstr "Unitat no detectada.\nSeleccioneu unitat:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nSeleccioneu unitat i deseu."
+
+msgid "unitDetected"
+msgstr "Unitat detectada: {unit}"
+
+msgid "unitSelected"
+msgstr "Unitat seleccionada: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "No s'ha pogut desar la unitat"
+
+msgid "tokenConfigured"
+msgstr "Token: configurat"
+
+msgid "tokenOptional"
+msgstr "Token: opcional"
+
+msgid "pasteToken"
+msgstr "Enganxeu el token. Buit per esborrar."
+
+msgid "tokenOpenFail"
+msgstr "Error en obrir el teclat"
+
+msgid "tokenInvalid"
+msgstr "Token no vàlid"
+
+msgid "tokenSaveFail"
+msgstr "Error en desar el token"
+
+msgid "tokenSaved"
+msgstr "Token desat al telèfon"
+
+msgid "tokenRemoved"
+msgstr "Token eliminat"
+
+msgid "testFailToast"
+msgstr "Error en enviar la prova"
+
+msgid "noResponseServer"
+msgstr "Sense resposta del servidor"
+
+msgid "criticalAlertTitle"
+msgstr "Glucosa Crítica"
+
+msgid "warningAlertTitle"
+msgstr "Glucosa Fora d'Objectiu"
+
+msgid "openNotification"
+msgstr "Obrir"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Desconnectat"
+
+msgid "offlineAlertBody"
+msgstr "Sense dades des de fa {minutes} min. Comproveu Bluetooth i l'app Zepp"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Silenci: {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Alerta:"
+
+msgid "initialConnStatus"
+msgstr "BLE ESPERANT | HTTP ESPERANT | SENSE DADES"
+
+msgid "bleSendFail"
+msgstr "Enviament fallit"
+
+msgid "syncing"
+msgstr "Sincronitzant..."
+
+msgid "updating"
+msgstr "Actualitzant..."
+
+msgid "nightscoutError"
+msgstr "Error de Nightscout"
+
+msgid "dataParseError"
+msgstr "Error en processar dades"
+
+msgid "genericError"
+msgstr "Error"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token configurat"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Introduir Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Introduir Token?"
+
+msgid "promptTokenBody"
+msgstr "Voleu introduir un token per a Nightscout privat?"
+
+msgid "noBtn"
+msgstr "No"
+
+msgid "yesBtn"
+msgstr "Sí"
+
+msgid "invalidUrl"
+msgstr "URL no vàlida"
+
+msgid "urlSaveFail"
+msgstr "Error en desar la URL"
+
+msgid "urlAndTokenSaved"
+msgstr "URL i Token desats!"
+
+msgid "invalidRanges"
+msgstr "Rangs no vàlids"
+
+msgid "settingsSavedToast"
+msgstr "Configuració desada"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token vàlids (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (No autoritzat)"
+
+msgid "http403"
+msgstr "HTTP 403 (Prohibit)"
+
+msgid "http404"
+msgstr "HTTP 404 (No trobat)"
+
+msgid "http429"
+msgstr "HTTP 429 (Massa peticions)"
+
+msgid "http500"
+msgstr "HTTP 500 (Error del servidor)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Servidor no disponible)"
+
+msgid "errTimeout"
+msgstr "Sense resposta (Temps esgotat)"
+
+msgid "errNetworkShort"
+msgstr "Sense connexió de xarxa"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth desconnectat"
+
+msgid "testFailPrefix"
+msgstr "Fallit:"
+
+msgid "tokenObtained"
+msgstr "Token obtingut!"
+
+msgid "tokenObtainFail"
+msgstr "Error en obtenir el token"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Silenci actiu: {minutes} min"
+
+msgid "errNoUrl"
+msgstr "URL de Nightscout no configurada"
+
+msgid "errAuth"
+msgstr "Token no vàlid o sense permís de lectura"
+
+msgid "errRateLimit"
+msgstr "Límit de consultes assolit; torneu a provar més tard"
+
+msgid "errServerDown"
+msgstr "Servidor Nightscout no disponible"
+
+msgid "errNoReadings"
+msgstr "No hi ha lectures a Nightscout"
+
+msgid "errNetwork"
+msgstr "Problema de connexió: servidor no disponible"
+
+msgid "authAdmin"
+msgstr "Token d'escriptura (Admin)"
+
+msgid "authReadable"
+msgstr "Token de només lectura (Segur)"
+
+msgid "authAnon"
+msgstr "Accés anònim / sense token"
+
+msgid "tapToRefresh"
+msgstr "Toqueu Actualitzar"
+
+msgid "staleDataPrompt"
+msgstr "Dades obsoletes"
+
+msgid "testAlertCritTitle"
+msgstr "PROVA - Vermell"
+
+msgid "testAlertWarnTitle"
+msgstr "PROVA - Groc"
+
+msgid "testAlertBody"
+msgstr "Prova de vibració i notificació."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Permís en Segon Pla"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Per rebre alertes amb la pantalla apagada, cal el permís 'Servei en segon pla'.\n\nSense ell, les lectures periòdiques no funcionaran."
+
+msgid "btnClose"
+msgstr "Tancar"
+
+msgid "btnRetry"
+msgstr "Reintentar"
+
+msgid "btnActivateAnyway"
+msgstr "Activar Igualment"
+

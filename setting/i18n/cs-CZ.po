@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs-CZ\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — doplněk Nightscout"
+
+msgid "brandTag"
+msgstr "Doplněk Nightscout"
+
+msgid "heroHeadline"
+msgstr "Mějte údaje o glukóze přímo na zápěstí!"
+
+msgid "heroDescription"
+msgstr "Připojte své zařízení Amazfit k vlastnímu serveru Nightscout a pohodlně a diskrétně sledujte informace CGM."
+
+msgid "heroCare"
+msgstr "Vytvořeno s péčí pro lidi s diabetem a jejich pečující. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Důležité:"
+
+msgid "importantBody"
+msgstr "Aby upozornění správně fungovala, musíte v nastavení chytrých hodinek povolit aplikaci oprávnění k běhu na pozadí."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Upozornění:"
+
+msgid "disclaimerBody"
+msgstr "Jde pouze o informační nástroj, <strong>nikoli zdravotnický prostředek</strong>. Nenahrazuje schválené systémy monitorování glukózy a neměl by být jediným podkladem pro rozhodování o léčbě."
+
+msgid "supportLabel"
+msgstr "☕ Podpořte projekt:"
+
+msgid "contactLabel"
+msgstr "📧 Kontaktní e-mail:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Průvodce nastavením"
+
+msgid "configurationIntro"
+msgstr "Chcete-li nastavit URL a token (je-li potřeba), otevřete aplikaci <strong>ZightScout3+</strong>, přejděte do <em>Nastavení</em>, vyberte kartu <em>Server</em> a klepněte na <em>Zadat URL</em>. Po potvrzení budete vyzváni k zadání tokenu; pokud žádný nemáte, jednoduše zavřete klávesnici, aniž byste cokoli zadali."
+
+msgid "connectionCheck"
+msgstr "Poté klepněte na <strong>Otestovat připojení</strong>. Měla by se zobrazit zpráva potvrzující úspěšné připojení. Pokud se zobrazí <span class=\"error\">CHYBA 401</span>, jde o problém s ověřením tokenu."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Důležité oprávnění hodinek"
+
+msgid "watchPermissionLead"
+msgstr "Kde toto nastavení povolit v hodinkách:"
+
+msgid "watchPermissionBody"
+msgstr "Aby aplikace ZightScout mohla odesílat oznámení a vibrovat, když je zavřená (běží na pozadí), musí jí být oprávnění uděleno přímo v hodinkách."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>ZÁSADNÍ:</strong> Pokud nedostáváte upozornění/oznámení při hodnotách mimo rozmezí a služba je nastavena na pravidelné spouštění každých <em>X minut</em>, musíte aplikaci <strong>povolit</strong> běh na pozadí."
+
+msgid "stepSettings"
+msgstr "Na chytrých hodinkách Amazfit otevřete <strong>Nastavení</strong>."
+
+msgid "stepPermissions"
+msgstr "Otevřete <strong>Oprávnění</strong>."
+
+msgid "stepApp"
+msgstr "Najděte a vyberte <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Povolte <strong>Běh na pozadí</strong> nebo <strong>Automatické spouštění</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Podporované jazyky"
+
+msgid "supportedLanguagesIntro"
+msgstr "Rozhraní aplikace je dostupné v těchto nativních jazycích Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "Technologie, které pomáhají zvládat diabetes."
+
+msgid "nativeSubtitle"
+msgstr "Kontinuální monitorování glukózy (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Nastavení hodinek"
+
+msgid "nativeWatchText"
+msgstr "Nastavte rozmezí, upozornění a monitorování na pozadí v nastavení ZightScout na hodinkách."
+
+msgid "nativeUsageTitle"
+msgstr "Informace o používání"
+
+msgid "nativeUsageServer"
+msgstr "Hodinky zobrazují hodnoty glukózy z tohoto serveru."
+
+msgid "nativeUsageTransfer"
+msgstr "URL se do připojených hodinek přenáší přes Bluetooth."

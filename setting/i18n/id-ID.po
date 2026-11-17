@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: id-ID\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Pendamping Nightscout"
+
+msgid "brandTag"
+msgstr "Pendamping Nightscout"
+
+msgid "heroHeadline"
+msgstr "Tampilkan data glukosa di pergelangan tangan Anda!"
+
+msgid "heroDescription"
+msgstr "Hubungkan Amazfit Anda ke server Nightscout pribadi dan lihat informasi CGM dengan mudah dan leluasa."
+
+msgid "heroCare"
+msgstr "Dibuat dengan sepenuh hati untuk penyandang diabetes dan para pendampingnya. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Penting:"
+
+msgid "importantBody"
+msgstr "Agar peringatan berfungsi dengan benar, Anda harus mengaktifkan izin eksekusi latar belakang aplikasi di pengaturan jam tangan."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Penafian:"
+
+msgid "disclaimerBody"
+msgstr "Aplikasi ini hanya untuk memberikan informasi, <strong>bukan perangkat medis</strong>. Aplikasi ini tidak menggantikan sistem pemantauan glukosa yang disetujui dan tidak boleh menjadi satu-satunya dasar keputusan pengobatan."
+
+msgid "supportLabel"
+msgstr "☕ Dukung proyek ini:"
+
+msgid "contactLabel"
+msgstr "📧 Email kontak:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Panduan Konfigurasi"
+
+msgid "configurationIntro"
+msgstr "Untuk mengatur URL dan Token (jika diperlukan), buka aplikasi <strong>ZightScout3+</strong>, masuk ke <em>Pengaturan</em>, pilih tab <em>Server</em>, lalu ketuk <em>Masukkan URL</em>. Setelah mengonfirmasi, Anda akan diminta memasukkan token; jika tidak memilikinya, cukup tutup papan ketik tanpa mengetik apa pun."
+
+msgid "connectionCheck"
+msgstr "Berikutnya, ketuk <strong>Uji Koneksi</strong>. Pesan sukses yang mengonfirmasi koneksi akan muncul. Jika Anda melihat <span class=\"error\">401 ERROR</span>, berarti ada masalah autentikasi Token."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Izin Penting pada Jam"
+
+msgid "watchPermissionLead"
+msgstr "Cara mengaktifkannya di pengaturan jam:"
+
+msgid "watchPermissionBody"
+msgstr "Agar dapat mengirim notifikasi dan bergetar saat aplikasi ditutup (berjalan di latar belakang), ZightScout memerlukan izin yang diberikan langsung pada jam tangan."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>PENTING:</strong> Jika Anda tidak menerima Peringatan/Notifikasi Di Luar Rentang dan layanan diatur agar berjalan berkala setiap <em>X Menit</em>, Anda <strong>harus</strong> mengizinkan aplikasi berjalan di latar belakang."
+
+msgid "stepSettings"
+msgstr "Di jam tangan Amazfit, buka <strong>Pengaturan</strong>."
+
+msgid "stepPermissions"
+msgstr "Buka <strong>Izin</strong>."
+
+msgid "stepApp"
+msgstr "Temukan dan pilih <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Izinkan <strong>Jalankan di Latar Belakang</strong> atau <strong>Mulai Otomatis</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Bahasa yang Didukung"
+
+msgid "supportedLanguagesIntro"
+msgstr "Antarmuka aplikasi tersedia dalam bahasa Zepp OS berikut:"
+
+msgid "footerSlogan"
+msgstr "Mendukung pengelolaan diabetes melalui teknologi."
+
+msgid "nativeSubtitle"
+msgstr "Pemantau Glukosa Berkelanjutan (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Pengaturan jam tangan"
+
+msgid "nativeWatchText"
+msgstr "Atur rentang, peringatan, dan pemantauan latar belakang di Pengaturan ZightScout pada jam tangan."
+
+msgid "nativeUsageTitle"
+msgstr "Informasi penggunaan"
+
+msgid "nativeUsageServer"
+msgstr "Jam tangan menampilkan pembacaan glukosa dari server ini."
+
+msgid "nativeUsageTransfer"
+msgstr "URL dikirim ke jam tangan yang terhubung melalui Bluetooth."

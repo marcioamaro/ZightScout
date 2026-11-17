@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "por Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Dispositivo Não Homologado"
+
+msgid "unsupportedDeviceBody"
+msgstr "O ZightScout Universal requer Zepp OS 3.0+ e ecrã circular ou quadrado de 466px ou 390px."
+
+msgid "veryLow"
+msgstr "Muito Baixo"
+
+msgid "low"
+msgstr "Baixo"
+
+msgid "inRange"
+msgstr "No Alvo"
+
+msgid "high"
+msgstr "Elevado"
+
+msgid "veryHigh"
+msgstr "Muito Alto"
+
+msgid "stable"
+msgstr "Estável"
+
+msgid "bleConnectingLabel"
+msgstr "BLE A LIGAR"
+
+msgid "bleConnectingDetail"
+msgstr "A tentar restabelecer ligação com a aplicação Zepp..."
+
+msgid "bleOffLabel"
+msgstr "BLE DESLIGADO"
+
+msgid "bleOffDetail"
+msgstr "Sem ligação ao telemóvel. Verifique o Bluetooth e a aplicação Zepp."
+
+msgid "bleWaitingLabel"
+msgstr "BLE EM ESPERA"
+
+msgid "bleWaitingPhone"
+msgstr "A aguardar comunicação do telemóvel..."
+
+msgid "bleNoRecentContact"
+msgstr "Sem ligação recente ao telemóvel."
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "Ligação ao telemóvel há {time}."
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL do Nightscout não configurado. Abra as Definições."
+
+msgid "httpErrorLabel"
+msgstr "HTTP ERRO"
+
+msgid "httpQueryFailed"
+msgstr "Falha ao consultar o Nightscout há {time}: {error}"
+
+msgid "httpFailLabel"
+msgstr "HTTP FALHA"
+
+msgid "httpWaitingConnection"
+msgstr "A aguardar ligação para consultar o Nightscout..."
+
+msgid "httpValidating"
+msgstr "A validar ligação com o servidor..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP EM ESPERA"
+
+msgid "httpNoQuery"
+msgstr "sem consulta"
+
+msgid "httpQueryAgo"
+msgstr "Última consulta ao Nightscout há {time}."
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "SEM ACESSO"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "Sem dados: a restabelecer ligação BLE..."
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "Sem dados: telemóvel desligado do relógio."
+
+msgid "readingNoAccessNoData"
+msgstr "sem acesso a dados"
+
+msgid "readingNoReadingLabel"
+msgstr "SEM LEITURA"
+
+msgid "readingWaitingGlucose"
+msgstr "A aguardar primeira leitura de glicose..."
+
+msgid "readingExpiredLabel"
+msgstr "VENCIDO"
+
+msgid "readingDelayedLabel"
+msgstr "ATRASADO"
+
+msgid "readingAgo"
+msgstr "leitura há "
+
+msgid "readingCurrentLabel"
+msgstr "ATUAL"
+
+msgid "readingUpdated"
+msgstr "leitura atualizada"
+
+msgid "portWord"
+msgstr "porta "
+
+msgid "noData"
+msgstr "SEM DADO"
+
+msgid "nowUpper"
+msgstr "AGORA"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Agora"
+
+msgid "age1Min"
+msgstr "há 1 min"
+
+msgid "ageXMin"
+msgstr "há {n} min"
+
+msgid "age1Hour"
+msgstr "há 1 hora"
+
+msgid "ageXHours"
+msgstr "há {n} horas"
+
+msgid "refreshBtn"
+msgstr "Atualizar"
+
+msgid "refreshToast"
+msgstr "A atualizar glicemia..."
+
+msgid "settingsBtn"
+msgstr "Definições"
+
+msgid "starting"
+msgstr "A iniciar..."
+
+msgid "bgInterrupted"
+msgstr "Segundo plano interrompido: reinicie a aplicação para reativar."
+
+msgid "lastUpdatePrefix"
+msgstr "Última atualização: "
+
+msgid "waitingUpdate"
+msgstr "A aguardar atualização"
+
+msgid "snoozeActiveBanner"
+msgstr "SILENCIADO ({m}m)"
+
+msgid "snoozeDisabledBanner"
+msgstr "Silenciamento desativado"
+
+msgid "snoozeActiveStatus"
+msgstr "Silenciado: {m} min restante"
+
+msgid "minRemaining"
+msgstr " min restantes"
+
+msgid "p2Title"
+msgstr "Definições ZightScout"
+
+msgid "tabRanges"
+msgstr "Limites"
+
+msgid "tabAlerts"
+msgstr "Alertas / 2ºP"
+
+msgid "tabServer"
+msgstr "Servidor"
+
+msgid "saveAndReturn"
+msgstr "Guardar e Voltar"
+
+msgid "veryLowThreshold"
+msgstr "Muito Baixo (<)"
+
+msgid "lowThreshold"
+msgstr "Baixo (<)"
+
+msgid "highThreshold"
+msgstr "Elevado (>)"
+
+msgid "veryHighThreshold"
+msgstr "Muito Alto (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Fora do Alvo (Amarelo)"
+
+msgid "vibOn"
+msgstr "Vibrar: ATIVADO"
+
+msgid "vibOff"
+msgstr "Vibrar: DESATIVADO"
+
+msgid "testBtn"
+msgstr "Testar"
+
+msgid "test3xBtn"
+msgstr "Testar 3x"
+
+msgid "redAlertTitle"
+msgstr "Vermelho: 3 avisos"
+
+msgid "bgIntervalPrefix"
+msgstr "2º Plano: a cada "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Segundo Plano: Desativado"
+
+msgid "bgPermissionNotice"
+msgstr "⚠️ Requer permissão \"Executar em 2º Plano\" nas Definições do relógio > Aplicações > ZightScout"
+
+msgid "optOff"
+msgstr "Desativado"
+
+msgid "snoozeActiveLabel"
+msgstr "Silenciado:"
+
+msgid "snoozeInactiveLabel"
+msgstr "Silenciar alertas:"
+
+msgid "cancelSnooze"
+msgstr "Cancelar Silenciamento"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Deseja cancelar o silenciamento e reativar os alertas?"
+
+msgid "btnYes"
+msgstr "Sim"
+
+msgid "btnNo"
+msgstr "Não"
+
+msgid "snoozeCancelledToast"
+msgstr "Silenciamento cancelado"
+
+msgid "serverHeader"
+msgstr "Servidor Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "Nenhum URL configurado"
+
+msgid "tapToTest"
+msgstr "Toque abaixo para testar\nconexão com o servidor"
+
+msgid "diagnosticTitle"
+msgstr "Diagnóstico do Sistema"
+
+msgid "lastReading"
+msgstr "Última Leitura"
+
+msgid "noReadingDiag"
+msgstr "sem leitura"
+
+msgid "bgActivePrefix"
+msgstr "2º plano: "
+
+msgid "bgActiveHa"
+msgstr " há "
+
+msgid "bgNoSignal"
+msgstr "2P Ativo: sem sinal há "
+
+msgid "enterUrlBtn"
+msgstr "Introduzir URL"
+
+msgid "testConnBtn"
+msgstr "Testar Ligação"
+
+msgid "unitNotDetected"
+msgstr "Unidade não detetada.\nSelecione a unidade:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nSelecione a unidade e guarde."
+
+msgid "unitDetected"
+msgstr "Unidade detetada: {unit}"
+
+msgid "unitSelected"
+msgstr "Unidade selecionada: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Falha ao guardar unidade"
+
+msgid "tokenConfigured"
+msgstr "Token: configurado"
+
+msgid "tokenOptional"
+msgstr "Token: opcional"
+
+msgid "pasteToken"
+msgstr "Cole o token. Vazio remove."
+
+msgid "tokenOpenFail"
+msgstr "Falha ao abrir o teclado"
+
+msgid "tokenInvalid"
+msgstr "Token inválido"
+
+msgid "tokenSaveFail"
+msgstr "Falha ao guardar token"
+
+msgid "tokenSaved"
+msgstr "Token guardado no telemóvel"
+
+msgid "tokenRemoved"
+msgstr "Token removido"
+
+msgid "testFailToast"
+msgstr "Falha ao enviar teste"
+
+msgid "noResponseServer"
+msgstr "Sem resposta do servidor"
+
+msgid "criticalAlertTitle"
+msgstr "Glicemia Critica"
+
+msgid "warningAlertTitle"
+msgstr "Glicemia Fora do Alvo"
+
+msgid "openNotification"
+msgstr "Abrir"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Offline"
+
+msgid "offlineAlertBody"
+msgstr "Sem dados há {minutes} min. Verifique o Bluetooth e a aplicação Zepp"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Silenciado: {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Alerta:"
+
+msgid "initialConnStatus"
+msgstr "BLE EM ESPERA | HTTP EM ESPERA | SEM LEITURA"
+
+msgid "bleSendFail"
+msgstr "Falha no envio"
+
+msgid "syncing"
+msgstr "A sincronizar..."
+
+msgid "updating"
+msgstr "A atualizar..."
+
+msgid "nightscoutError"
+msgstr "Erro Nightscout"
+
+msgid "dataParseError"
+msgstr "Erro nos dados"
+
+msgid "genericError"
+msgstr "Erro"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token Configurado"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Introduzir Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Introduzir Token?"
+
+msgid "promptTokenBody"
+msgstr "Deseja introduzir o token para Nightscout privado?"
+
+msgid "noBtn"
+msgstr "Não"
+
+msgid "yesBtn"
+msgstr "Sim"
+
+msgid "invalidUrl"
+msgstr "URL inválido"
+
+msgid "urlSaveFail"
+msgstr "Falha ao guardar URL"
+
+msgid "urlAndTokenSaved"
+msgstr "URL e Token configurados!"
+
+msgid "invalidRanges"
+msgstr "Limites inválidos"
+
+msgid "settingsSavedToast"
+msgstr "Definições guardadas"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token válidos (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Não autorizado)"
+
+msgid "http403"
+msgstr "HTTP 403 (Proibido)"
+
+msgid "http404"
+msgstr "HTTP 404 (Não encontrado)"
+
+msgid "http429"
+msgstr "HTTP 429 (Muitas requisições)"
+
+msgid "http500"
+msgstr "HTTP 500 (Erro no servidor)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Servidor indisponível)"
+
+msgid "errTimeout"
+msgstr "Sem resposta (Tempo limite)"
+
+msgid "errNetworkShort"
+msgstr "Sem ligação de rede"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth desligado"
+
+msgid "testFailPrefix"
+msgstr "Falha:"
+
+msgid "tokenObtained"
+msgstr "Token obtido!"
+
+msgid "tokenObtainFail"
+msgstr "Falha ao obter token"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Silenciado: {minutes} min"
+
+msgid "errNoUrl"
+msgstr "URL do Nightscout não configurado"
+
+msgid "errAuth"
+msgstr "Token inválido ou sem permissão de leitura"
+
+msgid "errRateLimit"
+msgstr "Limite de consultas atingido; tente mais tarde"
+
+msgid "errServerDown"
+msgstr "Servidor Nightscout indisponível"
+
+msgid "errNoReadings"
+msgstr "Sem leituras no Nightscout"
+
+msgid "errNetwork"
+msgstr "Problema de ligação: servidor indisponível"
+
+msgid "authAdmin"
+msgstr "Token de escrita (Admin)"
+
+msgid "authReadable"
+msgstr "Token apenas de leitura (Seguro)"
+
+msgid "authAnon"
+msgstr "Acesso anónimo / sem token"
+
+msgid "tapToRefresh"
+msgstr "Toque Atualizar"
+
+msgid "staleDataPrompt"
+msgstr "Dados desatualizados"
+
+msgid "testAlertCritTitle"
+msgstr "TESTE - Vermelho"
+
+msgid "testAlertWarnTitle"
+msgstr "TESTE - Amarelo"
+
+msgid "testAlertBody"
+msgstr "Teste de vibração e notificação."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Permissão em 2º Plano"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Para receber alertas e notificações com a tela desligada ou em repouso, o ZightScout precisa da permissão 'Executar em 2º Plano'.\n\nSem ela, as leituras periódicas não funcionarão."
+
+msgid "btnClose"
+msgstr "Fechar"
+
+msgid "btnRetry"
+msgstr "Tentar de Novo"
+
+msgid "btnActivateAnyway"
+msgstr "Ativar Mesmo Assim"
+

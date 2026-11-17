@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl-PL\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — towarzysz Nightscout"
+
+msgid "brandTag"
+msgstr "Towarzysz Nightscout"
+
+msgid "heroHeadline"
+msgstr "Miej dane o glikemii zawsze pod ręką!"
+
+msgid "heroDescription"
+msgstr "Połącz zegarek Amazfit z własnym serwerem Nightscout i wygodnie, dyskretnie sprawdzaj informacje o CGM."
+
+msgid "heroCare"
+msgstr "Stworzone z troską o osoby z cukrzycą i ich opiekunów. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Ważne:"
+
+msgid "importantBody"
+msgstr "Aby alerty działały prawidłowo, w ustawieniach smartwatcha musisz zezwolić aplikacji na działanie w tle."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Zastrzeżenie:"
+
+msgid "disclaimerBody"
+msgstr "To wyłącznie narzędzie informacyjne, <strong>nie jest wyrobem medycznym</strong>. Nie zastępuje zatwierdzonych systemów monitorowania glukozy i nie powinno być jedyną podstawą decyzji dotyczących leczenia."
+
+msgid "supportLabel"
+msgstr "☕ Wesprzyj projekt:"
+
+msgid "contactLabel"
+msgstr "📧 E-mail kontaktowy:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Instrukcja konfiguracji"
+
+msgid "configurationIntro"
+msgstr "Aby skonfigurować adres URL i token (jeśli jest wymagany), otwórz aplikację <strong>ZightScout3+</strong>, przejdź do <em>Ustawień</em>, wybierz kartę <em>Serwer</em> i dotknij <em>Wprowadź URL</em>. Po zatwierdzeniu pojawi się prośba o token; jeśli go nie masz, po prostu zamknij klawiaturę, nic nie wpisując."
+
+msgid "connectionCheck"
+msgstr "Następnie dotknij <strong>Testuj połączenie</strong>. Powinien pojawić się komunikat potwierdzający połączenie. Jeśli zobaczysz <span class=\"error\">401 ERROR</span>, oznacza to problem z uwierzytelnianiem tokenem."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Ważne uprawnienie zegarka"
+
+msgid "watchPermissionLead"
+msgstr "Gdzie włączyć tę opcję w ustawieniach zegarka:"
+
+msgid "watchPermissionBody"
+msgstr "Aby wysyłać powiadomienia i wibrować po zamknięciu aplikacji (w tle), ZightScout wymaga przyznania uprawnienia bezpośrednio na zegarku."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>WAŻNE:</strong> Jeśli nie otrzymujesz alertów/powiadomień o wyjściu poza zakres, a usługę skonfigurowano do okresowego uruchamiania co <em>X minut</em>, <strong>musisz</strong> zezwolić aplikacji na działanie w tle."
+
+msgid "stepSettings"
+msgstr "Na smartwatchu Amazfit otwórz <strong>Ustawienia</strong>."
+
+msgid "stepPermissions"
+msgstr "Otwórz <strong>Uprawnienia</strong>."
+
+msgid "stepApp"
+msgstr "Znajdź i wybierz <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Zezwól na <strong>Działanie w tle</strong> lub <strong>Autostart</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Obsługiwane języki"
+
+msgid "supportedLanguagesIntro"
+msgstr "Interfejs aplikacji jest dostępny w następujących językach Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "Technologia wspierająca życie z cukrzycą."
+
+msgid "nativeSubtitle"
+msgstr "Ciągły monitoring glukozy (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Konfiguracja zegarka"
+
+msgid "nativeWatchText"
+msgstr "Skonfiguruj zakresy, alerty i monitorowanie w tle w ustawieniach ZightScout na zegarku."
+
+msgid "nativeUsageTitle"
+msgstr "Informacje o użytkowaniu"
+
+msgid "nativeUsageServer"
+msgstr "Zegarek wyświetla odczyty glukozy z tego serwera."
+
+msgid "nativeUsageTransfer"
+msgstr "Adres URL jest przesyłany przez Bluetooth do połączonego zegarka."

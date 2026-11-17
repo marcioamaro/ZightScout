@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "Márcio Amaro 제작"
+
+msgid "unsupportedDeviceTitle"
+msgstr "미지원 기기"
+
+msgid "unsupportedDeviceBody"
+msgstr "해상도 {w}x{h}가 최소 안전 기준(390px) 미만입니다.\n\n환자 안전을 위해 이 모델에서는 화면 표시가 지원되지 않습니다."
+
+msgid "veryLow"
+msgstr "매우 낮음"
+
+msgid "low"
+msgstr "낮음"
+
+msgid "inRange"
+msgstr "목표 범위"
+
+msgid "high"
+msgstr "높음"
+
+msgid "veryHigh"
+msgstr "매우 높음"
+
+msgid "stable"
+msgstr "안정적"
+
+msgid "bleConnectingLabel"
+msgstr "BLE 연결 중"
+
+msgid "bleConnectingDetail"
+msgstr "연결 중..."
+
+msgid "bleOffLabel"
+msgstr "BLE 꺼짐"
+
+msgid "bleOffDetail"
+msgstr "연결 끊김"
+
+msgid "bleWaitingLabel"
+msgstr "BLE 대기"
+
+msgid "bleWaitingPhone"
+msgstr "스마트폰 대기 중"
+
+msgid "bleNoRecentContact"
+msgstr "최근 연결 없음"
+
+msgid "bleOkLabel"
+msgstr "BLE 정상"
+
+msgid "bleContactAgo"
+msgstr "최근 연결 "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL 미설정"
+
+msgid "httpErrorLabel"
+msgstr "HTTP 오류"
+
+msgid "httpQueryFailed"
+msgstr "요청 실패"
+
+msgid "httpFailLabel"
+msgstr "HTTP 실패"
+
+msgid "httpWaitingConnection"
+msgstr "연결 대기 중"
+
+msgid "httpValidating"
+msgstr "검증 중..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP 대기"
+
+msgid "httpNoQuery"
+msgstr "요청 없음"
+
+msgid "httpQueryAgo"
+msgstr "최근 요청 "
+
+msgid "httpOkLabel"
+msgstr "HTTP 정상"
+
+msgid "readingNoAccessLabel"
+msgstr "접근 불가"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "블루투스 연결 중"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "블루투스 연결 끊김"
+
+msgid "readingNoAccessNoData"
+msgstr "데이터 접근 불가"
+
+msgid "readingNoReadingLabel"
+msgstr "측정값 없음"
+
+msgid "readingWaitingGlucose"
+msgstr "혈당 데이터 대기 중"
+
+msgid "readingExpiredLabel"
+msgstr "만료됨"
+
+msgid "readingDelayedLabel"
+msgstr "지연됨"
+
+msgid "readingAgo"
+msgstr "측정 "
+
+msgid "readingCurrentLabel"
+msgstr "현재"
+
+msgid "readingUpdated"
+msgstr "최신 측정값"
+
+msgid "portWord"
+msgstr "포트 "
+
+msgid "noData"
+msgstr "데이터 없음"
+
+msgid "nowUpper"
+msgstr "지금"
+
+msgid "minWord"
+msgstr "분"
+
+msgid "ageNow"
+msgstr "지금"
+
+msgid "age1Min"
+msgstr "1분 전"
+
+msgid "ageXMin"
+msgstr "{n}분 전"
+
+msgid "age1Hour"
+msgstr "1시간 전"
+
+msgid "ageXHours"
+msgstr "{n}시간 전"
+
+msgid "refreshBtn"
+msgstr "새로고침"
+
+msgid "refreshToast"
+msgstr "혈당 업데이트 중..."
+
+msgid "settingsBtn"
+msgstr "설정"
+
+msgid "starting"
+msgstr "시작 중..."
+
+msgid "bgInterrupted"
+msgstr "백그라운드 중지됨. 설정 확인 필요."
+
+msgid "lastUpdatePrefix"
+msgstr "마지막 업데이트: "
+
+msgid "waitingUpdate"
+msgstr "업데이트 대기 중"
+
+msgid "snoozeActiveBanner"
+msgstr "스누즈 활성 • "
+
+msgid "snoozeDisabledBanner"
+msgstr "스누즈 꺼짐"
+
+msgid "snoozeActiveStatus"
+msgstr " • 스누즈 활성 • "
+
+msgid "minRemaining"
+msgstr "분 남음"
+
+msgid "p2Title"
+msgstr "ZightScout 설정"
+
+msgid "tabRanges"
+msgstr "범위"
+
+msgid "tabAlerts"
+msgstr "알림 / 백그라운드"
+
+msgid "tabServer"
+msgstr "서버"
+
+msgid "saveAndReturn"
+msgstr "저장 후 나가기"
+
+msgid "veryLowThreshold"
+msgstr "매우 낮음 (<)"
+
+msgid "lowThreshold"
+msgstr "낮음 (<)"
+
+msgid "highThreshold"
+msgstr "높음 (>)"
+
+msgid "veryHighThreshold"
+msgstr "매우 높음 (>)"
+
+msgid "yellowAlertTitle"
+msgstr "목표 범위 벗어남 (황색)"
+
+msgid "vibOn"
+msgstr "진동: 켜짐"
+
+msgid "vibOff"
+msgstr "진동: 꺼짐"
+
+msgid "testBtn"
+msgstr "테스트"
+
+msgid "test3xBtn"
+msgstr "3회 테스트"
+
+msgid "redAlertTitle"
+msgstr "적색: 3회 알림"
+
+msgid "bgIntervalPrefix"
+msgstr "백그라운드: 매 "
+
+msgid "bgIntervalSuffix"
+msgstr "분마다"
+
+msgid "bgIntervalOff"
+msgstr "백그라운드: 꺼짐"
+
+msgid "bgPermissionNotice"
+msgstr "백그라운드 서비스를 사용하려면\n시계 설정에서 권한을 허용하세요."
+
+msgid "optOff"
+msgstr "꺼짐"
+
+msgid "snoozeActiveLabel"
+msgstr "스누즈 활성: "
+
+msgid "snoozeInactiveLabel"
+msgstr "스누즈 꺼짐"
+
+msgid "cancelSnooze"
+msgstr "스누즈 취소"
+
+msgid "cancelSnoozeConfirm"
+msgstr "스누즈를 취소할까요?"
+
+msgid "btnYes"
+msgstr "예"
+
+msgid "btnNo"
+msgstr "아니오"
+
+msgid "snoozeCancelledToast"
+msgstr "스누즈가 취소되었습니다"
+
+msgid "serverHeader"
+msgstr "Nightscout 서버:"
+
+msgid "noUrlConfigured"
+msgstr "URL이 설정되지 않음"
+
+msgid "tapToTest"
+msgstr "아래를 눌러 서버 연결을\n테스트하세요"
+
+msgid "diagnosticTitle"
+msgstr "진단: "
+
+msgid "lastReading"
+msgstr "최근 측정 "
+
+msgid "noReadingDiag"
+msgstr "측정값 없음"
+
+msgid "bgActivePrefix"
+msgstr "백그라운드: "
+
+msgid "bgActiveHa"
+msgstr "실행 중 "
+
+msgid "bgNoSignal"
+msgstr "신호 없음"
+
+msgid "enterUrlBtn"
+msgstr "URL 입력"
+
+msgid "testConnBtn"
+msgstr "연결 테스트"
+
+msgid "unitNotDetected"
+msgstr "단위를 감지하지 못했습니다.\n단위를 선택하세요:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL 정상.\n단위를 선택하고 저장하세요."
+
+msgid "unitDetected"
+msgstr "감지된 단위: {unit}"
+
+msgid "unitSelected"
+msgstr "선택된 단위: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "단위를 저장할 수 없습니다"
+
+msgid "tokenConfigured"
+msgstr "토큰: 설정됨"
+
+msgid "tokenOptional"
+msgstr "토큰: 선택 사항"
+
+msgid "pasteToken"
+msgstr "토큰을 입력하세요. 비우면 삭제됩니다."
+
+msgid "tokenOpenFail"
+msgstr "키보드를 열 수 없습니다"
+
+msgid "tokenInvalid"
+msgstr "유효하지 않은 토큰"
+
+msgid "tokenSaveFail"
+msgstr "토큰 저장 실패"
+
+msgid "tokenSaved"
+msgstr "스마트폰에 토큰 저장 완료"
+
+msgid "tokenRemoved"
+msgstr "토큰 삭제됨"
+
+msgid "testFailToast"
+msgstr "테스트 전송 실패"
+
+msgid "noResponseServer"
+msgstr "서버 응답 없음"
+
+msgid "criticalAlertTitle"
+msgstr "위험 혈당 경보"
+
+msgid "warningAlertTitle"
+msgstr "목표 범위 이탈 혈당"
+
+msgid "openNotification"
+msgstr "열기"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout 오프라인"
+
+msgid "offlineAlertBody"
+msgstr "{minutes}분 동안 데이터가 없습니다. 블루투스 및 Zepp 앱을 확인하세요"
+
+msgid "minXAction"
+msgstr "{n}분"
+
+msgid "snoozeToast"
+msgstr "스누즈: {minutes}분"
+
+msgid "alertPrefix"
+msgstr "알림:"
+
+msgid "initialConnStatus"
+msgstr "BLE 대기 | HTTP 대기 | 데이터 없음"
+
+msgid "bleSendFail"
+msgstr "전송 실패"
+
+msgid "syncing"
+msgstr "동기화 중..."
+
+msgid "updating"
+msgstr "업데이트 중..."
+
+msgid "nightscoutError"
+msgstr "Nightscout 오류"
+
+msgid "dataParseError"
+msgstr "데이터 해석 오류"
+
+msgid "genericError"
+msgstr "오류"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 토큰 설정됨"
+
+msgid "enterTokenBtn"
+msgstr "🔑 토큰 / 시크릿 입력"
+
+msgid "promptTokenTitle"
+msgstr "토큰을 입력하시겠습니까?"
+
+msgid "promptTokenBody"
+msgstr "비공개 Nightscout용 토큰을 입력할까요?"
+
+msgid "noBtn"
+msgstr "아니오"
+
+msgid "yesBtn"
+msgstr "예"
+
+msgid "invalidUrl"
+msgstr "유효하지 않은 URL"
+
+msgid "urlSaveFail"
+msgstr "URL 저장 실패"
+
+msgid "urlAndTokenSaved"
+msgstr "URL 및 토큰 저장 완료!"
+
+msgid "invalidRanges"
+msgstr "유효하지 않은 혈당 범위"
+
+msgid "settingsSavedToast"
+msgstr "설정 저장됨"
+
+msgid "urlOkResponse"
+msgstr "URL 정상 (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/토큰 정상 (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (인증 실패)"
+
+msgid "http403"
+msgstr "HTTP 403 (접근 금지)"
+
+msgid "http404"
+msgstr "HTTP 404 (찾을 수 없음)"
+
+msgid "http429"
+msgstr "HTTP 429 (요청 한도 초과)"
+
+msgid "http500"
+msgstr "HTTP 500 (서버 오류)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (서버 사용 불가)"
+
+msgid "errTimeout"
+msgstr "응답 없음 (시간 초과)"
+
+msgid "errNetworkShort"
+msgstr "네트워크 연결 없음"
+
+msgid "errBleDisconnected"
+msgstr "블루투스 연결 끊김"
+
+msgid "testFailPrefix"
+msgstr "실패:"
+
+msgid "tokenObtained"
+msgstr "토큰을 가져왔습니다!"
+
+msgid "tokenObtainFail"
+msgstr "토큰 가져오기 실패"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "스누즈 활성: {minutes}분"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL 미설정"
+
+msgid "errAuth"
+msgstr "토큰이 유효하지 않거나 읽기 권한 없음"
+
+msgid "errRateLimit"
+msgstr "요청 한도 초과. 잠시 후 다시 시도하세요"
+
+msgid "errServerDown"
+msgstr "Nightscout 서버 사용 불가"
+
+msgid "errNoReadings"
+msgstr "Nightscout에 혈당 측정값 없음"
+
+msgid "errNetwork"
+msgstr "연결 문제: 서버에 연결할 수 없음"
+
+msgid "authAdmin"
+msgstr "쓰기 권한 토큰 (관리자)"
+
+msgid "authReadable"
+msgstr "읽기 전용 토큰 (안전)"
+
+msgid "authAnon"
+msgstr "익명 접근 / 토큰 없음"
+
+msgid "tapToRefresh"
+msgstr "새로고침 터치"
+
+msgid "staleDataPrompt"
+msgstr "오래된 데이터"
+
+msgid "testAlertCritTitle"
+msgstr "테스트 - 빨간색"
+
+msgid "testAlertWarnTitle"
+msgstr "테스트 - 노란색"
+
+msgid "testAlertBody"
+msgstr "진동 및 알림 테스트."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "백그라운드 권한"
+
+msgid "bgPermissionDeniedBody"
+msgstr "화면이 꺼지거나 대기 상태일 때 알림 및 경고를 받으려면 ZightScout에 '백그라운드 서비스' 권한이 필요합니다.\n\n권한이 없으면 주기적 측정이 작동하지 않습니다。"
+
+msgid "btnClose"
+msgstr "닫기"
+
+msgid "btnRetry"
+msgstr "다시 시도"
+
+msgid "btnActivateAnyway"
+msgstr "그래도 활성화"
+

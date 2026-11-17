@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: th_TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "โดย Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "อุปกรณ์ไม่รองรับ"
+
+msgid "unsupportedDeviceBody"
+msgstr "ความละเอียด {w}x{h} ต่ำกว่าเกณฑ์ปลอดภัย (390px)\n\nเพื่อความปลอดภัยของผู้ป่วย ไม่อนุญาตให้ดูบนรุ่นนี้"
+
+msgid "veryLow"
+msgstr "ต่ำมาก"
+
+msgid "low"
+msgstr "ต่ำ"
+
+msgid "inRange"
+msgstr "อยู่ในเป้าหมาย"
+
+msgid "high"
+msgstr "สูง"
+
+msgid "veryHigh"
+msgstr "สูงมาก"
+
+msgid "stable"
+msgstr "คงที่"
+
+msgid "bleConnectingLabel"
+msgstr "BLE กำลังเชื่อมต่อ"
+
+msgid "bleConnectingDetail"
+msgstr "กำลังเชื่อมต่อ..."
+
+msgid "bleOffLabel"
+msgstr "BLE ปิดอยู่"
+
+msgid "bleOffDetail"
+msgstr "ตัดการเชื่อมต่อแล้ว"
+
+msgid "bleWaitingLabel"
+msgstr "BLE กำลังรอ"
+
+msgid "bleWaitingPhone"
+msgstr "กำลังรอโทรศัพท์"
+
+msgid "bleNoRecentContact"
+msgstr "ไม่มีการติดต่อล่าสุด"
+
+msgid "bleOkLabel"
+msgstr "BLE ปกติ"
+
+msgid "bleContactAgo"
+msgstr "ติดต่อเมื่อ "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "ยังไม่ได้ตั้งค่า URL"
+
+msgid "httpErrorLabel"
+msgstr "ข้อผิดพลาด HTTP"
+
+msgid "httpQueryFailed"
+msgstr "คำขอไม่สำเร็จ"
+
+msgid "httpFailLabel"
+msgstr "HTTP ล้มเหลว"
+
+msgid "httpWaitingConnection"
+msgstr "กำลังรอการเชื่อมต่อ"
+
+msgid "httpValidating"
+msgstr "กำลังตรวจสอบ..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP กำลังรอ"
+
+msgid "httpNoQuery"
+msgstr "ไม่มีคำขอ"
+
+msgid "httpQueryAgo"
+msgstr "คำขอเมื่อ "
+
+msgid "httpOkLabel"
+msgstr "HTTP ปกติ"
+
+msgid "readingNoAccessLabel"
+msgstr "ไม่มีสิทธิ์เข้าถึง"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "กำลังเชื่อมต่อบลูทูธ"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "บลูทูธตัดการเชื่อมต่อ"
+
+msgid "readingNoAccessNoData"
+msgstr "ไม่มีสิทธิ์เข้าถึงข้อมูล"
+
+msgid "readingNoReadingLabel"
+msgstr "ไม่มีค่าน้ำตาล"
+
+msgid "readingWaitingGlucose"
+msgstr "กำลังรอน้ำตาล"
+
+msgid "readingExpiredLabel"
+msgstr "หมดอายุ"
+
+msgid "readingDelayedLabel"
+msgstr "ล่าช้า"
+
+msgid "readingAgo"
+msgstr "อ่านค่าเมื่อ "
+
+msgid "readingCurrentLabel"
+msgstr "ปัจจุบัน"
+
+msgid "readingUpdated"
+msgstr "ข้อมูลเป็นปัจจุบัน"
+
+msgid "portWord"
+msgstr "พอร์ต "
+
+msgid "noData"
+msgstr "ไม่มีข้อมูล"
+
+msgid "nowUpper"
+msgstr "ตอนนี้"
+
+msgid "minWord"
+msgstr "นาที"
+
+msgid "ageNow"
+msgstr "เมื่อสักครู่"
+
+msgid "age1Min"
+msgstr "1 นาทีที่แล้ว"
+
+msgid "ageXMin"
+msgstr "{n} นาทีที่แล้ว"
+
+msgid "age1Hour"
+msgstr "1 ชม. ที่แล้ว"
+
+msgid "ageXHours"
+msgstr "{n} ชม. ที่แล้ว"
+
+msgid "refreshBtn"
+msgstr "รีเฟรช"
+
+msgid "refreshToast"
+msgstr "กำลังอัปเดตน้ำตาล..."
+
+msgid "settingsBtn"
+msgstr "การตั้งค่า"
+
+msgid "starting"
+msgstr "กำลังเริ่มต้น..."
+
+msgid "bgInterrupted"
+msgstr "บริการพื้นหลังหยุดทำงาน โปรดตรวจสอบการตั้งค่า"
+
+msgid "lastUpdatePrefix"
+msgstr "อัปเดตล่าสุด: "
+
+msgid "waitingUpdate"
+msgstr "กำลังรอการอัปเดต"
+
+msgid "snoozeActiveBanner"
+msgstr "พักการแจ้งเตือนอยู่ • "
+
+msgid "snoozeDisabledBanner"
+msgstr "ปิดพักการเตือน"
+
+msgid "snoozeActiveStatus"
+msgstr " • พักการแจ้งเตือนอยู่ • "
+
+msgid "minRemaining"
+msgstr " นาทีที่เหลือ"
+
+msgid "p2Title"
+msgstr "การตั้งค่า ZightScout"
+
+msgid "tabRanges"
+msgstr "ช่วงเป้าหมาย"
+
+msgid "tabAlerts"
+msgstr "เตือน / พื้นหลัง"
+
+msgid "tabServer"
+msgstr "เซิร์ฟเวอร์"
+
+msgid "saveAndReturn"
+msgstr "บันทึก & ออก"
+
+msgid "veryLowThreshold"
+msgstr "ต่ำมาก (<)"
+
+msgid "lowThreshold"
+msgstr "ต่ำ (<)"
+
+msgid "highThreshold"
+msgstr "สูง (>)"
+
+msgid "veryHighThreshold"
+msgstr "สูงมาก (>)"
+
+msgid "yellowAlertTitle"
+msgstr "นอกเป้าหมาย (เหลือง)"
+
+msgid "vibOn"
+msgstr "การสั่น: เปิด"
+
+msgid "vibOff"
+msgstr "การสั่น: ปิด"
+
+msgid "testBtn"
+msgstr "ทดสอบ"
+
+msgid "test3xBtn"
+msgstr "ทดสอบ 3 ครั้ง"
+
+msgid "redAlertTitle"
+msgstr "สีแดง: 3 การเตือน"
+
+msgid "bgIntervalPrefix"
+msgstr "พื้นหลัง: ทุก "
+
+msgid "bgIntervalSuffix"
+msgstr " นาที"
+
+msgid "bgIntervalOff"
+msgstr "พื้นหลัง: ปิด"
+
+msgid "bgPermissionNotice"
+msgstr "สำหรับบริการพื้นหลัง ให้เปิด\nการอนุญาตในการตั้งค่าของนาฬิกา"
+
+msgid "optOff"
+msgstr "ปิด"
+
+msgid "snoozeActiveLabel"
+msgstr "กำลังพักเตือน: "
+
+msgid "snoozeInactiveLabel"
+msgstr "ไม่ได้พักเตือน"
+
+msgid "cancelSnooze"
+msgstr "ยกเลิกการพักเตือน"
+
+msgid "cancelSnoozeConfirm"
+msgstr "ยกเลิกการพักเตือน?"
+
+msgid "btnYes"
+msgstr "ใช่"
+
+msgid "btnNo"
+msgstr "ไม่"
+
+msgid "snoozeCancelledToast"
+msgstr "ยกเลิกการพักเตือนแล้ว"
+
+msgid "serverHeader"
+msgstr "เซิร์ฟเวอร์ Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "ไม่ได้กำหนดค่า URL"
+
+msgid "tapToTest"
+msgstr "แตะด้านล่างเพื่อทดสอบ\nการเชื่อมต่อเซิร์ฟเวอร์"
+
+msgid "diagnosticTitle"
+msgstr "การวินิจฉัย: "
+
+msgid "lastReading"
+msgstr "ค่าล่าสุด "
+
+msgid "noReadingDiag"
+msgstr "ไม่มีค่าน้ำตาล"
+
+msgid "bgActivePrefix"
+msgstr "พื้นหลัง: "
+
+msgid "bgActiveHa"
+msgstr "ทำงานมาแล้ว "
+
+msgid "bgNoSignal"
+msgstr "ไม่มีสัญญาณ"
+
+msgid "enterUrlBtn"
+msgstr "ป้อน URL"
+
+msgid "testConnBtn"
+msgstr "ทดสอบการเชื่อมต่อ"
+
+msgid "unitNotDetected"
+msgstr "ตรวจไม่พบหน่วย\nโปรดเลือกหน่วย:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL ปกติ\nเลือกหน่วยและบันทึก"
+
+msgid "unitDetected"
+msgstr "หน่วยที่ตรวจพบ: {unit}"
+
+msgid "unitSelected"
+msgstr "หน่วยที่เลือก: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "ไม่สามารถบันทึกหน่วยได้"
+
+msgid "tokenConfigured"
+msgstr "โทเค็น: กำหนดค่าแล้ว"
+
+msgid "tokenOptional"
+msgstr "โทเค็น: ไม่บังคับ"
+
+msgid "pasteToken"
+msgstr "วางโทเค็น เว้นว่างไว้เพื่อล้าง"
+
+msgid "tokenOpenFail"
+msgstr "เปิดคีย์บอร์ดไม่สำเร็จ"
+
+msgid "tokenInvalid"
+msgstr "โทเค็นไม่ถูกต้อง"
+
+msgid "tokenSaveFail"
+msgstr "บันทึกโทเค็นไม่สำเร็จ"
+
+msgid "tokenSaved"
+msgstr "บันทึกโทเค็นลงในโทรศัพท์แล้ว"
+
+msgid "tokenRemoved"
+msgstr "ลบโทเค็นแล้ว"
+
+msgid "testFailToast"
+msgstr "ส่งการทดสอบไม่สำเร็จ"
+
+msgid "noResponseServer"
+msgstr "ไม่มีการตอบกลับจากเซิร์ฟเวอร์"
+
+msgid "criticalAlertTitle"
+msgstr "น้ำตาลในเลือดวิกฤต"
+
+msgid "warningAlertTitle"
+msgstr "น้ำตาลนอกช่วงเป้าหมาย"
+
+msgid "openNotification"
+msgstr "เปิด"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout ออฟไลน์"
+
+msgid "offlineAlertBody"
+msgstr "ไม่มีข้อมูลเป็นเวลา {minutes} นาที ตรวจสอบบลูทูธและแอป Zepp"
+
+msgid "minXAction"
+msgstr "{n} นาที"
+
+msgid "snoozeToast"
+msgstr "พักการเตือน: {minutes} นาที"
+
+msgid "alertPrefix"
+msgstr "การเตือน:"
+
+msgid "initialConnStatus"
+msgstr "BLE กำลังรอ | HTTP กำลังรอ | ไม่มีข้อมูล"
+
+msgid "bleSendFail"
+msgstr "ส่งไม่สำเร็จ"
+
+msgid "syncing"
+msgstr "กำลังซิงค์..."
+
+msgid "updating"
+msgstr "กำลังอัปเดต..."
+
+msgid "nightscoutError"
+msgstr "ข้อผิดพลาด Nightscout"
+
+msgid "dataParseError"
+msgstr "ข้อผิดพลาดในการแยกวิเคราะห์ข้อมูล"
+
+msgid "genericError"
+msgstr "ข้อผิดพลาด"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 กำหนดค่าโทเค็นแล้ว"
+
+msgid "enterTokenBtn"
+msgstr "🔑 ป้อนโทเค็น / Secret"
+
+msgid "promptTokenTitle"
+msgstr "ป้อนโทเค็นหรือไม่?"
+
+msgid "promptTokenBody"
+msgstr "ต้องการป้อนโทเค็นสำหรับ Nightscout ส่วนตัวหรือไม่?"
+
+msgid "noBtn"
+msgstr "ไม่"
+
+msgid "yesBtn"
+msgstr "ใช่"
+
+msgid "invalidUrl"
+msgstr "URL ไม่ถูกต้อง"
+
+msgid "urlSaveFail"
+msgstr "บันทึก URL ไม่สำเร็จ"
+
+msgid "urlAndTokenSaved"
+msgstr "บันทึก URL & โทเค็นแล้ว!"
+
+msgid "invalidRanges"
+msgstr "ช่วงเป้าหมายไม่ถูกต้อง"
+
+msgid "settingsSavedToast"
+msgstr "บันทึกการตั้งค่าแล้ว"
+
+msgid "urlOkResponse"
+msgstr "URL ปกติ (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/โทเค็น ถูกต้อง (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (ไม่ได้รับอนุญาต)"
+
+msgid "http403"
+msgstr "HTTP 403 (ต้องห้าม)"
+
+msgid "http404"
+msgstr "HTTP 404 (ไม่พบ)"
+
+msgid "http429"
+msgstr "HTTP 429 (คำขอมากเกินไป)"
+
+msgid "http500"
+msgstr "HTTP 500 (เซิร์ฟเวอร์ผิดพลาด)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (เซิร์ฟเวอร์ไม่พร้อมใช้งาน)"
+
+msgid "errTimeout"
+msgstr "ไม่มีการตอบกลับ (หมดเวลา)"
+
+msgid "errNetworkShort"
+msgstr "ไม่มีการเชื่อมต่อเครือข่าย"
+
+msgid "errBleDisconnected"
+msgstr "บลูทูธตัดการเชื่อมต่อ"
+
+msgid "testFailPrefix"
+msgstr "ล้มเหลว:"
+
+msgid "tokenObtained"
+msgstr "ได้รับโทเค็นแล้ว!"
+
+msgid "tokenObtainFail"
+msgstr "รับโทเค็นไม่สำเร็จ"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "พักการเตือนอยู่: {minutes} นาที"
+
+msgid "errNoUrl"
+msgstr "ยังไม่ได้ตั้งค่า URL Nightscout"
+
+msgid "errAuth"
+msgstr "โทเค็นไม่ถูกต้องหรือไม่มีสิทธิ์อ่าน"
+
+msgid "errRateLimit"
+msgstr "ถึงขีดจำกัดคำขอ โปรดลองใหม่ภายหลัง"
+
+msgid "errServerDown"
+msgstr "เซิร์ฟเวอร์ Nightscout ไม่พร้อมใช้งาน"
+
+msgid "errNoReadings"
+msgstr "ไม่มีค่าน้ำตาลใน Nightscout"
+
+msgid "errNetwork"
+msgstr "ปัญหาการเชื่อมต่อ: เซิร์ฟเวอร์ไม่พร้อมใช้งาน"
+
+msgid "authAdmin"
+msgstr "โทเค็นเขียน (Admin)"
+
+msgid "authReadable"
+msgstr "โทเค็นอ่านอย่างเดียว (ปลอดภัย)"
+
+msgid "authAnon"
+msgstr "การเข้าถึงแบบไม่ระบุตัวตน / ไม่มีโทเค็น"
+
+msgid "tapToRefresh"
+msgstr "แตะเพื่อรีเฟรช"
+
+msgid "staleDataPrompt"
+msgstr "ข้อมูลไม่อัปเดต"
+
+msgid "testAlertCritTitle"
+msgstr "ทดสอบ - สีแดง"
+
+msgid "testAlertWarnTitle"
+msgstr "ทดสอบ - สีเหลือง"
+
+msgid "testAlertBody"
+msgstr "ทดสอบการสั่นและการแจ้งเตือน"
+
+msgid "bgPermissionDeniedTitle"
+msgstr "การอนุญาตพื้นหลัง"
+
+msgid "bgPermissionDeniedBody"
+msgstr "หากต้องการรับการแจ้งเตือนขณะหน้าจอดับ จำเป็นต้องมีสิทธิ์ 'บริการพื้นหลัง'\n\nหากไม่มีสิทธิ์นี้ การอ่านค่าตามกำหนดเวลาจะไม่ทำงาน"
+
+msgid "btnClose"
+msgstr "ปิด"
+
+msgid "btnRetry"
+msgstr "ลองอีกครั้ง"
+
+msgid "btnActivateAnyway"
+msgstr "เปิดใช้งานต่อไป"
+

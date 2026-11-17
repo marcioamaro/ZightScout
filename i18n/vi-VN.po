@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "bởi Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Thiết bị không hỗ trợ"
+
+msgid "unsupportedDeviceBody"
+msgstr "Độ phân giải {w}x{h} dưới mức an toàn (390px).\n\nVì an toàn của bệnh nhân, không cho phép xem trên kiểu máy này."
+
+msgid "veryLow"
+msgstr "Rất thấp"
+
+msgid "low"
+msgstr "Thấp"
+
+msgid "inRange"
+msgstr "Trong mục tiêu"
+
+msgid "high"
+msgstr "Cao"
+
+msgid "veryHigh"
+msgstr "Rất cao"
+
+msgid "stable"
+msgstr "Ổn định"
+
+msgid "bleConnectingLabel"
+msgstr "BLE ĐANG KẾT NỐI"
+
+msgid "bleConnectingDetail"
+msgstr "đang kết nối..."
+
+msgid "bleOffLabel"
+msgstr "BLE TẮT"
+
+msgid "bleOffDetail"
+msgstr "đã ngắt kết nối"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ĐANG CHỜ"
+
+msgid "bleWaitingPhone"
+msgstr "chờ điện thoại"
+
+msgid "bleNoRecentContact"
+msgstr "không có liên lạc gần đây"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "liên lạc "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL chưa cấu hình"
+
+msgid "httpErrorLabel"
+msgstr "LỖI HTTP"
+
+msgid "httpQueryFailed"
+msgstr "truy vấn thất bại"
+
+msgid "httpFailLabel"
+msgstr "HTTP THẤT BẠI"
+
+msgid "httpWaitingConnection"
+msgstr "chờ kết nối mạng"
+
+msgid "httpValidating"
+msgstr "đang xác thực..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ĐANG CHỜ"
+
+msgid "httpNoQuery"
+msgstr "không có truy vấn"
+
+msgid "httpQueryAgo"
+msgstr "truy vấn "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "KHÔNG CÓ QUYỀN"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "đang kết nối bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth đã ngắt"
+
+msgid "readingNoAccessNoData"
+msgstr "không có quyền dữ liệu"
+
+msgid "readingNoReadingLabel"
+msgstr "KHÔNG CÓ CHỈ SỐ"
+
+msgid "readingWaitingGlucose"
+msgstr "đang chờ đường huyết"
+
+msgid "readingExpiredLabel"
+msgstr "HẾT HẠN"
+
+msgid "readingDelayedLabel"
+msgstr "CHẬM TRỄ"
+
+msgid "readingAgo"
+msgstr "chỉ số "
+
+msgid "readingCurrentLabel"
+msgstr "HIỆN TẠI"
+
+msgid "readingUpdated"
+msgstr "chỉ số đã cập nhật"
+
+msgid "portWord"
+msgstr "cổng "
+
+msgid "noData"
+msgstr "KHÔNG CÓ DỮ LIỆU"
+
+msgid "nowUpper"
+msgstr "BÂY GIỜ"
+
+msgid "minWord"
+msgstr "PHÚT"
+
+msgid "ageNow"
+msgstr "Vừa xong"
+
+msgid "age1Min"
+msgstr "1 phút trước"
+
+msgid "ageXMin"
+msgstr "{n} phút trước"
+
+msgid "age1Hour"
+msgstr "1 giờ trước"
+
+msgid "ageXHours"
+msgstr "{n} giờ trước"
+
+msgid "refreshBtn"
+msgstr "Làm mới"
+
+msgid "refreshToast"
+msgstr "Đang cập nhật đường huyết..."
+
+msgid "settingsBtn"
+msgstr "Cài đặt"
+
+msgid "starting"
+msgstr "Đang khởi động..."
+
+msgid "bgInterrupted"
+msgstr "Dịch vụ nền đã dừng. Kiểm tra cài đặt."
+
+msgid "lastUpdatePrefix"
+msgstr "Cập nhật lần cuối: "
+
+msgid "waitingUpdate"
+msgstr "Đang chờ cập nhật"
+
+msgid "snoozeActiveBanner"
+msgstr "TẠM DỪNG ĐANG BẬT • "
+
+msgid "snoozeDisabledBanner"
+msgstr "TẠM DỪNG TẮT"
+
+msgid "snoozeActiveStatus"
+msgstr " • TẠM DỪNG ĐANG BẬT • "
+
+msgid "minRemaining"
+msgstr " phút còn lại"
+
+msgid "p2Title"
+msgstr "Cài đặt ZightScout"
+
+msgid "tabRanges"
+msgstr "Phạm vi"
+
+msgid "tabAlerts"
+msgstr "Cảnh báo / Nền"
+
+msgid "tabServer"
+msgstr "Máy chủ"
+
+msgid "saveAndReturn"
+msgstr "Lưu & Thoát"
+
+msgid "veryLowThreshold"
+msgstr "Rất thấp (<)"
+
+msgid "lowThreshold"
+msgstr "Thấp (<)"
+
+msgid "highThreshold"
+msgstr "Cao (>)"
+
+msgid "veryHighThreshold"
+msgstr "Rất cao (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Ngoài mục tiêu (Vàng)"
+
+msgid "vibOn"
+msgstr "Rung: BẬT"
+
+msgid "vibOff"
+msgstr "Rung: TẮT"
+
+msgid "testBtn"
+msgstr "Thử nghiệm"
+
+msgid "test3xBtn"
+msgstr "Thử nghiệm 3x"
+
+msgid "redAlertTitle"
+msgstr "Đỏ: 3 cảnh báo"
+
+msgid "bgIntervalPrefix"
+msgstr "Chạy nền: mỗi "
+
+msgid "bgIntervalSuffix"
+msgstr " phút"
+
+msgid "bgIntervalOff"
+msgstr "Chạy nền: Tắt"
+
+msgid "bgPermissionNotice"
+msgstr "Đối với dịch vụ nền, bật quyền\ntrong cài đặt đồng hồ."
+
+msgid "optOff"
+msgstr "Tắt"
+
+msgid "snoozeActiveLabel"
+msgstr "Tạm dừng đang bật: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Tạm dừng đã tắt"
+
+msgid "cancelSnooze"
+msgstr "Hủy tạm dừng"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Hủy tạm dừng?"
+
+msgid "btnYes"
+msgstr "Có"
+
+msgid "btnNo"
+msgstr "Không"
+
+msgid "snoozeCancelledToast"
+msgstr "Đã hủy tạm dừng"
+
+msgid "serverHeader"
+msgstr "Máy chủ Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "Chưa cấu hình URL"
+
+msgid "tapToTest"
+msgstr "Chạm bên dưới để kiểm tra\nkết nối máy chủ"
+
+msgid "diagnosticTitle"
+msgstr "Chẩn đoán: "
+
+msgid "lastReading"
+msgstr "chỉ số cuối "
+
+msgid "noReadingDiag"
+msgstr "không có chỉ số"
+
+msgid "bgActivePrefix"
+msgstr "Chạy nền: "
+
+msgid "bgActiveHa"
+msgstr "hoạt động được "
+
+msgid "bgNoSignal"
+msgstr "mất tín hiệu"
+
+msgid "enterUrlBtn"
+msgstr "Nhập URL"
+
+msgid "testConnBtn"
+msgstr "Kiểm tra kết nối"
+
+msgid "unitNotDetected"
+msgstr "Không nhận diện được đơn vị.\nChọn đơn vị:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nChọn đơn vị và lưu."
+
+msgid "unitDetected"
+msgstr "Đơn vị phát hiện: {unit}"
+
+msgid "unitSelected"
+msgstr "Đơn vị đã chọn: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Không thể lưu đơn vị"
+
+msgid "tokenConfigured"
+msgstr "Mã xác thực: đã cấu hình"
+
+msgid "tokenOptional"
+msgstr "Mã xác thực: tùy chọn"
+
+msgid "pasteToken"
+msgstr "Dán mã xác thực. Để trống để xóa."
+
+msgid "tokenOpenFail"
+msgstr "Không mở được bàn phím"
+
+msgid "tokenInvalid"
+msgstr "Mã xác thực không hợp lệ"
+
+msgid "tokenSaveFail"
+msgstr "Lưu mã xác thực thất bại"
+
+msgid "tokenSaved"
+msgstr "Mã xác thực đã lưu trên điện thoại"
+
+msgid "tokenRemoved"
+msgstr "Đã xóa mã xác thực"
+
+msgid "testFailToast"
+msgstr "Gửi thử nghiệm thất bại"
+
+msgid "noResponseServer"
+msgstr "Máy chủ không phản hồi"
+
+msgid "criticalAlertTitle"
+msgstr "Đường Huyết Nguy Hiểm"
+
+msgid "warningAlertTitle"
+msgstr "Đường Huyết Ngoài Mục Tiêu"
+
+msgid "openNotification"
+msgstr "Mở"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Ngoại tuyến"
+
+msgid "offlineAlertBody"
+msgstr "Không có dữ liệu trong {minutes} phút. Kiểm tra Bluetooth & ứng dụng Zepp"
+
+msgid "minXAction"
+msgstr "{n} phút"
+
+msgid "snoozeToast"
+msgstr "Tạm dừng: {minutes} phút"
+
+msgid "alertPrefix"
+msgstr "Cảnh báo:"
+
+msgid "initialConnStatus"
+msgstr "BLE ĐANG CHỜ | HTTP ĐANG CHỜ | KHÔNG CÓ DỮ LIỆU"
+
+msgid "bleSendFail"
+msgstr "Gửi thất bại"
+
+msgid "syncing"
+msgstr "Đang đồng bộ..."
+
+msgid "updating"
+msgstr "Đang cập nhật..."
+
+msgid "nightscoutError"
+msgstr "Lỗi Nightscout"
+
+msgid "dataParseError"
+msgstr "Lỗi phân tích dữ liệu"
+
+msgid "genericError"
+msgstr "Lỗi"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Đã cấu hình mã xác thực"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Nhập Mã xác thực / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Nhập Mã xác thực?"
+
+msgid "promptTokenBody"
+msgstr "Nhập mã xác thực cho Nightscout riêng tư?"
+
+msgid "noBtn"
+msgstr "Không"
+
+msgid "yesBtn"
+msgstr "Có"
+
+msgid "invalidUrl"
+msgstr "URL không hợp lệ"
+
+msgid "urlSaveFail"
+msgstr "Lưu URL thất bại"
+
+msgid "urlAndTokenSaved"
+msgstr "Đã lưu URL & Mã xác thực!"
+
+msgid "invalidRanges"
+msgstr "Phạm vi không hợp lệ"
+
+msgid "settingsSavedToast"
+msgstr "Đã lưu cài đặt"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Mã hợp lệ (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Chưa xác thực)"
+
+msgid "http403"
+msgstr "HTTP 403 (Bị cấm)"
+
+msgid "http404"
+msgstr "HTTP 404 (Không tìm thấy)"
+
+msgid "http429"
+msgstr "HTTP 429 (Quá nhiều yêu cầu)"
+
+msgid "http500"
+msgstr "HTTP 500 (Lỗi máy chủ)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Máy chủ không khả dụng)"
+
+msgid "errTimeout"
+msgstr "Không phản hồi (Hết thời gian)"
+
+msgid "errNetworkShort"
+msgstr "Không có kết nối mạng"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth đã ngắt kết nối"
+
+msgid "testFailPrefix"
+msgstr "Thất bại:"
+
+msgid "tokenObtained"
+msgstr "Đã nhận mã xác thực!"
+
+msgid "tokenObtainFail"
+msgstr "Nhận mã xác thực thất bại"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Tạm dừng đang bật: {minutes} phút"
+
+msgid "errNoUrl"
+msgstr "Chưa cấu hình URL Nightscout"
+
+msgid "errAuth"
+msgstr "Mã xác thực không hợp lệ hoặc thiếu quyền đọc"
+
+msgid "errRateLimit"
+msgstr "Đạt giới hạn truy vấn; vui lòng thử lại sau"
+
+msgid "errServerDown"
+msgstr "Máy chủ Nightscout không khả dụng"
+
+msgid "errNoReadings"
+msgstr "Không có chỉ số nào trong Nightscout"
+
+msgid "errNetwork"
+msgstr "Sự cố kết nối: máy chủ không khả dụng"
+
+msgid "authAdmin"
+msgstr "Mã ghi (Quản trị viên)"
+
+msgid "authReadable"
+msgstr "Mã chỉ đọc (An toàn)"
+
+msgid "authAnon"
+msgstr "Truy cập ẩn danh / không mã"
+
+msgid "tapToRefresh"
+msgstr "Chạm Làm mới"
+
+msgid "staleDataPrompt"
+msgstr "Dữ liệu cũ"
+
+msgid "testAlertCritTitle"
+msgstr "THỬ NGHIỆM - Đỏ"
+
+msgid "testAlertWarnTitle"
+msgstr "THỬ NGHIỆM - Vàng"
+
+msgid "testAlertBody"
+msgstr "Thử nghiệm rung và thông báo."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Quyền Chạy Nền"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Để nhận cảnh báo khi màn hình tắt, cần có quyền 'Dịch vụ nền'.\n\nNếu không có quyền này, các lần đọc định kỳ sẽ không hoạt động."
+
+msgid "btnClose"
+msgstr "Đóng"
+
+msgid "btnRetry"
+msgstr "Thử lại"
+
+msgid "btnActivateAnyway"
+msgstr "Vẫn kích hoạt"
+

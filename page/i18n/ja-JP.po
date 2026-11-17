@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "Márcio Amaro作"
+
+msgid "unsupportedDeviceTitle"
+msgstr "非対応の端末です"
+
+msgid "unsupportedDeviceBody"
+msgstr "ZightScout UniversalにはZepp OS 3.0以上と466pxまたは390pxの画面が必要です。"
+
+msgid "veryLow"
+msgstr "極度低血糖"
+
+msgid "low"
+msgstr "低血糖"
+
+msgid "inRange"
+msgstr "目標範囲内"
+
+msgid "high"
+msgstr "高血糖"
+
+msgid "veryHigh"
+msgstr "極度高血糖"
+
+msgid "stable"
+msgstr "安定"
+
+msgid "bleConnectingLabel"
+msgstr "BLE接続中"
+
+msgid "bleConnectingDetail"
+msgstr "Zeppアプリとの通信を再接続中..."
+
+msgid "bleOffLabel"
+msgstr "BLE切断"
+
+msgid "bleOffDetail"
+msgstr "スマートフォンと未接続。BluetoothとZeppアプリを確認してください。"
+
+msgid "bleWaitingLabel"
+msgstr "BLE待機中"
+
+msgid "bleWaitingPhone"
+msgstr "スマートフォンからの通信を待機中..."
+
+msgid "bleNoRecentContact"
+msgstr "最近のスマートフォンとの通信がありません。"
+
+msgid "bleOkLabel"
+msgstr "BLE接続OK"
+
+msgid "bleContactAgo"
+msgstr "{time}にスマートフォンと接続。"
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL未設定"
+
+msgid "httpUrlNotConfigured"
+msgstr "NightscoutのURLが設定されていません。設定を開いてください。"
+
+msgid "httpErrorLabel"
+msgstr "HTTPエラー"
+
+msgid "httpQueryFailed"
+msgstr "{time}にNightscoutの取得に失敗: {error}"
+
+msgid "httpFailLabel"
+msgstr "HTTP失敗"
+
+msgid "httpWaitingConnection"
+msgstr "Nightscout接続待機中..."
+
+msgid "httpValidating"
+msgstr "サーバー接続を確認中..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP待機中"
+
+msgid "httpNoQuery"
+msgstr "まだ取得履歴がありません。"
+
+msgid "httpQueryAgo"
+msgstr "前回のNightscout取得: {time}。"
+
+msgid "httpOkLabel"
+msgstr "HTTP接続OK"
+
+msgid "readingNoAccessLabel"
+msgstr "アクセス不能"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "データなし: BLE接続を再確立中..."
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "データなし: 時計とスマートフォンが切断されています。"
+
+msgid "readingNoAccessNoData"
+msgstr "Nightscoutとの最近の通信がありません。"
+
+msgid "readingNoReadingLabel"
+msgstr "測定値なし"
+
+msgid "readingWaitingGlucose"
+msgstr "最初の血糖測定値を待機中..."
+
+msgid "readingExpiredLabel"
+msgstr "期限切れ"
+
+msgid "readingDelayedLabel"
+msgstr "遅延"
+
+msgid "readingAgo"
+msgstr "測定値生成: "
+
+msgid "readingCurrentLabel"
+msgstr "ATUAL"
+
+msgid "readingUpdated"
+msgstr "測定値更新完了"
+
+msgid "portWord"
+msgstr "ポート"
+
+msgid "noData"
+msgstr "データなし"
+
+msgid "nowUpper"
+msgstr "たった今"
+
+msgid "minWord"
+msgstr "分"
+
+msgid "ageNow"
+msgstr "たった今"
+
+msgid "age1Min"
+msgstr "1分前"
+
+msgid "ageXMin"
+msgstr "{n}分前"
+
+msgid "age1Hour"
+msgstr "1時間前"
+
+msgid "ageXHours"
+msgstr "{n}時間前"
+
+msgid "refreshBtn"
+msgstr "更新"
+
+msgid "refreshToast"
+msgstr "血糖値を更新中..."
+
+msgid "settingsBtn"
+msgstr "設定"
+
+msgid "starting"
+msgstr "起動中..."
+
+msgid "bgInterrupted"
+msgstr "バックグラウンド停止: 再起動して再有効化してください。"
+
+msgid "lastUpdatePrefix"
+msgstr "更新: "
+
+msgid "waitingUpdate"
+msgstr "更新待機中"
+
+msgid "snoozeActiveBanner"
+msgstr "スヌーズ有効 ({m}分)"
+
+msgid "snoozeDisabledBanner"
+msgstr "スヌーズ無効"
+
+msgid "snoozeActiveStatus"
+msgstr "スヌーズ中: 残り{m}分"
+
+msgid "minRemaining"
+msgstr "残り{m}分"
+
+msgid "p2Title"
+msgstr "ZightScout 設定"
+
+msgid "tabRanges"
+msgstr "目標範囲"
+
+msgid "tabAlerts"
+msgstr "アラート/背景"
+
+msgid "tabServer"
+msgstr "サーバー"
+
+msgid "saveAndReturn"
+msgstr "保存して戻る"
+
+msgid "veryLowThreshold"
+msgstr "極度低血糖 (<)"
+
+msgid "lowThreshold"
+msgstr "低血糖 (<)"
+
+msgid "highThreshold"
+msgstr "高血糖 (>)"
+
+msgid "veryHighThreshold"
+msgstr "極度高血糖 (>)"
+
+msgid "yellowAlertTitle"
+msgstr "黄色アラート (目標範囲外)"
+
+msgid "vibOn"
+msgstr "バイブ: オン"
+
+msgid "vibOff"
+msgstr "バイブ: オフ"
+
+msgid "testBtn"
+msgstr "テスト"
+
+msgid "test3xBtn"
+msgstr "3回テスト"
+
+msgid "redAlertTitle"
+msgstr "赤色アラート (緊急)"
+
+msgid "bgIntervalPrefix"
+msgstr "バックグラウンド: "
+
+msgid "bgIntervalSuffix"
+msgstr "分"
+
+msgid "bgIntervalOff"
+msgstr "バックグラウンド: オフ"
+
+msgid "bgPermissionNotice"
+msgstr "⚠️ 時計の設定 > アプリ > ZightScout で「バックグラウンド実行」の許可が必要です"
+
+msgid "optOff"
+msgstr "オフ"
+
+msgid "snoozeActiveLabel"
+msgstr "スヌーズ有効:"
+
+msgid "snoozeInactiveLabel"
+msgstr "スヌーズ (一時停止):"
+
+msgid "cancelSnooze"
+msgstr "スヌーズ解除"
+
+msgid "cancelSnoozeConfirm"
+msgstr "スヌーズを解除してアラートを再開しますか？"
+
+msgid "btnYes"
+msgstr "はい"
+
+msgid "btnNo"
+msgstr "いいえ"
+
+msgid "snoozeCancelledToast"
+msgstr "スヌーズを解除しました"
+
+msgid "serverHeader"
+msgstr "Nightscout URL:"
+
+msgid "noUrlConfigured"
+msgstr "URL未設定"
+
+msgid "tapToTest"
+msgstr "タップしてテスト"
+
+msgid "diagnosticTitle"
+msgstr "システム診断"
+
+msgid "lastReading"
+msgstr "前回の測定値"
+
+msgid "noReadingDiag"
+msgstr "測定値を受信していません"
+
+msgid "bgActivePrefix"
+msgstr "バックグラウンド実行中: "
+
+msgid "bgActiveHa"
+msgstr " 前: "
+
+msgid "bgNoSignal"
+msgstr "バックグラウンド実行中: 信号なし "
+
+msgid "enterUrlBtn"
+msgstr "URL入力"
+
+msgid "testConnBtn"
+msgstr "接続テスト"
+
+msgid "unitNotDetected"
+msgstr "単位が検出されませんでした。\n単位を選択してください:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK。\n単位を選択して保存してください。"
+
+msgid "unitDetected"
+msgstr "検出された単位: {unit}"
+
+msgid "unitSelected"
+msgstr "選択された単位: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "単位の保存に失敗しました"
+
+msgid "tokenConfigured"
+msgstr "トークン: 設定済み"
+
+msgid "tokenOptional"
+msgstr "トークン: 任意"
+
+msgid "pasteToken"
+msgstr "トークンを貼り付けてください。削除する場合は空のままにしてください。"
+
+msgid "tokenOpenFail"
+msgstr "キーボード起動に失敗"
+
+msgid "tokenInvalid"
+msgstr "無効なトークン"
+
+msgid "tokenSaveFail"
+msgstr "トークンの保存に失敗"
+
+msgid "tokenSaved"
+msgstr "トークンを端末に保存しました"
+
+msgid "tokenRemoved"
+msgstr "トークンを削除しました"
+
+msgid "testFailToast"
+msgstr "テスト送信に失敗しました"
+
+msgid "noResponseServer"
+msgstr "サーバーから応答がありません"
+
+msgid "criticalAlertTitle"
+msgstr "血糖値緊急アラート"
+
+msgid "warningAlertTitle"
+msgstr "血糖値目標範囲外"
+
+msgid "openNotification"
+msgstr "開く"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout オフライン"
+
+msgid "offlineAlertBody"
+msgstr "{minutes}分間データなし。BluetoothとZeppアプリを確認してください"
+
+msgid "minXAction"
+msgstr "{n}分"
+
+msgid "snoozeToast"
+msgstr "スヌーズ: {minutes}分"
+
+msgid "alertPrefix"
+msgstr "アラート:"
+
+msgid "initialConnStatus"
+msgstr "BLE待機中 | HTTP待機中 | データなし"
+
+msgid "bleSendFail"
+msgstr "送信に失敗しました"
+
+msgid "syncing"
+msgstr "同期中..."
+
+msgid "updating"
+msgstr "更新中..."
+
+msgid "nightscoutError"
+msgstr "Nightscoutエラー"
+
+msgid "dataParseError"
+msgstr "データ解析エラー"
+
+msgid "genericError"
+msgstr "エラー"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 トークン設定済み"
+
+msgid "enterTokenBtn"
+msgstr "🔑 トークン/シークレット入力"
+
+msgid "promptTokenTitle"
+msgstr "トークンを入力しますか？"
+
+msgid "promptTokenBody"
+msgstr "プライベートNightscout用のトークンを入力しますか？"
+
+msgid "noBtn"
+msgstr "いいえ"
+
+msgid "yesBtn"
+msgstr "はい"
+
+msgid "invalidUrl"
+msgstr "無効なURL"
+
+msgid "urlSaveFail"
+msgstr "URLの保存に失敗"
+
+msgid "urlAndTokenSaved"
+msgstr "URLとトークンを保存しました！"
+
+msgid "invalidRanges"
+msgstr "無効な血糖範囲"
+
+msgid "settingsSavedToast"
+msgstr "設定を保存しました"
+
+msgid "urlOkResponse"
+msgstr "URL接続成功 (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token 有効 (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (未認証)"
+
+msgid "http403"
+msgstr "HTTP 403 (アクセス拒否)"
+
+msgid "http404"
+msgstr "HTTP 404 (見つかりません)"
+
+msgid "http429"
+msgstr "HTTP 429 (リクエスト過多)"
+
+msgid "http500"
+msgstr "HTTP 500 (サーバーエラー)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (サーバー利用不可)"
+
+msgid "errTimeout"
+msgstr "応答なし (タイムアウト)"
+
+msgid "errNetworkShort"
+msgstr "ネットワーク接続なし"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth 切断"
+
+msgid "testFailPrefix"
+msgstr "失敗:"
+
+msgid "tokenObtained"
+msgstr "トークンを取得しました！"
+
+msgid "tokenObtainFail"
+msgstr "トークン取得に失敗"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "スヌーズ有効: {minutes}分"
+
+msgid "errNoUrl"
+msgstr "NightscoutのURLが未設定です"
+
+msgid "errAuth"
+msgstr "無効なトークンまたは読み取り権限がありません"
+
+msgid "errRateLimit"
+msgstr "リクエスト上限に達しました。後でもう一度お試しください"
+
+msgid "errServerDown"
+msgstr "Nightscoutサーバーが利用できません"
+
+msgid "errNoReadings"
+msgstr "Nightscoutに測定データがありません"
+
+msgid "errNetwork"
+msgstr "接続エラー: サーバーが応答しません"
+
+msgid "authAdmin"
+msgstr "書き込みトークン (管理者)"
+
+msgid "authReadable"
+msgstr "読み取り専用トークン (安全)"
+
+msgid "authAnon"
+msgstr "匿名アクセス / トークンなし"
+
+msgid "tapToRefresh"
+msgstr "タップして更新"
+
+msgid "staleDataPrompt"
+msgstr "古いデータ"
+
+msgid "testAlertCritTitle"
+msgstr "テスト - 赤"
+
+msgid "testAlertWarnTitle"
+msgstr "テスト - 黄色"
+
+msgid "testAlertBody"
+msgstr "バイブレーションと通知のテスト。"
+
+msgid "bgPermissionDeniedTitle"
+msgstr "バックグラウンド権限"
+
+msgid "bgPermissionDeniedBody"
+msgstr "画面消灯時やアイドル時にアラートや通知を受け取るには、ZightScoutに「バックグラウンドサービス」権限が必要です。\n\nこれがないと定期測定が動作しません。"
+
+msgid "btnClose"
+msgstr "閉じる"
+
+msgid "btnRetry"
+msgstr "再試行"
+
+msgid "btnActivateAnyway"
+msgstr "強制的に有効化"
+

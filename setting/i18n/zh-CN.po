@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh-CN\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout 伴侣应用"
+
+msgid "brandTag"
+msgstr "Nightscout 伴侣应用"
+
+msgid "heroHeadline"
+msgstr "将血糖数据带到您的腕间！"
+
+msgid "heroDescription"
+msgstr "连接您的 Amazfit 和个人 Nightscout 服务器，便捷而私密地查看 CGM 信息。"
+
+msgid "heroCare"
+msgstr "用心为糖尿病患者及其照护者打造。❤️"
+
+msgid "importantLabel"
+msgstr "🔔 重要提示："
+
+msgid "importantBody"
+msgstr "为确保提醒正常工作，您必须在智能手表设置中为此应用开启后台运行权限。"
+
+msgid "disclaimerLabel"
+msgstr "⚠️ 免责声明："
+
+msgid "disclaimerBody"
+msgstr "本工具仅用于提供信息，<strong>并非医疗器械</strong>。它不能替代经批准的血糖监测系统，也不应作为治疗决策的唯一依据。"
+
+msgid "supportLabel"
+msgstr "☕ 支持此项目："
+
+msgid "contactLabel"
+msgstr "📧 联系邮箱："
+
+msgid "configurationTitle"
+msgstr "⚙️ 配置指南"
+
+msgid "configurationIntro"
+msgstr "如需配置 URL 和令牌（如果需要），请打开 <strong>ZightScout3+</strong> 应用，进入 <em>设置</em>，选择 <em>服务器</em> 标签页，然后点按 <em>输入 URL</em>。确认后，系统会提示您输入令牌；如果您没有令牌，只需不输入内容并关闭键盘即可。"
+
+msgid "connectionCheck"
+msgstr "接下来，点按 <strong>测试连接</strong>。连接验证成功后应会显示提示信息。如果看到 <span class=\"error\">401 ERROR</span>，则表示令牌身份验证存在问题。"
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ 重要的手表权限"
+
+msgid "watchPermissionLead"
+msgstr "请在手表设置中的此处启用："
+
+msgid "watchPermissionBody"
+msgstr "若要在应用关闭（处于后台）时发送通知并振动，必须直接在手表上授予 ZightScout 所需的权限。"
+
+msgid "watchPermissionCritical"
+msgstr "<strong>重要：</strong>如果您没有收到超出目标范围的提醒/通知，并且服务设置为每 <em>X Minutes</em> 定期运行一次，您<strong>必须</strong>允许应用在后台运行。"
+
+msgid "stepSettings"
+msgstr "在 Amazfit 智能手表上，打开<strong>设置</strong>。"
+
+msgid "stepPermissions"
+msgstr "打开<strong>权限</strong>。"
+
+msgid "stepApp"
+msgstr "找到并选择 <strong>ZightScout</strong>。"
+
+msgid "stepBackground"
+msgstr "允许<strong>后台运行</strong>或<strong>自动启动</strong>。"
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 支持的语言"
+
+msgid "supportedLanguagesIntro"
+msgstr "应用界面支持以下 Zepp OS 原生语言："
+
+msgid "footerSlogan"
+msgstr "借助科技，让糖尿病管理更得心应手。"
+
+msgid "nativeSubtitle"
+msgstr "连续血糖监测仪（CGM）"
+
+msgid "nativeWatchTitle"
+msgstr "手表配置"
+
+msgid "nativeWatchText"
+msgstr "在手表上的 ZightScout 设置中配置范围、提醒和后台监测。"
+
+msgid "nativeUsageTitle"
+msgstr "使用信息"
+
+msgid "nativeUsageServer"
+msgstr "手表会显示此服务器提供的血糖读数。"
+
+msgid "nativeUsageTransfer"
+msgstr "URL 会通过蓝牙传输到已连接的手表。"

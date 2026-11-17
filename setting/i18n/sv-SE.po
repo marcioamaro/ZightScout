@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sv-SE\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout-kompanjon"
+
+msgid "brandTag"
+msgstr "Nightscout-kompanjon"
+
+msgid "heroHeadline"
+msgstr "Ta med dina glukosvärden till handleden!"
+
+msgid "heroDescription"
+msgstr "Anslut din Amazfit till din egen Nightscout-server och se dina CGM-uppgifter enkelt och diskret."
+
+msgid "heroCare"
+msgstr "Skapad med omtanke för personer med diabetes och deras närstående. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Viktigt:"
+
+msgid "importantBody"
+msgstr "För att aviseringarna ska fungera korrekt måste du aktivera appens behörighet för bakgrundskörning i inställningarna på din smartklocka."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Ansvarsfriskrivning:"
+
+msgid "disclaimerBody"
+msgstr "Det här är endast ett informationsverktyg, <strong>inte en medicinteknisk produkt</strong>. Det ersätter inte godkända system för glukosmätning och ska inte användas som enda underlag för behandlingsbeslut."
+
+msgid "supportLabel"
+msgstr "☕ Stöd projektet:"
+
+msgid "contactLabel"
+msgstr "📧 Kontaktmejl:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Konfigurationsguide"
+
+msgid "configurationIntro"
+msgstr "Om du vill konfigurera URL:en och token (om det behövs) öppnar du appen <strong>ZightScout3+</strong>, går till <em>Inställningar</em>, väljer fliken <em>Server</em> och trycker på <em>Ange URL</em>. När du har bekräftat uppmanas du att ange token; om du inte har någon stänger du bara tangentbordet utan att skriva något."
+
+msgid "connectionCheck"
+msgstr "Tryck sedan på <strong>Testa anslutning</strong>. Ett meddelande bör bekräfta att anslutningen fungerar. Om du ser <span class=\"error\">401 ERROR</span> tyder det på ett problem med tokenautentiseringen."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Viktig behörighet på klockan"
+
+msgid "watchPermissionLead"
+msgstr "Så här aktiverar du detta i klockans inställningar:"
+
+msgid "watchPermissionBody"
+msgstr "För att skicka aviseringar och vibrera när appen är stängd (körs i bakgrunden) behöver ZightScout få behörighet direkt på själva klockan."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>VIKTIGT:</strong> Om du inte får aviseringar om värden utanför målområdet och tjänsten är inställd på att köras regelbundet var <em>X minuter</em>, måste du <strong>tillåta</strong> att appen körs i bakgrunden."
+
+msgid "stepSettings"
+msgstr "Öppna <strong>Inställningar</strong> på din Amazfit-smartklocka."
+
+msgid "stepPermissions"
+msgstr "Öppna <strong>Behörigheter</strong>."
+
+msgid "stepApp"
+msgstr "Leta upp och välj <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Tillåt <strong>Kör i bakgrunden</strong> eller <strong>Autostart</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Språk som stöds"
+
+msgid "supportedLanguagesIntro"
+msgstr "Appens gränssnitt finns på följande inbyggda Zepp OS-språk:"
+
+msgid "footerSlogan"
+msgstr "Stärker diabetesvården med hjälp av teknik."
+
+msgid "nativeSubtitle"
+msgstr "Kontinuerlig glukosmätning (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Konfigurera klockan"
+
+msgid "nativeWatchText"
+msgstr "Konfigurera intervall, aviseringar och bakgrundsövervakning i ZightScouts inställningar på klockan."
+
+msgid "nativeUsageTitle"
+msgstr "Användningsinformation"
+
+msgid "nativeUsageServer"
+msgstr "Klockan visar glukosvärden från den här servern."
+
+msgid "nativeUsageTransfer"
+msgstr "URL:en överförs till den anslutna klockan via Bluetooth."

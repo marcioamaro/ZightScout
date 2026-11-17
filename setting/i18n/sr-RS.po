@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sr-RS\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout pratilac"
+
+msgid "brandTag"
+msgstr "Nightscout pratilac"
+
+msgid "heroHeadline"
+msgstr "Pratite podatke o glukozi na svom zglobu!"
+
+msgid "heroDescription"
+msgstr "Povežite svoj Amazfit sa sopstvenim Nightscout serverom i pregledajte podatke sa CGM uređaja jednostavno i diskretno."
+
+msgid "heroCare"
+msgstr "Pažljivo napravljeno za osobe sa dijabetesom i njihove negovatelje. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Važno:"
+
+msgid "importantBody"
+msgstr "Da bi upozorenja ispravno radila, u podešavanjima pametnog sata morate da dozvolite aplikaciji rad u pozadini."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Odricanje od odgovornosti:"
+
+msgid "disclaimerBody"
+msgstr "Ovo je isključivo informativni alat, <strong>nije medicinski uređaj</strong>. Ne zamenjuje odobrene sisteme za praćenje glukoze i ne treba ga koristiti kao jedini osnov za odluke o lečenju."
+
+msgid "supportLabel"
+msgstr "☕ Podržite projekat:"
+
+msgid "contactLabel"
+msgstr "📧 Kontakt imejl:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Vodič za podešavanje"
+
+msgid "configurationIntro"
+msgstr "Da biste podesili URL i token (ako je potreban), otvorite aplikaciju <strong>ZightScout3+</strong>, idite u <em>Podešavanja</em>, izaberite karticu <em>Server</em> i dodirnite <em>Unesite URL</em>. Nakon potvrde bićete upitani za token; ako ga nemate, jednostavno zatvorite tastaturu bez unosa."
+
+msgid "connectionCheck"
+msgstr "Zatim dodirnite <strong>Testiraj vezu</strong>. Trebalo bi da se prikaže poruka o uspešnoj proveri veze. Ako vidite <span class=\"error\">401 ERROR</span>, postoji problem sa autentifikacijom tokenom."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Važna dozvola za sat"
+
+msgid "watchPermissionLead"
+msgstr "Gde da omogućite ovu opciju u podešavanjima sata:"
+
+msgid "watchPermissionBody"
+msgstr "Da bi slao obaveštenja i vibrirao dok je aplikacija zatvorena (radi u pozadini), ZightScout mora da dobije dozvolu direktno na satu."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>VAŽNO:</strong> Ako ne dobijate upozorenja/obaveštenja o vrednostima van opsega, a servis je podešen da se periodično pokreće svakih <em>X minuta</em>, morate <strong>da dozvolite</strong> aplikaciji rad u pozadini."
+
+msgid "stepSettings"
+msgstr "Na Amazfit pametnom satu otvorite <strong>Podešavanja</strong>."
+
+msgid "stepPermissions"
+msgstr "Otvorite <strong>Dozvole</strong>."
+
+msgid "stepApp"
+msgstr "Pronađite i izaberite <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Dozvolite <strong>Rad u pozadini</strong> ili <strong>Automatsko pokretanje</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Podržani jezici"
+
+msgid "supportedLanguagesIntro"
+msgstr "Interfejs aplikacije dostupan je na sledećim izvornim jezicima sistema Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "Tehnologija koja unapređuje upravljanje dijabetesom."
+
+msgid "nativeSubtitle"
+msgstr "Kontinuirano praćenje glukoze (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Podešavanje sata"
+
+msgid "nativeWatchText"
+msgstr "U podešavanjima ZightScout aplikacije na satu podesite opsege, upozorenja i praćenje u pozadini."
+
+msgid "nativeUsageTitle"
+msgstr "Informacije o korišćenju"
+
+msgid "nativeUsageServer"
+msgstr "Sat prikazuje očitavanja glukoze sa ovog servera."
+
+msgid "nativeUsageTransfer"
+msgstr "URL se prenosi na povezani sat putem Bluetooth veze."

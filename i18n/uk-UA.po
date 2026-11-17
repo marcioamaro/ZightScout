@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "автор Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Пристрій не підтримується"
+
+msgid "unsupportedDeviceBody"
+msgstr "Роздільна здатність {w}x{h} нижча за безпечну (390px).\n\nЗадля безпеки пацієнта перегляд на цій моделі заборонено."
+
+msgid "veryLow"
+msgstr "Дуже низький"
+
+msgid "low"
+msgstr "Низький"
+
+msgid "inRange"
+msgstr "У межах цілі"
+
+msgid "high"
+msgstr "Високий"
+
+msgid "veryHigh"
+msgstr "Дуже високий"
+
+msgid "stable"
+msgstr "Стабільний"
+
+msgid "bleConnectingLabel"
+msgstr "BLE ПІДКЛЮЧЕННЯ"
+
+msgid "bleConnectingDetail"
+msgstr "підключення..."
+
+msgid "bleOffLabel"
+msgstr "BLE ВИМКНЕНО"
+
+msgid "bleOffDetail"
+msgstr "відключено"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ОЧІКУВАННЯ"
+
+msgid "bleWaitingPhone"
+msgstr "очікування телефона"
+
+msgid "bleNoRecentContact"
+msgstr "немає зв'язку"
+
+msgid "bleOkLabel"
+msgstr "BLE ОК"
+
+msgid "bleContactAgo"
+msgstr "зв'язок "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL не налаштовано"
+
+msgid "httpErrorLabel"
+msgstr "ПОМИЛКА HTTP"
+
+msgid "httpQueryFailed"
+msgstr "запит не вдався"
+
+msgid "httpFailLabel"
+msgstr "HTTP ЗБІЙ"
+
+msgid "httpWaitingConnection"
+msgstr "очікування мережі"
+
+msgid "httpValidating"
+msgstr "перевірка..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ОЧІКУВАННЯ"
+
+msgid "httpNoQuery"
+msgstr "немає запитів"
+
+msgid "httpQueryAgo"
+msgstr "запит "
+
+msgid "httpOkLabel"
+msgstr "HTTP ОК"
+
+msgid "readingNoAccessLabel"
+msgstr "НЕМАЄ ДОСТУПУ"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "підключення bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth відключено"
+
+msgid "readingNoAccessNoData"
+msgstr "немає доступу до даних"
+
+msgid "readingNoReadingLabel"
+msgstr "НЕМАЄ ПОКАЗНИКА"
+
+msgid "readingWaitingGlucose"
+msgstr "очікування глюкози"
+
+msgid "readingExpiredLabel"
+msgstr "ЗАСТАРІЛИЙ"
+
+msgid "readingDelayedLabel"
+msgstr "ЗАТРИМКА"
+
+msgid "readingAgo"
+msgstr "показник "
+
+msgid "readingCurrentLabel"
+msgstr "ПОТОЧНИЙ"
+
+msgid "readingUpdated"
+msgstr "дані актуальні"
+
+msgid "portWord"
+msgstr "порт "
+
+msgid "noData"
+msgstr "НЕМАЄ ДАНИХ"
+
+msgid "nowUpper"
+msgstr "ЗАРАЗ"
+
+msgid "minWord"
+msgstr "ХВ"
+
+msgid "ageNow"
+msgstr "Щойно"
+
+msgid "age1Min"
+msgstr "1 хв тому"
+
+msgid "ageXMin"
+msgstr "{n} хв тому"
+
+msgid "age1Hour"
+msgstr "1 год тому"
+
+msgid "ageXHours"
+msgstr "{n} год тому"
+
+msgid "refreshBtn"
+msgstr "Оновити"
+
+msgid "refreshToast"
+msgstr "Оновлення глюкози..."
+
+msgid "settingsBtn"
+msgstr "Налаштування"
+
+msgid "starting"
+msgstr "Запуск..."
+
+msgid "bgInterrupted"
+msgstr "Фонову службу зупинено. Перевірте налаштування."
+
+msgid "lastUpdatePrefix"
+msgstr "Останнє оновлення: "
+
+msgid "waitingUpdate"
+msgstr "Очікування оновлення"
+
+msgid "snoozeActiveBanner"
+msgstr "ТИША АКТИВНА • "
+
+msgid "snoozeDisabledBanner"
+msgstr "ТИША ВИМКНЕНА"
+
+msgid "snoozeActiveStatus"
+msgstr " • ТИША АКТИВНА • "
+
+msgid "minRemaining"
+msgstr " хв залишилось"
+
+msgid "p2Title"
+msgstr "ZightScout Налаштування"
+
+msgid "tabRanges"
+msgstr "Діапазони"
+
+msgid "tabAlerts"
+msgstr "Сигнали / Фон"
+
+msgid "tabServer"
+msgstr "Сервер"
+
+msgid "saveAndReturn"
+msgstr "Зберегти і вийти"
+
+msgid "veryLowThreshold"
+msgstr "Дуже низький (<)"
+
+msgid "lowThreshold"
+msgstr "Низький (<)"
+
+msgid "highThreshold"
+msgstr "Високий (>)"
+
+msgid "veryHighThreshold"
+msgstr "Дуже високий (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Поза ціллю (Жовтий)"
+
+msgid "vibOn"
+msgstr "Вібрація: УВІМК"
+
+msgid "vibOff"
+msgstr "Вібрація: ВИМК"
+
+msgid "testBtn"
+msgstr "Тест"
+
+msgid "test3xBtn"
+msgstr "Тест 3x"
+
+msgid "redAlertTitle"
+msgstr "Червоний: 3 сигнали"
+
+msgid "bgIntervalPrefix"
+msgstr "Фон: кожні "
+
+msgid "bgIntervalSuffix"
+msgstr " хв"
+
+msgid "bgIntervalOff"
+msgstr "Фон: Вимкнено"
+
+msgid "bgPermissionNotice"
+msgstr "Для фонової служби ввімкніть\nдозвіл у налаштуваннях годинника."
+
+msgid "optOff"
+msgstr "Вимк"
+
+msgid "snoozeActiveLabel"
+msgstr "Пауза активна: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Пауза неактивна"
+
+msgid "cancelSnooze"
+msgstr "Вимкнути паузу"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Вимкнути паузу?"
+
+msgid "btnYes"
+msgstr "Так"
+
+msgid "btnNo"
+msgstr "Ні"
+
+msgid "snoozeCancelledToast"
+msgstr "Паузу вимкнено"
+
+msgid "serverHeader"
+msgstr "Сервер Nightscout:"
+
+msgid "noUrlConfigured"
+msgstr "URL не налаштовано"
+
+msgid "tapToTest"
+msgstr "Натисніть нижче для\nперевірки з'єднання"
+
+msgid "diagnosticTitle"
+msgstr "Діагностика: "
+
+msgid "lastReading"
+msgstr "останній показник "
+
+msgid "noReadingDiag"
+msgstr "немає показників"
+
+msgid "bgActivePrefix"
+msgstr "Фон: "
+
+msgid "bgActiveHa"
+msgstr "працює "
+
+msgid "bgNoSignal"
+msgstr "немає сигналу"
+
+msgid "enterUrlBtn"
+msgstr "Ввести URL"
+
+msgid "testConnBtn"
+msgstr "Тест з'єднання"
+
+msgid "unitNotDetected"
+msgstr "Одиницю не визначено.\nОберіть одиницю:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL ОК.\nОберіть одиницю і збережіть."
+
+msgid "unitDetected"
+msgstr "Визначено одиницю: {unit}"
+
+msgid "unitSelected"
+msgstr "Обрано одиницю: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Не вдалося зберегти одиницю"
+
+msgid "tokenConfigured"
+msgstr "Токен: налаштовано"
+
+msgid "tokenOptional"
+msgstr "Токен: необов'язковий"
+
+msgid "pasteToken"
+msgstr "Вставте токен. Пусто для очищення."
+
+msgid "tokenOpenFail"
+msgstr "Не вдалося відкрити клавіатуру"
+
+msgid "tokenInvalid"
+msgstr "Недійсний токен"
+
+msgid "tokenSaveFail"
+msgstr "Помилка збереження токена"
+
+msgid "tokenSaved"
+msgstr "Токен збережено на телефоні"
+
+msgid "tokenRemoved"
+msgstr "Токен видалено"
+
+msgid "testFailToast"
+msgstr "Помилка надсилання тесту"
+
+msgid "noResponseServer"
+msgstr "Немає відповіді від сервера"
+
+msgid "criticalAlertTitle"
+msgstr "Критична глюкоза"
+
+msgid "warningAlertTitle"
+msgstr "Глюкоза поза цільовим діапазоном"
+
+msgid "openNotification"
+msgstr "Відкрити"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Офлайн"
+
+msgid "offlineAlertBody"
+msgstr "Немає даних {minutes} хв. Перевірте Bluetooth і додаток Zepp"
+
+msgid "minXAction"
+msgstr "{n} хв"
+
+msgid "snoozeToast"
+msgstr "Пауза: {minutes} хв"
+
+msgid "alertPrefix"
+msgstr "Сигнал:"
+
+msgid "initialConnStatus"
+msgstr "BLE ОЧІКУВАННЯ | HTTP ОЧІКУВАННЯ | НЕМАЄ ДАНИХ"
+
+msgid "bleSendFail"
+msgstr "Помилка надсилання"
+
+msgid "syncing"
+msgstr "Синхронізація..."
+
+msgid "updating"
+msgstr "Оновлення..."
+
+msgid "nightscoutError"
+msgstr "Помилка Nightscout"
+
+msgid "dataParseError"
+msgstr "Помилка обробки даних"
+
+msgid "genericError"
+msgstr "Помилка"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Токен налаштовано"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Ввести Токен / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Ввести Токен?"
+
+msgid "promptTokenBody"
+msgstr "Ввести токен для приватного Nightscout?"
+
+msgid "noBtn"
+msgstr "Ні"
+
+msgid "yesBtn"
+msgstr "Так"
+
+msgid "invalidUrl"
+msgstr "Недійсний URL"
+
+msgid "urlSaveFail"
+msgstr "Помилка збереження URL"
+
+msgid "urlAndTokenSaved"
+msgstr "URL і токен збережено!"
+
+msgid "invalidRanges"
+msgstr "Недійсні діапазони"
+
+msgid "settingsSavedToast"
+msgstr "Налаштування збережено"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Токен дійсні (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Не авторизовано)"
+
+msgid "http403"
+msgstr "HTTP 403 (Заборонено)"
+
+msgid "http404"
+msgstr "HTTP 404 (Не знайдено)"
+
+msgid "http429"
+msgstr "HTTP 429 (Забагато запитів)"
+
+msgid "http500"
+msgstr "HTTP 500 (Помилка сервера)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Сервер недоступний)"
+
+msgid "errTimeout"
+msgstr "Немає відповіді (Таймаут)"
+
+msgid "errNetworkShort"
+msgstr "Немає підключення до мережі"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth відключено"
+
+msgid "testFailPrefix"
+msgstr "Збій:"
+
+msgid "tokenObtained"
+msgstr "Токен отримано!"
+
+msgid "tokenObtainFail"
+msgstr "Помилка отримання токена"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Пауза активна: {minutes} хв"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL не налаштовано"
+
+msgid "errAuth"
+msgstr "Недійсний токен або немає прав на читання"
+
+msgid "errRateLimit"
+msgstr "Ліміт запитів вичерпано; спробуйте пізніше"
+
+msgid "errServerDown"
+msgstr "Сервер Nightscout недоступний"
+
+msgid "errNoReadings"
+msgstr "У Nightscout немає показників"
+
+msgid "errNetwork"
+msgstr "Проблема з'єднання: сервер недоступний"
+
+msgid "authAdmin"
+msgstr "Токен запису (Admin)"
+
+msgid "authReadable"
+msgstr "Токен читання (Безпечно)"
+
+msgid "authAnon"
+msgstr "Анонімний доступ / без токена"
+
+msgid "tapToRefresh"
+msgstr "Торкніться для оновлення"
+
+msgid "staleDataPrompt"
+msgstr "Застарілі дані"
+
+msgid "testAlertCritTitle"
+msgstr "ТЕСТ - Червоний"
+
+msgid "testAlertWarnTitle"
+msgstr "ТЕСТ - Жовтий"
+
+msgid "testAlertBody"
+msgstr "Тест вібрації та сповіщень."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Фоновий дозвіл"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Для отримання сповіщень при вимкненому екрані потрібен дозвіл 'Фонова служба'.\n\nБез нього періодичні вимірювання не працюють."
+
+msgid "btnClose"
+msgstr "Закрити"
+
+msgid "btnRetry"
+msgstr "Спробувати знову"
+
+msgid "btnActivateAnyway"
+msgstr "Все одно ввімкнути"
+

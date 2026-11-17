@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: iw-IL\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — מלווה Nightscout"
+
+msgid "brandTag"
+msgstr "מלווה Nightscout"
+
+msgid "heroHeadline"
+msgstr "הביאו את נתוני הגלוקוז אל פרק כף היד!"
+
+msgid "heroDescription"
+msgstr "חברו את ה-Amazfit שלכם לשרת Nightscout האישי והציגו את נתוני ה-CGM בנוחות ובדיסקרטיות."
+
+msgid "heroCare"
+msgstr "נוצר באכפתיות עבור אנשים עם סוכרת ועבור המטפלים בהם. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 חשוב:"
+
+msgid "importantBody"
+msgstr "כדי שההתראות יפעלו כראוי, יש להפעיל את הרשאת הפעולה ברקע עבור האפליקציה בהגדרות השעון החכם."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ כתב ויתור:"
+
+msgid "disclaimerBody"
+msgstr "זהו כלי מידע בלבד, <strong>ולא מכשיר רפואי</strong>. הוא אינו מחליף מערכות מאושרות לניטור גלוקוז ואין להשתמש בו כבסיס היחיד להחלטות טיפול."
+
+msgid "supportLabel"
+msgstr "☕ תמכו בפרויקט:"
+
+msgid "contactLabel"
+msgstr "📧 כתובת דוא״ל ליצירת קשר:"
+
+msgid "configurationTitle"
+msgstr "⚙️ מדריך הגדרה"
+
+msgid "configurationIntro"
+msgstr "כדי להגדיר את כתובת ה-URL ואת האסימון (אם נדרש), פתחו את אפליקציית <strong>ZightScout3+</strong>, עברו אל <em>הגדרות</em>, בחרו בכרטיסייה <em>שרת</em> והקישו על <em>הזנת כתובת URL</em>. לאחר האישור תתבקשו להזין את האסימון; אם אין לכם אסימון, פשוט סגרו את המקלדת בלי להקליד דבר."
+
+msgid "connectionCheck"
+msgstr "לאחר מכן הקישו על <strong>בדיקת חיבור</strong>. אמורה להופיע הודעה המאשרת שהחיבור תקין. אם מופיעה ההודעה <span class=\"error\">שגיאה 401</span>, מדובר בבעיית אימות של האסימון."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ הרשאה חשובה בשעון"
+
+msgid "watchPermissionLead"
+msgstr "כך מפעילים זאת בהגדרות השעון:"
+
+msgid "watchPermissionBody"
+msgstr "כדי לשלוח התראות ולרטוט כשהאפליקציה סגורה (ברקע), ZightScout זקוקה להרשאה שיש להעניק ישירות בשעון עצמו."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>חשוב מאוד:</strong> אם אינכם מקבלים התראות על יציאה מהטווח, והשירות מוגדר לפעול באופן מחזורי כל <em>X דקות</em>, חובה <strong>לאפשר</strong> לאפליקציה לפעול ברקע."
+
+msgid "stepSettings"
+msgstr "בשעון החכם Amazfit, פתחו את <strong>הגדרות</strong>."
+
+msgid "stepPermissions"
+msgstr "פתחו את <strong>הרשאות</strong>."
+
+msgid "stepApp"
+msgstr "מצאו ובחרו את <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "אפשרו <strong>הפעלה ברקע</strong> או <strong>הפעלה אוטומטית</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 שפות נתמכות"
+
+msgid "supportedLanguagesIntro"
+msgstr "ממשק האפליקציה זמין בשפות Zepp OS המובנות הבאות:"
+
+msgid "footerSlogan"
+msgstr "מקדמים את הטיפול בסוכרת באמצעות טכנולוגיה."
+
+msgid "nativeSubtitle"
+msgstr "ניטור רציף של גלוקוז (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "הגדרות השעון"
+
+msgid "nativeWatchText"
+msgstr "הגדירו טווחים, התראות וניטור ברקע בהגדרות ZightScout בשעון."
+
+msgid "nativeUsageTitle"
+msgstr "מידע על השימוש"
+
+msgid "nativeUsageServer"
+msgstr "השעון מציג את מדידות הגלוקוז מהשרת הזה."
+
+msgid "nativeUsageTransfer"
+msgstr "כתובת ה-URL מועברת לשעון המחובר באמצעות Bluetooth."

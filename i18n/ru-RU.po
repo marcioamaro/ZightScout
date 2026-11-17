@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "автор: Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Устройство не поддерживается"
+
+msgid "unsupportedDeviceBody"
+msgstr "Разрешение {w}x{h} ниже безопасного предела (390px).\n\nДля безопасности пациента просмотр на этой модели заблокирован."
+
+msgid "veryLow"
+msgstr "Очень низкий"
+
+msgid "low"
+msgstr "Низкий"
+
+msgid "inRange"
+msgstr "В целевом"
+
+msgid "high"
+msgstr "Высокий"
+
+msgid "veryHigh"
+msgstr "Очень высокий"
+
+msgid "stable"
+msgstr "Стабильный"
+
+msgid "bleConnectingLabel"
+msgstr "BLE: Подключение..."
+
+msgid "bleConnectingDetail"
+msgstr "Подключение Bluetooth..."
+
+msgid "bleOffLabel"
+msgstr "BLE: Выключен"
+
+msgid "bleOffDetail"
+msgstr "Bluetooth выключен или вне зоны"
+
+msgid "bleWaitingLabel"
+msgstr "BLE: Ожидание..."
+
+msgid "bleWaitingPhone"
+msgstr "Ожидание приложения Zepp на телефоне"
+
+msgid "bleNoRecentContact"
+msgstr "Нет недавней связи"
+
+msgid "bleOkLabel"
+msgstr "BLE: OK"
+
+msgid "bleContactAgo"
+msgstr "Связь {time}"
+
+msgid "httpUrlLabel"
+msgstr "HTTP: URL не задан"
+
+msgid "httpUrlNotConfigured"
+msgstr "Nightscout URL не настроен"
+
+msgid "httpErrorLabel"
+msgstr "HTTP: Ошибка"
+
+msgid "httpQueryFailed"
+msgstr "Сбой запроса к Nightscout"
+
+msgid "httpFailLabel"
+msgstr "HTTP: Сбой"
+
+msgid "httpWaitingConnection"
+msgstr "Ожидание подключения"
+
+msgid "httpValidating"
+msgstr "HTTP: Проверка..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP: Ожидание..."
+
+msgid "httpNoQuery"
+msgstr "Нет недавних запросов"
+
+msgid "httpQueryAgo"
+msgstr "Запрос {time}"
+
+msgid "httpOkLabel"
+msgstr "HTTP: OK"
+
+msgid "readingNoAccessLabel"
+msgstr "Нет Доступа"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "Нет доступа - BLE подключается"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "Нет доступа - BLE отключен"
+
+msgid "readingNoAccessNoData"
+msgstr "Нет данных от Nightscout"
+
+msgid "readingNoReadingLabel"
+msgstr "Нет Показаний"
+
+msgid "readingWaitingGlucose"
+msgstr "Ожидание данных глюкозы"
+
+msgid "readingExpiredLabel"
+msgstr "Устаревшие Данные"
+
+msgid "readingDelayedLabel"
+msgstr "Данные Задержаны"
+
+msgid "readingAgo"
+msgstr "{time}"
+
+msgid "readingCurrentLabel"
+msgstr "Свежие Данные"
+
+msgid "readingUpdated"
+msgstr "Обновлено {time}"
+
+msgid "portWord"
+msgstr "порт"
+
+msgid "noData"
+msgstr "Нет Данных"
+
+msgid "nowUpper"
+msgstr "СЕЙЧАС"
+
+msgid "minWord"
+msgstr "мин"
+
+msgid "ageNow"
+msgstr "Только что"
+
+msgid "age1Min"
+msgstr "1 мин назад"
+
+msgid "ageXMin"
+msgstr "{n} мин назад"
+
+msgid "age1Hour"
+msgstr "1 ч назад"
+
+msgid "ageXHours"
+msgstr "{n} ч назад"
+
+msgid "refreshBtn"
+msgstr "Обновить"
+
+msgid "refreshToast"
+msgstr "Обновление..."
+
+msgid "settingsBtn"
+msgstr "Настройки"
+
+msgid "starting"
+msgstr "Запуск..."
+
+msgid "bgInterrupted"
+msgstr "Фоновый мониторинг прерван"
+
+msgid "lastUpdatePrefix"
+msgstr "Посл. обновление:"
+
+msgid "waitingUpdate"
+msgstr "Ожидание обновления..."
+
+msgid "snoozeActiveBanner"
+msgstr "Отложен ({minutes} мин осталось)"
+
+msgid "snoozeDisabledBanner"
+msgstr "Откладывание отключено"
+
+msgid "snoozeActiveStatus"
+msgstr "Отложено: {minutes}м"
+
+msgid "minRemaining"
+msgstr "мин осталось"
+
+msgid "p2Title"
+msgstr "Настройки ZightScout"
+
+msgid "tabRanges"
+msgstr "Диапазоны"
+
+msgid "tabAlerts"
+msgstr "Оповещения"
+
+msgid "tabServer"
+msgstr "Сервер"
+
+msgid "saveAndReturn"
+msgstr "Сохранить и Выйти"
+
+msgid "veryLowThreshold"
+msgstr "Очень низкий (<)"
+
+msgid "lowThreshold"
+msgstr "Низкий (<)"
+
+msgid "highThreshold"
+msgstr "Высокий (>)"
+
+msgid "veryHighThreshold"
+msgstr "Очень высокий (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Вне Целевого Диапазона"
+
+msgid "vibOn"
+msgstr "Вибрация: ВКЛ"
+
+msgid "vibOff"
+msgstr "Вибрация: ВЫКЛ"
+
+msgid "testBtn"
+msgstr "Тест"
+
+msgid "test3xBtn"
+msgstr "Тест (3x)"
+
+msgid "redAlertTitle"
+msgstr "Критический Сигнал"
+
+msgid "bgIntervalPrefix"
+msgstr "Интервал ГК:"
+
+msgid "bgIntervalSuffix"
+msgstr "мин"
+
+msgid "bgIntervalOff"
+msgstr "ВЫКЛ"
+
+msgid "bgPermissionNotice"
+msgstr "Фоновой службе требуется системное разрешение на часах."
+
+msgid "optOff"
+msgstr "ВЫКЛ"
+
+msgid "snoozeActiveLabel"
+msgstr "Откладывание (Активно)"
+
+msgid "snoozeInactiveLabel"
+msgstr "Откладывание (Неактивно)"
+
+msgid "cancelSnooze"
+msgstr "Отменить откладывание"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Отменить текущее откладывание?"
+
+msgid "btnYes"
+msgstr "Да"
+
+msgid "btnNo"
+msgstr "Нет"
+
+msgid "snoozeCancelledToast"
+msgstr "Откладывание отменено"
+
+msgid "serverHeader"
+msgstr "Конфигурация Сервера"
+
+msgid "noUrlConfigured"
+msgstr "URL не настроен"
+
+msgid "tapToTest"
+msgstr "Нажмите для проверки соединения"
+
+msgid "diagnosticTitle"
+msgstr "Диагностика Системы"
+
+msgid "lastReading"
+msgstr "Посл. Показание"
+
+msgid "noReadingDiag"
+msgstr "Нет сохраненных показаний"
+
+msgid "bgActivePrefix"
+msgstr "Фон активен:"
+
+msgid "bgActiveHa"
+msgstr "Да"
+
+msgid "bgNoSignal"
+msgstr "Нет Сигнала"
+
+msgid "enterUrlBtn"
+msgstr "Ввести Nightscout URL"
+
+msgid "testConnBtn"
+msgstr "Проверить Соединение"
+
+msgid "unitNotDetected"
+msgstr "Единица не определена.\nВыберите единицу:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL в порядке! Выберите единицу:"
+
+msgid "unitDetected"
+msgstr "Определена единица: {unit}"
+
+msgid "unitSelected"
+msgstr "Выбрана единица: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Не удалось сохранить единицу"
+
+msgid "tokenConfigured"
+msgstr "Токен: Настроен"
+
+msgid "tokenOptional"
+msgstr "Токен: Необязательно"
+
+msgid "pasteToken"
+msgstr "Вставьте токен. Оставьте пустым для удаления."
+
+msgid "tokenOpenFail"
+msgstr "Не удалось открыть клавиатуру"
+
+msgid "tokenInvalid"
+msgstr "Недействительный токен"
+
+msgid "tokenSaveFail"
+msgstr "Не удалось сохранить токен"
+
+msgid "tokenSaved"
+msgstr "Токен сохранен на телефоне"
+
+msgid "tokenRemoved"
+msgstr "Токен удален"
+
+msgid "testFailToast"
+msgstr "Сбой отправки теста"
+
+msgid "noResponseServer"
+msgstr "Нет ответа от сервера"
+
+msgid "criticalAlertTitle"
+msgstr "Критический Сигнал Глюкозы"
+
+msgid "warningAlertTitle"
+msgstr "Глюкоза Вне Целевого Диапазона"
+
+msgid "openNotification"
+msgstr "Открыть"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Офлайн"
+
+msgid "offlineAlertBody"
+msgstr "Нет данных {minutes} мин. Проверьте Bluetooth и приложение Zepp"
+
+msgid "minXAction"
+msgstr "{n} мин"
+
+msgid "snoozeToast"
+msgstr "Отложено на {minutes} мин"
+
+msgid "alertPrefix"
+msgstr "Сигнал:"
+
+msgid "initialConnStatus"
+msgstr "Ожидание BLE | Ожидание HTTP | Нет данных"
+
+msgid "bleSendFail"
+msgstr "Сбой отправки"
+
+msgid "syncing"
+msgstr "Синхронизация..."
+
+msgid "updating"
+msgstr "Обновление..."
+
+msgid "nightscoutError"
+msgstr "Ошибка Nightscout"
+
+msgid "dataParseError"
+msgstr "Ошибка обработки данных"
+
+msgid "genericError"
+msgstr "Ошибка"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Токен Настроен"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Ввести Токен / Секрет"
+
+msgid "promptTokenTitle"
+msgstr "Ввести Токен?"
+
+msgid "promptTokenBody"
+msgstr "Хотите ввести токен для приватного Nightscout?"
+
+msgid "noBtn"
+msgstr "Нет"
+
+msgid "yesBtn"
+msgstr "Да"
+
+msgid "invalidUrl"
+msgstr "Неверный URL"
+
+msgid "urlSaveFail"
+msgstr "Сбой сохранения URL"
+
+msgid "urlAndTokenSaved"
+msgstr "URL и Токен сохранены!"
+
+msgid "invalidRanges"
+msgstr "Недопустимые диапазоны"
+
+msgid "settingsSavedToast"
+msgstr "Настройки сохранены"
+
+msgid "urlOkResponse"
+msgstr "URL в порядке (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL и Токен верны (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Не авторизован)"
+
+msgid "http403"
+msgstr "HTTP 403 (Запрещено)"
+
+msgid "http404"
+msgstr "HTTP 404 (Не найдено)"
+
+msgid "http429"
+msgstr "HTTP 429 (Слишком много запросов)"
+
+msgid "http500"
+msgstr "HTTP 500 (Ошибка сервера)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Сервер недоступен)"
+
+msgid "errTimeout"
+msgstr "Нет ответа (Таймаут)"
+
+msgid "errNetworkShort"
+msgstr "Нет подключения к сети"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth отключен"
+
+msgid "testFailPrefix"
+msgstr "Ошибка:"
+
+msgid "tokenObtained"
+msgstr "Токен получен!"
+
+msgid "tokenObtainFail"
+msgstr "Не удалось получить токен"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Откладывание активно: {minutes} мин"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL не настроен"
+
+msgid "errAuth"
+msgstr "Неверный токен или нет прав на чтение"
+
+msgid "errRateLimit"
+msgstr "Превышен лимит запросов; повторите позже"
+
+msgid "errServerDown"
+msgstr "Сервер Nightscout недоступен"
+
+msgid "errNoReadings"
+msgstr "В Nightscout не найдено показаний"
+
+msgid "errNetwork"
+msgstr "Ошибка связи: невозможно связаться с сервером"
+
+msgid "authAdmin"
+msgstr "Токен Записи (Admin)"
+
+msgid "authReadable"
+msgstr "Токен Чтения (Безопасный)"
+
+msgid "authAnon"
+msgstr "Анонимный Доступ / Без Токена"
+
+msgid "tapToRefresh"
+msgstr "Нажмите для обновления"
+
+msgid "staleDataPrompt"
+msgstr "Устаревшие данные"
+
+msgid "testAlertCritTitle"
+msgstr "ТЕСТ - Красный"
+
+msgid "testAlertWarnTitle"
+msgstr "ТЕСТ - Жёлтый"
+
+msgid "testAlertBody"
+msgstr "Тест вибрации и уведомления."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Фоновое разрешение"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Для получения оповещений при выключенном экране ZightScout требуется разрешение «Работа в фоновом режиме».\n\nБез него периодические измерения не работают."
+
+msgid "btnClose"
+msgstr "Закрыть"
+
+msgid "btnRetry"
+msgstr "Повторить"
+
+msgid "btnActivateAnyway"
+msgstr "Всё равно включить"
+

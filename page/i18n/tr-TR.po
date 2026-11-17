@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "geliştiren Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Desteklenmeyen Cihaz"
+
+msgid "unsupportedDeviceBody"
+msgstr "{w}x{h} çözünürlüğü güvenli sınırın (390px) altındadır.\n\nHasta güvenliği için bu modelde görüntüleme yapılamaz."
+
+msgid "veryLow"
+msgstr "Çok Düşük"
+
+msgid "low"
+msgstr "Düşük"
+
+msgid "inRange"
+msgstr "Hedefte"
+
+msgid "high"
+msgstr "Yüksek"
+
+msgid "veryHigh"
+msgstr "Çok Yüksek"
+
+msgid "stable"
+msgstr "Sabit"
+
+msgid "bleConnectingLabel"
+msgstr "BLE BAĞLANIYOR"
+
+msgid "bleConnectingDetail"
+msgstr "bağlanıyor..."
+
+msgid "bleOffLabel"
+msgstr "BLE KAPALI"
+
+msgid "bleOffDetail"
+msgstr "bağlantı kesildi"
+
+msgid "bleWaitingLabel"
+msgstr "BLE BEKLİYOR"
+
+msgid "bleWaitingPhone"
+msgstr "telefon bekleniyor"
+
+msgid "bleNoRecentContact"
+msgstr "yakın zamanda temas yok"
+
+msgid "bleOkLabel"
+msgstr "BLE TAMAM"
+
+msgid "bleContactAgo"
+msgstr "iletişim "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL yapılandırılmadı"
+
+msgid "httpErrorLabel"
+msgstr "HTTP HATASI"
+
+msgid "httpQueryFailed"
+msgstr "sorgu başarısız"
+
+msgid "httpFailLabel"
+msgstr "HTTP BAŞARISIZ"
+
+msgid "httpWaitingConnection"
+msgstr "bağlantı bekleniyor"
+
+msgid "httpValidating"
+msgstr "doğrulanıyor..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP BEKLİYOR"
+
+msgid "httpNoQuery"
+msgstr "sorgu yok"
+
+msgid "httpQueryAgo"
+msgstr "sorgu "
+
+msgid "httpOkLabel"
+msgstr "HTTP TAMAM"
+
+msgid "readingNoAccessLabel"
+msgstr "ERİŞİM YOK"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "bluetooth bağlanıyor"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth kesildi"
+
+msgid "readingNoAccessNoData"
+msgstr "veri erişimi yok"
+
+msgid "readingNoReadingLabel"
+msgstr "ÖLÇÜM YOK"
+
+msgid "readingWaitingGlucose"
+msgstr "glikoz bekleniyor"
+
+msgid "readingExpiredLabel"
+msgstr "SÜRESİ DOLDU"
+
+msgid "readingDelayedLabel"
+msgstr "GECİKMELİ"
+
+msgid "readingAgo"
+msgstr "ölçüm "
+
+msgid "readingCurrentLabel"
+msgstr "GÜNCEL"
+
+msgid "readingUpdated"
+msgstr "ölçüm güncel"
+
+msgid "portWord"
+msgstr "port "
+
+msgid "noData"
+msgstr "VERİ YOK"
+
+msgid "nowUpper"
+msgstr "ŞİMDİ"
+
+msgid "minWord"
+msgstr "DK"
+
+msgid "ageNow"
+msgstr "Az önce"
+
+msgid "age1Min"
+msgstr "1 dk önce"
+
+msgid "ageXMin"
+msgstr "{n} dk önce"
+
+msgid "age1Hour"
+msgstr "1 sa önce"
+
+msgid "ageXHours"
+msgstr "{n} sa önce"
+
+msgid "refreshBtn"
+msgstr "Yenile"
+
+msgid "refreshToast"
+msgstr "Glikoz güncelleniyor..."
+
+msgid "settingsBtn"
+msgstr "Ayarlar"
+
+msgid "starting"
+msgstr "Başlatılıyor..."
+
+msgid "bgInterrupted"
+msgstr "Arka plan servisi durduruldu. Ayarları kontrol edin."
+
+msgid "lastUpdatePrefix"
+msgstr "Son güncelleme: "
+
+msgid "waitingUpdate"
+msgstr "Güncelleme bekleniyor"
+
+msgid "snoozeActiveBanner"
+msgstr "ERTELEME AKTİF • "
+
+msgid "snoozeDisabledBanner"
+msgstr "ERTELEME KAPALI"
+
+msgid "snoozeActiveStatus"
+msgstr " • ERTELEME AKTİF • "
+
+msgid "minRemaining"
+msgstr " dk kaldı"
+
+msgid "p2Title"
+msgstr "ZightScout Ayarları"
+
+msgid "tabRanges"
+msgstr "Aralıklar"
+
+msgid "tabAlerts"
+msgstr "Uyarılar / Arka Plan"
+
+msgid "tabServer"
+msgstr "Sunucu"
+
+msgid "saveAndReturn"
+msgstr "Kaydet ve Çık"
+
+msgid "veryLowThreshold"
+msgstr "Çok Düşük (<)"
+
+msgid "lowThreshold"
+msgstr "Düşük (<)"
+
+msgid "highThreshold"
+msgstr "Yüksek (>)"
+
+msgid "veryHighThreshold"
+msgstr "Çok Yüksek (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Hedef Dışı (Sarı)"
+
+msgid "vibOn"
+msgstr "Titreşim: AÇIK"
+
+msgid "vibOff"
+msgstr "Titreşim: KAPALI"
+
+msgid "testBtn"
+msgstr "Test"
+
+msgid "test3xBtn"
+msgstr "Test 3x"
+
+msgid "redAlertTitle"
+msgstr "Kırmızı: 3 uyarı"
+
+msgid "bgIntervalPrefix"
+msgstr "Arka Plan: her "
+
+msgid "bgIntervalSuffix"
+msgstr " dk"
+
+msgid "bgIntervalOff"
+msgstr "Arka Plan: Kapalı"
+
+msgid "bgPermissionNotice"
+msgstr "Arka plan servisi için saat ayarlarından\nizin verilmesi gerekir."
+
+msgid "optOff"
+msgstr "Kapalı"
+
+msgid "snoozeActiveLabel"
+msgstr "Erteleme aktif: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Erteleme kapalı"
+
+msgid "cancelSnooze"
+msgstr "Ertelemeyi İptal Et"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Erteleme iptal edilsin mi?"
+
+msgid "btnYes"
+msgstr "Evet"
+
+msgid "btnNo"
+msgstr "Hayır"
+
+msgid "snoozeCancelledToast"
+msgstr "Erteleme iptal edildi"
+
+msgid "serverHeader"
+msgstr "Nightscout Sunucusu:"
+
+msgid "noUrlConfigured"
+msgstr "URL yapılandırılmadı"
+
+msgid "tapToTest"
+msgstr "Sunucu bağlantısını test\netmek için dokunun"
+
+msgid "diagnosticTitle"
+msgstr "Tanılama: "
+
+msgid "lastReading"
+msgstr "son ölçüm "
+
+msgid "noReadingDiag"
+msgstr "ölçüm yok"
+
+msgid "bgActivePrefix"
+msgstr "Arka Plan: "
+
+msgid "bgActiveHa"
+msgstr "çalışma süresi "
+
+msgid "bgNoSignal"
+msgstr "sinyal yok"
+
+msgid "enterUrlBtn"
+msgstr "URL Girin"
+
+msgid "testConnBtn"
+msgstr "Bağlantıyı Test Et"
+
+msgid "unitNotDetected"
+msgstr "Birim algılanamadı.\nBirimi seçin:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL TAMAM.\nBirim seçip kaydedin."
+
+msgid "unitDetected"
+msgstr "Algılanan birim: {unit}"
+
+msgid "unitSelected"
+msgstr "Seçilen birim: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Birim kaydedilemedi"
+
+msgid "tokenConfigured"
+msgstr "Belirteç: yapılandırıldı"
+
+msgid "tokenOptional"
+msgstr "Belirteç: isteğe bağlı"
+
+msgid "pasteToken"
+msgstr "Belirteci yapıştırın. Temizlemek için boş bırakın."
+
+msgid "tokenOpenFail"
+msgstr "Klavye açılamadı"
+
+msgid "tokenInvalid"
+msgstr "Geçersiz belirteç"
+
+msgid "tokenSaveFail"
+msgstr "Belirteç kaydedilemedi"
+
+msgid "tokenSaved"
+msgstr "Belirteç telefona kaydedildi"
+
+msgid "tokenRemoved"
+msgstr "Belirteç kaldırıldı"
+
+msgid "testFailToast"
+msgstr "Test uyarısı gönderilemedi"
+
+msgid "noResponseServer"
+msgstr "Sunucudan yanıt yok"
+
+msgid "criticalAlertTitle"
+msgstr "Kritik Glikoz"
+
+msgid "warningAlertTitle"
+msgstr "Hedef Dışı Glikoz"
+
+msgid "openNotification"
+msgstr "Aç"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Çevrimdışı"
+
+msgid "offlineAlertBody"
+msgstr "{minutes} dakikadır veri yok. Bluetooth ve Zepp uygulamasını kontrol edin"
+
+msgid "minXAction"
+msgstr "{n} dk"
+
+msgid "snoozeToast"
+msgstr "Erteleme: {minutes} dk"
+
+msgid "alertPrefix"
+msgstr "Uyarı:"
+
+msgid "initialConnStatus"
+msgstr "BLE BEKLİYOR | HTTP BEKLİYOR | VERİ YOK"
+
+msgid "bleSendFail"
+msgstr "Gönderme başarısız"
+
+msgid "syncing"
+msgstr "Eşitleniyor..."
+
+msgid "updating"
+msgstr "Güncelleniyor..."
+
+msgid "nightscoutError"
+msgstr "Nightscout hatası"
+
+msgid "dataParseError"
+msgstr "Veri ayrıştırma hatası"
+
+msgid "genericError"
+msgstr "Hata"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Belirteç Yapılandırıldı"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Belirteç / Secret Girin"
+
+msgid "promptTokenTitle"
+msgstr "Belirteç Girilsin mi?"
+
+msgid "promptTokenBody"
+msgstr "Özel Nightscout için belirteç girilsin mi?"
+
+msgid "noBtn"
+msgstr "Hayır"
+
+msgid "yesBtn"
+msgstr "Evet"
+
+msgid "invalidUrl"
+msgstr "Geçersiz URL"
+
+msgid "urlSaveFail"
+msgstr "URL kaydedilemedi"
+
+msgid "urlAndTokenSaved"
+msgstr "URL ve Belirteç kaydedildi!"
+
+msgid "invalidRanges"
+msgstr "Geçersiz aralıklar"
+
+msgid "settingsSavedToast"
+msgstr "Ayarlar kaydedildi"
+
+msgid "urlOkResponse"
+msgstr "URL TAMAM (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Belirteç geçerli (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Yetkisiz)"
+
+msgid "http403"
+msgstr "HTTP 403 (Yasaklandı)"
+
+msgid "http404"
+msgstr "HTTP 404 (Bulunamadı)"
+
+msgid "http429"
+msgstr "HTTP 429 (Çok Fazla İstek)"
+
+msgid "http500"
+msgstr "HTTP 500 (Sunucu Hatası)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Sunucu Kullanılamıyor)"
+
+msgid "errTimeout"
+msgstr "Yanıt yok (Zaman Aşımı)"
+
+msgid "errNetworkShort"
+msgstr "Ağ bağlantısı yok"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth bağlantısı kesildi"
+
+msgid "testFailPrefix"
+msgstr "Başarısız:"
+
+msgid "tokenObtained"
+msgstr "Belirteç alındı!"
+
+msgid "tokenObtainFail"
+msgstr "Belirteç alınamadı"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Erteleme aktif: {minutes} dk"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL yapılandırılmadı"
+
+msgid "errAuth"
+msgstr "Geçersiz belirteç veya okuma yetkisi yok"
+
+msgid "errRateLimit"
+msgstr "Sorgu sınırına ulaşıldı; daha sonra tekrar deneyin"
+
+msgid "errServerDown"
+msgstr "Nightscout sunucusu kullanılamıyor"
+
+msgid "errNoReadings"
+msgstr "Nightscout içinde ölçüm yok"
+
+msgid "errNetwork"
+msgstr "Bağlantı sorunu: sunucu kullanılamıyor"
+
+msgid "authAdmin"
+msgstr "Yazma belirteci (Yönetici)"
+
+msgid "authReadable"
+msgstr "Salt okunur belirteç (Güvenli)"
+
+msgid "authAnon"
+msgstr "Anonim erişim / belirteç yok"
+
+msgid "tapToRefresh"
+msgstr "Yenile'ye Dokunun"
+
+msgid "staleDataPrompt"
+msgstr "Eski veri"
+
+msgid "testAlertCritTitle"
+msgstr "TEST - Kırmızı"
+
+msgid "testAlertWarnTitle"
+msgstr "TEST - Sarı"
+
+msgid "testAlertBody"
+msgstr "Titreşim ve bildirim testi."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Arka Plan İzni"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Ekran kapalıyken uyarı alabilmek için 'Arka Plan Servisi' izni gereklidir.\n\nBu izin olmadan periyodik ölçümler çalışmaz."
+
+msgid "btnClose"
+msgstr "Kapat"
+
+msgid "btnRetry"
+msgstr "Tekrar Dene"
+
+msgid "btnActivateAnyway"
+msgstr "Yine de Etkinleştir"
+

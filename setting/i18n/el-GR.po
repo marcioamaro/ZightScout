@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: el-GR\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — συνοδευτική εφαρμογή Nightscout"
+
+msgid "brandTag"
+msgstr "Συνοδευτική εφαρμογή Nightscout"
+
+msgid "heroHeadline"
+msgstr "Φέρτε τα δεδομένα γλυκόζης στον καρπό σας!"
+
+msgid "heroDescription"
+msgstr "Συνδέστε το Amazfit σας με τον προσωπικό σας διακομιστή Nightscout και δείτε εύκολα και διακριτικά τις πληροφορίες CGM."
+
+msgid "heroCare"
+msgstr "Δημιουργήθηκε με φροντίδα για άτομα με διαβήτη και όσους τα φροντίζουν. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Σημαντικό:"
+
+msgid "importantBody"
+msgstr "Για να λειτουργούν σωστά οι ειδοποιήσεις, πρέπει να ενεργοποιήσετε την άδεια εκτέλεσης στο παρασκήνιο για την εφαρμογή από τις ρυθμίσεις του smartwatch."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Αποποίηση ευθύνης:"
+
+msgid "disclaimerBody"
+msgstr "Αυτό είναι μόνο ένα εργαλείο ενημέρωσης, <strong>όχι ιατρική συσκευή</strong>. Δεν αντικαθιστά εγκεκριμένα συστήματα παρακολούθησης γλυκόζης και δεν πρέπει να αποτελεί τη μοναδική βάση για αποφάσεις θεραπείας."
+
+msgid "supportLabel"
+msgstr "☕ Υποστηρίξτε το έργο:"
+
+msgid "contactLabel"
+msgstr "📧 Email επικοινωνίας:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Οδηγός ρύθμισης"
+
+msgid "configurationIntro"
+msgstr "Για να ρυθμίσετε το URL και το token (αν απαιτείται), ανοίξτε την εφαρμογή <strong>ZightScout3+</strong>, μεταβείτε στις <em>Ρυθμίσεις</em>, επιλέξτε την καρτέλα <em>Διακομιστής</em> και πατήστε <em>Εισαγωγή URL</em>. Μετά την επιβεβαίωση, θα σας ζητηθεί το token· αν δεν έχετε, απλώς κλείστε το πληκτρολόγιο χωρίς να πληκτρολογήσετε τίποτα."
+
+msgid "connectionCheck"
+msgstr "Στη συνέχεια, πατήστε <strong>Δοκιμή σύνδεσης</strong>. Θα πρέπει να εμφανιστεί μήνυμα που επιβεβαιώνει τη σύνδεση. Αν δείτε <span class=\"error\">ΣΦΑΛΜΑ 401</span>, υπάρχει πρόβλημα ελέγχου ταυτότητας του token."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Σημαντική άδεια ρολογιού"
+
+msgid "watchPermissionLead"
+msgstr "Πού μπορείτε να το ενεργοποιήσετε στις ρυθμίσεις του ρολογιού:"
+
+msgid "watchPermissionBody"
+msgstr "Για να στέλνει ειδοποιήσεις και να δονείται όταν η εφαρμογή είναι κλειστή (στο παρασκήνιο), το ZightScout χρειάζεται άδεια που πρέπει να δοθεί απευθείας στο ίδιο το ρολόι."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>ΚΡΙΣΙΜΟ:</strong> Αν δεν λαμβάνετε ειδοποιήσεις για τιμές εκτός εύρους και η υπηρεσία έχει ρυθμιστεί να εκτελείται περιοδικά κάθε <em>X λεπτά</em>, πρέπει <strong>οπωσδήποτε</strong> να επιτρέψετε στην εφαρμογή να εκτελείται στο παρασκήνιο."
+
+msgid "stepSettings"
+msgstr "Στο smartwatch Amazfit, ανοίξτε τις <strong>Ρυθμίσεις</strong>."
+
+msgid "stepPermissions"
+msgstr "Ανοίξτε τις <strong>Άδειες</strong>."
+
+msgid "stepApp"
+msgstr "Εντοπίστε και επιλέξτε το <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Επιτρέψτε την <strong>Εκτέλεση στο παρασκήνιο</strong> ή την <strong>Αυτόματη εκκίνηση</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Υποστηριζόμενες γλώσσες"
+
+msgid "supportedLanguagesIntro"
+msgstr "Το περιβάλλον της εφαρμογής διατίθεται στις εξής εγγενείς γλώσσες του Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "Ενδυναμώνουμε τη διαχείριση του διαβήτη μέσω της τεχνολογίας."
+
+msgid "nativeSubtitle"
+msgstr "Συνεχής παρακολούθηση γλυκόζης (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Ρύθμιση ρολογιού"
+
+msgid "nativeWatchText"
+msgstr "Ρυθμίστε τα εύρη, τις ειδοποιήσεις και την παρακολούθηση στο παρασκήνιο στις Ρυθμίσεις ZightScout του ρολογιού."
+
+msgid "nativeUsageTitle"
+msgstr "Πληροφορίες χρήσης"
+
+msgid "nativeUsageServer"
+msgstr "Το ρολόι εμφανίζει τις μετρήσεις γλυκόζης από αυτόν τον διακομιστή."
+
+msgid "nativeUsageTransfer"
+msgstr "Το URL μεταφέρεται στο συνδεδεμένο ρολόι μέσω Bluetooth."

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hu-HU\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Nightscout-kiegészítő"
+
+msgid "brandTag"
+msgstr "Nightscout-kiegészítő"
+
+msgid "heroHeadline"
+msgstr "Vidd a glükózadataidat a csuklódra!"
+
+msgid "heroDescription"
+msgstr "Csatlakoztasd Amazfit órádat a saját Nightscout-szerveredhez, és tekintsd meg kényelmesen, diszkréten a CGM-adataidat."
+
+msgid "heroCare"
+msgstr "Gondoskodással készült a cukorbetegek és gondozóik számára. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Fontos:"
+
+msgid "importantBody"
+msgstr "A riasztások megfelelő működéséhez engedélyezned kell az alkalmazás háttérben történő futását az okosórád beállításaiban."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Figyelmeztetés:"
+
+msgid "disclaimerBody"
+msgstr "Ez kizárólag tájékoztató eszköz, <strong>nem orvostechnikai eszköz</strong>. Nem helyettesíti a jóváhagyott glükózmonitorozó rendszereket, és nem használható kezelési döntések egyetlen alapjaként."
+
+msgid "supportLabel"
+msgstr "☕ Támogasd a projektet:"
+
+msgid "contactLabel"
+msgstr "📧 Kapcsolati e-mail:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Beállítási útmutató"
+
+msgid "configurationIntro"
+msgstr "Az URL és a token (ha szükséges) beállításához nyisd meg a <strong>ZightScout3+</strong> alkalmazást, lépj a <em>Beállítások</em> menübe, válaszd a <em>Szerver</em> lapot, majd koppints az <em>URL megadása</em> lehetőségre. A megerősítés után a rendszer kérni fogja a tokent; ha nincs ilyened, egyszerűen zárd be a billentyűzetet gépelés nélkül."
+
+msgid "connectionCheck"
+msgstr "Ezután koppints a <strong>Kapcsolat tesztelése</strong> lehetőségre. A kapcsolat sikerességét egy megerősítő üzenet jelzi. Ha a <span class=\"error\">401 ERROR</span> üzenet jelenik meg, az tokenhitelesítési problémára utal."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Fontos engedély az órán"
+
+msgid "watchPermissionLead"
+msgstr "Az engedélyezés helye az óra beállításaiban:"
+
+msgid "watchPermissionBody"
+msgstr "Ahhoz, hogy az alkalmazás bezárása után (a háttérben) is értesítéseket küldjön és rezegjen, a ZightScoutnak közvetlenül az órán kell engedélyt adnod."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>FONTOS:</strong> Ha nem kapsz tartományon kívüli értékekre vonatkozó riasztásokat/értesítéseket, miközben a szolgáltatás beállítása szerint rendszeresen, <em>X percenként</em> fut, <strong>engedélyezned kell</strong> az alkalmazás háttérben történő futását."
+
+msgid "stepSettings"
+msgstr "Az Amazfit okosórádon nyisd meg a <strong>Beállítások</strong> menüt."
+
+msgid "stepPermissions"
+msgstr "Nyisd meg az <strong>Engedélyek</strong> menüt."
+
+msgid "stepApp"
+msgstr "Keresd meg és válaszd ki a <strong>ZightScout</strong> alkalmazást."
+
+msgid "stepBackground"
+msgstr "Engedélyezd a <strong>Futás a háttérben</strong> vagy az <strong>Automatikus indítás</strong> lehetőséget."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Támogatott nyelvek"
+
+msgid "supportedLanguagesIntro"
+msgstr "Az alkalmazás felülete a Zepp OS alábbi beépített nyelvein érhető el:"
+
+msgid "footerSlogan"
+msgstr "Technológiával támogatott diabéteszgondozás."
+
+msgid "nativeSubtitle"
+msgstr "Folyamatos glükózmonitorozás (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Az óra beállítása"
+
+msgid "nativeWatchText"
+msgstr "Az órán a ZightScout beállításaiban konfigurálhatod a tartományokat, a riasztásokat és a háttérben történő monitorozást."
+
+msgid "nativeUsageTitle"
+msgstr "Használati információk"
+
+msgid "nativeUsageServer"
+msgstr "Az óra erről a szerverről jeleníti meg a glükózértékeket."
+
+msgid "nativeUsageTransfer"
+msgstr "Az URL Bluetooth-kapcsolaton keresztül kerül át a csatlakoztatott órára."

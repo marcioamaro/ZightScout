@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "von Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Nicht unterstütztes Gerät"
+
+msgid "unsupportedDeviceBody"
+msgstr "Auflösung {w}x{h} unter dem Sicherheitsminimum (390px).\n\nZur medizinischen Sicherheit ist die Anzeige auf diesem Modell nicht zulässig."
+
+msgid "veryLow"
+msgstr "Sehr Niedrig"
+
+msgid "low"
+msgstr "Niedrig"
+
+msgid "inRange"
+msgstr "Im Zielbereich"
+
+msgid "high"
+msgstr "Hoch"
+
+msgid "veryHigh"
+msgstr "Sehr Hoch"
+
+msgid "stable"
+msgstr "Stabil"
+
+msgid "bleConnectingLabel"
+msgstr "BLE VERBINDUNG"
+
+msgid "bleConnectingDetail"
+msgstr "verbinde..."
+
+msgid "bleOffLabel"
+msgstr "BLE OFF"
+
+msgid "bleOffDetail"
+msgstr "getrennt"
+
+msgid "bleWaitingLabel"
+msgstr "BLE WARTET"
+
+msgid "bleWaitingPhone"
+msgstr "warte auf Telefon"
+
+msgid "bleNoRecentContact"
+msgstr "kein neuer Kontakt"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "Kontakt vor "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL nicht konfiguriert"
+
+msgid "httpErrorLabel"
+msgstr "HTTP FEHLER"
+
+msgid "httpQueryFailed"
+msgstr "Abfrage fehlgeschlagen"
+
+msgid "httpFailLabel"
+msgstr "HTTP FEHLER"
+
+msgid "httpWaitingConnection"
+msgstr "warte auf Verbindung"
+
+msgid "httpValidating"
+msgstr "prüfe..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP WARTET"
+
+msgid "httpNoQuery"
+msgstr "keine Abfrage"
+
+msgid "httpQueryAgo"
+msgstr "Abfrage vor "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "KEIN ZUGRIFF"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "verbinde Bluetooth"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "Bluetooth getrennt"
+
+msgid "readingNoAccessNoData"
+msgstr "kein Datenzugriff"
+
+msgid "readingNoReadingLabel"
+msgstr "KEINE MESSUNG"
+
+msgid "readingWaitingGlucose"
+msgstr "warte auf Glukose"
+
+msgid "readingExpiredLabel"
+msgstr "ABGELAUFEN"
+
+msgid "readingDelayedLabel"
+msgstr "VERZÖGERT"
+
+msgid "readingAgo"
+msgstr "Messung vor "
+
+msgid "readingCurrentLabel"
+msgstr "AKTUELL"
+
+msgid "readingUpdated"
+msgstr "Messung aktuell"
+
+msgid "portWord"
+msgstr "Port "
+
+msgid "noData"
+msgstr "KEINE DATEN"
+
+msgid "nowUpper"
+msgstr "JETZT"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Gerade eben"
+
+msgid "age1Min"
+msgstr "Vor 1 Min"
+
+msgid "ageXMin"
+msgstr "Vor {n} Min"
+
+msgid "age1Hour"
+msgstr "Vor 1 Std"
+
+msgid "ageXHours"
+msgstr "Vor {n} Std"
+
+msgid "refreshBtn"
+msgstr "Aktualisieren"
+
+msgid "refreshToast"
+msgstr "Blutzucker wird aktualisiert..."
+
+msgid "settingsBtn"
+msgstr "Einstellungen"
+
+msgid "starting"
+msgstr "Starte..."
+
+msgid "bgInterrupted"
+msgstr "Hintergrunddienst gestoppt. Prüfen."
+
+msgid "lastUpdatePrefix"
+msgstr "Letzte Aktualisierung: "
+
+msgid "waitingUpdate"
+msgstr "Warte auf Aktualisierung"
+
+msgid "snoozeActiveBanner"
+msgstr "SNOOZE AKTIV • noch "
+
+msgid "snoozeDisabledBanner"
+msgstr "SNOOZE AUS"
+
+msgid "snoozeActiveStatus"
+msgstr " • SNOOZE AKTIV • noch "
+
+msgid "minRemaining"
+msgstr " Min verbleibend"
+
+msgid "p2Title"
+msgstr "ZightScout Einstellungen"
+
+msgid "tabRanges"
+msgstr "Bereiche"
+
+msgid "tabAlerts"
+msgstr "Alarme/Hgr"
+
+msgid "tabServer"
+msgstr "Server"
+
+msgid "saveAndReturn"
+msgstr "Speichern & Zurück"
+
+msgid "veryLowThreshold"
+msgstr "Sehr Niedrig (<)"
+
+msgid "lowThreshold"
+msgstr "Niedrig (<)"
+
+msgid "highThreshold"
+msgstr "Hoch (>)"
+
+msgid "veryHighThreshold"
+msgstr "Sehr Hoch (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Außerhalb Ziel (Gelb)"
+
+msgid "vibOn"
+msgstr "Vibration: EIN"
+
+msgid "vibOff"
+msgstr "Vibration: AUS"
+
+msgid "testBtn"
+msgstr "Testen"
+
+msgid "test3xBtn"
+msgstr "3x Testen"
+
+msgid "redAlertTitle"
+msgstr "Rot: 3 Warnungen"
+
+msgid "bgIntervalPrefix"
+msgstr "Hintergrund: alle "
+
+msgid "bgIntervalSuffix"
+msgstr " Min"
+
+msgid "bgIntervalOff"
+msgstr "Hintergrund: Aus"
+
+msgid "bgPermissionNotice"
+msgstr "Für den Hintergrunddienst die Berechtigung\nin den Uhreinstellungen aktivieren."
+
+msgid "optOff"
+msgstr "Aus"
+
+msgid "snoozeActiveLabel"
+msgstr "Snooze aktiv: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Snooze deaktiviert"
+
+msgid "cancelSnooze"
+msgstr "Snooze beenden"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Snooze beenden?"
+
+msgid "btnYes"
+msgstr "Ja"
+
+msgid "btnNo"
+msgstr "Nein"
+
+msgid "snoozeCancelledToast"
+msgstr "Snooze beendet"
+
+msgid "serverHeader"
+msgstr "Nightscout Server:"
+
+msgid "noUrlConfigured"
+msgstr "Keine URL konfiguriert"
+
+msgid "tapToTest"
+msgstr "Unten tippen für\nServer-Verbindungstest"
+
+msgid "diagnosticTitle"
+msgstr "Diagnose: "
+
+msgid "lastReading"
+msgstr "letzte Messung "
+
+msgid "noReadingDiag"
+msgstr "keine Messung"
+
+msgid "bgActivePrefix"
+msgstr "Hintergrund: "
+
+msgid "bgActiveHa"
+msgstr "aktiv seit "
+
+msgid "bgNoSignal"
+msgstr "kein Signal"
+
+msgid "enterUrlBtn"
+msgstr "URL eingeben"
+
+msgid "testConnBtn"
+msgstr "Verbindung testen"
+
+msgid "unitNotDetected"
+msgstr "Einheit nicht erkannt.\nEinheit auswählen:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nEinheit auswählen und speichern."
+
+msgid "unitDetected"
+msgstr "Erkannte Einheit: {unit}"
+
+msgid "unitSelected"
+msgstr "Ausgewählte Einheit: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Einheit konnte nicht gespeichert werden"
+
+msgid "tokenConfigured"
+msgstr "Token: konfiguriert"
+
+msgid "tokenOptional"
+msgstr "Token: optional"
+
+msgid "pasteToken"
+msgstr "Token einfügen. Leer löscht."
+
+msgid "tokenOpenFail"
+msgstr "Tastatur-Fehler"
+
+msgid "tokenInvalid"
+msgstr "Ungültiges Token"
+
+msgid "tokenSaveFail"
+msgstr "Token-Speicherfehler"
+
+msgid "tokenSaved"
+msgstr "Token im Smartphone gespeichert"
+
+msgid "tokenRemoved"
+msgstr "Token entfernt"
+
+msgid "testFailToast"
+msgstr "Test senden fehlgeschlagen"
+
+msgid "noResponseServer"
+msgstr "Keine Server-Antwort"
+
+msgid "criticalAlertTitle"
+msgstr "Kritische Glukose"
+
+msgid "warningAlertTitle"
+msgstr "Glukose außerhalb Ziel"
+
+msgid "openNotification"
+msgstr "Öffnen"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Offline"
+
+msgid "offlineAlertBody"
+msgstr "Keine Daten seit {minutes} Min. Bluetooth & Zepp-App prüfen"
+
+msgid "minXAction"
+msgstr "{n} Min."
+
+msgid "snoozeToast"
+msgstr "Schlummern: {minutes} Min."
+
+msgid "alertPrefix"
+msgstr "Alarm:"
+
+msgid "initialConnStatus"
+msgstr "BLE WARTET | HTTP WARTET | KEINE DATEN"
+
+msgid "bleSendFail"
+msgstr "Senden fehlgeschlagen"
+
+msgid "syncing"
+msgstr "Synchronisiere..."
+
+msgid "updating"
+msgstr "Aktualisiere..."
+
+msgid "nightscoutError"
+msgstr "Nightscout-Fehler"
+
+msgid "dataParseError"
+msgstr "Datenfehler"
+
+msgid "genericError"
+msgstr "Fehler"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token konfiguriert"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Token / Secret eingeben"
+
+msgid "promptTokenTitle"
+msgstr "Token eingeben?"
+
+msgid "promptTokenBody"
+msgstr "Token für privates Nightscout eingeben?"
+
+msgid "noBtn"
+msgstr "Nein"
+
+msgid "yesBtn"
+msgstr "Ja"
+
+msgid "invalidUrl"
+msgstr "Ungültige URL"
+
+msgid "urlSaveFail"
+msgstr "URL speichern fehlgeschlagen"
+
+msgid "urlAndTokenSaved"
+msgstr "URL & Token gespeichert!"
+
+msgid "invalidRanges"
+msgstr "Ungültige Bereiche"
+
+msgid "settingsSavedToast"
+msgstr "Einstellungen gespeichert"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token gültig (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Nicht autorisiert)"
+
+msgid "http403"
+msgstr "HTTP 403 (Verboten)"
+
+msgid "http404"
+msgstr "HTTP 404 (Nicht gefunden)"
+
+msgid "http429"
+msgstr "HTTP 429 (Zu viele Anfragen)"
+
+msgid "http500"
+msgstr "HTTP 500 (Serverfehler)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Server nicht verfügbar)"
+
+msgid "errTimeout"
+msgstr "Keine Antwort (Timeout)"
+
+msgid "errNetworkShort"
+msgstr "Keine Netzwerkverbindung"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth getrennt"
+
+msgid "testFailPrefix"
+msgstr "Fehlgeschlagen:"
+
+msgid "tokenObtained"
+msgstr "Token erhalten!"
+
+msgid "tokenObtainFail"
+msgstr "Token-Abruf fehlgeschlagen"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Schlummern aktiv: {minutes} Min."
+
+msgid "errNoUrl"
+msgstr "Nightscout-URL nicht konfiguriert"
+
+msgid "errAuth"
+msgstr "Ungültiges Token oder fehlende Leserechte"
+
+msgid "errRateLimit"
+msgstr "Abfragelimit erreicht; bitte später versuchen"
+
+msgid "errServerDown"
+msgstr "Nightscout-Server nicht erreichbar"
+
+msgid "errNoReadings"
+msgstr "Keine Messwerte in Nightscout"
+
+msgid "errNetwork"
+msgstr "Verbindungsproblem: Server nicht erreichbar"
+
+msgid "authAdmin"
+msgstr "Schreib-Token (Admin)"
+
+msgid "authReadable"
+msgstr "Nur-Lese-Token (Sicher)"
+
+msgid "authAnon"
+msgstr "Anonymer Zugriff / kein Token"
+
+msgid "tapToRefresh"
+msgstr "Tippen zum Aktualisieren"
+
+msgid "staleDataPrompt"
+msgstr "Veraltete Daten"
+
+msgid "testAlertCritTitle"
+msgstr "TEST - Rot"
+
+msgid "testAlertWarnTitle"
+msgstr "TEST - Gelb"
+
+msgid "testAlertBody"
+msgstr "Vibrations- und Benachrichtigungstest."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Hintergrundberechtigung"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Um Warnungen und Benachrichtigungen bei ausgeschaltetem Bildschirm oder Ruhezustand zu erhalten, benötigt ZightScout die Berechtigung 'Hintergrunddienst'.\n\nOhne diese Berechtigung können regelmäßige Messungen nicht ausgeführt werden."
+
+msgid "btnClose"
+msgstr "Schließen"
+
+msgid "btnRetry"
+msgstr "Erneut Versuchen"
+
+msgid "btnActivateAnyway"
+msgstr "Trotzdem Aktivieren"
+

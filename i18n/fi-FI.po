@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZightScout3+\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "appName"
+msgstr "ZightScout+"
+
+msgid "byAuthor"
+msgstr "tekijä Márcio Amaro"
+
+msgid "unsupportedDeviceTitle"
+msgstr "Laite ei tuettu"
+
+msgid "unsupportedDeviceBody"
+msgstr "Tarkkuus {w}x{h} alle turvarajan (390px).\n\nPotilasturvallisuuden vuoksi näyttö ei ole sallittu."
+
+msgid "veryLow"
+msgstr "Erittäin matala"
+
+msgid "low"
+msgstr "Matala"
+
+msgid "inRange"
+msgstr "Tavoitteessa"
+
+msgid "high"
+msgstr "Korkea"
+
+msgid "veryHigh"
+msgstr "Erittäin korkea"
+
+msgid "stable"
+msgstr "Vakaa"
+
+msgid "bleConnectingLabel"
+msgstr "BLE YHDISTÄÄ"
+
+msgid "bleConnectingDetail"
+msgstr "yhdistää..."
+
+msgid "bleOffLabel"
+msgstr "BLE POIS"
+
+msgid "bleOffDetail"
+msgstr "katkaistu"
+
+msgid "bleWaitingLabel"
+msgstr "BLE ODOTTAA"
+
+msgid "bleWaitingPhone"
+msgstr "odottaa puhelinta"
+
+msgid "bleNoRecentContact"
+msgstr "ei tuoretta yhteyttä"
+
+msgid "bleOkLabel"
+msgstr "BLE OK"
+
+msgid "bleContactAgo"
+msgstr "yhteys "
+
+msgid "httpUrlLabel"
+msgstr "HTTP URL"
+
+msgid "httpUrlNotConfigured"
+msgstr "URL ei määritetty"
+
+msgid "httpErrorLabel"
+msgstr "HTTP-VIRHE"
+
+msgid "httpQueryFailed"
+msgstr "pyyntö epäonnistui"
+
+msgid "httpFailLabel"
+msgstr "HTTP EPÄONNISTUI"
+
+msgid "httpWaitingConnection"
+msgstr "odottaa yhteyttä"
+
+msgid "httpValidating"
+msgstr "vahvistetaan..."
+
+msgid "httpWaitingLabel"
+msgstr "HTTP ODOTTAA"
+
+msgid "httpNoQuery"
+msgstr "ei pyyntöä"
+
+msgid "httpQueryAgo"
+msgstr "pyyntö "
+
+msgid "httpOkLabel"
+msgstr "HTTP OK"
+
+msgid "readingNoAccessLabel"
+msgstr "EI PÄÄSYÄ"
+
+msgid "readingNoAccessBleConnecting"
+msgstr "yhdistää bluetoothia"
+
+msgid "readingNoAccessBleDisconnected"
+msgstr "bluetooth katkaistu"
+
+msgid "readingNoAccessNoData"
+msgstr "ei datayhteyttä"
+
+msgid "readingNoReadingLabel"
+msgstr "EI LUKEMAA"
+
+msgid "readingWaitingGlucose"
+msgstr "odottaa glukoosia"
+
+msgid "readingExpiredLabel"
+msgstr "VANHENTUNUT"
+
+msgid "readingDelayedLabel"
+msgstr "VIIVÄSTYNYT"
+
+msgid "readingAgo"
+msgstr "lukema "
+
+msgid "readingCurrentLabel"
+msgstr "NYKYINEN"
+
+msgid "readingUpdated"
+msgstr "lukema ajan tasalla"
+
+msgid "portWord"
+msgstr "portti "
+
+msgid "noData"
+msgstr "EI DATASTA"
+
+msgid "nowUpper"
+msgstr "NYT"
+
+msgid "minWord"
+msgstr "MIN"
+
+msgid "ageNow"
+msgstr "Juuri nyt"
+
+msgid "age1Min"
+msgstr "1 min sitten"
+
+msgid "ageXMin"
+msgstr "{n} min sitten"
+
+msgid "age1Hour"
+msgstr "1 tunti sitten"
+
+msgid "ageXHours"
+msgstr "{n} tuntia sitten"
+
+msgid "refreshBtn"
+msgstr "Päivitä"
+
+msgid "refreshToast"
+msgstr "Päivitetään glukoosia..."
+
+msgid "settingsBtn"
+msgstr "Asetukset"
+
+msgid "starting"
+msgstr "Käynnistetään..."
+
+msgid "bgInterrupted"
+msgstr "Taustapalvelu pysäytetty. Tarkista asetukset."
+
+msgid "lastUpdatePrefix"
+msgstr "Viimeisin päivitys: "
+
+msgid "waitingUpdate"
+msgstr "Odotetaan päivitystä"
+
+msgid "snoozeActiveBanner"
+msgstr "TORKKU PÄÄLLÄ • "
+
+msgid "snoozeDisabledBanner"
+msgstr "TORKKU POIS"
+
+msgid "snoozeActiveStatus"
+msgstr " • TORKKU PÄÄLLÄ • "
+
+msgid "minRemaining"
+msgstr " min jäljellä"
+
+msgid "p2Title"
+msgstr "ZightScout Asetukset"
+
+msgid "tabRanges"
+msgstr "Alueet"
+
+msgid "tabAlerts"
+msgstr "Hälytykset / Tausta"
+
+msgid "tabServer"
+msgstr "Palvelin"
+
+msgid "saveAndReturn"
+msgstr "Tallenna & Sulje"
+
+msgid "veryLowThreshold"
+msgstr "Erittäin matala (<)"
+
+msgid "lowThreshold"
+msgstr "Matala (<)"
+
+msgid "highThreshold"
+msgstr "Korkea (>)"
+
+msgid "veryHighThreshold"
+msgstr "Erittäin korkea (>)"
+
+msgid "yellowAlertTitle"
+msgstr "Tavoitteen ulkopuolella (Keltainen)"
+
+msgid "vibOn"
+msgstr "Värinä: PÄÄLLÄ"
+
+msgid "vibOff"
+msgstr "Värinä: POIS"
+
+msgid "testBtn"
+msgstr "Testaa"
+
+msgid "test3xBtn"
+msgstr "Testaa 3x"
+
+msgid "redAlertTitle"
+msgstr "Punainen: 3 hälytystä"
+
+msgid "bgIntervalPrefix"
+msgstr "Tausta: joka "
+
+msgid "bgIntervalSuffix"
+msgstr " min"
+
+msgid "bgIntervalOff"
+msgstr "Tausta: Pois"
+
+msgid "bgPermissionNotice"
+msgstr "Ota taustapalvelun käyttöoikeus\nkäyttöön kellon asetuksista."
+
+msgid "optOff"
+msgstr "Pois"
+
+msgid "snoozeActiveLabel"
+msgstr "Torkku aktiivinen: "
+
+msgid "snoozeInactiveLabel"
+msgstr "Torkku ei käytössä"
+
+msgid "cancelSnooze"
+msgstr "Peruuta torkku"
+
+msgid "cancelSnoozeConfirm"
+msgstr "Peruutetaanko torkku?"
+
+msgid "btnYes"
+msgstr "Kyllä"
+
+msgid "btnNo"
+msgstr "Ei"
+
+msgid "snoozeCancelledToast"
+msgstr "Torkku peruutettu"
+
+msgid "serverHeader"
+msgstr "Nightscout-palvelin:"
+
+msgid "noUrlConfigured"
+msgstr "URL-osoitetta ei määritetty"
+
+msgid "tapToTest"
+msgstr "Napauta alta testataksesi\npalvelinyhteyttä"
+
+msgid "diagnosticTitle"
+msgstr "Diagnostiikka: "
+
+msgid "lastReading"
+msgstr "viimeisin lukema "
+
+msgid "noReadingDiag"
+msgstr "ei lukemia"
+
+msgid "bgActivePrefix"
+msgstr "Tausta: "
+
+msgid "bgActiveHa"
+msgstr "aktiivinen "
+
+msgid "bgNoSignal"
+msgstr "ei signaalia"
+
+msgid "enterUrlBtn"
+msgstr "Syötä URL"
+
+msgid "testConnBtn"
+msgstr "Testaa Yhteys"
+
+msgid "unitNotDetected"
+msgstr "Yksikköä ei tunnistettu.\nValitse yksikkö:"
+
+msgid "urlOkSelectUnit"
+msgstr "URL OK.\nValitse yksikkö ja tallenna."
+
+msgid "unitDetected"
+msgstr "Tunnistettu yksikkö: {unit}"
+
+msgid "unitSelected"
+msgstr "Valittu yksikkö: {unit}"
+
+msgid "unitSaveFailed"
+msgstr "Yksikön tallennus epäonnistui"
+
+msgid "tokenConfigured"
+msgstr "Token: määritetty"
+
+msgid "tokenOptional"
+msgstr "Token: valinnainen"
+
+msgid "pasteToken"
+msgstr "Liitä token. Tyhjä poistaa."
+
+msgid "tokenOpenFail"
+msgstr "Näppäimistön avaus epäonnistui"
+
+msgid "tokenInvalid"
+msgstr "Virheellinen token"
+
+msgid "tokenSaveFail"
+msgstr "Tokenin tallennus epäonnistui"
+
+msgid "tokenSaved"
+msgstr "Token tallennettu puhelimeen"
+
+msgid "tokenRemoved"
+msgstr "Token poistettu"
+
+msgid "testFailToast"
+msgstr "Testihälytyksen lähetys epäonnistui"
+
+msgid "noResponseServer"
+msgstr "Ei vastausta palvelimelta"
+
+msgid "criticalAlertTitle"
+msgstr "Kriittinen Glukoosi"
+
+msgid "warningAlertTitle"
+msgstr "Glukoosi Tavoitteen Ulkopuolella"
+
+msgid "openNotification"
+msgstr "Avaa"
+
+msgid "offlineAlertTitle"
+msgstr "⚠️ ZightScout Offline"
+
+msgid "offlineAlertBody"
+msgstr "Ei tietoja {minutes} minuuttiin. Tarkista Bluetooth & Zepp-sovellus"
+
+msgid "minXAction"
+msgstr "{n} min"
+
+msgid "snoozeToast"
+msgstr "Torkku: {minutes} min"
+
+msgid "alertPrefix"
+msgstr "Hälytys:"
+
+msgid "initialConnStatus"
+msgstr "BLE ODOTTAA | HTTP ODOTTAA | EI DATASTA"
+
+msgid "bleSendFail"
+msgstr "Lähetys epäonnistui"
+
+msgid "syncing"
+msgstr "Synkronoidaan..."
+
+msgid "updating"
+msgstr "Päivitetään..."
+
+msgid "nightscoutError"
+msgstr "Nightscout-virhe"
+
+msgid "dataParseError"
+msgstr "Tietojen jäsennysvirhe"
+
+msgid "genericError"
+msgstr "Virhe"
+
+msgid "tokenConfiguredBtn"
+msgstr "🔑 Token Määritetty"
+
+msgid "enterTokenBtn"
+msgstr "🔑 Syötä Token / Secret"
+
+msgid "promptTokenTitle"
+msgstr "Syötetäänkö Token?"
+
+msgid "promptTokenBody"
+msgstr "Syötetäänkö token yksityiselle Nightscoutille?"
+
+msgid "noBtn"
+msgstr "Ei"
+
+msgid "yesBtn"
+msgstr "Kyllä"
+
+msgid "invalidUrl"
+msgstr "Virheellinen URL"
+
+msgid "urlSaveFail"
+msgstr "URL-osoitteen tallennus epäonnistui"
+
+msgid "urlAndTokenSaved"
+msgstr "URL ja token tallennettu!"
+
+msgid "invalidRanges"
+msgstr "Virheelliset raja-arvot"
+
+msgid "settingsSavedToast"
+msgstr "Asetukset tallennettu"
+
+msgid "urlOkResponse"
+msgstr "URL OK (HTTP 200)"
+
+msgid "urlAndTokenValidResponse"
+msgstr "URL/Token kelvollinen (HTTP 200)"
+
+msgid "http401"
+msgstr "HTTP 401 (Ei valtuutettu)"
+
+msgid "http403"
+msgstr "HTTP 403 (Kielletty)"
+
+msgid "http404"
+msgstr "HTTP 404 (Ei löydy)"
+
+msgid "http429"
+msgstr "HTTP 429 (Liikaa pyyntöjä)"
+
+msgid "http500"
+msgstr "HTTP 500 (Palvelinvirhe)"
+
+msgid "http5xx"
+msgstr "HTTP {code} (Palvelin ei saatavilla)"
+
+msgid "errTimeout"
+msgstr "Ei vastausta (Aikakatkaisu)"
+
+msgid "errNetworkShort"
+msgstr "Ei verkkoyhteyttä"
+
+msgid "errBleDisconnected"
+msgstr "Bluetooth katkaistu"
+
+msgid "testFailPrefix"
+msgstr "Epäonnistui:"
+
+msgid "tokenObtained"
+msgstr "Token vastaanotettu!"
+
+msgid "tokenObtainFail"
+msgstr "Tokenin nouto epäonnistui"
+
+msgid "snoozeActiveStatusMsg"
+msgstr "Torkku aktiivinen: {minutes} min"
+
+msgid "errNoUrl"
+msgstr "Nightscout URL ei määritetty"
+
+msgid "errAuth"
+msgstr "Virheellinen token tai puuttuva lukuoikeus"
+
+msgid "errRateLimit"
+msgstr "Pyyntöraja saavutettu; yritä myöhemmin uudelleen"
+
+msgid "errServerDown"
+msgstr "Nightscout-palvelin ei saatavilla"
+
+msgid "errNoReadings"
+msgstr "Ei lukemia Nightscoutissa"
+
+msgid "errNetwork"
+msgstr "Yhteysongelma: palvelin ei saatavilla"
+
+msgid "authAdmin"
+msgstr "Kirjoitustoken (Ylläpitäjä)"
+
+msgid "authReadable"
+msgstr "Vain lukuoikeus (Turvallinen)"
+
+msgid "authAnon"
+msgstr "Nimetön pääsy / ei tokenia"
+
+msgid "tapToRefresh"
+msgstr "Napauta Päivitä"
+
+msgid "staleDataPrompt"
+msgstr "Vanhentunutta tietoa"
+
+msgid "testAlertCritTitle"
+msgstr "TESTI - Punainen"
+
+msgid "testAlertWarnTitle"
+msgstr "TESTI - Keltainen"
+
+msgid "testAlertBody"
+msgstr "Värinä- ja ilmoitustesti."
+
+msgid "bgPermissionDeniedTitle"
+msgstr "Taustapalvelun Käyttöoikeus"
+
+msgid "bgPermissionDeniedBody"
+msgstr "Hälytysten vastaanottamiseksi näytön ollessa sammutettuna tarvitaan 'Taustapalvelu'-oikeus.\n\nIlman sitä jaksottaiset lukemat eivät toimi."
+
+msgid "btnClose"
+msgstr "Sulje"
+
+msgid "btnRetry"
+msgstr "Yritä Uudelleen"
+
+msgid "btnActivateAnyway"
+msgstr "Aktivoi Silti"
+

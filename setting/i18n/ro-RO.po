@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ro-RO\n"
+
+msgid "pageTitle"
+msgstr "ZightScout — Companion Nightscout"
+
+msgid "brandTag"
+msgstr "Companion Nightscout"
+
+msgid "heroHeadline"
+msgstr "Adu-ți datele glicemiei la încheietură!"
+
+msgid "heroDescription"
+msgstr "Conectează-ți Amazfit-ul la propriul server Nightscout și consultă-ți comod și discret informațiile CGM."
+
+msgid "heroCare"
+msgstr "Creat cu grijă pentru persoanele cu diabet și pentru cei care le îngrijesc. ❤️"
+
+msgid "importantLabel"
+msgstr "🔔 Important:"
+
+msgid "importantBody"
+msgstr "Pentru ca alertele să funcționeze corect, trebuie să activați permisiunea de execuție în fundal pentru aplicație în setările ceasului inteligent."
+
+msgid "disclaimerLabel"
+msgstr "⚠️ Declarație:"
+
+msgid "disclaimerBody"
+msgstr "Acesta este doar un instrument informativ, <strong>nu un dispozitiv medical</strong>. Nu înlocuiește sistemele aprobate de monitorizare a glicemiei și nu trebuie folosit ca unic temei pentru deciziile de tratament."
+
+msgid "supportLabel"
+msgstr "☕ Susține proiectul:"
+
+msgid "contactLabel"
+msgstr "📧 E-mail de contact:"
+
+msgid "configurationTitle"
+msgstr "⚙️ Ghid de configurare"
+
+msgid "configurationIntro"
+msgstr "Pentru a configura URL-ul și tokenul (dacă este necesar), deschideți aplicația <strong>ZightScout3+</strong>, accesați <em>Setări</em>, selectați fila <em>Server</em> și atingeți <em>Introdu URL</em>. După confirmare, vi se va solicita tokenul; dacă nu aveți unul, închideți tastatura fără să introduceți nimic."
+
+msgid "connectionCheck"
+msgstr "Apoi atingeți <strong>Testează conexiunea</strong>. Ar trebui să apară un mesaj care confirmă conexiunea. Dacă vedeți <span class=\"error\">EROARE 401</span>, aceasta indică o problemă de autentificare a tokenului."
+
+msgid "watchPermissionTitle"
+msgstr "⚠️ Permisiune importantă a ceasului"
+
+msgid "watchPermissionLead"
+msgstr "Unde activați această opțiune în setările ceasului:"
+
+msgid "watchPermissionBody"
+msgstr "Pentru a trimite notificări și a vibra când aplicația este închisă (în fundal), ZightScout are nevoie de o permisiune care trebuie acordată direct pe ceas."
+
+msgid "watchPermissionCritical"
+msgstr "<strong>CRITIC:</strong> Dacă nu primiți alerte/notificări în afara intervalului, iar serviciul este configurat să ruleze periodic la fiecare <em>X minute</em>, trebuie <strong>neapărat</strong> să permiteți aplicației să ruleze în fundal."
+
+msgid "stepSettings"
+msgstr "Pe ceasul inteligent Amazfit, deschideți <strong>Setări</strong>."
+
+msgid "stepPermissions"
+msgstr "Deschideți <strong>Permisiuni</strong>."
+
+msgid "stepApp"
+msgstr "Găsiți și selectați <strong>ZightScout</strong>."
+
+msgid "stepBackground"
+msgstr "Permiteți <strong>Rularea în fundal</strong> sau <strong>Pornirea automată</strong>."
+
+msgid "supportedLanguagesTitle"
+msgstr "🌍 Limbi acceptate"
+
+msgid "supportedLanguagesIntro"
+msgstr "Interfața aplicației este disponibilă în următoarele limbi native Zepp OS:"
+
+msgid "footerSlogan"
+msgstr "Tehnologie pentru o mai bună gestionare a diabetului."
+
+msgid "nativeSubtitle"
+msgstr "Monitorizare continuă a glucozei (CGM)"
+
+msgid "nativeWatchTitle"
+msgstr "Configurarea ceasului"
+
+msgid "nativeWatchText"
+msgstr "Configurați intervalele, alertele și monitorizarea în fundal în Setările ZightScout de pe ceas."
+
+msgid "nativeUsageTitle"
+msgstr "Informații despre utilizare"
+
+msgid "nativeUsageServer"
+msgstr "Ceasul afișează valorile glicemiei de pe acest server."
+
+msgid "nativeUsageTransfer"
+msgstr "URL-ul este transferat prin Bluetooth către ceasul conectat."
