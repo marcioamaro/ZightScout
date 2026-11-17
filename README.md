@@ -91,7 +91,7 @@ The official, compiled, and ready-to-use version of **ZightScout** is available 
 ### Download the Official Zepp App:
 
 [![Download on the App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager)
 
 </div>
 
@@ -426,7 +426,7 @@ A versão oficial, compilada e pronta para uso do **ZightScout** está disponív
 ### Baixe o aplicativo oficial Zepp no celular:
 
 [![Disponível na App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
-[![Disponível no Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+[![Disponível no Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager)
 
 </div>
 
@@ -761,7 +761,7 @@ Compatible con 8 familias de relojes Amazfit con Zepp OS 3.0+ y todas sus varian
 ### Descarga la aplicación oficial Zepp:
 
 [![Disponible en App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
-[![Disponible en Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+[![Disponible en Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager)
 
 </div>
 
@@ -974,7 +974,7 @@ La version officielle, compilée et prête à l'emploi de **ZightScout** est dis
 ### Téléchargez l'application officielle Zepp :
 
 [![Télécharger sur l'App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
-[![Disponible sur Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+[![Disponible sur Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager)
 
 </div>
 
@@ -1133,7 +1133,7 @@ Die offizielle, fertig kompilierte Version von **ZightScout** ist direkt im **Ze
 ### Offizielle Zepp-App herunterladen:
 
 [![Im App Store laden](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
-[![Jetzt bei Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+[![Jetzt bei Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager)
 
 </div>
 
@@ -1292,7 +1292,7 @@ Nightscout 访问令牌 **仅保存在手机端 Zepp App 中**，绝不传输或
 ### 下载 Zepp 手机配套应用：
 
 [![在 App Store 下载](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
-[![在 Google Play 下载](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+[![在 Google Play 下载](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager)
 
 </div>
 
@@ -1458,7 +1458,7 @@ Zepp OS 3.0+ を搭載した 8 大 Amazfit スマートウォッチシリーズ�
 ### Zepp 公式スマートフォンのダウンロード：
 
 [![App Store でダウンロード](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
-[![Google Play で手に入れよう](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+[![Google Play で手に入れよう](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.watch.hmwatchmanager)
 
 </div>
 
