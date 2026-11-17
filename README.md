@@ -80,6 +80,28 @@ Fully compatible with 8 Amazfit smartwatch families running Zepp OS 3.0+ and all
 
 ---
 
+## 📲 Official Release on Zepp App Store (Recommended)
+
+The official, compiled, and ready-to-use version of **ZightScout** is available directly in the **Zepp App Store**!
+
+<div align="center">
+
+<img src="screenshots/zepp_app_logo.png" width="90" alt="Official Zepp App Logo" style="border-radius: 20%;" />
+
+### Download the Official Zepp App:
+
+[![Download on the App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+
+</div>
+
+**How to install in 3 steps:**
+1. Open the **Zepp App** on your phone (connected to your watch).
+2. Go to **Profile → Your Device → App Store**.
+3. Search for **ZightScout** and tap **Install**! 🎉
+
+---
+
 ## 🚀 Quick Install (via QR Code)
 
 The fastest way to install ZightScout on your smartwatch:
@@ -390,6 +412,28 @@ O ZightScout fala a sua língua! Suporte nativo a **34 idiomas** incluindo Árab
 
 ### 📱 8 famílias de smartwatches Amazfit
 Compatível com 8 famílias completas de smartwatches Amazfit com Zepp OS 3.0+ e todas as suas variantes.
+
+---
+
+## 📲 Versão Oficial na Zepp App Store (Recomendado)
+
+A versão oficial, compilada e pronta para uso do **ZightScout** está disponível diretamente na **Zepp App Store** (Loja de Aplicativos do Zepp)!
+
+<div align="center">
+
+<img src="screenshots/zepp_app_logo.png" width="90" alt="Logotipo Oficial do Aplicativo Zepp" style="border-radius: 20%;" />
+
+### Baixe o aplicativo oficial Zepp no celular:
+
+[![Disponível na App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
+[![Disponível no Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+
+</div>
+
+**Como instalar em 3 passos simples:**
+1. Abra o app **Zepp** no seu celular (com o relógio conectado).
+2. Vá em **Perfil → Seu Dispositivo → Loja de Aplicativos (App Store)**.
+3. Busque por **ZightScout** e toque em **Instalar**! 🎉
 
 ---
 
@@ -706,6 +750,28 @@ Compatible con 8 familias de relojes Amazfit con Zepp OS 3.0+ y todas sus varian
 
 ---
 
+## 📲 Versión Oficial en la Zepp App Store (Recomendado)
+
+¡La versión oficial compilada y lista para usar de **ZightScout** está disponible directamente en la **Zepp App Store**!
+
+<div align="center">
+
+<img src="screenshots/zepp_app_logo.png" width="90" alt="Logotipo Oficial de Zepp App" style="border-radius: 20%;" />
+
+### Descarga la aplicación oficial Zepp:
+
+[![Disponible en App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
+[![Disponible en Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+
+</div>
+
+**Cómo instalar en 3 pasos:**
+1. Abre la app **Zepp** en tu teléfono (con el reloj conectado).
+2. Ve a **Perfil → Tu dispositivo → Tienda de aplicaciones (App Store)**.
+3. Busca **ZightScout** y pulsa **Instalar** 🎉
+
+---
+
 ## 🚀 Instalación rápida (mediante código QR)
 
 ```bash
@@ -897,6 +963,28 @@ Compatible avec 8 familles de montres Amazfit sous Zepp OS 3.0+ et toutes leurs 
 
 ---
 
+## 📲 Version Officielle sur le Zepp App Store (Recommandé)
+
+La version officielle, compilée et prête à l'emploi de **ZightScout** est disponible directement sur le **Zepp App Store** !
+
+<div align="center">
+
+<img src="screenshots/zepp_app_logo.png" width="90" alt="Logo Officiel de l'application Zepp" style="border-radius: 20%;" />
+
+### Téléchargez l'application officielle Zepp :
+
+[![Télécharger sur l'App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
+[![Disponible sur Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+
+</div>
+
+**Comment installer en 3 étapes :**
+1. Ouvrez l'application **Zepp** sur votre smartphone (montre connectée).
+2. Allez dans **Profil → Votre Appareil → Magasin d'applications (App Store)**.
+3. Recherchez **ZightScout** et appuyez sur **Installer** ! 🎉
+
+---
+
 ## 🚀 Installation rapide (via QR Code)
 
 ```bash
@@ -1034,6 +1122,28 @@ Kompatibel mit 8 Amazfit-Familien mit Zepp OS 3.0+ sowie sämtlichen Varianten.
 
 ---
 
+## 📲 Offizielle Version im Zepp App Store (Empfohlen)
+
+Die offizielle, fertig kompilierte Version von **ZightScout** ist direkt im **Zepp App Store** verfügbar!
+
+<div align="center">
+
+<img src="screenshots/zepp_app_logo.png" width="90" alt="Offizielles Zepp App Logo" style="border-radius: 20%;" />
+
+### Offizielle Zepp-App herunterladen:
+
+[![Im App Store laden](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
+[![Jetzt bei Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+
+</div>
+
+**Installation in 3 einfachen Schritten:**
+1. Öffnen Sie die **Zepp-App** auf Ihrem Smartphone (mit verbundener Uhr).
+2. Gehen Sie zu **Profil → Ihr Gerät → App Store**.
+3. Suchen Sie nach **ZightScout** und tippen Sie auf **Installieren**! 🎉
+
+---
+
 ## 🚀 Schnellinstallation (über QR-Code)
 
 ```bash
@@ -1168,6 +1278,28 @@ Nightscout 访问令牌 **仅保存在手机端 Zepp App 中**，绝不传输或
 
 ### 📱 8 大 Amazfit 智能手表家族
 全面支持搭载 Zepp OS 3.0+ 的 8 大 Amazfit 系列及其全部区域型号。
+
+---
+
+## 📲 Zepp App Store 官方正式版（推荐安装方式）
+
+**ZightScout** 官方已编译的正式版本已上架 **Zepp 官方应用商店 (Zepp App Store)**，即装即用！
+
+<div align="center">
+
+<img src="screenshots/zepp_app_logo.png" width="90" alt="Zepp App 官方图标" style="border-radius: 20%;" />
+
+### 下载 Zepp 手机配套应用：
+
+[![在 App Store 下载](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
+[![在 Google Play 下载](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+
+</div>
+
+**轻松安装三步走：**
+1. 在手机上打开 **Zepp App**（确保手表已连接）。
+2. 前往 **我的 → 您的手表设备 → 应用商店 (App Store)**。
+3. 搜索 **ZightScout**，点击 **安装** 即可！🎉
 
 ---
 
@@ -1312,6 +1444,28 @@ Nightscout のアクセス認証トークンは**スマートフォンの Zepp �
 
 ### 📱 8大 Amazfit シリーズに対応
 Zepp OS 3.0+ を搭載した 8 大 Amazfit スマートウォッチシリーズとすべての派生モデルに対応。
+
+---
+
+## 📲 Zepp App Store 公式リリース版（おすすめのインストール方法）
+
+**ZightScout** の公式コンパイル済みバージョンは、**Zepp 公式アプリストア (Zepp App Store)** から直接インストールいただけます！
+
+<div align="center">
+
+<img src="screenshots/zepp_app_logo.png" width="90" alt="Zepp App 公式ロゴ" style="border-radius: 20%;" />
+
+### Zepp 公式スマートフォンのダウンロード：
+
+[![App Store でダウンロード](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/zepp/id1127269366)
+[![Google Play で手に入れよう](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.huami.midong)
+
+</div>
+
+**3ステップで簡単インストール：**
+1. スマートフォンで **Zepp アプリ** を開きます（ウォッチと接続済み）。
+2. **プロフィール → お使いのデバイス → アプリストア** に進みます。
+3. **ZightScout** を検索し、**インストール** をタップするだけです！🎉
 
 ---
 
