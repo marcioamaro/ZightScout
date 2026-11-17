@@ -12,7 +12,7 @@
 
 [![Version](https://img.shields.io/badge/version-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
-[![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/license-Non--Commercial-orange?style=for-the-badge)](LICENSE)
 [![Families](https://img.shields.io/badge/families-8%20Amazfit-purple?style=for-the-badge)](#supported-smartwatches-en)
 [![Languages](https://img.shields.io/badge/languages-34-red?style=for-the-badge)](#supported-languages-en)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
@@ -289,10 +289,14 @@ Main Watch App (Amazfit Active 2, Balance, etc.)
 
 ## 📄 License
 
-This project is licensed under the **GPL-3.0 License**.  
-You are free to use, study, modify, and redistribute it — any derivative works must remain free and open source under the same license terms.
+This software is released under the **ZightScout Personal & Non-Commercial License**.  
+It is provided completely free of charge for personal use, study, and self-compilation by individuals with diabetes.
 
-See the [LICENSE](LICENSE) file for complete terms.
+**Restrictions:**
+- ❌ **No Commercial Use:** Commercial sale, monetization, or charging any fees (directly or indirectly) is strictly prohibited.
+- ❌ **No App Store Redistribution:** Publishing or submitting this application or any derivative works to the Zepp App Store, Amazfit App Store, Google Play, or any other app marketplace (whether free or paid) is strictly prohibited without prior written authorization from the author.
+
+See the [LICENSE](LICENSE) file for complete legal terms.
 
 ---
 
@@ -321,7 +325,7 @@ Made with ❤️ by diabetics, for diabetics.
 
 [![Versão](https://img.shields.io/badge/versão-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
-[![Licença](https://img.shields.io/badge/licença-GPL--3.0-orange?style=for-the-badge)](LICENSE)
+[![Licença](https://img.shields.io/badge/licença-Não--Comercial-orange?style=for-the-badge)](LICENSE)
 [![Famílias](https://img.shields.io/badge/fam%C3%ADlias-8%20Amazfit-purple?style=for-the-badge)](#smartwatches-suportados-pt)
 [![Idiomas](https://img.shields.io/badge/idiomas-34-red?style=for-the-badge)](#idiomas-suportados-pt)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
@@ -598,10 +602,14 @@ Tela principal do relógio (Amazfit Active 2, etc.)
 
 ## 📄 Licença
 
-Este projeto é distribuído sob a licença **GPL-3.0**.  
-Isso significa que você pode usar, modificar e distribuir livremente — mas qualquer versão derivada também deve ser open-source sob a mesma licença.
+Este software é distribuído sob a **Licença de Uso Pessoal e Não-Comercial do ZightScout**.  
+Ele é disponibilizado gratuitamente para uso pessoal, estudo e compilação própria por pessoas com diabetes.
 
-Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+**Restrições:**
+- ❌ **Uso Comercial Proibido:** É estritamente proibida a venda, monetização ou cobrança de qualquer taxa direta ou indireta pelo software ou versões derivadas.
+- ❌ **Proibida Publicação em Lojas de Aplicativos:** É expressamente proibido publicar ou submeter este aplicativo ou versões modificadas na Zepp App Store, Amazfit App Store, Google Play ou qualquer outra loja de aplicativos (sejam gratuitas ou pagas) sem autorização prévia por escrito do autor.
+
+Consulte o arquivo [LICENSE](LICENSE) para o texto legal completo.
 
 ---
 
@@ -630,7 +638,7 @@ Feito com ❤️ por diabéticos, para diabéticos.
 
 [![Versión](https://img.shields.io/badge/versión-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
-[![Licencia](https://img.shields.io/badge/licencia-GPL--3.0-orange?style=for-the-badge)](LICENSE)
+[![Licencia](https://img.shields.io/badge/licencia-No--Comercial-orange?style=for-the-badge)](LICENSE)
 [![Familias](https://img.shields.io/badge/familias-8%20Amazfit-purple?style=for-the-badge)](#smartwatches-compatibles-es)
 [![Idiomas](https://img.shields.io/badge/idiomas-34-red?style=for-the-badge)](#idiomas-compatibles-es)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
@@ -791,7 +799,14 @@ Traducido completamente a **34 idiomas**:
 
 ## 📄 Licencia
 
-Distribuido bajo licencia **GPL-3.0**. Consulta el archivo [LICENSE](LICENSE).
+Este software se distribuye bajo la **Licencia de Uso Personal y No Comercial de ZightScout**.  
+Se proporciona de forma gratuita para uso personal, estudio y compilación propia.
+
+**Restricciones:**
+- ❌ **Uso comercial prohibido:** Queda estrictamente prohibida la venta, monetización o cobro de cualquier tarifa.
+- ❌ **Prohibida la publicación en tiendas de apps:** No se permite publicar o distribuir esta app en la Zepp App Store, Amazfit App Store u otras tiendas de aplicaciones sin autorización previa por escrito del autor.
+
+Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
@@ -818,7 +833,7 @@ Hecho con ❤️ por personas con diabetes, para personas con diabetes.
 
 [![Version](https://img.shields.io/badge/version-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
-[![Licence](https://img.shields.io/badge/licence-GPL--3.0-orange?style=for-the-badge)](LICENSE)
+[![Licence](https://img.shields.io/badge/licence-Non--Commercial-orange?style=for-the-badge)](LICENSE)
 [![Familles](https://img.shields.io/badge/familles-8%20Amazfit-purple?style=for-the-badge)](#montres-compatibles-fr)
 [![Langues](https://img.shields.io/badge/langues-34-red?style=for-the-badge)](#langues-compatibles-fr)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
@@ -921,7 +936,14 @@ Disponible en **34 langues natives** : français, anglais, portugais, espagnol, 
 
 ## 📄 Licence
 
-Distribué sous licence **GPL-3.0**. Voir le fichier [LICENSE](LICENSE).
+Ce logiciel est distribué sous la **Licence d'utilisation personnelle et non commerciale ZightScout**.  
+Il est fourni gratuitement pour un usage personnel, l'étude et la compilation individuelle.
+
+**Restrictions :**
+- ❌ **Usage commercial interdit :** La vente, la monétisation ou la facturation sous quelque forme que ce soit sont strictement interdites.
+- ❌ **Redistribution sur les magasins d'applications interdite :** La publication sur le Zepp App Store, l'Amazfit App Store ou tout autre magasin d'applications est interdite sans accord écrit préalable de l'auteur.
+
+Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
@@ -948,7 +970,7 @@ Créé avec ❤️ par des personnes diabétiques, pour des personnes diabétiqu
 
 [![Version](https://img.shields.io/badge/Version-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
-[![Lizenz](https://img.shields.io/badge/Lizenz-GPL--3.0-orange?style=for-the-badge)](LICENSE)
+[![Lizenz](https://img.shields.io/badge/Lizenz-Nicht--Kommerziell-orange?style=for-the-badge)](LICENSE)
 [![Familien](https://img.shields.io/badge/Familien-8%20Amazfit-purple?style=for-the-badge)](#unterstuetzte-smartwatches-de)
 [![Sprachen](https://img.shields.io/badge/Sprachen-34-red?style=for-the-badge)](#unterstuetzte-sprachen-de)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
@@ -1051,7 +1073,14 @@ Vollständig übersetzt in **34 Sprachen**: Deutsch, Englisch, Portugiesisch, Sp
 
 ## 📄 Lizenz
 
-Veröffentlicht unter der **GPL-3.0 Lizenz**. Siehe [LICENSE](LICENSE).
+Diese Software wird unter der **ZightScout-Lizenz für persönliche und nicht-kommerzielle Nutzung** bereitgestellt.  
+Sie ist kostenlos für den persönlichen Gebrauch, das Studium und die eigene Kompilierung gedacht.
+
+**Einschränkungen:**
+- ❌ **Keine kommerzielle Nutzung:** Verkauf, Monetarisierung oder Gebühren jeglicher Art sind strengstens untersagt.
+- ❌ **Keine Veröffentlichung in App Stores:** Das Hochladen oder Veröffentlichen im Zepp App Store, Amazfit App Store oder anderen Plattformen ist ohne vorherige schriftliche Genehmigung des Autors untersagt.
+
+Siehe die Datei [LICENSE](LICENSE) für vollständige Bedingungen.
 
 ---
 
@@ -1078,7 +1107,7 @@ Mit ❤️ von Diabetikern für Diabetiker entwickelt.
 
 [![版本](https://img.shields.io/badge/版本-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
-[![开源许可](https://img.shields.io/badge/许可证-GPL--3.0-orange?style=for-the-badge)](LICENSE)
+[![许可证](https://img.shields.io/badge/许可证-仅供个人与非商业使用-orange?style=for-the-badge)](LICENSE)
 [![手表系列](https://img.shields.io/badge/系列-8款Amazfit系列-purple?style=for-the-badge)](#支持的智能手表-zh)
 [![支持语言](https://img.shields.io/badge/语言-34种-red?style=for-the-badge)](#支持的语言-zh)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
@@ -1186,9 +1215,16 @@ zeus preview
 
 ---
 
-## 📄 开源许可证
+## 📄 软件使用许可
 
-本项目基于 **GPL-3.0** 开源许可证发布。详情请查阅 [LICENSE](LICENSE) 文件。
+本软件基于 **ZightScout 个人与非商业使用许可** 提供。  
+专供糖尿病患者免费用于个人使用、学习及自主编译。
+
+**核心限制：**
+- ❌ **禁止商业化：** 严禁任何形式的商业销售、变现或收费。
+- ❌ **禁止私自上架应用商店：** 未经原作者书面授权，严禁将本应用或衍生版本提交、发布到 Zepp App Store、Amazfit 商店或任何其他应用市场（无论收费或免费）。
+
+完整法律条款请参阅 [LICENSE](LICENSE) 文件。
 
 ---
 
@@ -1215,7 +1251,7 @@ zeus preview
 
 [![バージョン](https://img.shields.io/badge/バージョン-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
-[![ライセンス](https://img.shields.io/badge/ライセンス-GPL--3.0-orange?style=for-the-badge)](LICENSE)
+[![ライセンス](https://img.shields.io/badge/ライセンス-個人利用・非商用-orange?style=for-the-badge)](LICENSE)
 [![ファミリー](https://img.shields.io/badge/シリーズ-8大Amazfitシリーズ-purple?style=for-the-badge)](#対応スマートウォッチ-ja)
 [![言語](https://img.shields.io/badge/対応言語-34言語-red?style=for-the-badge)](#対応言語-ja)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
@@ -1318,7 +1354,14 @@ zeus preview
 
 ## 📄 ライセンス
 
-本プロジェクトは **GPL-3.0** ライセンスのもとで公開されています。詳細は [LICENSE](LICENSE) をご覧ください。
+本ソフトウェアは **ZightScout 個人利用・非商用ライセンス** のもとで提供されています。  
+糖尿病を持つ方々による個人利用、研究、自己ビルドを目的として完全無償で提供されます。
+
+**禁止事項：**
+- ❌ **商用利用の禁止:** 本ソフトウェアや派生物を有料で販売・収益化することは固く禁じられています。
+- ❌ **アプリストアへの無断公開の禁止:** 原作者の事前の書面による許可なく、Zepp App Store、Amazfit App Store、またはその他のアプリマーケットへ本アプリ（有償・無償を問わず）を公開・配信することは禁止されています。
+
+詳細は [LICENSE](LICENSE) ファイルをご確認ください。
 
 ---
 
