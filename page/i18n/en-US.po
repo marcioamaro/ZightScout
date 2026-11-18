@@ -528,3 +528,51 @@ msgstr "Try Again"
 msgid "btnActivateAnyway"
 msgstr "Activate Anyway"
 
+msgid "offlineBluetoothTitle"
+msgstr "⚠️ Bluetooth Disconnected"
+
+msgid "offlineBluetoothBody"
+msgstr "Bluetooth disconnected. Check connection with your watch."
+
+msgid "offlineAuthTitle"
+msgstr "⚠️ Authentication Failed"
+
+msgid "offlineAuthBody"
+msgstr "Nightscout authentication failed. Check your token."
+
+msgid "offlineAccessTitle"
+msgstr "⚠️ Access Denied"
+
+msgid "offlineAccessBody"
+msgstr "Nightscout server denied access."
+
+msgid "offlineNotFoundTitle"
+msgstr "⚠️ Not Found (404)"
+
+msgid "offlineNotFoundBody"
+msgstr "Nightscout URL or resource not found."
+
+msgid "offlineServerTitle"
+msgstr "⚠️ Server Unavailable"
+
+msgid "offlineServerBody"
+msgstr "Nightscout server unavailable. Could not query glucose data."
+
+msgid "offlineTimeoutTitle"
+msgstr "⚠️ Connection Timeout"
+
+msgid "offlineTimeoutBody"
+msgstr "Timed out while trying to reach Nightscout."
+
+msgid "offlineNetworkTitle"
+msgstr "⚠️ Network Offline"
+
+msgid "offlineNetworkBody"
+msgstr "No communication with internet or Nightscout server."
+
+msgid "offlineUnknownTitle"
+msgstr "⚠️ Connection Failed"
+
+msgid "offlineUnknownBody"
+msgstr "Communication with Nightscout failed."
+

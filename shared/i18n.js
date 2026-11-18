@@ -77,14 +77,61 @@ export function isRtlLanguage() {
   return loc === "ar" || loc.startsWith("ar") || loc === "iw" || loc === "he" || loc.startsWith("iw") || loc.startsWith("he");
 }
 
+const FALLBACK_STRINGS = {
+  pt: {
+    offlineBluetoothTitle: "⚠️ Bluetooth Desconectado",
+    offlineBluetoothBody: "Bluetooth desconectado. Verifique a conexão com o relógio.",
+    offlineAuthTitle: "⚠️ Falha de Autenticação",
+    offlineAuthBody: "Falha de autenticação Nightscout. Verifique seu token.",
+    offlineAccessTitle: "⚠️ Acesso Negado",
+    offlineAccessBody: "O servidor Nightscout recusou o acesso.",
+    offlineNotFoundTitle: "⚠️ Recurso Não Encontrado",
+    offlineNotFoundBody: "Endereço ou recurso Nightscout não encontrado.",
+    offlineServerTitle: "⚠️ Servidor Indisponível",
+    offlineServerBody: "Servidor Nightscout indisponível. Não foi possível consultar os dados.",
+    offlineTimeoutTitle: "⚠️ Tempo Esgotado",
+    offlineTimeoutBody: "Tempo esgotado ao tentar acessar o Nightscout.",
+    offlineNetworkTitle: "⚠️ Sem Comunicação",
+    offlineNetworkBody: "Sem comunicação com a internet ou servidor Nightscout.",
+    offlineUnknownTitle: "⚠️ Erro de Conexão",
+    offlineUnknownBody: "Falha na comunicação com o Nightscout."
+  },
+  en: {
+    offlineBluetoothTitle: "⚠️ Bluetooth Disconnected",
+    offlineBluetoothBody: "Bluetooth disconnected. Check connection with your watch.",
+    offlineAuthTitle: "⚠️ Authentication Failed",
+    offlineAuthBody: "Nightscout authentication failed. Check your token.",
+    offlineAccessTitle: "⚠️ Access Denied",
+    offlineAccessBody: "Nightscout server denied access.",
+    offlineNotFoundTitle: "⚠️ Not Found (404)",
+    offlineNotFoundBody: "Nightscout URL or resource not found.",
+    offlineServerTitle: "⚠️ Server Unavailable",
+    offlineServerBody: "Nightscout server unavailable. Could not query glucose data.",
+    offlineTimeoutTitle: "⚠️ Connection Timeout",
+    offlineTimeoutBody: "Timed out while trying to reach Nightscout.",
+    offlineNetworkTitle: "⚠️ Network Offline",
+    offlineNetworkBody: "No communication with internet or Nightscout server.",
+    offlineUnknownTitle: "⚠️ Connection Failed",
+    offlineUnknownBody: "Communication with Nightscout failed."
+  }
+};
+
 export function getText(key) {
   if (typeof zosGetText === "function") {
     try {
       const res = zosGetText(key);
-      if (res !== undefined && res !== null && res !== "") {
+      if (res !== undefined && res !== null && res !== "" && res !== key) {
         return res;
       }
     } catch (e) {}
+  }
+  const loc = getSystemLocale();
+  const langKey = loc && loc.startsWith("pt") ? "pt" : "en";
+  if (FALLBACK_STRINGS[langKey] && FALLBACK_STRINGS[langKey][key]) {
+    return FALLBACK_STRINGS[langKey][key];
+  }
+  if (FALLBACK_STRINGS.en && FALLBACK_STRINGS.en[key]) {
+    return FALLBACK_STRINGS.en[key];
   }
   return key;
 }

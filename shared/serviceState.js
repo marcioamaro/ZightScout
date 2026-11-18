@@ -7,6 +7,7 @@ const DEFAULT_STATE = {
   nextRetryAt: 0,
   lastSuccessTimestamp: 0,
   criticalNotifiedAt: null,
+  lastNotifiedErrorState: null,
   bleDisconnectAttempts: 0,
   lastBleAttemptAt: 0
 };
@@ -23,6 +24,7 @@ function normalize(value) {
     nextRetryAt: numberOr(state.nextRetryAt, 0),
     lastSuccessTimestamp: numberOr(state.lastSuccessTimestamp, 0),
     criticalNotifiedAt: state.criticalNotifiedAt === null || state.criticalNotifiedAt === undefined ? null : numberOr(state.criticalNotifiedAt, null),
+    lastNotifiedErrorState: state.lastNotifiedErrorState ? String(state.lastNotifiedErrorState) : null,
     bleDisconnectAttempts: Math.floor(numberOr(state.bleDisconnectAttempts, 0)),
     lastBleAttemptAt: numberOr(state.lastBleAttemptAt, 0)
   };
@@ -66,6 +68,7 @@ export function resetServiceState(timestamp) {
     nextRetryAt: 0,
     lastSuccessTimestamp: Number(timestamp) || Date.now(),
     criticalNotifiedAt: null,
+    lastNotifiedErrorState: null,
     bleDisconnectAttempts: 0,
     lastBleAttemptAt: 0
   });

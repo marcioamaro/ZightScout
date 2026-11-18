@@ -349,6 +349,9 @@ export function markAlertRetry(token, storageKey, reason) {
 export function scheduleInitialAlert(reading) {
   try {
     recordAlertHeartbeat();
+    try {
+      localStorage.removeItem("zightscout_pending_offline_alert");
+    } catch (e) {}
     const safeCycle = String(reading.backgroundCycle || "fg").replace(/[^a-zA-Z0-9_]/g, "_");
     const token = String(Date.now()) + "_" + safeCycle;
     const storageKey = PENDING_PREFIX + token;

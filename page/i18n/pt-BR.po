@@ -528,3 +528,51 @@ msgstr "Tentar de Novo"
 msgid "btnActivateAnyway"
 msgstr "Ativar Mesmo Assim"
 
+msgid "offlineBluetoothTitle"
+msgstr "⚠️ Bluetooth Desconectado"
+
+msgid "offlineBluetoothBody"
+msgstr "Bluetooth desconectado. Verifique a conexão com o relógio."
+
+msgid "offlineAuthTitle"
+msgstr "⚠️ Falha de Autenticação"
+
+msgid "offlineAuthBody"
+msgstr "Falha de autenticação Nightscout. Verifique seu token."
+
+msgid "offlineAccessTitle"
+msgstr "⚠️ Acesso Negado"
+
+msgid "offlineAccessBody"
+msgstr "O servidor Nightscout recusou o acesso."
+
+msgid "offlineNotFoundTitle"
+msgstr "⚠️ Recurso Não Encontrado"
+
+msgid "offlineNotFoundBody"
+msgstr "Endereço ou recurso Nightscout não encontrado."
+
+msgid "offlineServerTitle"
+msgstr "⚠️ Servidor Indisponível"
+
+msgid "offlineServerBody"
+msgstr "Servidor Nightscout indisponível. Não foi possível consultar os dados."
+
+msgid "offlineTimeoutTitle"
+msgstr "⚠️ Tempo Esgotado"
+
+msgid "offlineTimeoutBody"
+msgstr "Tempo esgotado ao tentar acessar o Nightscout."
+
+msgid "offlineNetworkTitle"
+msgstr "⚠️ Sem Comunicação"
+
+msgid "offlineNetworkBody"
+msgstr "Sem comunicação com a internet ou servidor Nightscout."
+
+msgid "offlineUnknownTitle"
+msgstr "⚠️ Erro de Conexão"
+
+msgid "offlineUnknownBody"
+msgstr "Falha na comunicação com o Nightscout."
+

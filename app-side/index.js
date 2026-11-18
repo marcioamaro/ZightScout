@@ -32,7 +32,7 @@ function trace(event, details) {
   }));
 }
 
-import { messageBuilder, MESSAGE_TYPES } from "../shared/message";
+import { messageBuilder, MESSAGE_TYPES, CONNECTION_STATES, classifyHttpError } from "../shared/message";
 
 import { normalizeGlucoseUnit } from "../shared/glucose-unit";
 
@@ -493,7 +493,9 @@ AppSideService({
     Promise.all([ entriesPromise, unitPromise ]).then(([entriesRes, serverUnit]) => {
       console.log("API response received");
       if (entriesRes.status < 200 || entriesRes.status >= 300) {
-        throw new Error(authMessage(entriesRes.status));
+        const err = new Error(authMessage(entriesRes.status));
+        err.httpStatus = entriesRes.status;
+        throw err;
       }
       const data = entriesRes.body;
       if (Array.isArray(data) && data.length > 0) {
@@ -509,11 +511,13 @@ AppSideService({
         });
         parsedData.backgroundCycle = backgroundCycle;
         if (activeRequestId) parsedData.requestId = activeRequestId;
+        parsedData.connectionState = CONNECTION_STATES.ONLINE;
         this.sendDataToDevice(parsedData);
       } else {
         this.sendToDeviceHelper({
           error: true,
           code: "errNoReadings",
+          connectionState: CONNECTION_STATES.NIGHTSCOUT_NOT_FOUND,
           message: "Sem leituras no Nightscout",
           backgroundCycle: backgroundCycle,
           requestId: activeRequestId
@@ -521,11 +525,15 @@ AppSideService({
       }
     }).catch(error => {
       console.log("Fetch error:", error);
-      const errCode = error && error.httpStatus ? authCode(error.httpStatus) : "errNetwork";
+      const status = error && error.httpStatus || 0;
+      const errClass = classifyHttpError(status, error);
+      const errCode = status ? authCode(status) : errClass === CONNECTION_STATES.NIGHTSCOUT_TIMEOUT ? "errTimeout" : "errNetwork";
       this.sendToDeviceHelper({
         error: true,
         code: errCode,
-        message: "Problema de conexao: " + (error.message || "servidor indisponivel"),
+        connectionState: errClass,
+        httpStatus: status,
+        message: error.message || "Falha ao consultar o Nightscout",
         backgroundCycle: backgroundCycle,
         requestId: activeRequestId
       });
@@ -839,7 +847,9 @@ AppSideService({
     const timeoutPromise = new Promise((_, reject) => {
       timeoutTimer = setTimeout(() => {
         timeoutTimer = null;
-        reject(new Error("Tempo limite (" + Math.round(timeoutMs / 1e3) + "s)"));
+        const err = new Error("Tempo limite (" + Math.round(timeoutMs / 1e3) + "s)");
+        err.isTimeout = true;
+        reject(err);
       }, timeoutMs);
     });
     return Promise.race([ fetchPromise, timeoutPromise ]).catch(error => {

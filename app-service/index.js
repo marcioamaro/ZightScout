@@ -27,6 +27,8 @@ import { loadServiceState, saveServiceState, resetServiceState } from "../shared
 
 import { set as setAlarm, REPEAT_ONCE } from "@zos/alarm";
 
+import { CONNECTION_STATES } from "../shared/message";
+
 const APP_ID = 1127420;
 
 const RESPONSE_WAKE_INTERVAL_MS = 15e3;
@@ -244,18 +246,23 @@ AppService({
       schedulePoll(s, nextAttemptAt);
       return false;
     }
-    if (!this.state.retry.criticalNotifiedAt) {
+    if (!this.state.retry.criticalNotifiedAt || this.state.retry.lastNotifiedErrorState !== CONNECTION_STATES.BLUETOOTH_OFFLINE) {
       this.state.retry.criticalNotifiedAt = now;
-      this.setConnectionState(CONNECTION.CRITICAL_FAILURE, reason || "ble-disconnect");
+      this.state.retry.lastNotifiedErrorState = CONNECTION_STATES.BLUETOOTH_OFFLINE;
+      this.setConnectionState(CONNECTION.CRITICAL_FAILURE, CONNECTION_STATES.BLUETOOTH_OFFLINE);
       const delta = this.failureDelta(now);
       const minutes = Math.max(3, Math.floor(delta / 6e4));
-      this.triggerOfflineAlert(minutes);
+      this.triggerOfflineAlert(minutes, CONNECTION_STATES.BLUETOOTH_OFFLINE);
     }
     this.persistRetry();
     return true;
   },
   persistRetry() {
     this.state.retry = saveServiceState(this.state.retry);
+  },
+  getCriticalThresholdMs(intervalMinutes) {
+    const intervalMs = (Number(intervalMinutes) || 5) * 6e4;
+    return Math.max(intervalMs * 2, intervalMs + 15 * 6e4);
   },
   failureDelta(now) {
     const storedLastFetch = Number(localStorage.getItem("zightscout_last_fetch_at"));
@@ -273,15 +280,24 @@ AppService({
       deltaTime: this.failureDelta(Date.now())
     });
   },
-  triggerOfflineAlert(minutes) {
+  triggerOfflineAlert(minutes, errorState) {
     const snoozeUntil = getSnoozeUntil();
     if (snoozeUntil) {
       backgroundLog("CONNECTION_LOST_ALERT_SNOOZED", {
         minutes: minutes,
-        snoozeUntil: snoozeUntil
+        snoozeUntil: snoozeUntil,
+        errorState: errorState
       });
       return;
     }
+    const state = errorState || null;
+    try {
+      localStorage.setItem("zightscout_pending_offline_alert", JSON.stringify({
+        errorState: state,
+        minutes: minutes,
+        scheduledAt: Date.now()
+      }));
+    } catch (e) {}
     const alarmTime = Math.ceil(Date.now() / 1e3) + 1;
     const alarmId = setAlarm({
       url: "app-service/alert-service",
@@ -290,15 +306,17 @@ AppService({
       store: true,
       param: JSON.stringify({
         type: "CONNECTION_LOST",
-        minutes: minutes
+        minutes: minutes,
+        errorState: state
       })
     });
     backgroundLog(alarmId > 0 ? "CONNECTION_LOST_ALARM_SCHEDULED" : "CONNECTION_LOST_ALARM_FAILED", {
       minutes: minutes,
+      errorState: state,
       alarmId: alarmId
     });
   },
-  registerFailure(reason) {
+  registerFailure(reason, errorDetails) {
     const now = Date.now();
     const storedLastFetch = Number(localStorage.getItem("zightscout_last_fetch_at"));
     if (storedLastFetch > 0) {
@@ -308,17 +326,25 @@ AppService({
     }
     this.state.retry.retryCount += 1;
     const delta = this.failureDelta(now);
-    const isBleFailure = reason === "ble-disconnect" || reason === "ble-send-failed" || reason === "ble-port-unavailable" || this.isBluetoothDisconnected();
+    const s = loadSettings();
+    const criticalThresholdMs = this.getCriticalThresholdMs(s.backgroundInterval);
+    const isBleFailure = reason === CONNECTION_STATES.BLUETOOTH_OFFLINE || reason === "ble-disconnect" || reason === "ble-send-failed" || reason === "ble-port-unavailable" || this.isBluetoothDisconnected();
     if (isBleFailure) {
       this.checkBluetoothAlert(reason);
-    } else if (delta >= CRITICAL_AFTER_MS && !this.state.retry.criticalNotifiedAt) {
-      this.state.retry.criticalNotifiedAt = now;
-      this.setConnectionState(CONNECTION.CRITICAL_FAILURE, reason);
-      this.triggerOfflineAlert(Math.floor(delta / 6e4));
-    } else if (this.state.connectionState !== CONNECTION.CRITICAL_FAILURE) {
-      this.setConnectionState(CONNECTION.RETRY_PENDING, reason);
+    } else {
+      const errorState = errorDetails && errorDetails.connectionState || (typeof reason === "string" && reason.startsWith("NIGHTSCOUT_") ? reason : reason === "errAuth" ? CONNECTION_STATES.NIGHTSCOUT_AUTH_ERROR : reason === "errTimeout" || reason === "http-timeout" ? CONNECTION_STATES.NIGHTSCOUT_TIMEOUT : CONNECTION_STATES.NETWORK_OFFLINE);
+      const isConfirmedFailure = this.state.retry.retryCount >= 3 && delta >= criticalThresholdMs;
+      const stateChanged = this.state.retry.lastNotifiedErrorState && this.state.retry.lastNotifiedErrorState !== errorState;
+      if (isConfirmedFailure && (!this.state.retry.criticalNotifiedAt || stateChanged)) {
+        this.state.retry.criticalNotifiedAt = now;
+        this.state.retry.lastNotifiedErrorState = errorState;
+        this.setConnectionState(CONNECTION.CRITICAL_FAILURE, errorState);
+        const minutes = Math.max(3, Math.floor(delta / 6e4));
+        this.triggerOfflineAlert(minutes, errorState);
+      } else if (this.state.connectionState !== CONNECTION.CRITICAL_FAILURE) {
+        this.setConnectionState(CONNECTION.RETRY_PENDING, errorState);
+      }
     }
-    const s = loadSettings();
     if (!isBleFailure || !this.state.retry.nextRetryAt || this.state.retry.nextRetryAt <= now) {
       const delay = this.state.retry.retryCount === 1 || isBleFailure && this.state.retry.bleDisconnectAttempts < 3 ? 6e4 : (Number(s.backgroundInterval) || 5) * 6e4;
       this.state.retry.nextRetryAt = now + delay;
@@ -338,7 +364,22 @@ AppService({
   },
   registerSuccess(reading) {
     const ts = reading && reading.receivedAt ? Number(reading.receivedAt) : Date.now();
+    const wasCritical = !!(this.state.retry && this.state.retry.criticalNotifiedAt);
+    const prevErrorState = this.state.retry ? this.state.retry.lastNotifiedErrorState : null;
     this.state.retry = resetServiceState(ts);
+    try {
+      localStorage.removeItem("zightscout_pending_offline_alert");
+    } catch (e) {}
+    if (wasCritical) {
+      backgroundLog("CONNECTION_RECOVERED", {
+        timestamp: ts,
+        previousState: prevErrorState || "CRITICAL_FAILURE",
+        recoveredAfterDelta: this.failureDelta(ts)
+      });
+      try {
+        localStorage.setItem("zightscout_connection_recovered", String(ts));
+      } catch (e) {}
+    }
     this.setConnectionState(CONNECTION.IDLE, "response-success");
     backgroundLog("FETCH_SUCCESS", {
       timestamp: ts,
@@ -797,15 +838,21 @@ AppService({
         if (reading.error) {
           localStorage.removeItem("zightscout_ble_connecting");
           localStorage.removeItem("zightscout_http_validating");
+          const errorState = reading.connectionState || (reading.code === "errAuth" ? CONNECTION_STATES.NIGHTSCOUT_AUTH_ERROR : reading.code === "errTimeout" ? CONNECTION_STATES.NIGHTSCOUT_TIMEOUT : CONNECTION_STATES.NETWORK_OFFLINE);
           localStorage.setItem("zightscout_last_fetch_error", JSON.stringify({
             timestamp: Date.now(),
+            code: reading.code,
+            connectionState: errorState,
+            httpStatus: reading.httpStatus,
             message: String(reading.message || "Falha ao consultar o Nightscout")
           }));
           backgroundLog("FETCH_ERROR", {
             cycle: reading.backgroundCycle || "foreground",
-            message: reading.message
+            message: reading.message,
+            code: reading.code,
+            connectionState: errorState
           });
-          if (reading.backgroundCycle) this.registerFailure("phone-http-error");
+          if (reading.backgroundCycle) this.registerFailure(errorState, reading);
         } else if (reading.currentBG || reading.sgv !== undefined && reading.sgv !== null) {
           const receivedAt = Date.now();
           const currentBG = String(reading.currentBG || reading.sgv);
@@ -820,6 +867,9 @@ AppService({
           localStorage.removeItem("zightscout_ble_connecting");
           localStorage.removeItem("zightscout_http_validating");
           localStorage.removeItem("zightscout_ble_last_disconnect");
+          try {
+            localStorage.removeItem("zightscout_pending_offline_alert");
+          } catch (e) {}
           this.registerSuccess(normalizedReading);
           scheduleInitialAlert(normalizedReading);
         }
