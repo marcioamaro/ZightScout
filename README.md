@@ -13,7 +13,7 @@
 [![Version](https://img.shields.io/badge/version-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
 [![License](https://img.shields.io/badge/license-Non--Commercial-orange?style=for-the-badge)](LICENSE)
-[![Families](https://img.shields.io/badge/families-8%20Amazfit-purple?style=for-the-badge)](#supported-smartwatches-en)
+[![Models](https://img.shields.io/badge/models-22%20Amazfit-purple?style=for-the-badge)](#supported-smartwatches-en)
 [![Languages](https://img.shields.io/badge/languages-34-red?style=for-the-badge)](#supported-languages-en)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
 [![Contact](https://img.shields.io/badge/Contact-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
@@ -75,8 +75,8 @@ Your Nightscout authentication token is **never stored on the watch**. It remain
 ### 🌍 34 native languages
 ZightScout speaks your language! Full native translation into **34 languages**, including Arabic, Hebrew (with bidirectional RTL layout), Thai, Hindi, and more.
 
-### 📱 8 Amazfit smartwatch families
-Fully compatible with 8 Amazfit smartwatch families running Zepp OS 3.0+ and all their regional variants.
+### 📱 22 Amazfit smartwatch models
+Fully compatible with 22 Amazfit smartwatch models running Zepp OS 3.0+ and all their regional variants (including Amazfit Active 2 Round, Square and NFC, GTS 4, GTR 4, Balance, T-Rex 3, Cheetah, and more).
 
 ---
 
@@ -251,20 +251,34 @@ After installation, ZightScout assists you with a setup wizard:
 ---
 
 <a name="supported-smartwatches-en"></a>
-## 📱 Supported Smartwatches
+## 📱 Supported Smartwatch Models (22 models)
 
-ZightScout is compatible with **8 Amazfit smartwatch families** and their variants:
+ZightScout is compatible with **22 Amazfit smartwatch models** running Zepp OS 3.0+ with high-resolution displays (covering 80 regional variants):
 
-- **Amazfit Active** (and variants)
-- **Amazfit Balance** (and variants)
-- **Amazfit Cheetah** (and variants)
-- **Amazfit Falcon** (and variants)
-- **Amazfit GTR** (and variants)
-- **Amazfit GTS** (and variants)
-- **Amazfit T-Rex** (and variants)
-- **Amazfit Bip** (and variants)
+1. **Amazfit Active 2 (Round)**
+2. **Amazfit Active 2 (Square)**
+3. **Amazfit Active 2 (NFC)**
+4. **Amazfit Active**
+5. **Amazfit Active Max**
+6. **Amazfit Active 3 Premium**
+7. **Amazfit Balance**
+8. **Amazfit Balance 2**
+9. **Amazfit Balance 2 XT**
+10. **Amazfit Balance Ultra**
+11. **Amazfit Balance 3** (and Balance 3 Ti)
+12. **Amazfit Cheetah (Round)**
+13. **Amazfit Cheetah (Square)**
+14. **Amazfit Cheetah Pro**
+15. **Amazfit Cheetah 2 Pro** (and Cheetah 2 Ultra)
+16. **Amazfit Falcon**
+17. **Amazfit GTR 4** (and GTR 4 Limited Edition)
+18. **Amazfit GTS 4**
+19. **Amazfit T-Rex 3**
+20. **Amazfit T-Rex 3 Pro** (44mm & 48mm)
+21. **Amazfit T-Rex Ultra** (and T-Rex Ultra 2 / Dual Solar)
+22. **Amazfit Bip 6** (and Bip Max)
 
-> Supports devices running Zepp OS 3.0+ with high-resolution displays. Low-resolution displays (< 390×400 px) are excluded to preserve visual precision and data readability.
+> Supports devices running Zepp OS 3.0+ with high-resolution displays. Low-resolution displays (< 390×400 px) are excluded to preserve visual precision and medical data readability.
 
 ---
 
@@ -348,7 +362,7 @@ Made with ❤️ by diabetics, for diabetics.
 [![Versão](https://img.shields.io/badge/versão-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
 [![Licença](https://img.shields.io/badge/licença-Não--Comercial-orange?style=for-the-badge)](LICENSE)
-[![Famílias](https://img.shields.io/badge/fam%C3%ADlias-8%20Amazfit-purple?style=for-the-badge)](#smartwatches-suportados-pt)
+[![Modelos](https://img.shields.io/badge/modelos-22%20Amazfit-purple?style=for-the-badge)](#smartwatches-suportados-pt)
 [![Idiomas](https://img.shields.io/badge/idiomas-34-red?style=for-the-badge)](#idiomas-suportados-pt)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
 [![Contato](https://img.shields.io/badge/Contato-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
@@ -410,8 +424,8 @@ O token de autenticação do Nightscout **nunca é armazenado no relógio**. Ele
 ### 🌍 34 idiomas nativos
 O ZightScout fala a sua língua! Suporte nativo a **34 idiomas** incluindo Árabe, Hebraico (com layout RTL), Tailandês, Hindi, e muito mais.
 
-### 📱 8 famílias de smartwatches Amazfit
-Compatível com 8 famílias completas de smartwatches Amazfit com Zepp OS 3.0+ e todas as suas variantes.
+### 📱 22 modelos de smartwatches Amazfit
+Compatível com 22 modelos de smartwatches Amazfit com Zepp OS 3.0+ e todas as suas variantes regionais (incluindo Amazfit Active 2 Round, Square e NFC, GTS 4, GTR 4, Balance, T-Rex 3, Cheetah e outros).
 
 ---
 
@@ -586,20 +600,34 @@ Após instalar, o ZightScout vai guiar você pela configuração:
 ---
 
 <a name="smartwatches-suportados-pt"></a>
-## 📱 Smartwatches suportados
+## 📱 Modelos de Smartwatches Compatíveis (22 modelos)
 
-O ZightScout é compatível com **8 famílias de smartwatches Amazfit** e suas respectivas variantes:
+O ZightScout é compatível com **22 modelos de smartwatches Amazfit** com Zepp OS 3.0+ e tela de alta resolução (cobrindo 80 variantes regionais):
 
-- **Amazfit Active** (e variantes)
-- **Amazfit Balance** (e variantes)
-- **Amazfit Cheetah** (e variantes)
-- **Amazfit Falcon** (e variantes)
-- **Amazfit GTR** (e variantes)
-- **Amazfit GTS** (e variantes)
-- **Amazfit T-Rex** (e variantes)
-- **Amazfit Bip** (e variantes)
+1. **Amazfit Active 2 (Round)**
+2. **Amazfit Active 2 (Square)**
+3. **Amazfit Active 2 (NFC)**
+4. **Amazfit Active**
+5. **Amazfit Active Max**
+6. **Amazfit Active 3 Premium**
+7. **Amazfit Balance**
+8. **Amazfit Balance 2**
+9. **Amazfit Balance 2 XT**
+10. **Amazfit Balance Ultra**
+11. **Amazfit Balance 3** (e Balance 3 Ti)
+12. **Amazfit Cheetah (Round)**
+13. **Amazfit Cheetah (Square)**
+14. **Amazfit Cheetah Pro**
+15. **Amazfit Cheetah 2 Pro** (e Cheetah 2 Ultra)
+16. **Amazfit Falcon**
+17. **Amazfit GTR 4** (e GTR 4 Limited Edition)
+18. **Amazfit GTS 4**
+19. **Amazfit T-Rex 3**
+20. **Amazfit T-Rex 3 Pro** (44mm e 48mm)
+21. **Amazfit T-Rex Ultra** (e T-Rex Ultra 2 / Dual Solar)
+22. **Amazfit Bip 6** (e Bip Max)
 
-> Suporta as versões com Zepp OS 3.0+ e tela de alta resolução. Modelos com resolução reduzida (< 390×400 px) não são suportados para preservar a clareza e legibilidade dos dados.
+> Suporta as versões com Zepp OS 3.0+ e tela de alta resolução. Modelos com resolução reduzida (< 390×400 px) não são suportados para preservar a clareza e legibilidade dos dados médicos.
 
 ---
 
@@ -683,7 +711,7 @@ Feito com ❤️ por diabéticos, para diabéticos.
 [![Versión](https://img.shields.io/badge/versión-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
 [![Licencia](https://img.shields.io/badge/licencia-No--Comercial-orange?style=for-the-badge)](LICENSE)
-[![Familias](https://img.shields.io/badge/familias-8%20Amazfit-purple?style=for-the-badge)](#smartwatches-compatibles-es)
+[![Modelos](https://img.shields.io/badge/modelos-22%20Amazfit-purple?style=for-the-badge)](#smartwatches-compatibles-es)
 [![Idiomas](https://img.shields.io/badge/idiomas-34-red?style=for-the-badge)](#idiomas-compatibles-es)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
 [![Contacto](https://img.shields.io/badge/Contacto-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
@@ -745,8 +773,8 @@ El token de autenticación **nunca se almacena en el reloj**, permanece a salvo 
 ### 🌍 34 idiomas nativos
 ¡ZightScout habla tu idioma! Traducido a **34 idiomas**, con soporte completo para hebreo y árabe (diseño RTL).
 
-### 📱 8 familias de smartwatches Amazfit
-Compatible con 8 familias de relojes Amazfit con Zepp OS 3.0+ y todas sus variantes.
+### 📱 22 modelos de smartwatches Amazfit
+Compatible con 22 modelos de relojes Amazfit con Zepp OS 3.0+ y todas sus variantes regionales (incluyendo Amazfit Active 2 Round, Square y NFC, GTS 4, GTR 4, Balance, T-Rex 3, Cheetah y más).
 
 ---
 
@@ -831,17 +859,32 @@ install -t "Amazfit Active 2 (Round)"
 ---
 
 <a name="smartwatches-compatibles-es"></a>
-## 📱 Smartwatches compatibles
+## 📱 Modelos de Smartwatches Compatibles (22 modelos)
 
-Compatible con **8 familias de smartwatches Amazfit** y sus variantes:
-- **Amazfit Active** (y variantes)
-- **Amazfit Balance** (y variantes)
-- **Amazfit Cheetah** (y variantes)
-- **Amazfit Falcon** (y variantes)
-- **Amazfit GTR** (y variantes)
-- **Amazfit GTS** (y variantes)
-- **Amazfit T-Rex** (y variantes)
-- **Amazfit Bip** (y variantes)
+ZightScout es compatible con **22 modelos de smartwatches Amazfit** con Zepp OS 3.0+ y pantallas de alta resolución (cubriendo 80 variantes regionales):
+
+1. **Amazfit Active 2 (Round)**
+2. **Amazfit Active 2 (Square)**
+3. **Amazfit Active 2 (NFC)**
+4. **Amazfit Active**
+5. **Amazfit Active Max**
+6. **Amazfit Active 3 Premium**
+7. **Amazfit Balance**
+8. **Amazfit Balance 2**
+9. **Amazfit Balance 2 XT**
+10. **Amazfit Balance Ultra**
+11. **Amazfit Balance 3** (y Balance 3 Ti)
+12. **Amazfit Cheetah (Round)**
+13. **Amazfit Cheetah (Square)**
+14. **Amazfit Cheetah Pro**
+15. **Amazfit Cheetah 2 Pro** (y Cheetah 2 Ultra)
+16. **Amazfit Falcon**
+17. **Amazfit GTR 4** (y GTR 4 Limited Edition)
+18. **Amazfit GTS 4**
+19. **Amazfit T-Rex 3**
+20. **Amazfit T-Rex 3 Pro** (44mm y 48mm)
+21. **Amazfit T-Rex Ultra** (y T-Rex Ultra 2 / Dual Solar)
+22. **Amazfit Bip 6** (y Bip Max)
 
 > Compatible con versiones con Zepp OS 3.0+ y pantallas de alta resolución.
 
@@ -900,7 +943,7 @@ Hecho con ❤️ por personas con diabetes, para personas con diabetes.
 [![Version](https://img.shields.io/badge/version-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
 [![Licence](https://img.shields.io/badge/licence-Non--Commercial-orange?style=for-the-badge)](LICENSE)
-[![Familles](https://img.shields.io/badge/familles-8%20Amazfit-purple?style=for-the-badge)](#montres-compatibles-fr)
+[![Modèles](https://img.shields.io/badge/modèles-22%20Amazfit-purple?style=for-the-badge)](#montres-compatibles-fr)
 [![Langues](https://img.shields.io/badge/langues-34-red?style=for-the-badge)](#langues-compatibles-fr)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
 [![Contact](https://img.shields.io/badge/Contact-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
@@ -958,8 +1001,8 @@ Courbe visuelle des 12 dernières heures directement sur la montre (échelle fix
 ### 🔒 Sécurité et confidentialité
 Le token d'authentification **reste exclusivement sur votre smartphone**. Chiffrement HTTPS obligatoire.
 
-### 📱 8 familles de montres Amazfit
-Compatible avec 8 familles de montres Amazfit sous Zepp OS 3.0+ et toutes leurs variantes.
+### 📱 22 modèles de montres connectées Amazfit
+Compatible avec 22 modèles de montres Amazfit sous Zepp OS 3.0+ et toutes leurs variantes régionales (incluant Amazfit Active 2 Round, Square et NFC, GTS 4, GTR 4, Balance, T-Rex 3, Cheetah, etc.).
 
 ---
 
@@ -1001,17 +1044,32 @@ Depuis l'application **Zepp** : activez le Mode Développeur dans Profil → Par
 ---
 
 <a name="montres-compatibles-fr"></a>
-## 📱 Montres connectées compatibles
+## 📱 Modèles de Montres Connectées Compatibles (22 modèles)
 
-Compatible avec **8 familles de montres Amazfit** et leurs variantes :
-- **Amazfit Active** (et variantes)
-- **Amazfit Balance** (et variantes)
-- **Amazfit Cheetah** (et variantes)
-- **Amazfit Falcon** (et variantes)
-- **Amazfit GTR** (et variantes)
-- **Amazfit GTS** (et variantes)
-- **Amazfit T-Rex** (et variantes)
-- **Amazfit Bip** (et variantes)
+ZightScout est compatible avec **22 modèles de montres Amazfit** sous Zepp OS 3.0+ avec écran haute résolution (couvrant 80 variantes régionales) :
+
+1. **Amazfit Active 2 (Round)**
+2. **Amazfit Active 2 (Square)**
+3. **Amazfit Active 2 (NFC)**
+4. **Amazfit Active**
+5. **Amazfit Active Max**
+6. **Amazfit Active 3 Premium**
+7. **Amazfit Balance**
+8. **Amazfit Balance 2**
+9. **Amazfit Balance 2 XT**
+10. **Amazfit Balance Ultra**
+11. **Amazfit Balance 3** (et Balance 3 Ti)
+12. **Amazfit Cheetah (Round)**
+13. **Amazfit Cheetah (Square)**
+14. **Amazfit Cheetah Pro**
+15. **Amazfit Cheetah 2 Pro** (et Cheetah 2 Ultra)
+16. **Amazfit Falcon**
+17. **Amazfit GTR 4** (et GTR 4 Limited Edition)
+18. **Amazfit GTS 4**
+19. **Amazfit T-Rex 3**
+20. **Amazfit T-Rex 3 Pro** (44mm & 48mm)
+21. **Amazfit T-Rex Ultra** (et T-Rex Ultra 2 / Dual Solar)
+22. **Amazfit Bip 6** (et Bip Max)
 
 ---
 
@@ -1059,7 +1117,7 @@ Créé avec ❤️ par des personnes diabétiques, pour des personnes diabétiqu
 [![Version](https://img.shields.io/badge/Version-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
 [![Lizenz](https://img.shields.io/badge/Lizenz-Nicht--Kommerziell-orange?style=for-the-badge)](LICENSE)
-[![Familien](https://img.shields.io/badge/Familien-8%20Amazfit-purple?style=for-the-badge)](#unterstuetzte-smartwatches-de)
+[![Modelle](https://img.shields.io/badge/Modelle-22%20Amazfit-purple?style=for-the-badge)](#unterstuetzte-smartwatches-de)
 [![Sprachen](https://img.shields.io/badge/Sprachen-34-red?style=for-the-badge)](#unterstuetzte-sprachen-de)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
 [![Kontakt](https://img.shields.io/badge/Kontakt-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
@@ -1117,8 +1175,8 @@ Grafische Visualisierung der letzten 12 Stunden auf einer festen Skala von 40–
 ### 🔒 Sicherheit & Datenschutz
 Ihr Nightscout-Token wird **ausschließlich auf dem Smartphone** gespeichert und gelangt niemals auf die Uhr. HTTPS ist zwingend erforderlich.
 
-### 📱 8 Amazfit Smartwatch-Familien
-Kompatibel mit 8 Amazfit-Familien mit Zepp OS 3.0+ sowie sämtlichen Varianten.
+### 📱 22 Amazfit Smartwatch-Modelle
+Kompatibel mit 22 Amazfit-Modellen mit Zepp OS 3.0+ und allen regionalen Varianten (einschließlich Amazfit Active 2 Round, Square und NFC, GTS 4, GTR 4, Balance, T-Rex 3, Cheetah und weiteren).
 
 ---
 
@@ -1160,17 +1218,32 @@ In der **Zepp-App**: Entwicklermodus aktivieren (Profil → Einstellungen → Ü
 ---
 
 <a name="unterstuetzte-smartwatches-de"></a>
-## 📱 Unterstützte Smartwatches
+## 📱 Unterstützte Smartwatch-Modelle (22 Modelle)
 
-Kompatibel mit **8 Amazfit-Smartwatch-Familien** und ihren Varianten:
-- **Amazfit Active** (und Varianten)
-- **Amazfit Balance** (und Varianten)
-- **Amazfit Cheetah** (und Varianten)
-- **Amazfit Falcon** (und Varianten)
-- **Amazfit GTR** (und Varianten)
-- **Amazfit GTS** (und Varianten)
-- **Amazfit T-Rex** (und Varianten)
-- **Amazfit Bip** (und Varianten)
+ZightScout ist kompatibel mit **22 Amazfit Smartwatch-Modellen** mit Zepp OS 3.0+ und hochauflösendem Display (deckt 80 regionale Varianten ab):
+
+1. **Amazfit Active 2 (Round)**
+2. **Amazfit Active 2 (Square)**
+3. **Amazfit Active 2 (NFC)**
+4. **Amazfit Active**
+5. **Amazfit Active Max**
+6. **Amazfit Active 3 Premium**
+7. **Amazfit Balance**
+8. **Amazfit Balance 2**
+9. **Amazfit Balance 2 XT**
+10. **Amazfit Balance Ultra**
+11. **Amazfit Balance 3** (und Balance 3 Ti)
+12. **Amazfit Cheetah (Round)**
+13. **Amazfit Cheetah (Square)**
+14. **Amazfit Cheetah Pro**
+15. **Amazfit Cheetah 2 Pro** (und Cheetah 2 Ultra)
+16. **Amazfit Falcon**
+17. **Amazfit GTR 4** (und GTR 4 Limited Edition)
+18. **Amazfit GTS 4**
+19. **Amazfit T-Rex 3**
+20. **Amazfit T-Rex 3 Pro** (44mm & 48mm)
+21. **Amazfit T-Rex Ultra** (und T-Rex Ultra 2 / Dual Solar)
+22. **Amazfit Bip 6** (und Bip Max)
 
 ---
 
@@ -1218,7 +1291,7 @@ Mit ❤️ von Diabetikern für Diabetiker entwickelt.
 [![版本](https://img.shields.io/badge/版本-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
 [![许可证](https://img.shields.io/badge/许可证-仅供个人与非商业使用-orange?style=for-the-badge)](LICENSE)
-[![手表系列](https://img.shields.io/badge/系列-8款Amazfit系列-purple?style=for-the-badge)](#支持的智能手表-zh)
+[![适配机型](https://img.shields.io/badge/机型-22款Amazfit-purple?style=for-the-badge)](#支持的智能手表-zh)
 [![支持语言](https://img.shields.io/badge/语言-34种-red?style=for-the-badge)](#支持的语言-zh)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
 [![联系邮箱](https://img.shields.io/badge/联系邮箱-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
@@ -1276,8 +1349,8 @@ Mit ❤️ von Diabetikern für Diabetiker entwickelt.
 ### 🔒 严谨的隐私与数据安全
 Nightscout 访问令牌 **仅保存在手机端 Zepp App 中**，绝不传输或储存在手表硬件存储中。全程强制采用 HTTPS 加密连接。
 
-### 📱 8 大 Amazfit 智能手表家族
-全面支持搭载 Zepp OS 3.0+ 的 8 大 Amazfit 系列及其全部区域型号。
+### 📱 22 款 Amazfit 智能手表机型
+全面支持搭载 Zepp OS 3.0+ 的 22 款 Amazfit 智能手表及其全部区域衍生版本（包括 Amazfit Active 2 Round、Square、NFC 版、GTS 4、GTR 4、Balance、T-Rex 3、Cheetah 等）。
 
 ---
 
@@ -1326,17 +1399,32 @@ zeus preview
 ---
 
 <a name="支持的智能手表-zh"></a>
-## 📱 支持的智能手表
+## 📱 适配的智能手表型号（22款机型）
 
-支持以下 **8 大 Amazfit 智能手表系列** 及其所有衍生型号：
-- **Amazfit Active** 系列（及所有衍生版本）
-- **Amazfit Balance** 系列（及所有衍生版本）
-- **Amazfit Cheetah** 系列（及所有衍生版本）
-- **Amazfit Falcon** 系列（及所有衍生版本）
-- **Amazfit GTR** 系列（及所有衍生版本）
-- **Amazfit GTS** 系列（及所有衍生版本）
-- **Amazfit T-Rex** 系列（及所有衍生版本）
-- **Amazfit Bip** 系列（及所有衍生版本）
+ZightScout 支持搭载 Zepp OS 3.0+ 高清屏幕的 **22 款 Amazfit 智能手表机型**（覆盖 80 款区域衍生版本）：
+
+1. **Amazfit Active 2 (Round 圆形版)**
+2. **Amazfit Active 2 (Square 方形版)**
+3. **Amazfit Active 2 (NFC 版)**
+4. **Amazfit Active**
+5. **Amazfit Active Max**
+6. **Amazfit Active 3 Premium**
+7. **Amazfit Balance**
+8. **Amazfit Balance 2**
+9. **Amazfit Balance 2 XT**
+10. **Amazfit Balance Ultra**
+11. **Amazfit Balance 3**（及 Balance 3 Ti）
+12. **Amazfit Cheetah (Round)**
+13. **Amazfit Cheetah (Square)**
+14. **Amazfit Cheetah Pro**
+15. **Amazfit Cheetah 2 Pro**（及 Cheetah 2 Ultra）
+16. **Amazfit Falcon**
+17. **Amazfit GTR 4**（及 GTR 4 限量版）
+18. **Amazfit GTS 4**
+19. **Amazfit T-Rex 3**
+20. **Amazfit T-Rex 3 Pro**（44mm 与 48mm）
+21. **Amazfit T-Rex Ultra**（及 T-Rex Ultra 2 / 双太阳能版）
+22. **Amazfit Bip 6**（及 Bip Max）
 
 ---
 
@@ -1384,7 +1472,7 @@ zeus preview
 [![バージョン](https://img.shields.io/badge/バージョン-3.0.61-blue?style=for-the-badge)](https://github.com/marcioamaro/ZightScout)
 [![Zepp OS](https://img.shields.io/badge/Zepp_OS-3.0%2B-green?style=for-the-badge)](https://docs.zepp.com/)
 [![ライセンス](https://img.shields.io/badge/ライセンス-個人利用・非商用-orange?style=for-the-badge)](LICENSE)
-[![ファミリー](https://img.shields.io/badge/シリーズ-8大Amazfitシリーズ-purple?style=for-the-badge)](#対応スマートウォッチ-ja)
+[![対応モデル](https://img.shields.io/badge/対応モデル-22モデルAmazfit-purple?style=for-the-badge)](#対応スマートウォッチ-ja)
 [![言語](https://img.shields.io/badge/対応言語-34言語-red?style=for-the-badge)](#対応言語-ja)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcioamaro)
 [![連絡先](https://img.shields.io/badge/連絡先-zightscout%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zightscout@gmail.com)
@@ -1442,8 +1530,8 @@ zeus preview
 ### 🔒 万全のプライバシーとセキュリティ
 Nightscout のアクセス認証トークンは**スマートフォンの Zepp アプリ内にのみ安全に保持**され、ウォッチ本体には保存されません。HTTPS 通信が必須です。
 
-### 📱 8大 Amazfit シリーズに対応
-Zepp OS 3.0+ を搭載した 8 大 Amazfit スマートウォッチシリーズとすべての派生モデルに対応。
+### 📱 22の Amazfit スマートウォッチモデルに対応
+Zepp OS 3.0+ を搭載した 22 の Amazfit スマートウォッチモデルおよび全地域派生版に対応（Amazfit Active 2 Round、Square、NFC、GTS 4、GTR 4、Balance、T-Rex 3、Cheetah など）。
 
 ---
 
@@ -1485,17 +1573,32 @@ zeus preview
 ---
 
 <a name="対応スマートウォッチ-ja"></a>
-## 📱 対応スマートウォッチ
+## 📱 対応スマートウォッチモデル（22モデル）
 
-以下の **8大 Amazfit シリーズ** および各派生モデルに対応しています：
-- **Amazfit Active** シリーズ（および派生モデル）
-- **Amazfit Balance** シリーズ（および派生モデル）
-- **Amazfit Cheetah** シリーズ（および派生モデル）
-- **Amazfit Falcon** シリーズ（および派生モデル）
-- **Amazfit GTR** シリーズ（および派生モデル）
-- **Amazfit GTS** シリーズ（および派生モデル）
-- **Amazfit T-Rex** シリーズ（および派生モデル）
-- **Amazfit Bip** シリーズ（および派生モデル）
+ZightScout は、Zepp OS 3.0+ を搭載した高解像度ディスプレイの **22の Amazfit スマートウォッチモデル** に対応しています（80の地域別バリエーションをカバー）：
+
+1. **Amazfit Active 2 (Round ラウンド版)**
+2. **Amazfit Active 2 (Square スクエア版)**
+3. **Amazfit Active 2 (NFC 版)**
+4. **Amazfit Active**
+5. **Amazfit Active Max**
+6. **Amazfit Active 3 Premium**
+7. **Amazfit Balance**
+8. **Amazfit Balance 2**
+9. **Amazfit Balance 2 XT**
+10. **Amazfit Balance Ultra**
+11. **Amazfit Balance 3**（および Balance 3 Ti）
+12. **Amazfit Cheetah (Round)**
+13. **Amazfit Cheetah (Square)**
+14. **Amazfit Cheetah Pro**
+15. **Amazfit Cheetah 2 Pro**（および Cheetah 2 Ultra）
+16. **Amazfit Falcon**
+17. **Amazfit GTR 4**（および GTR 4 Limited Edition）
+18. **Amazfit GTS 4**
+19. **Amazfit T-Rex 3**
+20. **Amazfit T-Rex 3 Pro**（44mm & 48mm）
+21. **Amazfit T-Rex Ultra**（および T-Rex Ultra 2 / Dual Solar）
+22. **Amazfit Bip 6**（および Bip Max）
 
 ---
 
