@@ -341,7 +341,7 @@ See the [LICENSE](LICENSE) file for complete legal terms.
 Made with ❤️ by diabetics, for diabetics.  
 **ZightScout** — because every reading matters.
 
-[⭐ Star on GitHub](https://github.com/marcioamaro/ZightScout) · [🐛 Report a Bug](https://github.com/marcioamaro/ZightScout/issues) · [💡 Suggest a Feature](https://github.com/marcioamaro/ZightScout/issues)
+[⭐ Star on GitHub](https://github.com/marcioamaro/ZightScout)
 
 </div>
 
@@ -690,7 +690,7 @@ Consulte o arquivo [LICENSE](LICENSE) para o texto legal completo.
 Feito com ❤️ por diabéticos, para diabéticos.  
 **ZightScout** — porque cada leitura importa.
 
-[⭐ Dê uma estrela no GitHub](https://github.com/marcioamaro/ZightScout) · [🐛 Reportar um bug](https://github.com/marcioamaro/ZightScout/issues) · [💡 Sugerir uma ideia](https://github.com/marcioamaro/ZightScout/issues)
+[⭐ Dê uma estrela no GitHub](https://github.com/marcioamaro/ZightScout)
 
 </div>
 
